@@ -16378,6 +16378,12 @@
             "url": "https://github.com/gee1k/uPic",
             "description": "macOS native app, powerful terse image hosting client.",
             "tags": []
+          },
+          {
+            "name": "Zipic",
+            "url": "https://zipic.app/",
+            "description": "Batch image compression with custom presets, automated workflows, and integrations with Shortcuts and Raycast.",
+            "tags": []
           }
         ]
       },
@@ -16472,6 +16478,12 @@
             "name": "MiniClaw",
             "url": "https://miniclaw.bot",
             "description": "macOS-native personal AI OS with 16 plugins, persistent vector memory, and multi-agent routing. Local-first, one-line install.",
+            "tags": []
+          },
+          {
+            "name": "Orchard",
+            "url": "https://orchard.5km.tech/",
+            "description": "MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.",
             "tags": []
           },
           {
@@ -18333,6 +18345,12 @@
             "tags": []
           },
           {
+            "name": "Claude Usage Monitor",
+            "url": "https://github.com/theDanButuc/Claude-Usage-Monitor",
+            "description": "Menu bar tool for tracking Claude usage with a live counter.",
+            "tags": []
+          },
+          {
             "name": "CodexBar",
             "url": "https://codexbar.app",
             "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
@@ -18653,6 +18671,12 @@
             "name": "AppCleaner",
             "url": "http://freemacsoft.net/appcleaner/",
             "description": "Thoroughly uninstall apps.",
+            "tags": []
+          },
+          {
+            "name": "App Uninstaller",
+            "url": "https://github.com/kamjin3086/AppUninstaller",
+            "description": "Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI.",
             "tags": []
           },
           {
@@ -59830,6 +59854,12 @@
         "name": "Development tools",
         "resources": [
           {
+            "name": "antinomyhq/forgecode",
+            "url": "https://github.com/antinomyhq/forgecode",
+            "description": "A terminal-based AI pair programmer for code generation and editing.",
+            "tags": []
+          },
+          {
             "name": "armgabrielyan/deadbranch",
             "url": "https://github.com/armgabrielyan/deadbranch",
             "description": "[ deadbranch ] - Clean up stale git branches safely",
@@ -59926,15 +59956,15 @@
             "tags": []
           },
           {
-            "name": "Flox",
-            "url": "https://github.com/flox/flox",
-            "description": "Flox is a virtual environment and package manager all in one.",
+            "name": "Feel-ix-343/markdown-oxide",
+            "url": "https://github.com/Feel-ix-343/markdown-oxide",
+            "description": "A PKM Markdown Language Server supporting Obsidian-style wikilinks, backlinks, and daily notes for Neovim, VSCode, Zed, Helix, and Kakoune",
             "tags": []
           },
           {
-            "name": "Forge",
-            "url": "https://github.com/antinomyhq/forge",
-            "description": "A terminal-based AI pair programmer for code generation and editing.",
+            "name": "Flox",
+            "url": "https://github.com/flox/flox",
+            "description": "Flox is a virtual environment and package manager all in one.",
             "tags": []
           },
           {
@@ -60007,6 +60037,12 @@
             "name": "mask",
             "url": "https://github.com/jacobdeichert/mask",
             "description": "A CLI task runner defined by a simple markdown file",
+            "tags": []
+          },
+          {
+            "name": "mise",
+            "url": "https://github.com/jdx/mise",
+            "description": "[ mise ] - Polyglot tool version manager and task runner; drop-in replacement for asdf with faster performance.",
             "tags": []
           },
           {
