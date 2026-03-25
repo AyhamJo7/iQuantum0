@@ -24815,6 +24815,12 @@
             "tags": []
           },
           {
+            "name": "go-lua",
+            "url": "https://github.com/speedata/go-lua",
+            "description": "Lua 5.4 VM implemented in pure Go.",
+            "tags": []
+          },
+          {
             "name": "go-php",
             "url": "https://github.com/deuill/go-php",
             "description": "PHP bindings for Go.",
@@ -25110,6 +25116,12 @@
             "name": "gut/yos",
             "url": "https://github.com/1set/gut",
             "description": "Simple and reliable package for file operations like copy/move/diff/list on files, directories and symbolic links.",
+            "tags": []
+          },
+          {
+            "name": "gxpdf",
+            "url": "https://github.com/coregx/gxpdf",
+            "description": "Modern full-lifecycle PDF library for Go \u2014 parse, extract tables, generate, and sign documents with zero CGO dependencies.",
             "tags": []
           },
           {
@@ -31200,15 +31212,15 @@
         "name": "Template Engines",
         "resources": [
           {
-            "name": "ego",
-            "url": "https://github.com/benbjohnson/ego",
-            "description": "Lightweight templating language that lets you write templates in Go. Templates are translated into Go and compiled.",
+            "name": "bagme",
+            "url": "https://github.com/boxesandglue/bagme",
+            "description": "HTML/CSS to PDF rendering with TeX-quality typesetting in pure Go.",
             "tags": []
           },
           {
-            "name": "extemplate",
-            "url": "https://git.sr.ht/~dvko/extemplate",
-            "description": "Tiny wrapper around html/template to allow for easy file-based template inheritance.",
+            "name": "ego",
+            "url": "https://github.com/benbjohnson/ego",
+            "description": "Lightweight templating language that lets you write templates in Go. Templates are translated into Go and compiled.",
             "tags": []
           },
           {
@@ -75067,21 +75079,9 @@
             "tags": []
           },
           {
-            "name": "instructor",
-            "url": "https://github.com/567-labs/instructor",
-            "description": "A library for extracting structured data from LLMs, powered by Pydantic.",
-            "tags": []
-          },
-          {
             "name": "langchain",
             "url": "https://github.com/langchain-ai/langchain",
             "description": "Building applications with LLMs through composability.",
-            "tags": []
-          },
-          {
-            "name": "llama_index",
-            "url": "https://github.com/run-llama/llama_index",
-            "description": "A data framework for your LLM application.",
             "tags": []
           },
           {
@@ -75091,15 +75091,33 @@
             "tags": []
           },
           {
+            "name": "instructor",
+            "url": "https://github.com/567-labs/instructor",
+            "description": "A library for extracting structured data from LLMs, powered by Pydantic.",
+            "tags": []
+          },
+          {
+            "name": "llama-index",
+            "url": "https://github.com/run-llama/llama_index",
+            "description": "A data framework for your LLM application.",
+            "tags": []
+          },
+          {
+            "name": "mem0",
+            "url": "https://github.com/mem0ai/mem0",
+            "description": "An intelligent memory layer for AI agents enabling personalized interactions.",
+            "tags": []
+          },
+          {
             "name": "diffusers",
             "url": "https://github.com/huggingface/diffusers",
-            "description": "A library that provides pretrained diffusion models for generating and editing images, audio, and video.",
+            "description": "A library that provides pre-trained diffusion models for generating and editing images, audio, and video.",
             "tags": []
           },
           {
             "name": "transformers",
             "url": "https://github.com/huggingface/transformers",
-            "description": "A framework that lets you easily use pretrained transformer models for NLP, vision, and audio tasks.",
+            "description": "A framework that lets you easily use pre-trained transformer models for NLP, vision, and audio tasks.",
             "tags": []
           },
           {
