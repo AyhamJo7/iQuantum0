@@ -7725,7 +7725,7 @@
           },
           {
             "name": "WikiDocs",
-            "url": "http://wikidocs.it",
+            "url": "https://www.wikidocs.app/",
             "description": "A databaseless markdown flat-file wiki engine. ( Source Code ) MIT PHP/Docker",
             "tags": []
           },
@@ -8837,6 +8837,12 @@
             "tags": []
           },
           {
+            "name": "Ecotone",
+            "url": "https://docs.ecotone.tech/",
+            "description": "A Service Bus for PHP based on architectural principles of DDD CQRS and Event Sourcing.",
+            "tags": []
+          },
+          {
             "name": "Laravel",
             "url": "https://laravel.com/",
             "description": "A web application framework with expressive, elegant syntax.",
@@ -8970,6 +8976,12 @@
             "name": "Pico CMS",
             "url": "https://picocms.org/",
             "description": "A stupidly simple, blazing fast, flat file CMS.",
+            "tags": []
+          },
+          {
+            "name": "Silverstripe",
+            "url": "https://silverstripe.org",
+            "description": "A simple, flexible, and secure CMS.",
             "tags": []
           },
           {
@@ -9189,6 +9201,12 @@
         "name": "Static Site Generators",
         "resources": [
           {
+            "name": "Cecil",
+            "url": "https://cecil.app/",
+            "description": "A simple and powerful content-driven static site generator.",
+            "tags": []
+          },
+          {
             "name": "Couscous",
             "url": "http://couscous.io",
             "description": "Couscous turns Markdown documentation into beautiful websites. It's GitHub Pages on steroids.",
@@ -9373,6 +9391,12 @@
             "name": "CssToInlineStyles",
             "url": "https://github.com/tijsverkoyen/CssToInlineStyles",
             "description": "A library to inline CSS in email templates.",
+            "tags": []
+          },
+          {
+            "name": "ddeboer/imap",
+            "url": "https://github.com/ddeboer/imap",
+            "description": "Object-oriented, fully tested PHP IMAP library.",
             "tags": []
           },
           {
@@ -12073,6 +12097,12 @@
             "name": "Lychee",
             "url": "https://github.com/electerious/Lychee",
             "description": "An easy to use and great looking photo-management-system.",
+            "tags": []
+          },
+          {
+            "name": "Leantime",
+            "url": "https://leantime.io",
+            "description": "Strategic project management system for the non project manager",
             "tags": []
           },
           {
@@ -16025,6 +16055,12 @@
             "name": "Lightshot",
             "url": "https://app.prntscr.com/",
             "description": "The fastest way to take a customizable screenshot.",
+            "tags": []
+          },
+          {
+            "name": "macshot",
+            "url": "https://github.com/sw33tlie/macshot",
+            "description": "Native macOS screenshot and annotation tool inspired by Flameshot, with screen recording, scroll capture, and OCR.",
             "tags": []
           },
           {
@@ -21178,6 +21214,12 @@
             "name": "bubbletea",
             "url": "https://github.com/charmbracelet/bubbletea",
             "description": "Go framework to build terminal apps, based on The Elm Architecture.",
+            "tags": []
+          },
+          {
+            "name": "chroma16",
+            "url": "https://github.com/arceus-7/chroma16",
+            "description": "Generate a harmonious 16-color terminal palette from a single seed color or string.",
             "tags": []
           },
           {
@@ -28492,6 +28534,12 @@
             "tags": []
           },
           {
+            "name": "stringFormatter",
+            "url": "https://github.com/Wissance/stringFormatter",
+            "description": "String formatting like in Python or C# manner with the additional text formatting features.",
+            "tags": []
+          },
+          {
             "name": "strutil",
             "url": "https://github.com/ozgio/strutil",
             "description": "String utilities.",
@@ -31885,6 +31933,12 @@
       {
         "name": "Selenium and browser control tools",
         "resources": [
+          {
+            "name": "bonk",
+            "url": "https://github.com/joakimcarlsson/bonk",
+            "description": "Fast, stealth-first browser automation library using Chrome DevTools Protocol over WebSocket with no external dependencies.",
+            "tags": []
+          },
           {
             "name": "cdp",
             "url": "https://github.com/mafredri/cdp",
@@ -35805,6 +35859,12 @@
             "tags": []
           },
           {
+            "name": "Den",
+            "url": "https://github.com/us/den",
+            "description": "Self-hosted sandbox runtime for AI agents. Open-source E2B alternative.",
+            "tags": []
+          },
+          {
             "name": "DepCharge",
             "url": "https://github.com/centerorbit/depcharge",
             "description": "Helps orchestrating the execution of commands across the many dependencies in larger projects.",
@@ -37897,12 +37957,6 @@
             "name": "golang-nuts",
             "url": "https://groups.google.com/forum/#!forum/golang-nuts",
             "description": "Go mailing list.",
-            "tags": []
-          },
-          {
-            "name": "Google Plus Community",
-            "url": "https://plus.google.com/communities/114112804251407510571",
-            "description": "The Google+ community for #golang enthusiasts.",
             "tags": []
           },
           {
@@ -56742,6 +56796,12 @@
             "tags": []
           },
           {
+            "name": "mayocream/koharu",
+            "url": "https://github.com/mayocream/koharu",
+            "description": "An ML-powered manga translator with automatic speech bubble detection, OCR, inpainting, and LLM translation, built with Candle and Tauri",
+            "tags": []
+          },
+          {
             "name": "mdBook",
             "url": "https://github.com/rust-lang/mdBook",
             "description": "A command line utility to create books from markdown files",
@@ -57274,8 +57334,8 @@
             "tags": []
           },
           {
-            "name": "starkware-libs/cairo-vm-2",
-            "url": "https://github.com/starkware-libs/cairo-vm-2",
+            "name": "starkware-libs/cairo-vm",
+            "url": "https://github.com/starkware-libs/cairo-vm",
             "description": "Implementation of the Cairo VM",
             "tags": []
           },
@@ -60696,7 +60756,7 @@
           },
           {
             "name": "wasm-pack",
-            "url": "https://github.com/drager/wasm-pack",
+            "url": "https://github.com/wasm-bindgen/wasm-pack",
             "description": ":package: :sparkles: pack up the wasm and publish it to npm!",
             "tags": []
           }
@@ -77689,7 +77749,7 @@
           },
           {
             "name": "xlwings",
-            "url": "https://github.com/ZoomerAnalytics/xlwings",
+            "url": "https://github.com/xlwings/xlwings",
             "description": "A BSD-licensed library that makes it easy to call Python from Excel and vice versa.",
             "tags": []
           },
