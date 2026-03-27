@@ -42127,6 +42127,12 @@
             "tags": []
           },
           {
+            "name": "unsloth",
+            "url": "https://github.com/unslothai/unsloth",
+            "description": "A library for faster LLM fine-tuning and training with reduced memory usage.",
+            "tags": []
+          },
+          {
             "name": "vllm",
             "url": "https://github.com/vllm-project/vllm",
             "description": "A high-throughput and memory-efficient inference and serving engine for LLMs.",
@@ -42265,12 +42271,6 @@
             "name": "funnlp",
             "url": "https://github.com/fighting41love/funNLP",
             "description": "A collection of tools and datasets for Chinese NLP.",
-            "tags": []
-          },
-          {
-            "name": "jieba",
-            "url": "https://github.com/fxsjy/jieba",
-            "description": "The most popular Chinese text segmentation library.",
             "tags": []
           }
         ]
@@ -44166,6 +44166,12 @@
       {
         "name": "Logging",
         "resources": [
+          {
+            "name": "logfmter",
+            "url": "https://github.com/josheppinette/python-logfmter",
+            "description": "A standard library compatible logfmt formatter.",
+            "tags": []
+          },
           {
             "name": "logging",
             "url": "https://docs.python.org/3/library/logging.html",
@@ -48380,6 +48386,12 @@
             "tags": []
           },
           {
+            "name": "InnerWarden/innerwarden",
+            "url": "https://github.com/InnerWarden/innerwarden",
+            "description": "Self-defending security agent for Linux and macOS with 22 eBPF kernel hooks, 39 detectors, and AI-driven incident response",
+            "tags": []
+          },
+          {
             "name": "Inspektor",
             "url": "https://github.com/inspektor-dev/inspektor",
             "description": "A database protocol-aware proxy that is used to enforce access policies \ud83d\udc6e",
@@ -48609,6 +48621,12 @@
             "name": "dust",
             "url": "https://github.com/bootandy/dust",
             "description": "A more intuitive version of du",
+            "tags": []
+          },
+          {
+            "name": "erickochen/purple",
+            "url": "https://github.com/erickochen/purple",
+            "description": "[ purple-ssh ] - Ratatui-powered SSH client with cloud sync, container management, file transfer, tunnels, snippets and password management",
             "tags": []
           },
           {
@@ -50174,6 +50192,12 @@
             "name": "LukeMathWalker/cargo-chef",
             "url": "https://github.com/LukeMathWalker/cargo-chef",
             "description": "A tool and pre-built images for caching compiling remote dependencies between Docker builds.",
+            "tags": []
+          },
+          {
+            "name": "moghtech/komodo",
+            "url": "https://github.com/moghtech/komodo",
+            "description": "A tool to build and deploy software across many servers, with a web UI, API, and no server limits",
             "tags": []
           },
           {
@@ -56812,12 +56836,6 @@
         "name": "Dependency Management Extras",
         "resources": [
           {
-            "name": "Composed",
-            "url": "https://github.com/joshdifabio/composed",
-            "description": "A library to parse your project's Composer environment at runtime.",
-            "tags": []
-          },
-          {
             "name": "Composer Merge Plugin",
             "url": "https://github.com/wikimedia/composer-merge-plugin",
             "description": "A composer plugin to merge several composer.json files.",
@@ -57166,12 +57184,6 @@
             "tags": []
           },
           {
-            "name": "Slim Twig View",
-            "url": "https://github.com/slimphp/Slim-Views",
-            "description": "Integrate Twig into Slim.",
-            "tags": []
-          },
-          {
             "name": "Slim PHP View",
             "url": "https://github.com/slimphp/PHP-View",
             "description": "A simple PHP renderer for Slim.",
@@ -57429,12 +57441,6 @@
             "tags": []
           },
           {
-            "name": "Purl",
-            "url": "https://github.com/jwage/purl",
-            "description": "A URL manipulation library.",
-            "tags": []
-          },
-          {
             "name": "sabre/uri",
             "url": "https://github.com/sabre-io/uri",
             "description": "A functional URI manipulation library.",
@@ -57470,12 +57476,6 @@
             "tags": []
           },
           {
-            "name": "Email Validator",
-            "url": "https://github.com/nojacko/email-validator",
-            "description": "A small email address validation library.",
-            "tags": []
-          },
-          {
             "name": "Fetch",
             "url": "https://github.com/tedious/Fetch",
             "description": "An IMAP library.",
@@ -57491,12 +57491,6 @@
             "name": "PHPMailer",
             "url": "https://github.com/PHPMailer/PHPMailer",
             "description": "Another mailer solution.",
-            "tags": []
-          },
-          {
-            "name": "PHP IMAP",
-            "url": "https://github.com/barbushin/php-imap",
-            "description": "A library to access mailboxes via POP3, IMAP and NNTP.",
             "tags": []
           },
           {
@@ -57567,12 +57561,6 @@
             "name": "ByteStream",
             "url": "https://amphp.org/byte-stream",
             "description": "An asynchronous stream abstraction.",
-            "tags": []
-          },
-          {
-            "name": "Streamer",
-            "url": "https://github.com/fzaninotto/Streamer",
-            "description": "A simple object-orientated stream wrapper library.",
             "tags": []
           }
         ]
@@ -57842,18 +57830,6 @@
             "tags": []
           },
           {
-            "name": "JoliCi",
-            "url": "https://github.com/jolicode/JoliCi",
-            "description": "A continuous integration client written in PHP and powered by Docker.",
-            "tags": []
-          },
-          {
-            "name": "PHPCI",
-            "url": "https://github.com/dancryer/phpci",
-            "description": "An open-source continuous integration platform for PHP.",
-            "tags": []
-          },
-          {
             "name": "SemaphoreCI",
             "url": "https://semaphore.io/",
             "description": "A continuous integration platform for open-source and private projects.",
@@ -58001,12 +57977,6 @@
             "tags": []
           },
           {
-            "name": "Password Policy",
-            "url": "https://github.com/ircmaxell/password-policy",
-            "description": "A password policy library for PHP and JavaScript.",
-            "tags": []
-          },
-          {
             "name": "Password Validator",
             "url": "https://github.com/jeremykendall/password-validator",
             "description": "A library for validating and upgrading password hashes.",
@@ -58016,12 +57986,6 @@
             "name": "Password-Generator",
             "url": "https://github.com/hackzilla/password-generator",
             "description": "PHP library to generate random passwords.",
-            "tags": []
-          },
-          {
-            "name": "PHP Password Lib",
-            "url": "https://github.com/ircmaxell/PHP-PasswordLib",
-            "description": "A library for generating and validating passwords.",
             "tags": []
           },
           {
@@ -58096,12 +58060,6 @@
             "tags": []
           },
           {
-            "name": "PHPLOC",
-            "url": "https://github.com/sebastianbergmann/phploc",
-            "description": "A tool for quickly measuring the size of a PHP project.",
-            "tags": []
-          },
-          {
             "name": "PHPQA",
             "url": "https://github.com/EdgedesignCZ/phpqa",
             "description": "A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).",
@@ -58167,12 +58125,6 @@
             "tags": []
           },
           {
-            "name": "PHPCPD",
-            "url": "https://github.com/sebastianbergmann/phpcpd",
-            "description": "A library that detects copied and pasted code.",
-            "tags": []
-          },
-          {
             "name": "Laravel Pint",
             "url": "https://github.com/laravel/pint",
             "description": "A coding standards fixer library for Laravel.",
@@ -58187,12 +58139,6 @@
             "name": "Exakat",
             "url": "https://github.com/exakat/exakat",
             "description": "A static analysis engine for PHP.",
-            "tags": []
-          },
-          {
-            "name": "Deptrac",
-            "url": "https://github.com/qossmic/deptrac",
-            "description": "A static code analysis tool that helps to enforce rules for dependencies between software layers.",
             "tags": []
           },
           {
@@ -58806,12 +58752,6 @@
             "tags": []
           },
           {
-            "name": "Pomm",
-            "url": "https://github.com/chanmix51/Pomm",
-            "description": "An Object Model Manager for PostgreSQL.",
-            "tags": []
-          },
-          {
             "name": "ProxyManager",
             "url": "https://github.com/Ocramius/ProxyManager",
             "description": "A set of utilities to generate proxy objects for data mappers.",
@@ -58844,12 +58784,6 @@
             "name": "Doctrine Migrations",
             "url": "https://www.doctrine-project.org/projects/migrations.html",
             "description": "A migration library for Doctrine.",
-            "tags": []
-          },
-          {
-            "name": "Migrations",
-            "url": "https://github.com/icomefromthenet/Migrations",
-            "description": "A migration management library.",
             "tags": []
           },
           {
@@ -59307,12 +59241,6 @@
             "tags": []
           },
           {
-            "name": "UA Parser",
-            "url": "https://github.com/tobie/ua-parser/tree/master/php",
-            "description": "A library for parsing user agent strings.",
-            "tags": []
-          },
-          {
             "name": "Url highlight",
             "url": "https://github.com/vstelmakh/url-highlight",
             "description": "A library for parsing URLs from text and converting them into clickable links.",
@@ -59449,12 +59377,6 @@
             "tags": []
           },
           {
-            "name": "Upload",
-            "url": "https://github.com/brandonsavage/Upload",
-            "description": "A library for handling file uploads and validation.",
-            "tags": []
-          },
-          {
             "name": "Valitron",
             "url": "https://github.com/vlucas/valitron",
             "description": "Another validation library.",
@@ -59487,12 +59409,6 @@
             "name": "Laminas API Tool Skeleton",
             "url": "https://github.com/laminas-api-tools/api-tools-skeleton",
             "description": "An API builder built with the Laminas Framework.",
-            "tags": []
-          },
-          {
-            "name": "Drest",
-            "url": "https://github.com/leedavis81/drest",
-            "description": "A library for exposing Doctrine entities as REST resource endpoints.",
             "tags": []
           },
           {
@@ -59632,12 +59548,6 @@
             "tags": []
           },
           {
-            "name": "PINQ",
-            "url": "https://github.com/TimeToogo/Pinq",
-            "description": "A PHP library based on .NET's LINQ (Language Integrated Query).",
-            "tags": []
-          },
-          {
             "name": "Serializer",
             "url": "https://github.com/schmittjoh/serializer",
             "description": "A library for serializing and de-serializing data.",
@@ -59673,12 +59583,6 @@
             "tags": []
           },
           {
-            "name": "Notificato",
-            "url": "https://github.com/mac-cain13/notificato",
-            "description": "A library for handling push notifications.",
-            "tags": []
-          },
-          {
             "name": "Notificator",
             "url": "https://github.com/namshi/notificator",
             "description": "A lightweight notification library.",
@@ -59705,12 +59609,6 @@
             "name": "Envoy",
             "url": "https://github.com/laravel/envoy",
             "description": "A tool to run SSH tasks with PHP.",
-            "tags": []
-          },
-          {
-            "name": "Rocketeer",
-            "url": "https://github.com/rocketeers/rocketeer",
-            "description": "A fast and easy deployer for the PHP world.",
             "tags": []
           }
         ]
@@ -59777,9 +59675,9 @@
             "tags": []
           },
           {
-            "name": "Yo! Symfony TOML",
-            "url": "https://github.com/yosymfony/toml",
-            "description": "A PHP parser for TOML .",
+            "name": "Toml",
+            "url": "https://github.com/php-collective/toml",
+            "description": "A TOML parser and encoder with AST access and error recovery.",
             "tags": []
           }
         ]
@@ -59850,12 +59748,6 @@
             "name": "Mailgun",
             "url": "https://github.com/mailgun/mailgun-php",
             "description": "The official Mailgun PHP API.",
-            "tags": []
-          },
-          {
-            "name": "Square",
-            "url": "https://github.com/square/connect-php-sdk",
-            "description": "The official Square PHP SDK for payments and other Square APIs.",
             "tags": []
           },
           {
@@ -67602,6 +67494,12 @@
         "name": "Artificial Intelligence",
         "resources": [
           {
+            "name": "ai",
+            "url": "https://github.com/joakimcarlsson/ai",
+            "description": "A Go toolkit for building AI agents and applications across multiple providers with unified LLM, embeddings, tool calling, and MCP integration.",
+            "tags": []
+          },
+          {
             "name": "chromem-go",
             "url": "https://github.com/philippgille/chromem-go",
             "description": "Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.",
@@ -72373,6 +72271,12 @@
             "tags": []
           },
           {
+            "name": "coinpaprika-api-go-client",
+            "url": "https://github.com/coinpaprika/coinpaprika-api-go-client",
+            "description": "Go client for the CoinPaprika cryptocurrency market data API.",
+            "tags": []
+          },
+          {
             "name": "go-nowpayments",
             "url": "https://github.com/matm/go-nowpayments",
             "description": "Library for the crypto NOWPayments API.",
@@ -74653,6 +74557,12 @@
             "name": "CloudForest",
             "url": "https://github.com/ryanbressler/CloudForest",
             "description": "Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.",
+            "tags": []
+          },
+          {
+            "name": "datatrax",
+            "url": "https://github.com/rbmuller/datatrax",
+            "description": "Data engineering and classic ML toolkit with batch processing, type coercion, and 7 algorithms in pure Go with zero dependencies.",
             "tags": []
           },
           {
