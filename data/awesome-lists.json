@@ -118,7 +118,7 @@
           },
           {
             "name": "Swift & SwiftUI Tutorials",
-            "url": "https://janeshswift.com",
+            "url": "http://ww1.janeshswift.com",
             "description": "SwiftUI learning with Ease.",
             "tags": []
           },
@@ -136,7 +136,7 @@
           },
           {
             "name": "SwiftDoc",
-            "url": "https://swiftdoc.org/",
+            "url": "https://sosumi.ai/",
             "description": "Auto-generated documentation.",
             "tags": []
           },
@@ -272,7 +272,7 @@
           },
           {
             "name": "CleanArchitectureRxSwift",
-            "url": "https://github.com/sergdort/CleanArchitectureRxSwift",
+            "url": "https://github.com/sergdort/ModernCleanArchitectureSwiftUI",
             "description": "Example of Clean Architecture of iOS app using RxSwift.",
             "tags": []
           },
@@ -362,6 +362,18 @@
             "name": "DL4S",
             "url": "https://github.com/palle-k/DL4S",
             "description": "Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.",
+            "tags": []
+          },
+          {
+            "name": "Espresso",
+            "url": "https://github.com/christopherkarani/Espresso",
+            "description": "Compile transformers directly for Apple's Neural Engine.",
+            "tags": []
+          },
+          {
+            "name": "Fazm",
+            "url": "https://github.com/m13v/fazm",
+            "description": "A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.",
             "tags": []
           },
           {
@@ -616,6 +628,12 @@
             "name": "reddift",
             "url": "https://github.com/sonsongithub/reddift",
             "description": "reddit API wrapper.",
+            "tags": []
+          },
+          {
+            "name": "SwiftDisc",
+            "url": "https://github.com/M1tsumi/SwiftDisc",
+            "description": "Discord API library for bots and integrations.",
             "tags": []
           },
           {
@@ -964,6 +982,12 @@
             "url": "https://github.com/yysskk/MemoryCache",
             "description": "Type-safe memory cache.",
             "tags": []
+          },
+          {
+            "name": "Monstra",
+            "url": "https://github.com/yangchenlarkin/Monstra",
+            "description": "Memory cache framework with TTL, priority-based eviction, and avalanche protection.",
+            "tags": []
           }
         ]
       },
@@ -1055,7 +1079,7 @@
           },
           {
             "name": "Real-time Chat with Firebase",
-            "url": "https://github.com/instamobile/messenger-iOS-chat-swift-firestore",
+            "url": "https://github.com/dopebase/messenger-iOS-chat-swift-firestore",
             "description": "Functional real-time chat app with Firebase Firestore using MessageKit.",
             "tags": []
           }
@@ -1157,6 +1181,12 @@
             "name": "LineNoise",
             "url": "https://github.com/andybest/linenoise-swift",
             "description": ":penguin: - A zero-dependency replacement for readline.",
+            "tags": []
+          },
+          {
+            "name": "Mocker",
+            "url": "https://github.com/us/mocker",
+            "description": "Docker-compatible container CLI for macOS, built on Apple's Containerization framework.",
             "tags": []
           },
           {
@@ -2640,7 +2670,7 @@
           },
           {
             "name": "SwiftWebImage",
-            "url": "https://github.com/geekaurora/SwiftWebImage",
+            "url": "https://github.com/HotWordland/SwiftWebImage",
             "description": "\ud83d\ude80SwiftUI Image downloader with performant LRU mem/disk cache.",
             "tags": []
           },
@@ -3669,6 +3699,12 @@
             "tags": []
           },
           {
+            "name": "TouchBridge",
+            "url": "https://github.com/HMAKT99/UnTouchID",
+            "description": "Use your phone's fingerprint to authenticate on any Mac.",
+            "tags": []
+          },
+          {
             "name": "BlueCryptor",
             "url": "https://github.com/Kitura/BlueCryptor",
             "description": "IBM's Cross Platform Crypto library.",
@@ -3777,7 +3813,7 @@
         "resources": [
           {
             "name": "HaishinKit",
-            "url": "https://github.com/shogo4405/HaishinKit.swift",
+            "url": "https://github.com/HaishinKit/HaishinKit.swift",
             "description": "Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.",
             "tags": []
           },
@@ -4023,6 +4059,12 @@
             "tags": []
           },
           {
+            "name": "MarkdownDisplayView",
+            "url": "https://github.com/zjc19891106/MarkdownDisplayView",
+            "description": "A Markdown rendering component built on TextKit 2, providing smooth performance, rich customization options, and support for streaming AI-driven conversational interactions.",
+            "tags": []
+          },
+          {
             "name": "MarkdownKit",
             "url": "https://github.com/bmoliveira/MarkdownKit",
             "description": "A simple and customizable Markdown Parser.",
@@ -4138,7 +4180,7 @@
           },
           {
             "name": "TextBuilder",
-            "url": "https://github.com/davdroman/TextBuilder",
+            "url": "https://github.com/davdroman/swiftui-text-builder",
             "description": "Like a SwiftUI ViewBuilder, but for Text.",
             "tags": []
           },
@@ -4564,6 +4606,12 @@
             "name": "MultiSlider",
             "url": "https://github.com/yonat/MultiSlider",
             "description": "UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.",
+            "tags": []
+          },
+          {
+            "name": "MuscleMap",
+            "url": "https://github.com/melihcolpan/MuscleMap",
+            "description": "Render interactive human body muscle maps with SwiftUI and UIKit.",
             "tags": []
           },
           {
@@ -46696,6 +46744,12 @@
             "tags": []
           },
           {
+            "name": "TabbyML/tabby",
+            "url": "https://github.com/TabbyML/tabby",
+            "description": "Self-hosted AI coding assistant, an open-source alternative to GitHub Copilot with GPU support and OpenAPI interface",
+            "tags": []
+          },
+          {
             "name": "temps",
             "url": "https://github.com/gotempsh/temps",
             "description": "A self-hosted PaaS that replaces Vercel, analytics, error tracking, and uptime monitoring with a single Rust binary",
@@ -57134,7 +57188,7 @@
           },
           {
             "name": "Silverstripe",
-            "url": "https://silverstripe.org",
+            "url": "https://www.silverstripe.org/",
             "description": "A simple, flexible, and secure CMS.",
             "tags": []
           },
@@ -57850,7 +57904,7 @@
           },
           {
             "name": "PHPT",
-            "url": "https://qa.php.net/write-test.php",
+            "url": "https://php.github.io/php-src/miscellaneous/writing-tests.html",
             "description": "A test tool used by PHP itself.",
             "tags": []
           },
@@ -58369,7 +58423,7 @@
           },
           {
             "name": "PHP Debug Bar",
-            "url": "http://phpdebugbar.com/",
+            "url": "https://php-debugbar.com/",
             "description": "A debugging toolbar.",
             "tags": []
           },
@@ -59112,14 +59166,8 @@
             "tags": []
           },
           {
-            "name": "Sentinel Social",
-            "url": "https://cartalyst.com/manual/sentinel-social/2.0",
-            "description": "A library for social network authentication.",
-            "tags": []
-          },
-          {
             "name": "Sentinel",
-            "url": "https://cartalyst.com/manual/sentinel/2.0",
+            "url": "https://github.com/cartalyst/sentinel",
             "description": "A framework agnostic authentication & authorisation library.",
             "tags": []
           },
@@ -59361,7 +59409,7 @@
           },
           {
             "name": "PHP Conversion",
-            "url": "https://github.com/Crisu83/php-conversion",
+            "url": "https://github.com/cniska/php-conversion",
             "description": "Another library for converting between units of measure.",
             "tags": []
           },
@@ -60006,7 +60054,7 @@
           },
           {
             "name": "Laradock",
-            "url": "http://laradock.io/",
+            "url": "https://laradock.io/",
             "description": "A full PHP development environment based on Docker.",
             "tags": []
           },
@@ -60030,7 +60078,7 @@
           },
           {
             "name": "Vagrant",
-            "url": "https://www.vagrantup.com/",
+            "url": "https://developer.hashicorp.com/vagrant",
             "description": "A portable development environment utility.",
             "tags": []
           }
@@ -60113,12 +60161,6 @@
             "name": "Cachet",
             "url": "https://github.com/cachethq/cachet",
             "description": "The open source status page system.",
-            "tags": []
-          },
-          {
-            "name": "DBV",
-            "url": "https://github.com/victorstanciu/dbv",
-            "description": "A database version control application.",
             "tags": []
           },
           {
@@ -60217,7 +60259,7 @@
           },
           {
             "name": "PHP Package Development Standards",
-            "url": "http://php-pds.com",
+            "url": "https://php-pds.com/",
             "description": "Package development standards for PHP.",
             "tags": []
           },
@@ -60266,12 +60308,6 @@
             "name": "Functional Programming in PHP",
             "url": "https://www.functionalphp.com/",
             "description": "This book will show you how to leverage these new PHP5.3+ features by understanding functional programming principles",
-            "tags": []
-          },
-          {
-            "name": "Grumpy PHPUnit",
-            "url": "https://leanpub.com/grumpy-phpunit",
-            "description": "A book about unit testing with PHPUnit by Chris Hartjes.",
             "tags": []
           },
           {
