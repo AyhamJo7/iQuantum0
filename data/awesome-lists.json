@@ -13785,6 +13785,12 @@
             "tags": []
           },
           {
+            "name": "markdown-quicklook",
+            "url": "https://github.com/ruspg/markdown-quicklook",
+            "description": "Rendered Markdown preview with syntax highlighting, YAML front matter, configurable fonts/colors, and a menu bar toggle to switch between rendered and plain text modes. Build-from-source, one-command install.",
+            "tags": []
+          },
+          {
             "name": "Torrent Preview",
             "url": "https://github.com/sveinbjornpalsson/torrentpreview/",
             "description": "Quick Look extension for previewing .torrent contents in Finder, including files, trackers, and metadata.",
@@ -22697,6 +22703,12 @@
             "tags": []
           },
           {
+            "name": "d8a.tech",
+            "url": "https://d8a.tech",
+            "description": "A data collection service that works with your existing Google Analytics setup to capture user activity and send it straight to your own private database. ( Demo , Source Code ) MIT Go/Docker",
+            "tags": []
+          },
+          {
             "name": "Daily Stars Explorer",
             "url": "https://emanuelef.github.io/daily-stars-explorer",
             "description": "\u26a0 - Track GitHub repo trends with daily star insights to see growth and community interest over time. ( Demo , Source Code ) MIT Go/Nodejs/Docker",
@@ -22724,6 +22736,12 @@
             "name": "GoatCounter",
             "url": "https://www.goatcounter.com",
             "description": "Easy web statistics without tracking of personal data. ( Source Code ) EUPL-1.2 Go",
+            "tags": []
+          },
+          {
+            "name": "HitKeep",
+            "url": "https://hitkeep.com/",
+            "description": "Privacy-first web analytics with goals, funnels, ecommerce tracking, and team management in a single binary with embedded DuckDB (alternative to Google Analytics, Plausible, Umami). ( Source Code ) MIT Go/Docker",
             "tags": []
           },
           {
@@ -22855,7 +22873,7 @@
           {
             "name": "Vince",
             "url": "https://www.vinceanalytics.com/",
-            "description": "Web analytics and dashboard (alternative to Google Analytics). ( Demo , Source Code ) AGPL-3.0 Go/Docker/K8S/deb",
+            "description": "Web analytics and dashboard (alternative to Google Analytics). ( Source Code ) AGPL-3.0 Go/Docker/K8S/deb",
             "tags": []
           }
         ]
@@ -25095,6 +25113,12 @@
             "tags": []
           },
           {
+            "name": "Inkheart",
+            "url": "https://gitlab.com/Nystik/inkheart",
+            "description": "Lightweight PDF library and reader. Apache-2.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Kapowarr",
             "url": "https://casvt.github.io/Kapowarr/",
             "description": "Build and manage a comic book library. Download, rename, move and convert issues of the volume to your liking. ( Source Code ) GPL-3.0 Docker/Python",
@@ -25108,8 +25132,8 @@
           },
           {
             "name": "kiwix-serve",
-            "url": "https://www.kiwix.org/en/downloads/kiwix-serve/",
-            "description": "HTTP daemon for serving wikis from ZIM files. ( Source Code ) GPL-3.0 C++",
+            "url": "https://github.com/kiwix/kiwix-tools",
+            "description": "HTTP daemon for serving wikis from ZIM files. GPL-3.0 C++",
             "tags": []
           },
           {
@@ -25753,21 +25777,15 @@
             "tags": []
           },
           {
-            "name": "Pairdrop",
-            "url": "https://pairdrop.net/",
-            "description": "Local file sharing in your browser, inspired by Apple's AirDrop (fork of Snapdrop). ( Source Code ) GPL-3.0 Docker",
-            "tags": []
-          },
-          {
             "name": "PicoShare",
-            "url": "https://pico.rocks",
-            "description": "Minimalist, easy-to-host service for sharing images and other files. ( Demo , Source Code ) AGPL-3.0 Go/Docker",
+            "url": "https://github.com/mtlynch/picoshare",
+            "description": "Minimalist, easy-to-host service for sharing images and other files. AGPL-3.0 Go/Docker",
             "tags": []
           },
           {
             "name": "Picsur",
             "url": "https://github.com/CaramelFur/Picsur",
-            "description": "Simple imaging hosting platform that allows you to easily host, edit, and share images. ( Demo ) AGPL-3.0 Docker",
+            "description": "Simple imaging hosting platform that allows you to easily host, edit, and share images. AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -26028,7 +26046,7 @@
           },
           {
             "name": "Red Eclipse 2",
-            "url": "https://redeclipse.net",
+            "url": "https://www.redeclipse.net/",
             "description": "Arena first-person shooter similar to Unreal Tournament. ( Source Code ) Zlib/MIT/CC-BY-SA-4.0 C/C++/deb",
             "tags": []
           },
@@ -26237,6 +26255,12 @@
             "name": "LLM Harbor",
             "url": "https://github.com/av/harbor",
             "description": "Containerized LLM toolkit. Run LLM backends, APIs, frontends, and additional services via a concise CLI. Apache-2.0 Docker/Shell",
+            "tags": []
+          },
+          {
+            "name": "LLMKube",
+            "url": "https://llmkube.com",
+            "description": "Kubernetes operator for llama.cpp-native LLM inference with GPU scheduling, Apple Silicon Metal support, and OpenAI-compatible API. ( Source Code ) Apache-2.0 Go/Docker/K8S",
             "tags": []
           },
           {
@@ -29056,12 +29080,6 @@
             "tags": []
           },
           {
-            "name": "Jina",
-            "url": "https://github.com/jina-ai/serve",
-            "description": "Cloud-native neural search framework for any kind of data. Apache-2.0 Python/Docker",
-            "tags": []
-          },
-          {
             "name": "Manticore Search",
             "url": "https://github.com/manticoresoftware/manticoresearch/",
             "description": "Full-text search and data analytics, with fast response time for small, medium and big data (alternative to Elasticsearch). GPL-3.0 Docker/deb/C++/K8S",
@@ -29190,12 +29208,6 @@
             "name": "LibreServer",
             "url": "https://libreserver.org/",
             "description": "Home server configuration based on Debian. ( Source Code ) AGPL-3.0 Shell",
-            "tags": []
-          },
-          {
-            "name": "Mistborn",
-            "url": "https://gitlab.com/cyber5k/mistborn",
-            "description": "Virtual private cloud platform and WebUI that manages self hosted services. MIT Shell/Docker",
             "tags": []
           },
           {
@@ -29607,12 +29619,6 @@
             "tags": []
           },
           {
-            "name": "Kallithea",
-            "url": "https://kallithea-scm.org/",
-            "description": "Source code management system that supports two leading version control systems, Mercurial and Git, with a web interface. ( Source Code ) GPL-3.0 Python",
-            "tags": []
-          },
-          {
             "name": "Kaneo",
             "url": "https://kaneo.app/",
             "description": "Project management platform focused on simplicity and efficiency. ( Demo , Source Code ) MIT K8S/Docker",
@@ -29863,9 +29869,9 @@
             "tags": []
           },
           {
-            "name": "Planka",
-            "url": "https://planka.app/",
-            "description": "Realtime kanban board for workgroups (alternative to Trello). ( Demo , Source Code ) AGPL-3.0 Nodejs/Docker/K8S",
+            "name": "Super Productivity",
+            "url": "https://super-productivity.com",
+            "description": "Advanced todo list app with integrated timeboxing and time tracking capabilities. Integrates with Jira, GitHub, GitLab, Redmine and OpenProject. ( Source Code ) MIT Docker",
             "tags": []
           },
           {
@@ -30071,7 +30077,7 @@
           },
           {
             "name": "Kutt",
-            "url": "https://kutt.it",
+            "url": "https://kutt.to",
             "description": "Modern URL shortener with support for custom domains and custom URLs. ( Demo , Source Code ) MIT Nodejs/Docker",
             "tags": []
           },
@@ -42218,7 +42224,7 @@
           {
             "name": "jax",
             "url": "https://github.com/jax-ml/jax",
-            "description": "a library for high-performance numerical computing with automatic differentiation and JIT compilation.",
+            "description": "A library for high-performance numerical computing with automatic differentiation and JIT compilation.",
             "tags": []
           },
           {
@@ -42302,6 +42308,12 @@
             "name": "spark.ml",
             "url": "https://github.com/apache/spark",
             "description": "Apache Spark 's scalable Machine Learning library for distributed computing.",
+            "tags": []
+          },
+          {
+            "name": "TabGAN",
+            "url": "https://github.com/Diyago/Tabular-data-generation",
+            "description": "Synthetic tabular data generation using GANs, Diffusion Models, and LLMs.",
             "tags": []
           },
           {
@@ -42453,7 +42465,7 @@
           {
             "name": "reflex",
             "url": "https://github.com/reflex-dev/reflex",
-            "description": "\u2013 A framework for building reactive, full-stack web applications entirely with python .",
+            "description": "A framework for building reactive, full-stack web applications entirely with Python.",
             "tags": []
           },
           {
@@ -67659,6 +67671,12 @@
             "name": "OllamaFarm",
             "url": "https://github.com/presbrey/ollamafarm",
             "description": "Manage, load-balance, and failover packs of Ollamas.",
+            "tags": []
+          },
+          {
+            "name": "otellix",
+            "url": "https://github.com/oluwajubelo1/otellix",
+            "description": "OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments.",
             "tags": []
           }
         ]
