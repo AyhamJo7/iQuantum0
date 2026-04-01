@@ -31902,6 +31902,12 @@
             "tags": []
           },
           {
+            "name": "ZXC",
+            "url": "https://github.com/hellobertrand/zxc",
+            "description": "High-performance asymmetric lossless compression. [BSD-3-Clause]",
+            "tags": []
+          },
+          {
             "name": "ZZIPlib",
             "url": "http://zziplib.sourceforge.net/",
             "description": "Provides read access on ZIP-archives. [MPL/LGPL]",
