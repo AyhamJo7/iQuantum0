@@ -8982,12 +8982,6 @@
             "tags": []
           },
           {
-            "name": "Flock",
-            "url": "https://github.com/Divagation/flock",
-            "description": "Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace.",
-            "tags": []
-          },
-          {
             "name": "Ghostty",
             "url": "https://github.com/ghostty-org/ghostty",
             "description": "A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
@@ -9831,7 +9825,7 @@
         ]
       },
       {
-        "name": "AI Client",
+        "name": "AI Tools",
         "resources": [
           {
             "name": "AppleAi",
@@ -9870,6 +9864,24 @@
             "tags": []
           },
           {
+            "name": "Claude God",
+            "url": "https://claudegod.app",
+            "description": "Monitor Claude AI usage quotas, costs, and session analytics with real-time gauges, timeline, and notifications.",
+            "tags": []
+          },
+          {
+            "name": "Claude Usage Monitor",
+            "url": "https://github.com/theDanButuc/Claude-Usage-Monitor",
+            "description": "Track Claude usage with a live counter.",
+            "tags": []
+          },
+          {
+            "name": "Claudoscope",
+            "url": "https://github.com/cordwainersmith/claudoscope",
+            "description": "Browse, analyze, and manage Claude Code sessions with timelines, cost estimates, and secret scanning.",
+            "tags": []
+          },
+          {
             "name": "ClawdHome",
             "url": "https://clawdhome.app/",
             "description": "Manage multiple isolated OpenClaw gateway instances from one control panel.",
@@ -9888,9 +9900,21 @@
             "tags": []
           },
           {
+            "name": "CodexBar",
+            "url": "https://codexbar.app",
+            "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+            "tags": []
+          },
+          {
             "name": "Fazm",
             "url": "https://fazm.ai",
             "description": "Open-source voice-controlled AI agent for apps, files, and workflows.",
+            "tags": []
+          },
+          {
+            "name": "Flock",
+            "url": "https://github.com/Divagation/flock",
+            "description": "Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace.",
             "tags": []
           },
           {
@@ -9915,6 +9939,18 @@
             "name": "Runtime",
             "url": "https://github.com/runtime-org/runtime",
             "description": "AI taskmate and take control of the web & your office tools",
+            "tags": []
+          },
+          {
+            "name": "TokenMeter",
+            "url": "https://priyans-hu.github.io/tokenmeter/",
+            "description": "Track Claude Code usage, rate limits, costs, and activity heatmaps.",
+            "tags": []
+          },
+          {
+            "name": "Usage4Claude",
+            "url": "https://github.com/f-is-h/Usage4Claude",
+            "description": "Real-time monitoring of Claude usage quotas across time windows and plans.",
             "tags": []
           },
           {
@@ -11818,30 +11854,6 @@
             "tags": []
           },
           {
-            "name": "Claude God",
-            "url": "https://claudegod.app",
-            "description": "Monitor Claude AI usage quotas, costs, and session analytics from the menu bar with real-time gauges, timeline, and notifications.",
-            "tags": []
-          },
-          {
-            "name": "Claude Usage Monitor",
-            "url": "https://github.com/theDanButuc/Claude-Usage-Monitor",
-            "description": "Menu bar tool for tracking Claude usage with a live counter.",
-            "tags": []
-          },
-          {
-            "name": "CodexBar",
-            "url": "https://codexbar.app",
-            "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-            "tags": []
-          },
-          {
-            "name": "Usage4Claude",
-            "url": "https://github.com/f-is-h/Usage4Claude",
-            "description": "Menu bar app for real-time monitoring of Claude usage quotas across time windows and plans.",
-            "tags": []
-          },
-          {
             "name": "DayBar",
             "url": "https://wangchujiang.com/daybar/",
             "description": "An application that can display the local date and reminder events in the menu bar.",
@@ -12103,12 +12115,6 @@
             "name": "TomatoBar",
             "url": "https://github.com/ivoronin/TomatoBar",
             "description": "World's neatest Pomodoro timer for macOS menu bar.",
-            "tags": []
-          },
-          {
-            "name": "TokenMeter",
-            "url": "https://priyans-hu.github.io/tokenmeter/",
-            "description": "Native SwiftUI menu bar app to track Claude Code usage, rate limits, costs, and activity heatmaps.",
             "tags": []
           },
           {
@@ -31848,6 +31854,12 @@
             "tags": []
           },
           {
+            "name": "OpenZL",
+            "url": "https://github.com/facebook/openzl",
+            "description": "A novel data compression framework. [BSD] website",
+            "tags": []
+          },
+          {
             "name": "PhysicsFS",
             "url": "https://icculus.org/physfs/",
             "description": "A library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. [zlib]",
@@ -39416,6 +39428,12 @@
             "tags": []
           },
           {
+            "name": "Docker-Sentinel",
+            "url": "https://github.com/Will-Luck/Docker-Sentinel",
+            "description": "Automated container updates with per-container policies, rollback safety, and a real-time web dashboard. By Will-Luck .",
+            "tags": []
+          },
+          {
             "name": "DockProbe",
             "url": "https://github.com/deep-on/dockprobe",
             "description": "Lightweight Docker monitoring dashboard in a single container. Real-time metrics, 6 anomaly detection rules, Telegram alerts, and 16 automated security scans. Zero config, ~50MB RAM. By DeepOn .",
@@ -39515,6 +39533,12 @@
             "name": "SwarmAlert",
             "url": "https://github.com/gpulido/SwarmAlert",
             "description": ":ice_cube: - Monitors a Docker Swarm and sends Pushover alerts when it finds a container with no healthy service task running.",
+            "tags": []
+          },
+          {
+            "name": "Wiremap",
+            "url": "https://github.com/codeofmario/wiremap",
+            "description": "A self-hosted visual Docker network topology explorer with real-time log streaming, live stats, embedded terminal, and container inspection. By codeofmario .",
             "tags": []
           },
           {
@@ -39849,6 +39873,12 @@
             "tags": []
           },
           {
+            "name": "Mocker",
+            "url": "https://github.com/us/mocker",
+            "description": "Docker-compatible container CLI for macOS, built on Apple's Containerization framework. By us .",
+            "tags": []
+          },
+          {
             "name": "podman",
             "url": "https://github.com/containers/libpod",
             "description": "Libpod is a library used to create container pods. Home of Podman.",
@@ -39950,6 +39980,12 @@
             "tags": []
           },
           {
+            "name": "Den",
+            "url": "https://github.com/us/den",
+            "description": "Self-hosted sandbox runtime for AI agents with Docker containers, security hardening, REST API and WebSocket support. By us .",
+            "tags": []
+          },
+          {
             "name": "docker-bench-security",
             "url": "https://github.com/docker/docker-bench-security",
             "description": "Script that checks for dozens of common best-practices around deploying Docker containers in production. By docker .",
@@ -39965,6 +40001,12 @@
             "name": "dvwassl",
             "url": "https://github.com/Peco602/dvwassl",
             "description": ":ice_cube: - SSL-enabled Damn Vulnerable Web App to test Web Application Firewalls. By Peco602 .",
+            "tags": []
+          },
+          {
+            "name": "Grype",
+            "url": "https://github.com/anchore/grype",
+            "description": "A vulnerability scanner for container images, filesystems and SBOMs. By Anchore .",
             "tags": []
           },
           {
@@ -39994,7 +40036,7 @@
           {
             "name": "Syft",
             "url": "https://github.com/anchore/syft",
-            "description": "CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems.",
+            "description": "CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems. By Anchore .",
             "tags": []
           },
           {
@@ -40232,6 +40274,18 @@
             "name": "oxker",
             "url": "https://github.com/mrjackwills/oxker",
             "description": "A simple tui to view & control docker containers. Written in Rust , making heavy use of ratatui & Bollard ,.",
+            "tags": []
+          },
+          {
+            "name": "swarmcli",
+            "url": "https://github.com/Eldara-Tech/swarmcli",
+            "description": "Swarm Management at the speed of thought \u2014 with real-time log streaming, instant shell access to containers, seamless port forwarding, and on-demand secret reveal capabilities, giving you full control over your Docker Swarm without breaking your flow.",
+            "tags": []
+          },
+          {
+            "name": "tdocker",
+            "url": "https://github.com/pivovarit/tdocker",
+            "description": "A docker ps replacement for everyday container operations by @pivovarit .",
             "tags": []
           },
           {
@@ -41003,6 +41057,12 @@
             "tags": []
           },
           {
+            "name": "NORA",
+            "url": "https://github.com/getnora-io/nora",
+            "description": "Lightweight multi-protocol artifact registry supporting Docker, Maven, npm, Cargo and PyPI in a single 32MB binary. Pull-through cache, Web UI, Prometheus metrics, RBAC auth.",
+            "tags": []
+          },
+          {
             "name": "nscr",
             "url": "https://github.com/jhstatewide/nscr",
             "description": "A light-weight, self-contained container registry that's easy to run and maintain.",
@@ -41357,6 +41417,12 @@
             "name": "Gebug",
             "url": "https://github.com/moshebe/gebug",
             "description": "A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly.",
+            "tags": []
+          },
+          {
+            "name": "HarborPilot",
+            "url": "https://github.com/potterwhite/HarborPilot",
+            "description": "Automated multi-platform Docker image builder for embedded Linux development (RK3588, RV1126, RK3568). Features three-layer config inheritance, PORT_SLOT-based port allocation, and cross-version Ubuntu support (20.04/22.04/24.04). By potterwhite .",
             "tags": []
           },
           {
@@ -42607,7 +42673,7 @@
           {
             "name": "daphne",
             "url": "https://github.com/django/daphne",
-            "description": "A HTTP, HTTP2 and WebSocket protocol server for ASGI and ASGI-HTTP.",
+            "description": "An HTTP, HTTP/2 and WebSocket protocol server for ASGI and ASGI-HTTP.",
             "tags": []
           },
           {
@@ -48364,6 +48430,12 @@
             "tags": []
           },
           {
+            "name": "fulsomenko/kanban",
+            "url": "https://github.com/fulsomenko/kanban",
+            "description": "[ kanban-tui ] - Terminal-based project management tool inspired by lazygit",
+            "tags": []
+          },
+          {
             "name": "Furtherance",
             "url": "https://github.com/unobserved-io/Furtherance",
             "description": "Time tracking app built with GTK4",
@@ -48924,6 +48996,12 @@
             "tags": []
           },
           {
+            "name": "macpow",
+            "url": "https://github.com/k06a/macpow",
+            "description": "Real-time power consumption monitor TUI for Apple Silicon Macs (M1\u2013M5+). Reads IOReport, SMC, IORegistry \u2014 no sudo required.",
+            "tags": []
+          },
+          {
             "name": "matheus-git/systemd-manager-tui",
             "url": "https://github.com/matheus-git/systemd-manager-tui",
             "description": "[ systemd-manager-tui ] - A program for managing systemd services through a TUI (Terminal User Interfaces).",
@@ -49290,6 +49368,12 @@
             "name": "Melody",
             "url": "https://github.com/yoav-lavi/melody",
             "description": "A language that compiles to regular expressions and aims to be more easily readable and maintainable",
+            "tags": []
+          },
+          {
+            "name": "micahkepe/jsongrep",
+            "url": "https://github.com/micahkepe/jsongrep",
+            "description": "[ jsongrep ] - A fast search tool for JSON, YAML, TOML, and other serialization formats with an intuitive path query syntax.",
             "tags": []
           },
           {
