@@ -9572,6 +9572,12 @@
             "tags": []
           },
           {
+            "name": "OpenScreen",
+            "url": "https://github.com/siddharthvaddem/openscreen",
+            "description": "Open-source tool for creating polished screen demos and walkthrough videos.",
+            "tags": []
+          },
+          {
             "name": "Quick Recorder",
             "url": "https://lihaoyun6.github.io/quickrecorder/",
             "description": "A lightweight and high-performance screen recorder for macOS",
@@ -11048,6 +11054,12 @@
             "tags": []
           },
           {
+            "name": "EnviousWispr",
+            "url": "https://enviouswispr.com",
+            "description": "Sub-second dictation running Whisper/Parakeet locally with privacy-first AI text polish.",
+            "tags": []
+          },
+          {
             "name": "FnKey",
             "url": "https://github.com/evoleinik/fnkey",
             "description": "Hold Fn, speak, release \u2014 text is pasted instantly. Streams audio to Deepgram Nova-3 in real time, no batch delay.",
@@ -11062,13 +11074,13 @@
           {
             "name": "OpenTypeless",
             "url": "https://github.com/tover0314-w/opentypeless",
-            "description": "Open-source AI voice input for desktop. Press a hotkey, speak, and get AI-polished text typed into any app. Supports 6+ STT providers (Whisper, Groq, Deepgram) and multiple LLMs (GPT, Claude, Gemini, Ollama).",
+            "description": "Open-source AI voice input that types polished text into any app.",
             "tags": []
           },
           {
             "name": "Ottex",
             "url": "https://ottex.ai",
-            "description": "Dictate emails, Slack messages, notes and more. Detects your app or website and formats accordingly \u2014 gmail.com \u2192 email, Obsidian \u2192 markdown, etc.",
+            "description": "AI dictation tool that formats text for the app or site you are using.",
             "tags": []
           },
           {
@@ -11086,7 +11098,7 @@
           {
             "name": "TypeWhisper",
             "url": "https://www.typewhisper.com",
-            "description": "Local speech-to-text transcription using Whisper AI. System-wide dictation with global hotkey.",
+            "description": "Local Whisper-based speech-to-text with a global hotkey.",
             "tags": []
           },
           {
@@ -11115,7 +11127,7 @@
           {
             "name": "Arc",
             "url": "https://arc.net/",
-            "description": "Arc is your space to breathe on the internet. A browser equipped for the way we use the internet in 2024, and foundational for how we hope to use it in the future.",
+            "description": "Browser with a distinctive workspace-style interface.",
             "tags": []
           },
           {
@@ -11127,7 +11139,7 @@
           {
             "name": "ChatGPT Atlas",
             "url": "https://chatgpt.com/atlas/",
-            "description": "ChatGPT Atlas, the browser with ChatGPT built in. Get instant answers, summaries, and smart web help\u2014right from any page.",
+            "description": "Browser with ChatGPT built in.",
             "tags": []
           },
           {
@@ -11139,7 +11151,7 @@
           {
             "name": "Chromium",
             "url": "https://www.chromium.org/Home",
-            "description": "Open-source, free web browser project by Google, to provide the source code for Google Chrome.",
+            "description": "Open-source browser project behind Google Chrome.",
             "tags": []
           },
           {
@@ -11187,7 +11199,7 @@
           {
             "name": "Ora",
             "url": "https://www.orabrowser.com/",
-            "description": "Open-source macOS browser built with Swift and WebKit. Fast, secure, and native Arc alternative with smooth tab management, spaces, and vertical sidebar.",
+            "description": "Open-source browser with spaces, tab management, and a vertical sidebar.",
             "tags": []
           },
           {
@@ -11223,13 +11235,13 @@
           {
             "name": "Tor Browser",
             "url": "https://www.torproject.org/projects/torbrowser.html",
-            "description": "Anonymity Online. Protect your privacy. Defend against network surveillance and traffic analysis.",
+            "description": "Privacy browser designed for anonymous web browsing.",
             "tags": []
           },
           {
             "name": "Mullvad Browser",
             "url": "https://mullvad.net/en/download/browser/",
-            "description": "Tor Browser without the network integrations, aimed at providing anti-fingerprinting browser technologies to VPN users, though it does not require Mullvad VPN.",
+            "description": "Privacy browser focused on anti-fingerprinting protection.",
             "tags": []
           },
           {
@@ -11680,6 +11692,12 @@
       {
         "name": "Clipboard Tools",
         "resources": [
+          {
+            "name": "Buffer",
+            "url": "https://samirpatil2000.github.io/products/buffer/",
+            "description": "Lightweight native clipboard manager with bookmarks and OCR for images.",
+            "tags": []
+          },
           {
             "name": "CleanClip",
             "url": "https://cleanclip.cc",
@@ -42295,6 +42313,12 @@
             "tags": []
           },
           {
+            "name": "TradingAgents",
+            "url": "https://github.com/TauricResearch/TradingAgents",
+            "description": "A multi-agents LLM financial trading framework.",
+            "tags": []
+          },
+          {
             "name": "instructor",
             "url": "https://github.com/567-labs/instructor",
             "description": "A library for extracting structured data from LLMs, powered by Pydantic.",
@@ -51294,6 +51318,12 @@
             "tags": []
           },
           {
+            "name": "juyterman1000/entroly",
+            "url": "https://github.com/juyterman1000/entroly",
+            "description": "Information-theoretic Context Engineering Engine that uses reinforcement learning to intelligently prune and select optimal RAG fragments.",
+            "tags": []
+          },
+          {
             "name": "memvid/memvid",
             "url": "https://github.com/memvid/memvid",
             "description": "[ memvid-core ] - A single-file portable memory layer for AI agents with vector search, full-text search, and long-term recall packed into one .mv2 file",
@@ -52453,6 +52483,12 @@
             "name": "sorairolake/scryptenc-rs",
             "url": "https://github.com/sorairolake/scryptenc-rs",
             "description": "[ scryptenc ] - An implementation of the scrypt encrypted data format.",
+            "tags": []
+          },
+          {
+            "name": "verifyfetch",
+            "url": "https://github.com/hamzaydia/verifyfetch",
+            "description": "Streaming file integrity verification using Rust/WASM SHA-256 hashing with constant memory. Resumable downloads for large files in the browser.",
             "tags": []
           }
         ]
@@ -54880,8 +54916,8 @@
         "name": "Text search",
         "resources": [
           {
-            "name": "andylokandy/simsearch-rs",
-            "url": "https://github.com/andylokandy/simsearch-rs",
+            "name": "andylokandy/simsearch",
+            "url": "https://github.com/andylokandy/simsearch",
             "description": "[ simsearch ] - A simple and lightweight fuzzy search engine that works in memory, searching for similar strings",
             "tags": []
           },
@@ -67809,6 +67845,12 @@
             "name": "LocalAI",
             "url": "https://github.com/mudler/LocalAI",
             "description": "Open Source OpenAI alternative, self-host AI models.",
+            "tags": []
+          },
+          {
+            "name": "localaik",
+            "url": "https://github.com/harshaneel/localaik",
+            "description": "Local compatibility proxy for the Gemini and OpenAI APIs. Run one container locally and test both SDK protocol shapes on the same port without API keys or network access.",
             "tags": []
           },
           {
