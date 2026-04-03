@@ -7374,6 +7374,12 @@
             "tags": []
           },
           {
+            "name": "ReadAny",
+            "url": "https://codedogqby.github.io/ReadAny/",
+            "description": "AI-powered e-book reader with semantic search, chat, and note management.",
+            "tags": []
+          },
+          {
             "name": "Scribus",
             "url": "https://www.scribus.net/",
             "description": "Professional layout and publishing software.",
@@ -8842,6 +8848,12 @@
             "name": "neo4j",
             "url": "https://neo4j.com",
             "description": "The leading graph database!",
+            "tags": []
+          },
+          {
+            "name": "Paul",
+            "url": "https://guillim.github.io/products/paul",
+            "description": "AI-first PostgreSQL client for getting fast answers from your database with read-only access by default.",
             "tags": []
           },
           {
@@ -11399,6 +11411,12 @@
             "name": "BlockBlock",
             "url": "https://objective-see.com/products/blockblock.html",
             "description": "Me: \"Please alert me whenever anything is persistently installed.\" BlockBlock: \"You got it\"",
+            "tags": []
+          },
+          {
+            "name": "ClearanceKit",
+            "url": "https://craigjbass.github.io/clearancekit/",
+            "description": "Policy-based file access control tool that blocks unauthorized processes from reading or modifying protected paths.",
             "tags": []
           },
           {
@@ -35168,6 +35186,12 @@
             "tags": []
           },
           {
+            "name": "NumKong",
+            "url": "https://github.com/ashvardanian/NumKong",
+            "description": "SIMD-accelerated distances, dot products, matrix ops, geospatial & geometric kernels for 16 numeric types. [Apache2] (previously named SimSIMD)",
+            "tags": []
+          },
+          {
             "name": "OMath",
             "url": "https://github.com/orange-cpp/omath",
             "description": "Cross-platform modern general purpose math library written in C++23 that suitable for cheat/game development. [ZLIB]",
@@ -35219,12 +35243,6 @@
             "name": "sebsjames/maths",
             "url": "https://github.com/sebsjames/maths",
             "description": "A templated C++20 math library which emphasizes convenience and pleasure for the client programmer (used in mathplot ).  [Apache2] website",
-            "tags": []
-          },
-          {
-            "name": "SimSIMD",
-            "url": "https://github.com/ashvardanian/SimSIMD",
-            "description": "Vector distance functions for x86 AVX2, AVX-512, Arm NEON, and SVE. [Apache2]",
             "tags": []
           },
           {
@@ -43177,7 +43195,7 @@
           {
             "name": "awesome-sqlite",
             "url": "https://github.com/planetopendata/awesome-sqlite",
-            "description": "SQlite",
+            "description": "SQLite",
             "tags": []
           },
           {
@@ -43189,7 +43207,7 @@
           {
             "name": "sqlite3",
             "url": "https://docs.python.org/3/library/sqlite3.html",
-            "description": "(Python standard library) SQlite interface compliant with DB-API 2.0.",
+            "description": "(Python standard library) SQLite interface compliant with DB-API 2.0.",
             "tags": []
           },
           {
@@ -47255,6 +47273,12 @@
             "name": "Lighthouse",
             "url": "https://github.com/sigp/lighthouse",
             "description": "Ethereum Consensus Layer (CL) Client",
+            "tags": []
+          },
+          {
+            "name": "linera-io/linera-protocol",
+            "url": "https://github.com/linera-io/linera-protocol",
+            "description": "A decentralized blockchain infrastructure designed for highly scalable, low-latency Web3 applications",
             "tags": []
           },
           {
@@ -67806,6 +67830,12 @@
         "name": "Artificial Intelligence",
         "resources": [
           {
+            "name": "AegisFlow",
+            "url": "https://github.com/saivedant169/AegisFlow",
+            "description": "AI gateway for routing, securing, and monitoring LLM traffic across 10+ providers. OpenAI-compatible API, WASM policy plugins, canary rollouts, real-time dashboard.",
+            "tags": []
+          },
+          {
             "name": "ai",
             "url": "https://github.com/joakimcarlsson/ai",
             "description": "A Go toolkit for building AI agents and applications across multiple providers with unified LLM, embeddings, tool calling, and MCP integration.",
@@ -67875,6 +67905,12 @@
             "name": "otellix",
             "url": "https://github.com/oluwajubelo1/otellix",
             "description": "OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments.",
+            "tags": []
+          },
+          {
+            "name": "routex",
+            "url": "https://github.com/Ad3bay0c/routex",
+            "description": "YAML-driven multi-agent AI runtime for Go with Erlang-style supervision, MCP tool server support, and a CLI.",
             "tags": []
           }
         ]
@@ -68698,6 +68734,12 @@
             "url": "https://github.com/theckman/yacspin",
             "description": "Yet Another CLi Spinner package, for working with terminal spinners.",
             "tags": []
+          },
+          {
+            "name": "goscaf",
+            "url": "https://github.com/iyashjayesh/goscaf",
+            "description": "goscaf generates opinionated, production-quality Go project boilerplate via an interactive CLI. Stop copy-pasting skeleton code between projects.",
+            "tags": []
           }
         ]
       },
@@ -68720,6 +68762,12 @@
             "name": "argv",
             "url": "https://github.com/cosiner/argv",
             "description": "Go library to split command line string as arguments array using the bash syntax.",
+            "tags": []
+          },
+          {
+            "name": "boa",
+            "url": "https://github.com/GiGurra/boa",
+            "description": "Declarative flags, env vars, validation, and config files from struct tags. Built on cobra.",
             "tags": []
           },
           {
