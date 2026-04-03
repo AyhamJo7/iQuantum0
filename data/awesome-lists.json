@@ -7061,7 +7061,7 @@
           {
             "name": "Anytype",
             "url": "https://anytype.io/",
-            "description": "Privacy-focused Notion alternative with local storage, optional sync, and self-hosted server support.",
+            "description": "Local-first note-taking and knowledge management app.",
             "tags": []
           },
           {
@@ -7187,7 +7187,7 @@
           {
             "name": "Noteship",
             "url": "https://noteship.com",
-            "description": "Turn notes into knowledge (spreadsheet view, heading summaries, etc.). Works offline, everything is saved locally.",
+            "description": "Local-first note-taking app for turning notes into structured knowledge.",
             "tags": []
           },
           {
@@ -7206,6 +7206,12 @@
             "name": "OutlineEdit 3",
             "url": "https://outlineedit.com",
             "description": "Fully-featured outline editor, for everyone who loves great structured notes.",
+            "tags": []
+          },
+          {
+            "name": "Revu",
+            "url": "https://revu.cards/",
+            "description": "Local-first spaced repetition app with FSRS scheduling and Anki import.",
             "tags": []
           },
           {
@@ -7229,7 +7235,7 @@
           {
             "name": "Stik",
             "url": "https://github.com/0xMassi/stik_app",
-            "description": "Quick-capture note app with global hotkey and on-device AI semantic search. Plain markdown files, 8MB binary.",
+            "description": "Quick-capture markdown notes app with hotkeys and AI semantic search.",
             "tags": []
           },
           {
@@ -7253,7 +7259,7 @@
           {
             "name": "VNote",
             "url": "https://app.vnote.fun/",
-            "description": "A Qt-based application designed to provide a pleasant note-taking platform with excellent editing experience.",
+            "description": "Open-source Markdown note-taking app with a polished editor.",
             "tags": []
           },
           {
@@ -7334,7 +7340,7 @@
           {
             "name": "BookShelves",
             "url": "https://getbookshelves.app/",
-            "description": "Ebook reader and library manager with 100,000+ free public domain books and iCloud sync across Mac, iPhone, and iPad.",
+            "description": "Ebook reader and library manager with public-domain books and sync.",
             "tags": []
           },
           {
@@ -7370,7 +7376,7 @@
           {
             "name": "Readest",
             "url": "https://github.com/readest/readest",
-            "description": "Readest is an ebook reader with cross-platform access, powerful tools, and an intuitive interface.",
+            "description": "Open-source ebook reader with a clean interface and powerful reading tools.",
             "tags": []
           },
           {
@@ -7453,7 +7459,7 @@
           {
             "name": "Saga Reader",
             "url": "https://github.com/sopaco/saga-reader",
-            "description": "Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.",
+            "description": "AI-powered web and RSS reader.",
             "tags": []
           },
           {
@@ -7506,7 +7512,7 @@
           {
             "name": "PDF Auditor",
             "url": "https://pura-vida.in/apps/pdf-auditor/?utm_source=github&utm_medium=awesome-mac",
-            "description": "PDF forensics tool for analyzing metadata, fonts, JavaScript, security risks, and structural integrity.",
+            "description": "PDF inspection tool for analyzing metadata, structure, and security risks.",
             "tags": []
           },
           {
@@ -7584,7 +7590,7 @@
           {
             "name": "PDFsail",
             "url": "https://pdfsail.com/",
-            "description": "PDFsail offers free online PDF tools for editing, converting, merging, compressing, and OCR. No download required. Try this AI-powered all-in-one PDF solution now!.",
+            "description": "All-in-one PDF tool for editing, converting, merging, compressing, and OCR.",
             "tags": []
           },
           {
@@ -7739,7 +7745,7 @@
           {
             "name": "Trae",
             "url": "https://www.trae.ai/",
-            "description": "An IDE by ByteDance with advanced AI capabilities, including two modes: SOLO for fully AI-driven development and IDE for a more traditional editing experience.",
+            "description": "AI-powered IDE for coding and software development.",
             "tags": []
           },
           {
@@ -7900,7 +7906,7 @@
           {
             "name": "FlyEnv",
             "url": "https://www.flyenv.com",
-            "description": "An all-in-one tool integrating languages, databases, and services to quickly set up your local full-stack development environment.",
+            "description": "Local development environment manager for languages, databases, and services.",
             "tags": []
           },
           {
@@ -7948,13 +7954,13 @@
           {
             "name": "Itsyconnect",
             "url": "https://github.com/nickustinov/itsyconnect-macos",
-            "description": "App Store Connect management tool for editing metadata, handling TestFlight, reviews, analytics, and AI-powered localization.",
+            "description": "App Store Connect management tool for metadata, TestFlight, reviews, analytics, and localization.",
             "tags": []
           },
           {
             "name": "SaneHosts",
             "url": "https://sanehosts.com",
-            "description": "System-level ad/tracker blocker via /etc/hosts with 200+ curated blocklists, 5 protection levels, and Touch ID lock.",
+            "description": "Hosts-based ad and tracker blocker.",
             "tags": []
           },
           {
@@ -7996,7 +8002,7 @@
           {
             "name": "LINQPad",
             "url": "https://www.linqpad.net/",
-            "description": "Scratchpad for .NET development with instant feedback, LINQ query support, and database connectivity.",
+            "description": ".NET scratchpad for running code, queries, and database exploration.",
             "tags": []
           },
           {
@@ -8044,13 +8050,13 @@
           {
             "name": "Poirot",
             "url": "https://github.com/LeonardoCardoso/Poirot",
-            "description": "A macOS companion app for browsing Claude Code sessions, exploring diffs, and re-running commands.",
+            "description": "Companion app for browsing Claude Code sessions, reviewing diffs, and rerunning commands.",
             "tags": []
           },
           {
             "name": "PortKiller",
             "url": "https://github.com/productdevbook/port-killer",
-            "description": "Cross-platform port management tool to monitor ports, manage Kubernetes port forwards and Cloudflare Tunnels, and kill processes in one click.",
+            "description": "Port management tool for monitoring ports, managing forwards and tunnels, and killing processes.",
             "tags": []
           },
           {
@@ -8140,7 +8146,7 @@
           {
             "name": "Testpiler",
             "url": "https://furnacecreek.org/testpiler/",
-            "description": "Testpiler is an app that allows you to easily convert unit tests written in Swift from XCTest to the new Swift Testing framework.",
+            "description": "Tool for converting XCTest test suites to Swift Testing.",
             "tags": []
           },
           {
@@ -8252,7 +8258,7 @@
           {
             "name": "Echolon",
             "url": "https://echolon.app",
-            "description": "Free and Open Source Postman alternative for Mac, Windows, Linux and the Web. Powerful, Local-First, offline and git friendly",
+            "description": "Open-source API client and Postman alternative.",
             "tags": []
           },
           {
@@ -8282,7 +8288,7 @@
           {
             "name": "Maestro",
             "url": "https://maestro.dev/",
-            "description": "End-to-end testing for Mobile and Web apps. Supports iOS, Android, React Native, Flutter and more.",
+            "description": "End-to-end testing framework for mobile and web apps.",
             "tags": []
           },
           {
@@ -8620,7 +8626,7 @@
           {
             "name": "Cocoa-Way",
             "url": "https://github.com/J-x-Z/cocoa-way",
-            "description": "Native Wayland compositor for running Linux GUI apps on macOS without VM overhead. Uses waypipe for seamless integration.",
+            "description": "Wayland compositor for running Linux GUI apps without a virtual machine.",
             "tags": []
           },
           {
@@ -9980,7 +9986,7 @@
           {
             "name": "Maestro",
             "url": "https://runmaestro.ai",
-            "description": "Run multiple AI coding agents in parallel with a spec-driven workflow.",
+            "description": "Multi-agent AI coding tool with spec-driven workflows.",
             "tags": []
           },
           {
@@ -11501,6 +11507,12 @@
             "name": "RansomWhere?",
             "url": "https://objective-see.com/products/ransomwhere.html",
             "description": "Generic Ransomware Detection.",
+            "tags": []
+          },
+          {
+            "name": "Santa",
+            "url": "https://northpole.security/",
+            "description": "Binary and file access authorization system.",
             "tags": []
           },
           {
