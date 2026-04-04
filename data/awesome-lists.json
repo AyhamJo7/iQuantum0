@@ -55768,6 +55768,12 @@
             "tags": []
           },
           {
+            "name": "SigNoz",
+            "url": "https://github.com/SigNoz/signoz",
+            "description": "(label: good first issue) An Open Source observability platform that monitors your applications and services. It comes with out-of-box charts for key application metrics like p99 latency, error rate, Apdex, and operations per second. You can also monitor the database and external calls made from your application.",
+            "tags": []
+          },
+          {
             "name": "Terraform",
             "url": "https://github.com/hashicorp/terraform",
             "description": "(label: good first issue) A tool for building, changing, and versioning infrastructure safely and efficiently.",
@@ -56459,12 +56465,6 @@
             "tags": []
           },
           {
-            "name": "OrgManager",
-            "url": "https://github.com/orgmanager/orgmanager",
-            "description": "(label: beginners-only) Supercharge your GitHub organizations!",
-            "tags": []
-          },
-          {
             "name": "PHP Censor",
             "url": "https://github.com/php-censor/php-censor",
             "description": "(label: good-for-beginner) Open source self-hosted continuous integration server for PHP projects.",
@@ -57078,6 +57078,12 @@
             "name": "reatom",
             "url": "https://github.com/artalar/reatom",
             "description": "(label: good first issue) Reatom is declarative and reactive state manager, designed for both simple and complex applications.",
+            "tags": []
+          },
+          {
+            "name": "SigNoz",
+            "url": "https://github.com/SigNoz/signoz",
+            "description": "(label: good first issue) An Open Source observability platform that monitors your applications and services. It comes with out-of-box charts for key application metrics like p99 latency, error rate, Apdex, and operations per second. You can also monitor the database and external calls made from your application.",
             "tags": []
           },
           {
