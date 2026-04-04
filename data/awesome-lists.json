@@ -37656,6 +37656,12 @@
             "tags": []
           },
           {
+            "name": "SIMD Everywhere",
+            "url": "https://github.com/simd-everywhere/simde",
+            "description": "Implementations of SIMD instruction sets for systems which don't natively support them. [MIT]",
+            "tags": []
+          },
+          {
             "name": "SLJIT",
             "url": "https://github.com/zherczeg/sljit",
             "description": "Platform independent low-level JIT compiler. [BSD] website",
@@ -48526,6 +48532,12 @@
             "tags": []
           },
           {
+            "name": "iwe-org/iwe",
+            "url": "https://github.com/iwe-org/iwe",
+            "description": "[ iwe ] - A markdown-based knowledge management tool with LSP server and CLI",
+            "tags": []
+          },
+          {
             "name": "kruseio/hygg",
             "url": "https://github.com/kruseio/hygg",
             "description": "[ hygg ] - \ud83d\udcda Simplifying the way you read. Minimalistic Vim-like TUI document reader.",
@@ -51219,6 +51231,12 @@
             "name": "chelsea0x3b/dfdx",
             "url": "https://github.com/chelsea0x3b/dfdx",
             "description": "CUDA accelerated machine learning framework that leverages many of Rust's unique features.",
+            "tags": []
+          },
+          {
+            "name": "EricLBuehler/mistral.rs",
+            "url": "https://github.com/EricLBuehler/mistral.rs",
+            "description": "[ mistralrs ] - Fast, flexible LLM inference engine supporting multimodal models, quantization (GGUF/GPTQ/ISQ), and OpenAI-compatible API",
             "tags": []
           },
           {
@@ -68424,6 +68442,12 @@
             "url": "https://github.com/wabarc/wayback",
             "description": "A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.",
             "tags": []
+          },
+          {
+            "name": "Wisp",
+            "url": "https://github.com/wisp-trading/wisp",
+            "description": "Event-driven trading framework for Go. Spot, perpetual futures, prediction markets. Multi-exchange (Bybit, Hyperliquid, Polymarket).",
+            "tags": []
           }
         ]
       },
@@ -72679,6 +72703,12 @@
             "tags": []
           },
           {
+            "name": "indicator",
+            "url": "https://github.com/cinar/indicator",
+            "description": "Technical analysis library providing financial indicators, strategies, and backtesting framework.",
+            "tags": []
+          },
+          {
             "name": "ledger",
             "url": "https://github.com/formancehq/ledger",
             "description": "A programmable financial ledger that provides a foundation for money-moving applications.",
@@ -73074,6 +73104,12 @@
             "name": "go-enum-encoding",
             "url": "https://github.com/nikolaydubina/go-enum-encoding",
             "description": "Code generation for enum encoding from code comments.",
+            "tags": []
+          },
+          {
+            "name": "go-apispec",
+            "url": "https://github.com/antst/go-apispec",
+            "description": "Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection.",
             "tags": []
           },
           {
@@ -73587,6 +73623,12 @@
             "name": "workerpool",
             "url": "https://github.com/gammazero/workerpool",
             "description": "Goroutine pool that limits the concurrency of task execution, not the number of tasks queued.",
+            "tags": []
+          },
+          {
+            "name": "autopool",
+            "url": "https://github.com/AshvinBambhaniya/autopool",
+            "description": "Zero-config, auto-scaling worker pool for Go with priority-aware scheduling.",
             "tags": []
           }
         ]
