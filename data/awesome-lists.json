@@ -12695,6 +12695,12 @@
             "tags": []
           },
           {
+            "name": "CurrentKey",
+            "url": "https://currentkey.com",
+            "description": "Assign unique icons and names to macOS Spaces and track time spent in apps.",
+            "tags": []
+          },
+          {
             "name": "CursorSense",
             "url": "https://www.plentycom.jp/en/cursorsense/index.html",
             "description": "Mouse & trackpad driver that lets you tweak the acceleration curve and more.",
@@ -32648,6 +32654,12 @@
             "tags": []
           },
           {
+            "name": "stduuid",
+            "url": "https://github.com/mariusbancila/stduuid",
+            "description": "A C++17 cross-platform implementation for UUIDs. [MIT]",
+            "tags": []
+          },
+          {
             "name": "Tink",
             "url": "https://github.com/google/tink",
             "description": "A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. [Apache-2.0]",
@@ -42382,6 +42394,12 @@
             "name": "diffusers",
             "url": "https://github.com/huggingface/diffusers",
             "description": "A library that provides pre-trained diffusion models for generating and editing images, audio, and video.",
+            "tags": []
+          },
+          {
+            "name": "sglang",
+            "url": "https://github.com/sgl-project/sglang",
+            "description": "A high-performance serving framework for large language models and multimodal models.",
             "tags": []
           },
           {
@@ -56173,18 +56191,6 @@
             "tags": []
           },
           {
-            "name": "React server",
-            "url": "https://github.com/redfin/react-server",
-            "description": "(label: good-first-contribution) React framework with server render for blazing fast page load and seamless transitions between pages in the browser.",
-            "tags": []
-          },
-          {
-            "name": "React-content-loader",
-            "url": "https://github.com/danilowoz/create-content-loader",
-            "description": "(label: good first issue) Tool to create your own react-content-loader easily.",
-            "tags": []
-          },
-          {
             "name": "ReactiveSearch",
             "url": "https://github.com/appbaseio/reactivesearch",
             "description": "(label: good first issue-:wave:) A UI components library for Elasticsearch: Available for React, Vue and React Native.",
@@ -56832,12 +56838,6 @@
       {
         "name": "Rust",
         "resources": [
-          {
-            "name": "a-b-street",
-            "url": "https://github.com/a-b-street/abstreet",
-            "description": "(label: good first issue) Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit.",
-            "tags": []
-          },
           {
             "name": "dotenv-linter",
             "url": "https://github.com/dotenv-linter/dotenv-linter",
@@ -70616,6 +70616,12 @@
             "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
             "description": "fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL.",
             "tags": []
+          },
+          {
+            "name": "minisql",
+            "url": "https://github.com/RichardKnop/minisql",
+            "description": "Embedded single file SQL database.",
+            "tags": []
           }
         ]
       },
@@ -74335,6 +74341,12 @@
             "tags": []
           },
           {
+            "name": "scheduler",
+            "url": "https://github.com/yuseferi/scheduler",
+            "description": "Go-native distributed job scheduler with delayed tasks, batched Redis coordination, retries, lease-based recovery, and versioned queue partitioning.",
+            "tags": []
+          },
+          {
             "name": "tasks",
             "url": "https://github.com/madflojo/tasks",
             "description": "An easy to use in-process scheduler for recurring tasks in Go.",
@@ -76840,6 +76852,12 @@
             "name": "go-sse",
             "url": "https://github.com/lampctl/go-sse",
             "description": "Go client and server implementation of HTML server-sent events.",
+            "tags": []
+          },
+          {
+            "name": "fibersse",
+            "url": "https://github.com/vinod-morya/fibersse",
+            "description": "Production-grade Server-Sent Events (SSE) for Fiber v3 with event coalescing, priority lanes, topic wildcards, adaptive throttling, and built-in auth.",
             "tags": []
           },
           {
