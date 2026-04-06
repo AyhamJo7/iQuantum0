@@ -7954,7 +7954,7 @@
           {
             "name": "Itsyconnect",
             "url": "https://github.com/nickustinov/itsyconnect-macos",
-            "description": "App Store Connect management tool for metadata, TestFlight, reviews, analytics, and localization.",
+            "description": "App Store Connect client for metadata, TestFlight, reviews, analytics, and localization.",
             "tags": []
           },
           {
@@ -8056,7 +8056,7 @@
           {
             "name": "PortKiller",
             "url": "https://github.com/productdevbook/port-killer",
-            "description": "Port management tool for monitoring ports, managing forwards and tunnels, and killing processes.",
+            "description": "Tool for inspecting ports, managing forwards and tunnels, and stopping bound processes.",
             "tags": []
           },
           {
@@ -8638,7 +8638,7 @@
           {
             "name": "Mocker",
             "url": "https://github.com/us/mocker",
-            "description": "Docker-compatible container management tool built natively on Apple's Containerization framework.",
+            "description": "Container manager built on Apple's Containerization framework.",
             "tags": []
           },
           {
@@ -8781,7 +8781,7 @@
           {
             "name": "DB Pro",
             "url": "https://dbpro.app",
-            "description": "Modern, cross-platform database client, focusing on performance and a polished developer experience",
+            "description": "Database client for querying and managing SQL databases.",
             "tags": []
           },
           {
@@ -8961,7 +8961,7 @@
           {
             "name": "TrailBase",
             "url": "https://trailbase.io",
-            "description": "Open, sub-millisecond, single-executable FireBase alternative with type-safe APIs, notifications, builtin JS/TS runtime, auth & admin UI built on SQLite, Rust & V8.",
+            "description": "Open-source backend platform with type-safe APIs, auth, and admin tools built on SQLite.",
             "tags": []
           },
           {
@@ -8984,7 +8984,7 @@
           {
             "name": "Awal Terminal",
             "url": "https://github.com/AwalTerminal/Awal-terminal",
-            "description": "LLM-native terminal emulator with AI components, multi-provider profiles, voice input, and Metal GPU rendering.",
+            "description": "AI-native terminal emulator with multi-provider profiles and voice input.",
             "tags": []
           },
           {
@@ -8996,13 +8996,13 @@
           {
             "name": "electerm",
             "url": "https://electerm.github.io/electerm/",
-            "description": "A free, multi-platform Terminal and SSH/SFTP tool with a beautiful interface that is the perfect alternative to XShell for Windows!",
+            "description": "Terminal, SSH, and SFTP client.",
             "tags": []
           },
           {
             "name": "Ghostty",
             "url": "https://github.com/ghostty-org/ghostty",
-            "description": "A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+            "description": "Fast GPU-accelerated terminal emulator.",
             "tags": []
           },
           {
@@ -9050,7 +9050,7 @@
           {
             "name": "Wave",
             "url": "https://github.com/wavetermdev/waveterm",
-            "description": "An open-source terminal that combines traditional terminal features with graphical capabilities like file previews, web browsing, and AI assistance.",
+            "description": "Open-source terminal with built-in file previews, web browsing, and AI tools.",
             "tags": []
           },
           {
@@ -9121,7 +9121,7 @@
           {
             "name": "Droply",
             "url": "https://convergencelab.gumroad.com/l/droply",
-            "description": "A native macOS app for one-click offline batch image background removal with exceptional edge quality.",
+            "description": "Offline batch background remover for images.",
             "tags": []
           },
           {
@@ -9295,7 +9295,7 @@
           {
             "name": "Lunacy",
             "url": "https://icons8.com/lunacy",
-            "description": "A vector graphic design tool for UI/UX with offline support, built-in assets, and real-time collaboration.",
+            "description": "Vector design tool with built-in assets and real-time collaboration.",
             "tags": []
           }
         ]
@@ -9432,7 +9432,7 @@
           {
             "name": "Simple Diagrams",
             "url": "https://www.simplediagrams.com/",
-            "description": "A desktop app for creating hand-drawn-like, fast, clear sketches of problems, processes, workflows, ideas and more!",
+            "description": "Diagramming tool for quick hand-drawn-style sketches.",
             "tags": []
           },
           {
@@ -9479,13 +9479,13 @@
           {
             "name": "macshot",
             "url": "https://github.com/sw33tlie/macshot",
-            "description": "Native macOS screenshot and annotation tool inspired by Flameshot, with screen recording, scroll capture, and OCR.",
+            "description": "Screenshot and annotation tool with screen recording, scrolling capture, and OCR.",
             "tags": []
           },
           {
             "name": "Scap",
             "url": "https://wangchujiang.com/scap/",
-            "description": "Screenshot annotation and canvas creation tool with drawing tools, blur/mosaic, and watermark features.",
+            "description": "Screenshot annotation and canvas tool with blur, mosaic, and watermark features.",
             "tags": []
           },
           {
@@ -9544,7 +9544,7 @@
           {
             "name": "Capty",
             "url": "https://capty.app/",
-            "description": "Professional screen capture and recording for macOS with built-in video editor, annotation tools, and beautiful wallpaper backgrounds.",
+            "description": "Screen capture and recording tool with built-in editing and annotations.",
             "tags": []
           },
           {
@@ -9574,7 +9574,7 @@
           {
             "name": "Licecap",
             "url": "http://www.cockos.com/licecap/",
-            "description": "Record your screen and export to GIF. You can change the recording area anytime during recording.",
+            "description": "Screen recorder that exports directly to GIF.",
             "tags": []
           },
           {
@@ -9604,13 +9604,13 @@
           {
             "name": "Reframed",
             "url": "https://reframed.dev",
-            "description": "A powerful screen recorder with built-in video editor. Capture screen, areas, windows or iOS devices with webcam and microphone - then trim, zoom, style and export.",
+            "description": "Screen recorder with a built-in editor.",
             "tags": []
           },
           {
             "name": "Screen Studio",
             "url": "https://www.screen.studio/",
-            "description": "Record beautiful screens in minutes, with built-in exquisite frame animations, no need for editing.",
+            "description": "Screen recorder for polished videos with automatic motion effects.",
             "tags": []
           },
           {
@@ -9622,13 +9622,13 @@
           {
             "name": "Screenize",
             "url": "https://syi0808.github.io/screenize/",
-            "description": "Open-source screen recording app with auto-zoom, cursor effects, and timeline editing \u2014 Screen Studio alternative.",
+            "description": "Open-source screen recorder with auto-zoom, cursor effects, and timeline editing.",
             "tags": []
           },
           {
             "name": "Screenpipe",
             "url": "https://github.com/mediar-ai/screenpipe",
-            "description": "24/7 local screen & mic recording with AI-powered search. Recall anything you've seen, said, or heard with natural language queries.",
+            "description": "Local screen and microphone recorder with AI search.",
             "tags": []
           },
           {
@@ -9640,7 +9640,7 @@
           {
             "name": "Tight Studio",
             "url": "https://tight.studio/",
-            "description": "Record impressive screens in minutes, with smart zooms, AI voice overs, easy captions, text overlays, and lots more, all in simple clicks.",
+            "description": "Screen recorder with smart zoom, captions, and AI voiceovers.",
             "tags": []
           },
           {
@@ -9693,7 +9693,7 @@
           {
             "name": "Eagle App",
             "url": "https://en.eagle.cool/",
-            "description": "Simple and intuitive file manager with tag and annotaion for all your design files. Supports all major source, image, RAW, video, 3D, audio, font, and office files.",
+            "description": "Asset manager for images, videos, audio, fonts, and design files.",
             "tags": []
           },
           {
@@ -9843,7 +9843,7 @@
           {
             "name": "Zipic",
             "url": "https://zipic.app/",
-            "description": "Batch image compression with custom presets, automated workflows, and integrations with Shortcuts and Raycast.",
+            "description": "Batch image compression tool with presets and automation.",
             "tags": []
           }
         ]
@@ -9860,13 +9860,13 @@
           {
             "name": "Apple On-Device OpenAI",
             "url": "https://github.com/gety-ai/apple-on-device-openai",
-            "description": "Creates an OpenAI-compatible API server from Apple on-device Foundation Models for local use.",
+            "description": "Runs Apple on-device models behind an OpenAI-compatible API.",
             "tags": []
           },
           {
             "name": "Atomic Chat",
             "url": "https://github.com/AtomicBot-ai/Atomic-Chat",
-            "description": "Open-source AI chat client for local LLMs and cloud models with MCP and OpenAI-compatible API support.",
+            "description": "Open-source AI chat client for local and cloud models with MCP support.",
             "tags": []
           },
           {
@@ -9890,7 +9890,7 @@
           {
             "name": "Claude God",
             "url": "https://claudegod.app",
-            "description": "Monitor Claude AI usage quotas, costs, and session analytics with real-time gauges, timeline, and notifications.",
+            "description": "Monitor Claude usage, costs, and session stats.",
             "tags": []
           },
           {
@@ -9902,7 +9902,7 @@
           {
             "name": "Claudoscope",
             "url": "https://github.com/cordwainersmith/claudoscope",
-            "description": "Browse, analyze, and manage Claude Code sessions with timelines, cost estimates, and secret scanning.",
+            "description": "Tool for browsing and analyzing Claude Code sessions.",
             "tags": []
           },
           {
@@ -9944,19 +9944,19 @@
           {
             "name": "Fluent",
             "url": "https://fluentmac.app",
-            "description": "Native AI assistant that brings 450+ models (BYOK) into any macOS app with instant app & browser context, customizable actions, shortcuts, and local models support.",
+            "description": "AI assistant that works across apps with model and context integration.",
             "tags": []
           },
           {
             "name": "GroAsk",
             "url": "https://groask.com",
-            "description": "A macOS menu bar AI launcher. Press \u2325Space to send text to ChatGPT, Claude, Gemini, and CLI agents \u2014 no API keys needed.",
+            "description": "Menu bar launcher that sends selected text to AI assistants and CLI agents.",
             "tags": []
           },
           {
             "name": "RecurseChat",
             "url": "https://recurse.chat",
-            "description": "RecurseChat is a personal, local-first and private AI Chat App. Features a simple interface, powerful customizations and blazingly-fast speed.",
+            "description": "Local-first AI chat app with customizable workflows.",
             "tags": []
           },
           {
@@ -9992,13 +9992,13 @@
           {
             "name": "MiniClaw",
             "url": "https://miniclaw.bot",
-            "description": "macOS-native personal AI OS with 16 plugins, persistent vector memory, and multi-agent routing. Local-first, one-line install.",
+            "description": "Local-first personal AI agent with memory and automation tools.",
             "tags": []
           },
           {
             "name": "Orchard",
             "url": "https://orchard.5km.tech/",
-            "description": "MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.",
+            "description": "MCP server that connects AI assistants to Apple apps.",
             "tags": []
           },
           {
@@ -10010,7 +10010,7 @@
           {
             "name": "remio",
             "url": "https://www.remio.ai/?utm_source=github_list",
-            "description": "A personal ChatGPT that \u200b\u200bresponds based on your knowledge\u200b\u200b. Lastest LLMs, Local first, and BYOK supported.",
+            "description": "Local-first AI chat client that answers from your knowledge base.",
             "tags": []
           },
           {
@@ -10033,7 +10033,7 @@
           {
             "name": "BlurScreen App",
             "url": "https://www.blurscreen.app",
-            "description": "Blur sensitive data instantly anywhere on screen, while recording or screen sharing. No post editing required.",
+            "description": "Instantly blur sensitive on-screen content for recording or screen sharing.",
             "tags": []
           },
           {
@@ -10045,13 +10045,13 @@
           {
             "name": "DingTalk",
             "url": "https://www.dingtalk.com/en",
-            "description": "Free, powerful and professional office tool used by over 5 million enterprises and organizations globally.",
+            "description": "Team communication and collaboration platform.",
             "tags": []
           },
           {
             "name": "Discord",
             "url": "https://discordapp.com/",
-            "description": "All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.",
+            "description": "Voice, text, and community chat platform.",
             "tags": []
           },
           {
@@ -10063,19 +10063,19 @@
           {
             "name": "Ferdium",
             "url": "https://ferdium.org/",
-            "description": "Desktop app that helps you organize how you use your favourite apps by combining them into one application. It is based on Franz with the difference that Ferdium gives you many additional features and doesn't restrict its usage.",
+            "description": "Messaging workspace that combines multiple web apps in one place.",
             "tags": []
           },
           {
             "name": "Franz",
             "url": "http://meetfranz.com/",
-            "description": "Electron based, multi-protocol wrapper for web-based chat. One application, 23 messenger services.",
+            "description": "Messaging app that combines multiple chat services in one place.",
             "tags": []
           },
           {
             "name": "Gitter",
             "url": "https://gitter.im",
-            "description": "Instant messaging and chat room system for developers as well as GitHub users. Developer friendly with Markdown syntax support.",
+            "description": "Chat platform for developers and GitHub communities.",
             "tags": []
           },
           {
@@ -10117,7 +10117,7 @@
           {
             "name": "Mattermost",
             "url": "https://mattermost.com/download/",
-            "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.",
+            "description": "Open-source team collaboration platform.",
             "tags": []
           },
           {
@@ -10159,7 +10159,7 @@
           {
             "name": "Stack",
             "url": "https://getstack.app/",
-            "description": "Open, organize and use multiple web apps on a single screen. Stack your apps by categories or projects.",
+            "description": "Workspace browser for organizing multiple web apps on one screen.",
             "tags": []
           },
           {
@@ -10171,7 +10171,7 @@
           {
             "name": "Teambition",
             "url": "https://www.teambition.com",
-            "description": "Team collaboration tool, including many features like task plan, schedule, file sharing, instant discussion and everything you need when collaborating with other team members.",
+            "description": "Team collaboration tool for tasks, schedules, files, and discussions.",
             "tags": []
           },
           {
@@ -10195,7 +10195,7 @@
           {
             "name": "Wavebox",
             "url": "https://wavebox.io",
-            "description": "A revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.",
+            "description": "Browser workspace for organizing web apps and team tools.",
             "tags": []
           },
           {
@@ -10331,7 +10331,7 @@
           {
             "name": "Dropshare",
             "url": "https://dropshare.app",
-            "description": "Powerful menu bar application for sharing screen shots, screen recordings and all other files with over 27 storage providers.",
+            "description": "File sharing tool for screenshots, screen recordings, and other files.",
             "tags": []
           },
           {
@@ -10384,7 +10384,7 @@
           {
             "name": "R-Studio for Mac",
             "url": "http://www.r-studio.com/data_recovery_macintosh/",
-            "description": "Powerful tool for recovering data on disks, even if their partitions are formatted, damaged or deleted.",
+            "description": "Data recovery tool for damaged, deleted, or formatted disks.",
             "tags": []
           },
           {
@@ -10413,13 +10413,13 @@
           {
             "name": "Aegisub",
             "url": "https://github.com/Aegisub/Aegisub",
-            "description": "Free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview.",
+            "description": "Open-source subtitle editor with timing and styling tools.",
             "tags": []
           },
           {
             "name": "Audio Profile Manager",
             "url": "https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&platform=mac",
-            "description": "Allows you to pin input/output devices for each particular combination of connected devices. May suppress HDMI displays from being chosen.",
+            "description": "Audio device manager for saving input and output setups.",
             "tags": []
           },
           {
@@ -10443,7 +10443,7 @@
           {
             "name": "BeMyEars",
             "url": "https://www.bemyears.cn/",
-            "description": "Free for hearing impaired, System wide on-device live caption, multi language support, just like you have YouTube subtitles everywhere.",
+            "description": "Live captioning tool with on-device transcription and multilingual support.",
             "tags": []
           },
           {
@@ -10479,13 +10479,13 @@
           {
             "name": "Elmedia Player",
             "url": "https://mac.eltima.com/media-player.html",
-            "description": "This media player is a super versatile app for any file format you probably may think of: FLV, MP4, AVI, MOV, DAT, MKV, MP3, FLAC, M4V are all supported as well as many others.",
+            "description": "Media player with broad audio and video format support.",
             "tags": []
           },
           {
             "name": "FineTune",
             "url": "https://github.com/ronitsingh10/FineTune",
-            "description": "Per-app volume control with multi-device output and 10-band EQ. Free SoundSource alternative.",
+            "description": "Per-app volume controller with multi-device output and 10-band EQ.",
             "tags": []
           },
           {
@@ -10503,7 +10503,7 @@
           {
             "name": "HandBrake",
             "url": "https://handbrake.fr/",
-            "description": "Tool for converting video from nearly any format to a selection of modern, widely supported codecs.",
+            "description": "Video transcoder for converting media to modern formats.",
             "tags": []
           },
           {
@@ -10533,13 +10533,13 @@
           {
             "name": "Kodi",
             "url": "https://kodi.tv/",
-            "description": "Award-winning free and open-source (GPL) software media center for playing videos, music, pictures, games, and more.",
+            "description": "Open-source media center for video, music, pictures, and more.",
             "tags": []
           },
           {
             "name": "LMMS",
             "url": "https://lmms.io",
-            "description": "Formerly \"Linux MultiMedia Studio\", LMMS is a powerful Digital Audio Workstation designed like FL Studio (formerly Fruity Loops).",
+            "description": "Open-source digital audio workstation for music production.",
             "tags": []
           },
           {
@@ -10551,7 +10551,7 @@
           {
             "name": "LyricGlow",
             "url": "https://github.com/ateymoori/lyricglow",
-            "description": "Synchronized lyrics player with word-by-word glow effects for Spotify, Apple Music, and YouTube Music.",
+            "description": "Synced lyrics player with word-by-word glow effects.",
             "tags": []
           },
           {
@@ -10599,7 +10599,7 @@
           {
             "name": "Movie Catcher",
             "url": "https://evilcult.github.io/moviecatcher/",
-            "description": "Movie movie and online viewing offline download software, with Baidu cloud to make offline download and online playback.",
+            "description": "Tool for finding, streaming, and offline downloading movies.",
             "tags": []
           },
           {
@@ -10629,7 +10629,7 @@
           {
             "name": "Natron",
             "url": "https://natrongithub.github.io/",
-            "description": "Open-source compositing software. Node-graph based. Similar in functionality to Adobe After Effects and Nuke by The Foundry.",
+            "description": "Open-source node-based compositing software.",
             "tags": []
           },
           {
@@ -10677,7 +10677,7 @@
           {
             "name": "Popcorn Time",
             "url": "https://popcorn-time.site/",
-            "description": "Watch torrent movies instantly, This Popcorn Time service will never be taken down. Download and enjoy.",
+            "description": "Streaming app for browsing and watching torrent-based movies.",
             "tags": []
           },
           {
@@ -10731,7 +10731,7 @@
           {
             "name": "Stremio",
             "url": "https://www.stremio.com/",
-            "description": "Movies, TV shows, series, live television or web channels like YouTube and Twitch.tv - you can find all this on Stremio.",
+            "description": "Media center for movies, TV, live channels, and streaming sources.",
             "tags": []
           },
           {
@@ -10749,7 +10749,7 @@
           {
             "name": "trax",
             "url": "https://github.com/nbonamy/trax",
-            "description": "Free, open-source music library management tool with audio conversion and tag management functionalities.",
+            "description": "Music library manager with audio conversion and tag editing.",
             "tags": []
           },
           {
@@ -10761,13 +10761,13 @@
           {
             "name": "Tuneful",
             "url": "https://www.tuneful.dev",
-            "description": "Control your Spotify and Apple Music from the notch, menu bar or mini player. Efortlessly and natively.",
+            "description": "Controller for Spotify and Apple Music from the menu bar or mini player.",
             "tags": []
           },
           {
             "name": "VLC",
             "url": "http://www.videolan.org/index.html",
-            "description": "Free, open-source, cross-platform multimedia player and framework that plays most multimedia files, DVDs, Audio CDs, VCDs, and various streaming protocols.",
+            "description": "Open-source multimedia player for most audio, video, and streaming formats.",
             "tags": []
           },
           {
@@ -10803,7 +10803,7 @@
           {
             "name": "YouTube Music",
             "url": "https://th-ch.github.io/youtube-music/",
-            "description": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader).",
+            "description": "Desktop player for YouTube Music with plugin support.",
             "tags": []
           },
           {
@@ -10844,13 +10844,13 @@
           {
             "name": "GarageBand",
             "url": "https://www.apple.com/mac/garageband/",
-            "description": "A free Digital Audio Workstation (DAW) from Apple\uff0cproviding a simple interface and professional level audio production functions.",
+            "description": "Digital audio workstation for recording and music production.",
             "tags": []
           },
           {
             "name": "Logic Pro X",
             "url": "https://www.apple.com/logic-pro/",
-            "description": "A professional Digital Audio Workstation (DAW) from Apple\uff0cproviding complete audio production functions along with high quality native plugins and soundtracks. With native Apple Silicon support.",
+            "description": "Professional digital audio workstation for music and audio production.",
             "tags": []
           },
           {
@@ -10897,19 +10897,19 @@
           {
             "name": "JDownloader",
             "url": "http://jdownloader.org/",
-            "description": "Free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.",
+            "description": "Open-source download manager for links, files, and hosted content.",
             "tags": []
           },
           {
             "name": "Motrix",
             "url": "https://motrix.app/",
-            "description": "Motrix is a full-featured download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, Baidu Net Disk, etc.",
+            "description": "Download manager for HTTP, FTP, BitTorrent, magnet links, and more.",
             "tags": []
           },
           {
             "name": "Neat Download Manager",
             "url": "https://www.neatdownloadmanager.com/",
-            "description": "Neat Download Manager is a simple and lightweight GUI wrapped around a powerful and optimized Download-Engine.",
+            "description": "Lightweight download manager with an optimized transfer engine.",
             "tags": []
           },
           {
@@ -10939,7 +10939,7 @@
           {
             "name": "XGetter",
             "url": "https://xgetter.com/",
-            "description": "Media Downloader - Download video, audio from YouTube, Douyin, Facebook, Instagram, Twitter, TikTok and 60+ sites",
+            "description": "Media downloader for video and audio from major websites.",
             "tags": []
           },
           {
@@ -10974,7 +10974,7 @@
           {
             "name": "Dropbox",
             "url": "https://www.dropbox.com/",
-            "description": "File hosting service that offers cloud storage and file synchronization with collaborative edit features.",
+            "description": "Cloud storage and file synchronization service.",
             "tags": []
           },
           {
@@ -11015,7 +11015,7 @@
           {
             "name": "LangSwitcher",
             "url": "https://github.com/reg2005/langSwitcher",
-            "description": "Open-source keyboard layout text converter. Select text typed in wrong layout, press \u21e7\u21e7 and it's instantly converted. Supports EN/RU/DE/FR/ES.",
+            "description": "Keyboard layout converter for mistyped text.",
             "tags": []
           },
           {
@@ -11045,7 +11045,7 @@
           {
             "name": "InputSourcePro",
             "url": "https://inputsource.pro/",
-            "description": "A tool for multilingual users that automatically switches the input source across applications and websites.",
+            "description": "Tool for automatically switching input sources by app or website.",
             "tags": []
           }
         ]
@@ -11080,7 +11080,7 @@
           {
             "name": "FnKey",
             "url": "https://github.com/evoleinik/fnkey",
-            "description": "Hold Fn, speak, release \u2014 text is pasted instantly. Streams audio to Deepgram Nova-3 in real time, no batch delay.",
+            "description": "Push-to-talk voice input tool that pastes transcribed text instantly.",
             "tags": []
           },
           {
@@ -11193,7 +11193,7 @@
           {
             "name": "Helium",
             "url": "https://helium.computer/",
-            "description": "A free, open-source, private and honest web browser based on Chromium with Ublock Pre-Installed.",
+            "description": "Privacy-focused Chromium browser with built-in ad blocking.",
             "tags": []
           },
           {
@@ -11312,7 +11312,7 @@
           {
             "name": "iTranslate",
             "url": "http://www.itranslate.com/",
-            "description": "Translate entire website instantly with its built-in browser or with iTranslate Safari extension into over 40 languages.",
+            "description": "Translation app for text and web pages in multiple languages.",
             "tags": []
           },
           {
@@ -11330,7 +11330,7 @@
           {
             "name": "MoePeek",
             "url": "https://github.com/cosZone/MoePeek",
-            "description": "Lightweight translation tool with instant selection translation, OCR screenshot translation, clipboard translation, and manual input translation.",
+            "description": "Translation tool with text selection, OCR, clipboard, and manual input support.",
             "tags": []
           },
           {
@@ -11342,7 +11342,7 @@
           {
             "name": "OpenAI Translator",
             "url": "https://github.com/yetone/openai-translator",
-            "description": "Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+            "description": "Translation app and browser extension powered by AI models.",
             "tags": []
           },
           {
@@ -11354,7 +11354,7 @@
           {
             "name": "Translatium",
             "url": "https://translatium.app",
-            "description": "Translate words, phrases and images between over 100 languages with dictionary, transliteration and voice output support.",
+            "description": "Translation app for words, phrases, and images in 100+ languages.",
             "tags": []
           }
         ]
@@ -11376,7 +11376,7 @@
           {
             "name": "SubManager",
             "url": "https://submanager.app",
-            "description": "Track your subscriptions in one place and get notified when a subscription is due for renewal. Available for macOS, iOS and visionOS and syncs across all your devices.",
+            "description": "Subscription tracker with renewal reminders.",
             "tags": []
           },
           {
@@ -11399,7 +11399,7 @@
           {
             "name": "Deadbolt",
             "url": "https://github.com/alichtman/deadbolt",
-            "description": "The easiest file encryption tool you'll ever use. macOS-compatible, and open-source so you can trust it.",
+            "description": "Open-source file encryption tool.",
             "tags": []
           }
         ]
@@ -11410,7 +11410,7 @@
           {
             "name": "Antivirus One",
             "url": "https://cleanerone.trendmicro.com/antivirus-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject",
-            "description": "Trusted Mac Security Protection: Protect your Mac from viruses, malware and adware. Block potential web threats and protect your Mac against vulnerabilities.",
+            "description": "Security scanner for malware, adware, and web threats.",
             "tags": []
           },
           {
@@ -11422,13 +11422,13 @@
           {
             "name": "ClearanceKit",
             "url": "https://craigjbass.github.io/clearancekit/",
-            "description": "Policy-based file access control tool that blocks unauthorized processes from reading or modifying protected paths.",
+            "description": "Policy-based file access control tool for protected paths.",
             "tags": []
           },
           {
             "name": "Dylib Hijack Scanner",
             "url": "https://objective-see.com/products/dhs.html",
-            "description": "Simple utility that will scan your computer for applications that are either susceptible to dylib hijacking or have been hijacked.",
+            "description": "Utility for scanning apps vulnerable to dylib hijacking.",
             "tags": []
           },
           {
@@ -11470,7 +11470,7 @@
           {
             "name": "MalwareBytes",
             "url": "https://www.malwarebytes.com/mac-download/",
-            "description": "Malwarebytes crushes the growing threat of Mac malware, so you are protected and your machine keeps running silky smooth. Cybersecurity smart enough for the Mac.",
+            "description": "Malware scanner and removal tool.",
             "tags": []
           },
           {
@@ -11482,7 +11482,7 @@
           {
             "name": "Vulert",
             "url": "https://vulert.com",
-            "description": "Vulert secures software by detecting vulnerabilities in open-source dependencies\u2014without accessing your code. It supports Js, PHP, Java, Python, and more",
+            "description": "Dependency vulnerability monitoring service for open-source packages.",
             "tags": []
           },
           {
@@ -11494,7 +11494,7 @@
           {
             "name": "OverSight",
             "url": "https://objective-see.com/products/oversight.html",
-            "description": "Monitor mic and webcam, alerting you when the internal mic is activated, or whenever a process accesses the webcam.",
+            "description": "Tool for monitoring microphone and webcam access.",
             "tags": []
           },
           {
@@ -11530,7 +11530,7 @@
           {
             "name": "swiftGuard",
             "url": "https://github.com/Lennolium/swiftGuard",
-            "description": "Lightweight App that safeguards your System's USB Ports from any Unauthorized Access and performs various Counter-Measures.",
+            "description": "Tool for protecting USB ports from unauthorized access.",
             "tags": []
           },
           {
@@ -11548,7 +11548,7 @@
           {
             "name": "What's Your Sign?",
             "url": "https://objective-see.com/products/whatsyoursign.html",
-            "description": "Adds menu item to Finder.app to display the cryptographic signing information for any file.",
+            "description": "Finder extension for viewing a file's code-signing information.",
             "tags": []
           }
         ]
@@ -11571,13 +11571,13 @@
           {
             "name": "ClashX Guide",
             "url": "https://clashx.tech",
-            "description": "Comprehensive tutorials, tools, and troubleshooting guides for ClashX proxy on macOS. Features YAML validator, rule generator, and optimization tips.",
+            "description": "Guides and troubleshooting tools for ClashX.",
             "tags": []
           },
           {
             "name": "Cloudflare WARP",
             "url": "https://1.1.1.1/",
-            "description": "Replaces the connection between your device and the Internet with a modern, optimized, protocol.",
+            "description": "Secure network service that routes traffic through Cloudflare.",
             "tags": []
           },
           {
@@ -11589,7 +11589,7 @@
           {
             "name": "Hiddify",
             "url": "https://github.com/hiddify/hiddify-app",
-            "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc.",
+            "description": "Multi-platform proxy client for managing subscriptions and multiple proxy protocols.",
             "tags": []
           },
           {
@@ -11607,7 +11607,7 @@
           {
             "name": "Mullvad VPN",
             "url": "https://mullvad.net",
-            "description": "Privacy focused VPN that requires no personal information for use, keeps no logs, and allows payments with Bitcoin Cash, Monero and more.",
+            "description": "Privacy-focused VPN service with anonymous accounts and flat-rate access.",
             "tags": []
           },
           {
@@ -11661,7 +11661,7 @@
           {
             "name": "Tunnelbear",
             "url": "https://www.tunnelbear.com",
-            "description": "Really simple VPN to browse the web privately & securely. Unblock websites around the world with applications for Mac, PC, iOS, Android & Chrome.",
+            "description": "Simple VPN service for secure browsing and location switching.",
             "tags": []
           },
           {
@@ -11679,13 +11679,13 @@
           {
             "name": "Windscribe",
             "url": "https://windscribe.com",
-            "description": "Gives 10GB free bandwidth monthly on the spot and gives limited server location options (for users on free plan). Connection also takes very less time.",
+            "description": "VPN and proxy service with ad blocking and flexible server switching.",
             "tags": []
           },
           {
             "name": "Tailscale",
             "url": "https://tailscale.com/",
-            "description": "Tailscale makes creating software-defined networks easy: securely connecting users, services, and devices.",
+            "description": "Mesh VPN for securely connecting devices, services, and users.",
             "tags": []
           }
         ]
@@ -11696,7 +11696,7 @@
           {
             "name": "DNS Easy Switcher",
             "url": "https://github.com/glinford/dns-easy-switcher",
-            "description": "A simple macOS menu bar app that allows you to quickly switch between different DNS providers (or add custom ones).",
+            "description": "Menu bar tool for switching DNS providers or custom resolvers.",
             "tags": []
           },
           {
@@ -11708,7 +11708,7 @@
           {
             "name": "Dropover",
             "url": "https://dropoverapp.com/",
-            "description": "A macOS utility that makes Drag and Drop easier. Stash, gather or move draggable content without having to open side-by-side windows.",
+            "description": "Temporary shelf for collecting and moving dragged files, text, and links.",
             "tags": []
           },
           {
@@ -11749,7 +11749,7 @@
           {
             "name": "ClipTools",
             "url": "https://macmost.com/cliptools",
-            "description": "ClipTools is a status menu application that gives you access to a variety of simple clipboard utilities.",
+            "description": "Clipboard utility set for quick copy, paste, and text cleanup tasks.",
             "tags": []
           },
           {
@@ -11809,7 +11809,7 @@
           {
             "name": "SaneClip",
             "url": "https://saneclip.com",
-            "description": "Clipboard manager with Touch ID protection, AES-256-GCM encryption at rest, and sensitive data detection.",
+            "description": "Clipboard manager with history, privacy protections, and sensitive data detection.",
             "tags": []
           },
           {
@@ -11833,7 +11833,7 @@
           {
             "name": "uPaste",
             "url": "https://okaapps.com/product/1503649026",
-            "description": "Smart clipboard history & snippets manager, record and organize your copy/paste history automatically. Then you can use your pasteboard content anytime, any where with elegant beautiful UI.",
+            "description": "Clipboard history and snippets manager for organizing reusable copied content.",
             "tags": []
           },
           {
@@ -11856,7 +11856,7 @@
           {
             "name": "Anvil",
             "url": "https://anvilformac.com/",
-            "description": "Anvil is a beautiful menubar app for managing local websites. Serve up static sites and Rack apps with simple URLs and zero configuration.",
+            "description": "Tool for serving local static sites and Rack apps with simple URLs.",
             "tags": []
           },
           {
@@ -11874,19 +11874,19 @@
           {
             "name": "SaneBar",
             "url": "https://sanebar.com",
-            "description": "Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and 7 automation triggers. Open-source alternative to Bartender.",
+            "description": "Privacy-first menu bar manager with hidden zones and automation rules.",
             "tags": []
           },
           {
             "name": "Sharptooth",
             "url": "https://apps.apple.com/app/sharptooth-bluetooth-hotkeys/id6748440814?platform=mac",
-            "description": "Effortlessly manage your Bluetooth devices right from the menu bar with custom hotkeys and smart automation.",
+            "description": "Menu bar tool for managing Bluetooth devices with hotkeys and automation.",
             "tags": []
           },
           {
             "name": "BeardedSpice",
             "url": "https://github.com/beardedspice/beardedspice",
-            "description": "Allows you to control web based media players (SoundCloud, YouTube, etc) and some native apps with the media keys on Mac keyboards.",
+            "description": "Control web players and supported apps with your keyboard media keys.",
             "tags": []
           },
           {
@@ -11928,7 +11928,7 @@
           {
             "name": "DynamicHorizon",
             "url": "https://dynamichorizon.app",
-            "description": "Enhances the notch with seamless media controls, airdrop, notifications, system indicators and lock screen widgets.",
+            "description": "Adds media controls, notifications, and system indicators to the notch area.",
             "tags": []
           },
           {
@@ -11976,7 +11976,7 @@
           {
             "name": "Ice",
             "url": "https://github.com/jordanbaird/Ice",
-            "description": "A free, open source, alternative to Bartender. Helps to hide menu items and gives options for different layouts.",
+            "description": "Menu bar manager for hiding icons and organizing layouts.",
             "tags": []
           },
           {
@@ -12000,7 +12000,7 @@
           {
             "name": "KeyStats",
             "url": "https://keystats.vercel.app",
-            "description": "Lightweight menu bar app that tracks daily keyboard keystrokes, mouse clicks, movement distance, and scroll distance.",
+            "description": "Menu bar tracker for daily keystrokes, clicks, movement, and scrolling.",
             "tags": []
           },
           {
@@ -12048,7 +12048,7 @@
           {
             "name": "MonitorControl",
             "url": "https://github.com/MonitorControl/MonitorControl/",
-            "description": "Control your display's brightness & volume on your Mac as if it was a native Apple Display.",
+            "description": "Control external display brightness and volume directly.",
             "tags": []
           },
           {
@@ -12162,7 +12162,7 @@
           {
             "name": "Today",
             "url": "https://sindresorhus.com/today",
-            "description": "View today\u2019s schedule right from the menu bar. The perfect companion to the built-in Calendar app.",
+            "description": "View today\u2019s schedule and calendar events from the menu bar.",
             "tags": []
           },
           {
@@ -12202,9 +12202,9 @@
             "tags": []
           },
           {
-            "name": "FunKey\uff0dMechanical Keyboard App",
+            "name": "FunKey",
             "url": "https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac",
-            "description": "FunKey is a Mac app that offers the ability to add artificial mechanical keyboard sounds to your MacBook.",
+            "description": "Keyboard sound tool that adds mechanical-style typing audio.",
             "tags": []
           }
         ]
@@ -12280,7 +12280,7 @@
           {
             "name": "AppPorts",
             "url": "https://github.com/wzh4869/AppPorts",
-            "description": "One-click tool to move apps from /Applications to external storage while keeping local launch entries via links.",
+            "description": "Move apps to external storage while keeping working launch links in /Applications .",
             "tags": []
           },
           {
@@ -12328,13 +12328,13 @@
           {
             "name": "Modal File Manager",
             "url": "https://github.com/raguay/ModalFileManager/",
-            "description": "A lightweight, minimal dual-pane file manager with Vim style hotkeys. It can be customized with themes and extensions that are downloaded from GitHub using a built in interface.",
+            "description": "Dual-pane file manager with Vim-style hotkeys and customizable extensions.",
             "tags": []
           },
           {
             "name": "Oka Unarchiver",
             "url": "https://okaapps.com/product/1441507725",
-            "description": "Support RAR format, batch decompression of archives, password-protected archives, click one button to extract & archive..",
+            "description": "Archive utility with RAR support, batch extraction, and password-protected archives.",
             "tags": []
           },
           {
@@ -12358,7 +12358,7 @@
           {
             "name": "Unarchive One",
             "url": "https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject",
-            "description": "Quickly decompress multiple different types of compressed files/compressed files to various scene compression formats.",
+            "description": "Archive utility for extracting and compressing many common formats.",
             "tags": []
           },
           {
@@ -12399,7 +12399,7 @@
           {
             "name": "DevUtils.app",
             "url": "https://devutils.com/",
-            "description": "All-in-one Toolbox for Developers. Format/Validate JSON, encode/decode Base64, convert timestamps, debug JWT\u2026 with just one click! Native macOS app and works offline.",
+            "description": "Developer toolbox for formatting, converting, and debugging everyday data.",
             "tags": []
           },
           {
@@ -12483,7 +12483,7 @@
           {
             "name": "Rewind",
             "url": "https://www.rewind.ai/",
-            "description": "Rewind is an application designed for macOS that records and indexes all user activities on the Mac, including screen content and audio. Users can rewind and search past activities, essentially adding a \"rewind button\" to the Mac.",
+            "description": "Searchable history of your screen and audio activity.",
             "tags": []
           },
           {
@@ -12525,7 +12525,7 @@
           {
             "name": "Seodisias",
             "url": "https://seodisias.com",
-            "description": "Seodisias is a free SEO crawler and website analyzer. It crawls your website, detects technical SEO issues, and provides actionable insights to help improve your search engine rankings ](https://seodisias.com)",
+            "description": "SEO crawler that audits sites for technical issues and optimization opportunities.",
             "tags": []
           }
         ]
@@ -12578,7 +12578,7 @@
           {
             "name": "Nozbe",
             "url": "https://nozbe.com",
-            "description": "Powerful GTD app for individuals and teams, with support for every Apple device (Mac, iPhone, iPad, Watch).",
+            "description": "GTD task manager for individuals and teams.",
             "tags": []
           },
           {
@@ -12596,7 +12596,7 @@
           {
             "name": "Super Productivity",
             "url": "https://super-productivity.com",
-            "description": "Cross-platform todo list app with integrated Timeboxing and time tracking capabilities.",
+            "description": "Task manager with timeboxing and time tracking.",
             "tags": []
           },
           {
@@ -12643,7 +12643,7 @@
           {
             "name": "1440 Minutes Left Today",
             "url": "https://1440app.com/",
-            "description": "Keep a track of how many minutes you have left until the day is over, right in your menu bar.",
+            "description": "Show how many minutes are left in the day from your menu bar.",
             "tags": []
           },
           {
@@ -12655,7 +12655,7 @@
           {
             "name": "Alfred",
             "url": "https://www.alfredapp.com/",
-            "description": "Award-winning app which boosts efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac.",
+            "description": "Launcher and automation tool with hotkeys, snippets, and search.",
             "tags": []
           },
           {
@@ -12667,19 +12667,19 @@
           {
             "name": "Better Launchpad",
             "url": "https://github.com/rewhex/better-launchpad",
-            "description": "A smarter, free, and highly customizable application launcher for macOS with fast search.",
+            "description": "Customizable app launcher with fast search.",
             "tags": []
           },
           {
             "name": "BetterMouse",
             "url": "https://better-mouse.com",
-            "description": "Smooth scroll, cursor acceleration prohibition, and powerful button/gesture remapping in one utility for 3rd-party mice. Aims for replacing those bulky and intrusive official drivers.",
+            "description": "Customize scrolling, acceleration, buttons, and gestures for third-party mice.",
             "tags": []
           },
           {
             "name": "BetterTouchTool",
             "url": "https://folivora.ai/",
-            "description": "Great, feature-packed app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad, Magic Trackpad and also Mouse Gestures for normal mice.",
+            "description": "Customize gestures, shortcuts, and input actions across trackpads, mice, and keyboards.",
             "tags": []
           },
           {
@@ -12697,7 +12697,7 @@
           {
             "name": "CurrentKey",
             "url": "https://currentkey.com",
-            "description": "Assign unique icons and names to macOS Spaces and track time spent in apps.",
+            "description": "Add custom names and icons to Spaces and track app usage time.",
             "tags": []
           },
           {
@@ -12739,13 +12739,13 @@
           {
             "name": "FnKeyboard",
             "url": "https://github.com/kotique123/FnKeyboard",
-            "description": "A lightweight macOS menu-bar utility that puts the Mac function keys (F1\u2013F12) at your fingertips.",
+            "description": "Quick access to function keys from the menu bar.",
             "tags": []
           },
           {
             "name": "Freeter",
             "url": "https://freeter.io/",
-            "description": "Open-source app that allows you to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them.",
+            "description": "Organize apps, links, and files by project in one workspace.",
             "tags": []
           },
           {
@@ -12757,7 +12757,7 @@
           {
             "name": "HapticKey",
             "url": "https://github.com/niw/HapticKey/releases",
-            "description": "A simple utility application for MacBook with Touch Bar that triggers a haptic feedback when tapping Touch Bar.",
+            "description": "Add haptic feedback when using the Touch Bar.",
             "tags": []
           },
           {
@@ -12769,31 +12769,31 @@
           {
             "name": "Hook for Mac",
             "url": "https://hookproductivity.com/",
-            "description": "Hook files together fast and easily, enabling you to find anything related with a simple keyboard shortcut.",
+            "description": "Link related files, emails, and notes for quick navigation.",
             "tags": []
           },
           {
             "name": "Hungrymark",
             "url": "https://zhengying.github.io/hungrymark",
-            "description": "Useful app to bookmark your files, folders, and webs, quick access your bookmarks through menu bar",
+            "description": "Bookmark files, folders, and links for quick menu bar access.",
             "tags": []
           },
           {
             "name": "Hyperkey",
             "url": "https://hyperkey.app/",
-            "description": "Lets you convert the caps lock key or any modifier key to the hyper key, all four modifiers combined: \u2303\u2325\u2318\u21e7.",
+            "description": "Turn Caps Lock or another modifier into a Hyper key.",
             "tags": []
           },
           {
             "name": "iCMD",
             "url": "https://icmd.app",
-            "description": "Fuzzy menubar search and vim/easymotion emulation which works globally for every native MacOS app.",
+            "description": "Global fuzzy menu search with Vim-style navigation.",
             "tags": []
           },
           {
             "name": "Journey Navigation",
             "url": "https://gowithjourney.com",
-            "description": "A powerful route planning app with weather along your route, traffic alerts, turn by turn directions, and more.",
+            "description": "Route planner with weather, traffic, and turn-by-turn guidance.",
             "tags": []
           },
           {
@@ -12811,7 +12811,7 @@
           {
             "name": "Keyboard Maestro",
             "url": "http://www.keyboardmaestro.com",
-            "description": "Automate routine actions based on triggers from keyboard, menu, location, added devices, and more.",
+            "description": "Automate repetitive tasks with triggers and macros.",
             "tags": []
           },
           {
@@ -12859,7 +12859,7 @@
           {
             "name": "MindMac",
             "url": "https://mindmac.app/",
-            "description": "Feature-rich & privacy-first native ChatGPT app to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place.",
+            "description": "AI chat client for multiple providers in one place.",
             "tags": []
           },
           {
@@ -12877,13 +12877,13 @@
           {
             "name": "Magic Switch",
             "url": "https://magic-switch.com/",
-            "description": "Switch your Magic Keyboard, Magic Mouse and Magic Trackpad between multiple Macs with different Apple IDs.",
+            "description": "Switch Magic Keyboard, Mouse, and Trackpad between multiple Macs.",
             "tags": []
           },
           {
             "name": "nnScreenshots",
             "url": "https://www.nearnorthsoftware.com/software/screenshots.php",
-            "description": "A super easy way to keep a visual record of your productivity to make it easier to fill out timesheets or just to help you review the day. Built in timesheet editor.",
+            "description": "Capture periodic screenshots to review your day and fill timesheets.",
             "tags": []
           },
           {
@@ -12931,13 +12931,13 @@
           {
             "name": "Qbserve",
             "url": "https://qotoqot.com/qbserve/",
-            "description": "Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.",
+            "description": "Automatic time tracking with projects, timesheets, and productivity insights.",
             "tags": []
           },
           {
             "name": "Raycast",
             "url": "https://raycast.com?via=ae02",
-            "description": "Raycast lets you control your tools and apps with shortcuts, download extensions from the store, and use AI models like ChatGPT, DeepSeek, Gemini, Claude, etc. You can also create snippets and use Raycast Notes to maximize your productivity.",
+            "description": "Launcher and command palette with extensions, snippets, notes, and AI.",
             "tags": []
           },
           {
@@ -12949,37 +12949,37 @@
           {
             "name": "RescueTime",
             "url": "https://www.rescuetime.com/",
-            "description": "Personal analytics service that shows you how you spend your time and provides tools to help you be more productive.",
+            "description": "Track time usage and get productivity reports.",
             "tags": []
           },
           {
             "name": "SuperCorners",
             "url": "https://supercorners.vercel.app/",
-            "description": "Make your screen corners more powerful \u2014 turn Hot Corners into efficient workflow triggers.",
+            "description": "Turn Hot Corners into custom workflow triggers.",
             "tags": []
           },
           {
             "name": "Rize",
             "url": "https://rize.io/",
-            "description": "A.I. powered time tracker that automatically improves your focus and helps you build better work habits.",
+            "description": "AI time tracker that helps you focus and build better work habits.",
             "tags": []
           },
           {
             "name": "RightMenu Master",
             "url": "https://wangchujiang.com/rightmenu-master/",
-            "description": "An excellent Finder right-click menu enhancement tool to make your right-click menu more powerful.",
+            "description": "Add more useful actions to the Finder right-click menu.",
             "tags": []
           },
           {
             "name": "Selectric",
             "url": "https://selectric.io/",
-            "description": "Private personal search engine for your emails, documents and messages. Search across Gmail, Outlook, Drive, Dropbox, Teams, Slack and more applications right from your computer.",
+            "description": "Private search across email, documents, and chat apps.",
             "tags": []
           },
           {
             "name": "SensibleSideButtons",
             "url": "http://sensible-side-buttons.archagon.net",
-            "description": "Use the side buttons on your mouse to move forward and backward in many apps, like in Windows.",
+            "description": "Make mouse side buttons work for back and forward in more apps.",
             "tags": []
           },
           {
@@ -12991,19 +12991,19 @@
           {
             "name": "Strategr",
             "url": "https://khrykin.github.io/strategr/",
-            "description": "No-fuss time management app. Stategr helps you maximize your productivity, giving you the quickest and most effective way to time-box your day.",
+            "description": "Time-boxing planner for structuring your day.",
             "tags": []
           },
           {
             "name": "SwiftBiu",
             "url": "https://swiftbiu.com/",
-            "description": "SwiftBiu is a text efficiency tool for macOS, select text in any app and a customizable extended toolbar pops up to make common operations \"one step\". Supports AI multimodal (text-to-text, text-to-graph), AppleScript/javascript plugins, html extension applets.",
+            "description": "Text productivity tool with a customizable action bar and AI extensions.",
             "tags": []
           },
           {
             "name": "Table Habit",
             "url": "https://github.com/FriesI23/mhabit",
-            "description": "\u2013 A cross-platform habit tracker that helps you build micro-habits with growth curves and offline-first syncing.",
+            "description": "\u2013 Habit tracker with growth charts and offline-first sync.",
             "tags": []
           },
           {
@@ -13021,7 +13021,7 @@
           {
             "name": "Timing",
             "url": "https://timingapp.com/",
-            "description": "Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.",
+            "description": "Automatic time tracking with productivity insights and billing-friendly records.",
             "tags": []
           },
           {
@@ -13057,13 +13057,13 @@
           {
             "name": "xScope",
             "url": "http://xscopeapp.com/",
-            "description": "Powerful set of tools that are ideal for measuring, inspecting & testing on-screen graphics and layouts.",
+            "description": "Toolset for measuring, inspecting, and testing on-screen layouts and graphics.",
             "tags": []
           },
           {
             "name": "Z",
             "url": "https://github.com/rupa/z",
-            "description": "Powerful way to navigate easily by typing only a string of directory name in terminal instead of typing exact location of director.",
+            "description": "Jump to frequently used directories by typing part of the path.",
             "tags": []
           }
         ]
@@ -13104,7 +13104,7 @@
           {
             "name": "contexts",
             "url": "https://contexts.co/",
-            "description": "Provides more power than the native Mac Dock. Especially when you have multiple screens, it can help you switch more quickly.",
+            "description": "App switcher for faster window and app switching across multiple screens.",
             "tags": []
           },
           {
@@ -13176,13 +13176,13 @@
           {
             "name": "MakeItHome",
             "url": "https://github.com/Geckos-Ink/MakeItHome",
-            "description": "Extends your macOS' UI allowing you to access with the pointer in the \"over screen\", an extension of the interface for accessing quick actions, mainly fast switch of the most used running applications.",
+            "description": "Pointer-driven launcher for screen-edge quick actions and app switching.",
             "tags": []
           },
           {
             "name": "Moom",
             "url": "http://manytricks.com/moom/",
-            "description": "Allows you to easily move and zoom windows, or to another display\u2014using either the mouse or the keyboard.",
+            "description": "Window management tool for moving, resizing, and saving layouts.",
             "tags": []
           },
           {
@@ -13218,7 +13218,7 @@
           {
             "name": "ShortcutCycle",
             "url": "https://shortcutcycle.vercel.app/",
-            "description": "Stop endless Command+Tab cycling. Group apps by context (Web, Code, Social) and flow between them with a single hotkey.",
+            "description": "Switch between context-based app groups with a single hotkey.",
             "tags": []
           },
           {
@@ -13236,13 +13236,13 @@
           {
             "name": "Slate",
             "url": "https://github.com/jigish/slate",
-            "description": "Window management application similar to Divvy and SizeUp (except better and free!). ( Needs config file )",
+            "description": "Scriptable window manager configured with JavaScript.",
             "tags": []
           },
           {
             "name": "Swift Shift",
             "url": "https://swiftshift.app",
-            "description": "Use your mouse with a keyboard shortcut to move and resize your windows quickly. It offers options to customize the draggable areas and mouse behavior.",
+            "description": "Move and resize windows with keyboard shortcuts and mouse gestures.",
             "tags": []
           },
           {
@@ -13254,7 +13254,7 @@
           {
             "name": "Tiles",
             "url": "https://freemacsoft.net/tiles/",
-            "description": "Easily reorganize windows by either dragging them to the edges of the screen, using keyboard shortcuts, or the menu bar.",
+            "description": "Snap and rearrange windows with screen edges, shortcuts, or the menu bar.",
             "tags": []
           },
           {
@@ -13266,13 +13266,13 @@
           {
             "name": "Total Spaces",
             "url": "http://totalspaces.binaryage.com/",
-            "description": "Provides window management much like ubuntu. Creates hotkeys for workspaces which allows you to easily move around.",
+            "description": "Workspace manager with hotkeys and spatial overview.",
             "tags": []
           },
           {
             "name": "yabai",
             "url": "https://github.com/koekeishiya/yabai",
-            "description": "Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system.",
+            "description": "Keyboard-driven tiling window manager.",
             "tags": []
           }
         ]
@@ -13343,7 +13343,7 @@
           {
             "name": "Strongbox",
             "url": "https://strongboxsafe.com/",
-            "description": "Secure Password Management for iOS and MacOS. Open Source. Compatible with KeePass and Password Safe.",
+            "description": "KeePass-compatible password manager with Password Safe support.",
             "tags": []
           },
           {
@@ -13384,7 +13384,7 @@
           {
             "name": "SaneClick",
             "url": "https://saneclick.com",
-            "description": "Finder extension adding 51+ right-click context menu actions for file management, image conversion, and developer tools.",
+            "description": "Finder extension that adds right-click actions for file tasks, conversion, and developer tools.",
             "tags": []
           },
           {
@@ -13426,7 +13426,7 @@
           {
             "name": "SwiftyMenu",
             "url": "https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac",
-            "description": "A Finder extension which presents a customizable menu to rapidly open selected folders or files with your favorite applications.",
+            "description": "Finder extension for opening selected files or folders with custom app shortcuts.",
             "tags": []
           },
           {
@@ -13461,7 +13461,7 @@
           {
             "name": "DisplayBuddy",
             "url": "https://displaybuddy.app",
-            "description": "Control the brightness, contrast, input source and more of your external display directly from your Mac.",
+            "description": "Control external display brightness, contrast, and input source.",
             "tags": []
           },
           {
@@ -13479,7 +13479,7 @@
           {
             "name": "Grayscale Mode",
             "url": "https://github.com/rkbhochalya/grayscale-mode",
-            "description": "An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (\u2325\u2318G).",
+            "description": "Toggle a grayscale screen filter from the menu bar or a shortcut.",
             "tags": []
           },
           {
@@ -13658,7 +13658,7 @@
           {
             "name": "MagicQuit",
             "url": "https://magicquit.com/",
-            "description": "Automatically closes unused apps on macOS to free memory, declutter the desktop, and improve battery life.",
+            "description": "Automatically quit inactive apps to reduce clutter and free resources.",
             "tags": []
           },
           {
@@ -13688,7 +13688,7 @@
           {
             "name": "OnyX",
             "url": "https://www.titanium-software.fr/en/onyx.html",
-            "description": "Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more.",
+            "description": "System maintenance utility for cleanup, verification, and hidden settings.",
             "tags": []
           },
           {
@@ -13706,7 +13706,7 @@
           {
             "name": "Sensei",
             "url": "https://sensei.app/",
-            "description": "Sensei is a multi-tool for Mac performance, with features spanning across both hardware and software.",
+            "description": "Performance toolkit for monitoring, cleanup, and hardware diagnostics.",
             "tags": []
           },
           {
@@ -13724,7 +13724,7 @@
           {
             "name": "SteerMouse",
             "url": "https://plentycom.jp/en/steermouse/",
-            "description": "SteerMouse is a utility that lets you freely customize buttons, wheels and cursor speed. Both USB and Bluetooth mice are supported.",
+            "description": "Customize mouse buttons, wheel behavior, and cursor speed.",
             "tags": []
           },
           {
@@ -13771,7 +13771,7 @@
           {
             "name": "OpenEmu",
             "url": "http://openemu.org/",
-            "description": "A great video game console emulator, supports many different emulators in a single application. (e.g. Sony PSP, GameBoy, NDS and so on)",
+            "description": "Retro game emulator frontend for multiple console systems.",
             "tags": []
           },
           {
@@ -13836,7 +13836,7 @@
           {
             "name": "Parsec",
             "url": "https://parsec.app",
-            "description": "Parsec offers a seamless 4k experience at up to 60 frames per second with near-zero latency. Secure, flexible, effortless access to whatever you do, at any time, from wherever you go.",
+            "description": "Low-latency remote desktop and game streaming tool.",
             "tags": []
           },
           {
@@ -13848,7 +13848,7 @@
           {
             "name": "RoyalTSX",
             "url": "https://www.royalapps.com/ts/mac/features",
-            "description": "Royal TSX is an ideal tool for system engineers and other IT professionals who need remote access to systems with different protocols.",
+            "description": "Remote connection manager for multiple protocols.",
             "tags": []
           },
           {
@@ -13872,7 +13872,7 @@
           {
             "name": "TeamViewer",
             "url": "https://www.teamviewer.com/en",
-            "description": "Proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing, and file transfer between computers.",
+            "description": "Remote support and screen sharing tool.",
             "tags": []
           },
           {
@@ -13895,19 +13895,19 @@
           {
             "name": "FluxMarkdown",
             "url": "https://github.com/xykong/flux-markdown",
-            "description": "Quick Look extension for instant Markdown previews in Finder with Mermaid, KaTeX, GFM, TOC, and charts.",
+            "description": "Quick Look extension for Markdown previews with Mermaid, KaTeX, GFM, TOC, and charts.",
             "tags": []
           },
           {
             "name": "markdown-quicklook",
             "url": "https://github.com/ruspg/markdown-quicklook",
-            "description": "Rendered Markdown preview with syntax highlighting, YAML front matter, configurable fonts/colors, and a menu bar toggle to switch between rendered and plain text modes. Build-from-source, one-command install.",
+            "description": "Quick Look plugin for rendered Markdown previews with syntax highlighting.",
             "tags": []
           },
           {
             "name": "Torrent Preview",
             "url": "https://github.com/sveinbjornpalsson/torrentpreview/",
-            "description": "Quick Look extension for previewing .torrent contents in Finder, including files, trackers, and metadata.",
+            "description": "Quick Look extension for previewing .torrent files, trackers, and metadata.",
             "tags": []
           },
           {
@@ -13920,17 +13920,6 @@
             "name": "Syntax Highlight",
             "url": "https://github.com/sbarex/SourceCodeSyntaxHighlight",
             "description": "Quick Look extension for highlight source code files.",
-            "tags": []
-          }
-        ]
-      },
-      {
-        "name": "Third Party App Markets",
-        "resources": [
-          {
-            "name": "Setapp",
-            "url": "https://setapp.sjv.io/c/6018600/343321/5114",
-            "description": "The best free and paid apps (like CleanShot, Bartender, Paste, TablePlus, etc.) in one suite for only 10$/month!",
             "tags": []
           }
         ]
@@ -13959,7 +13948,7 @@
           {
             "name": "MacPorts",
             "url": "https://www.macports.org/",
-            "description": "Open-source community initiative to design an easy-to-use system for compiling, installing, and upgrading either command-line, X11 or Aqua based open-source software on the Mac OS X operating system.",
+            "description": "Package manager for installing and maintaining open-source software.",
             "tags": []
           },
           {
@@ -13982,7 +13971,7 @@
           {
             "name": "Slant",
             "url": "https://www.slant.co",
-            "description": "I personally recommend this. This is a platform where you can compare apps side-by-side, you might get an idea by seeing other users recommendations. Please contribute if you find an application from this list!",
+            "description": "Platform for comparing software and browsing community recommendations.",
             "tags": []
           },
           {
@@ -56221,12 +56210,6 @@
             "tags": []
           },
           {
-            "name": "Superalgos",
-            "url": "https://github.com/Superalgos/Superalgos",
-            "description": "(label: good first issue) A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token.",
-            "tags": []
-          },
-          {
             "name": "Svelte",
             "url": "https://github.com/sveltejs/svelte",
             "description": "(label: good first issue) Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.",
@@ -56529,6 +56512,12 @@
             "tags": []
           },
           {
+            "name": "BeeWare Briefcase",
+            "url": "https://github.com/beeware/briefcase",
+            "description": "(label: good first issue) Turn Python projects into distributable native applications across desktop and mobile platforms.",
+            "tags": []
+          },
+          {
             "name": "Bokeh",
             "url": "https://github.com/bokeh/bokeh",
             "description": "(label: good first issue) Bokeh is an interactive visualization library for modern web browsers.",
@@ -56583,12 +56572,6 @@
             "tags": []
           },
           {
-            "name": "Embedchain",
-            "url": "https://github.com/embedchain/embedchain/",
-            "description": "(label: good first issue) Embedchain is a framework to easily create LLM powered bots over any dataset.",
-            "tags": []
-          },
-          {
             "name": "Fabric",
             "url": "https://github.com/fabric/fabric",
             "description": "(label: Low-hanging-fruit) Pythonic remote execution and deployment.",
@@ -56634,6 +56617,12 @@
             "name": "matplotlib",
             "url": "https://github.com/matplotlib/matplotlib",
             "description": "(label: good first issue) Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.",
+            "tags": []
+          },
+          {
+            "name": "Mem0",
+            "url": "https://github.com/mem0ai/mem0/",
+            "description": "(label: good first issue) Mem0 is a memory framework for LLM applications.",
             "tags": []
           },
           {
@@ -73870,6 +73859,12 @@
             "tags": []
           },
           {
+            "name": "moody",
+            "url": "https://github.com/dinakars777/moody",
+            "description": "Hardware event personality daemon for macOS. Monitors USB, charger, lid, and other hardware events and responds with customizable personalities.",
+            "tags": []
+          },
+          {
             "name": "sysinfo",
             "url": "https://github.com/zcalusic/sysinfo",
             "description": "A pure Go library providing Linux OS / kernel / hardware system information.",
@@ -81842,6 +81837,12 @@
             "name": "githooks",
             "url": "https://github.com/gabyx/githooks",
             "description": "Per-repo and shared Git hooks with version control and auto update.",
+            "tags": []
+          },
+          {
+            "name": "gitty",
+            "url": "https://github.com/Omibranch/gitty",
+            "description": "Single-binary Git/GitHub CLI that replaces add\u2192commit\u2192push with one command; human-readable syntax, no external dependencies.",
             "tags": []
           },
           {
