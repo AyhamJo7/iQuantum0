@@ -12379,6 +12379,12 @@
             "tags": []
           },
           {
+            "name": "Cadran",
+            "url": "https://cadranapp.com",
+            "description": "Renders 22 customizable clock faces on your Mac desktop wallpaper and screensaver.",
+            "tags": []
+          },
+          {
             "name": "DNS Optimizer",
             "url": "https://www.appecosys.com/apps/dns-optimizer/",
             "description": "A DNS changer and performance\u2011benchmarking tool for Apple devices (macOS & iOS).",
