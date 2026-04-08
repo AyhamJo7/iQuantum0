@@ -68582,6 +68582,12 @@
             "tags": []
           },
           {
+            "name": "ymsdk",
+            "url": "https://github.com/rekurt/ymsdk",
+            "description": "Go SDK for Yandex Messenger Bot API with type-safe models, automatic retry, and rate-limit handling.",
+            "tags": []
+          },
+          {
             "name": "Wisp",
             "url": "https://github.com/wisp-trading/wisp",
             "description": "Event-driven trading framework for Go. Spot, perpetual futures, prediction markets. Multi-exchange (Bybit, Hyperliquid, Polymarket).",
@@ -76548,6 +76554,12 @@
             "tags": []
           },
           {
+            "name": "go-propisyu",
+            "url": "https://github.com/rekurt/go-propisyu",
+            "description": "Convert numbers to Russian words with correct grammatical gender and noun declension.",
+            "tags": []
+          },
+          {
             "name": "golibstemmer",
             "url": "https://github.com/rjohnsondev/golibstemmer",
             "description": "Go bindings for the snowball libstemmer library including porter 2.",
@@ -78312,6 +78324,12 @@
             "name": "goSecretBoxPassword",
             "url": "https://github.com/dwin/goSecretBoxPassword",
             "description": "A probably paranoid package for securely hashing and encrypting passwords.",
+            "tags": []
+          },
+          {
+            "name": "gost-crypto",
+            "url": "https://github.com/rekurt/gost-crypto",
+            "description": "Go library for Russian GOST cryptographic standards (digital signatures, Streebog hash, Kuznechik cipher, MGM AEAD) backed by OpenSSL gost-engine.",
             "tags": []
           },
           {
