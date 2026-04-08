@@ -9679,9 +9679,21 @@
             "tags": []
           },
           {
+            "name": "Lap",
+            "url": "https://github.com/julyx10/lap",
+            "description": "Local photo manager for browsing and organizing personal media libraries offline.",
+            "tags": []
+          },
+          {
             "name": "Couleurs",
             "url": "http://couleursapp.com",
             "description": "Simple app for grabbing and tweaking the colors you see on your screen.",
+            "tags": []
+          },
+          {
+            "name": "CompressO",
+            "url": "https://github.com/codeforreal1/compressO",
+            "description": "Open-source tool for compressing videos and images to smaller sizes.",
             "tags": []
           },
           {
@@ -42836,6 +42848,12 @@
             "name": "flask-socketio",
             "url": "https://github.com/miguelgrinberg/Flask-SocketIO",
             "description": "Socket.IO integration for Flask applications.",
+            "tags": []
+          },
+          {
+            "name": "picows",
+            "url": "https://github.com/tarasko/picows",
+            "description": "Fastest WebSocket clients and servers with a frame level interface for the most demanding use-cases.",
             "tags": []
           },
           {
@@ -82051,6 +82069,12 @@
             "name": "hls-m3u8",
             "url": "https://github.com/Eyevinn/hls-m3u8",
             "description": "Parser and generator for HLS (M3U8) playlists; kept up to date with the spec.",
+            "tags": []
+          },
+          {
+            "name": "manifestor",
+            "url": "https://github.com/alanzng/manifestor",
+            "description": "Zero-dependency library for parsing, filtering, transforming, and building HLS and DASH manifests.",
             "tags": []
           },
           {
