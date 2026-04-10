@@ -2272,6 +2272,12 @@
             "tags": []
           },
           {
+            "name": "LiteEdit",
+            "url": "https://arietan.github.io/lite-edit/",
+            "description": "Fast, native macOS code editor under 1 MB \u2014 Swift and AppKit, no Electron.",
+            "tags": []
+          },
+          {
             "name": "MacVim",
             "url": "https://github.com/macvim-dev/macvim",
             "description": "the text editor Vim - for macOS.",
@@ -7745,6 +7751,12 @@
             "url": "https://itsalin.com/appInfo/?id=pearcleaner",
             "description": "A free, source-available and fair-code licensed mac app cleaner.",
             "tags": []
+          },
+          {
+            "name": "PureMac",
+            "url": "https://github.com/momenbasel/PureMac",
+            "description": "Free, open-source macOS cleaner with no telemetry. Cleans system and user caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning.",
+            "tags": []
           }
         ]
       },
@@ -8418,6 +8430,12 @@
             "name": "Raycast",
             "url": "https://raycast.com?via=ae02",
             "description": "Launcher and command palette with extensions, snippets, notes, and AI.",
+            "tags": []
+          },
+          {
+            "name": "SuperCmd",
+            "url": "https://github.com/SuperCmdLabs/SuperCmd",
+            "description": "Open-source launcher with Raycast-compatible extensions, voice workflows, text-to-speech, memory, and AI actions.",
             "tags": []
           },
           {
@@ -59863,12 +59881,6 @@
             "tags": []
           },
           {
-            "name": "BigTree CMS",
-            "url": "https://www.bigtreecms.org/",
-            "description": "Straightforward, well documented, and capable CMS. ( Source Code ) LGPL-2.1 PHP",
-            "tags": []
-          },
-          {
             "name": "Bludit",
             "url": "https://www.bludit.com/",
             "description": "\u26a0 - Build a site or blog in seconds. Bludit uses flat-files (text files in JSON format) to store posts and pages. ( Source Code ) MIT PHP",
@@ -60527,12 +60539,6 @@
             "tags": []
           },
           {
-            "name": "Litecart",
-            "url": "https://github.com/shurco/litecart",
-            "description": "\u26a0 - Shopping cart in 1 file (with support for payment by card or cryptocurrency). MIT Go/Docker",
-            "tags": []
-          },
-          {
             "name": "Magento Open Source",
             "url": "https://business.adobe.com/products/magento/magento-commerce.html",
             "description": "Leading provider of open omnichannel innovation. ( Source Code ) OSL-3.0 PHP",
@@ -60548,6 +60554,12 @@
             "name": "Microweber",
             "url": "https://microweber.com/",
             "description": "Drag and Drop CMS and online shop. ( Source Code ) MIT PHP",
+            "tags": []
+          },
+          {
+            "name": "myCart",
+            "url": "https://github.com/shurco/mycart",
+            "description": "\u26a0 - Shopping cart in 1 file (with support for payment by card or cryptocurrency). MIT Go/Docker",
             "tags": []
           },
           {
