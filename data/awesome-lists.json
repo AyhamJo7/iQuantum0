@@ -3600,6 +3600,12 @@
             "tags": []
           },
           {
+            "name": "Switzy",
+            "url": "https://github.com/yefga/Switzy",
+            "description": "Open-source tool for switching Git identities and managing SSH keys.",
+            "tags": []
+          },
+          {
             "name": "SYM",
             "url": "https://github.com/zqqf16/SYM",
             "description": "GUI Application to symbolicate iOS crash log.",
@@ -3840,6 +3846,12 @@
             "name": "Proxyman",
             "url": "https://proxyman.app",
             "description": "Modern and intuitive HTTP debugging proxy for macOS.",
+            "tags": []
+          },
+          {
+            "name": "Rockxy",
+            "url": "https://github.com/LocNguyenHuu/Rockxy",
+            "description": "Open-source HTTP(S) debugging proxy for intercepting, inspecting, modifying, and replaying requests.",
             "tags": []
           },
           {
@@ -6011,6 +6023,12 @@
             "tags": []
           },
           {
+            "name": "Kaset",
+            "url": "https://github.com/sozercan/kaset",
+            "description": "Native YouTube Music client for macOS.",
+            "tags": []
+          },
+          {
             "name": "Kodi",
             "url": "https://kodi.tv/",
             "description": "Open-source media center for video, music, pictures, and more.",
@@ -6278,6 +6296,12 @@
             "name": "Omniplayer",
             "url": "https://okaapps.com/product/1470926410#",
             "description": "Best media player on Mac, support almost all format.",
+            "tags": []
+          },
+          {
+            "name": "Kaset",
+            "url": "https://github.com/sozercan/kaset",
+            "description": "Open-source YouTube Music client with library, lyrics, podcasts, and playback controls.",
             "tags": []
           },
           {
@@ -15351,6 +15375,12 @@
             "name": "FiniteStateEntropy",
             "url": "https://github.com/Cyan4973/FiniteStateEntropy",
             "description": "New generation entropy codecs : Finite State Entropy and Huff0.",
+            "tags": []
+          },
+          {
+            "name": "FSST",
+            "url": "https://github.com/cwida/fsst",
+            "description": "efficient random-access string compression. [MIT]",
             "tags": []
           },
           {
@@ -69876,6 +69906,12 @@
             "tags": []
           },
           {
+            "name": "EdgeRunner",
+            "url": "https://github.com/christopherkarani/EdgeRunner",
+            "description": "Fast, local LLM inference for Apple Silicon. Built in Swift and Metal from the ground up.",
+            "tags": []
+          },
+          {
             "name": "Espresso",
             "url": "https://github.com/christopherkarani/Espresso",
             "description": "Compile transformers directly for Apple's Neural Engine.",
@@ -82916,6 +82952,12 @@
             "name": "FastAPI",
             "url": "https://github.com/tiangolo/fastapi",
             "description": "(label: good first issue) A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.",
+            "tags": []
+          },
+          {
+            "name": "fenn",
+            "url": "https://github.com/pyfenn/fenn",
+            "description": "(label: good first issue) A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more.",
             "tags": []
           },
           {
