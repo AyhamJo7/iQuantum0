@@ -5022,6 +5022,12 @@
             "tags": []
           },
           {
+            "name": "Capso",
+            "url": "https://github.com/lzhgus/Capso",
+            "description": "Open-source screenshot and screen recording tool with annotations, OCR, and webcam overlays.",
+            "tags": []
+          },
+          {
             "name": "Gifox",
             "url": "https://gifox.app",
             "description": "Gif Recording and Sharing.",
@@ -10705,6 +10711,12 @@
             "tags": []
           },
           {
+            "name": "lumibot",
+            "url": "https://github.com/Lumiwealth/lumibot",
+            "description": "Algorithmic trading framework for backtesting and live deployment across stocks, options, crypto, futures, and forex.",
+            "tags": []
+          },
+          {
             "name": "openbb",
             "url": "https://github.com/OpenBB-finance/OpenBB",
             "description": "A financial data platform for analysts, quants and AI agents.",
@@ -15978,6 +15990,12 @@
             "name": "LSHBOX",
             "url": "https://github.com/RSIA-LIESMARS-WHU/LSHBOX",
             "description": "A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. [GPL]",
+            "tags": []
+          },
+          {
+            "name": "marisa-trie",
+            "url": "https://github.com/s-yata/marisa-trie",
+            "description": "Matching Algorithm with Recursively Implemented StorAge. [BSD-2-Clause/LGPL-2.1]",
             "tags": []
           },
           {
@@ -51062,6 +51080,12 @@
         "name": "Development tools",
         "resources": [
           {
+            "name": "aaif-goose/goose",
+            "url": "https://github.com/aaif-goose/goose",
+            "description": "An open-source, local AI agent that automates engineering tasks.",
+            "tags": []
+          },
+          {
             "name": "antinomyhq/forgecode",
             "url": "https://github.com/antinomyhq/forgecode",
             "description": "A terminal-based AI pair programmer for code generation and editing.",
@@ -51089,12 +51113,6 @@
             "name": "biome",
             "url": "https://github.com/biomejs/biome",
             "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP",
-            "tags": []
-          },
-          {
-            "name": "block/goose",
-            "url": "https://github.com/block/goose",
-            "description": "An open-source, local AI agent that automates engineering tasks.",
             "tags": []
           },
           {
@@ -51318,6 +51336,12 @@
       {
         "name": "Build system",
         "resources": [
+          {
+            "name": "better-fullstack",
+            "url": "https://github.com/Marve10s/Better-Fullstack",
+            "description": "End-to-end fullstack scaffolding tool supporting Rust (Axum, Actix Web, Leptos, Dioxus, SeaORM, SQLx, tonic, async-graphql) alongside TypeScript, Go, and Python \u2014 code ready for you or your AI agent.",
+            "tags": []
+          },
           {
             "name": "Cargo",
             "url": "https://crates.io/",
@@ -52123,6 +52147,12 @@
             "name": "cargo-coupling",
             "url": "https://github.com/nwiizo/cargo-coupling",
             "description": "A Rust coupling analysis tool using Vlad Khononov's \"Balancing Coupling in Software Design\" framework",
+            "tags": []
+          },
+          {
+            "name": "creusot-rs/creusot",
+            "url": "https://github.com/creusot-rs/creusot",
+            "description": "A deductive verifier for Rust that proves absence of panics, overflows, and assertion failures by translating code to the Why3 verification platform",
             "tags": []
           },
           {
