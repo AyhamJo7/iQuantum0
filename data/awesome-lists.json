@@ -37564,6 +37564,12 @@
             "tags": []
           },
           {
+            "name": "gox",
+            "url": "https://github.com/doors-dev/gox",
+            "description": "HTML templates as first-class Go expressions, with seamless editor support.",
+            "tags": []
+          },
+          {
             "name": "htmgo",
             "url": "https://htmgo.dev",
             "description": "build simple and scalable systems with go + htmx",
@@ -76338,6 +76344,12 @@
         "name": "Artificial Intelligence",
         "resources": [
           {
+            "name": "JamJet",
+            "url": "https://github.com/jamjet-labs/jamjet",
+            "description": "Agent runtime with a Java SDK for building AI agents, supporting graph-based workflow orchestration, multi-agent coordination, and MCP/A2A protocols.",
+            "tags": []
+          },
+          {
             "name": "LangChain4j",
             "url": "https://github.com/langchain4j/langchain4j",
             "description": "Simplifies integration of LLMs with unified APIs and a comprehensive toolbox.",
@@ -76435,6 +76447,12 @@
             "name": "Gradle",
             "url": "https://gradle.org",
             "description": "Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.",
+            "tags": []
+          },
+          {
+            "name": "ReleaseRun",
+            "url": "https://releaserun.com",
+            "description": "Dependency health checker for pom.xml and Gradle projects that scans for CVEs and outdated packages.",
             "tags": []
           }
         ]
@@ -76564,6 +76582,12 @@
             "name": "picocli",
             "url": "https://picocli.info",
             "description": "ANSI colors and styles in usage help with annotation-based POSIX/GNU/any syntax, subcommands, strong typing for both options and positional args.",
+            "tags": []
+          },
+          {
+            "name": "AliveJTUI",
+            "url": "https://github.com/yehorsyrin/alivejTUI",
+            "description": "Declarative, React-style TUI library for building terminal UIs as component trees with diff-based rendering, focus management, and themes.",
             "tags": []
           },
           {
@@ -76708,6 +76732,12 @@
             "tags": []
           },
           {
+            "name": "Delta Coverage",
+            "url": "https://github.com/gw-kit/delta-coverage-plugin",
+            "description": "Computes code coverage of new and modified code based on a provided diff, supporting JaCoCo and IntelliJ coverage engines.",
+            "tags": []
+          },
+          {
             "name": "JaCoCo",
             "url": "https://www.eclemma.org/jacoco/",
             "description": "Framework that enables collection of code coverage metrics, using both offline and runtime bytecode instrumentation.",
@@ -76809,6 +76839,12 @@
             "tags": []
           },
           {
+            "name": "Spring CRUD Generator",
+            "url": "https://github.com/mzivkovicdev/spring-crud-generator",
+            "description": "Maven plugin for generating Spring Boot CRUD applications from YAML/JSON specifications.",
+            "tags": []
+          },
+          {
             "name": "Telosys",
             "url": "https://www.telosys.org/",
             "description": "Simple and light code generator available as an Eclipse Plugin and also as a CLI.",
@@ -76875,6 +76911,12 @@
             "name": "centraldogma",
             "url": "https://github.com/line/centraldogma",
             "description": "Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2.",
+            "tags": []
+          },
+          {
+            "name": "ClearConfig",
+            "url": "https://github.com/japgolly/clear-config-java",
+            "description": "Type-safe, composable configuration library with a focus on runtime clarity.",
             "tags": []
           },
           {
@@ -77102,6 +77144,12 @@
             "tags": []
           },
           {
+            "name": "ArcadeDB",
+            "url": "https://arcadedb.com",
+            "description": "Multi-model database supporting graphs, documents, key-value, time series, and vector embeddings with SQL, Cypher, Gremlin, MongoDB, and Redis API compatibility.",
+            "tags": []
+          },
+          {
             "name": "ArangoDB",
             "url": "https://github.com/arangodb/arangodb-java-driver",
             "description": "ArangoDB Java driver.",
@@ -77234,6 +77282,12 @@
             "tags": []
           },
           {
+            "name": "Open J Proxy",
+            "url": "https://github.com/Open-J-Proxy/ojp",
+            "description": "Type 3 JDBC driver and Layer 7 proxy server for decoupling applications from relational database connection management.",
+            "tags": []
+          },
+          {
             "name": "OpenDJ",
             "url": "https://github.com/OpenIdentityPlatform/OpenDJ",
             "description": "LDAPv3 compliant directory service, developed for the Java platform, providing a high performance, highly available, and secure store for the identities.",
@@ -77336,7 +77390,7 @@
           },
           {
             "name": "Jollyday",
-            "url": "https://github.com/svendiedrichsen/jollyday",
+            "url": "https://github.com/focus-shift/jollyday",
             "description": "Determines the holidays for a given year, country/name and eventually state/region.",
             "tags": []
           },
@@ -77384,6 +77438,12 @@
             "name": "Dagger",
             "url": "https://dagger.dev/",
             "description": "Compile-time injection framework without reflection.",
+            "tags": []
+          },
+          {
+            "name": "Dimension-DI",
+            "url": "https://github.com/akardapolov/dimension-di",
+            "description": "JSR-330 runtime dependency injection using the JDK Class-File API.",
             "tags": []
           },
           {
@@ -77712,6 +77772,12 @@
             "tags": []
           },
           {
+            "name": "Sheetz",
+            "url": "https://github.com/chitralabs/sheetz",
+            "description": "Library for reading and writing Excel and CSV files with annotation-based mapping, streaming support, and built-in validation.",
+            "tags": []
+          },
+          {
             "name": "zerocell",
             "url": "https://github.com/creditdatamw/zerocell",
             "description": "Annotation-based API for reading data from Excel sheets into POJOs with focus on reduced overhead.",
@@ -77847,6 +77913,12 @@
             "tags": []
           },
           {
+            "name": "Parallel Collectors",
+            "url": "https://github.com/pivovarit/parallel-collectors",
+            "description": "Stream API Collectors for parallel processing with custom thread pools, designed for I/O-heavy workloads.",
+            "tags": []
+          },
+          {
             "name": "protonpack",
             "url": "https://github.com/poetix/protonpack",
             "description": "Collection of stream utilities.",
@@ -77873,6 +77945,12 @@
             "name": "FXGL",
             "url": "https://almasb.github.io/FXGL/",
             "description": "JavaFX Game Development Framework.",
+            "tags": []
+          },
+          {
+            "name": "input4j",
+            "url": "https://gurkenlabs.github.io/input4j/",
+            "description": "Lightweight, cross-platform library for gamepad and joystick input handling.",
             "tags": []
           },
           {
@@ -79048,6 +79126,12 @@
             "tags": []
           },
           {
+            "name": "Nyagram",
+            "url": "https://github.com/kaleert/nyagram",
+            "description": "Reactive, type-safe framework for Telegram bots based on Spring Boot 3 and Java 21.",
+            "tags": []
+          },
+          {
             "name": "OctoLinker",
             "url": "https://github.com/OctoLinker/OctoLinker",
             "description": "Browser extension which allows to navigate through code on GitHub more efficiently.",
@@ -79069,6 +79153,12 @@
             "name": "Polyglot for Maven",
             "url": "https://github.com/takari/polyglot-maven",
             "description": "Extensions for Maven 3.3.1+ that allows writing the POM model in dialects other than XML.",
+            "tags": []
+          },
+          {
+            "name": "Rollgate",
+            "url": "https://rollgate.io",
+            "description": "Cloud-managed feature flag platform with a Java SDK, supporting gradual rollouts, A/B testing, and real-time updates.",
             "tags": []
           },
           {
@@ -79516,6 +79606,12 @@
             "tags": []
           },
           {
+            "name": "mybatis-dynamic",
+            "url": "https://github.com/myacelw/mybatis-dynamic",
+            "description": "Code-first dynamic ORM for MyBatis with runtime schema modification.",
+            "tags": []
+          },
+          {
             "name": "MyBatis-Plus",
             "url": "https://github.com/baomidou/mybatis-plus",
             "description": "A powerful enhanced toolkit of MyBatis for simplifying development.",
@@ -79686,6 +79782,12 @@
             "tags": []
           },
           {
+            "name": "Heap Seance",
+            "url": "https://github.com/SegfaultSorcerer/heap-seance",
+            "description": "Memory leak diagnostics that orchestrates jcmd, jmap, jstat, JFR, Eclipse MAT, and async-profiler into a structured investigation workflow with confidence-based verdicts.",
+            "tags": []
+          },
+          {
             "name": "jHiccup",
             "url": "https://github.com/giltene/jHiccup",
             "description": "Logs and records platform JVM stalls.",
@@ -79707,6 +79809,12 @@
             "name": "LatencyUtils",
             "url": "https://github.com/LatencyUtils/LatencyUtils",
             "description": "Utilities for latency measurement and reporting.",
+            "tags": []
+          },
+          {
+            "name": "JVM Hotpath",
+            "url": "https://github.com/sfkamath/jvm-hotpath",
+            "description": "Java agent for line-level execution frequency analysis to identify algorithmic bottlenecks.",
             "tags": []
           }
         ]
@@ -80363,6 +80471,12 @@
             "tags": []
           },
           {
+            "name": "Certificate Ripper",
+            "url": "https://github.com/Hakky54/certificate-ripper",
+            "description": "CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.",
+            "tags": []
+          },
+          {
             "name": "DependencyCheck",
             "url": "https://github.com/jeremylong/DependencyCheck",
             "description": "Detects publicly disclosed vulnerabilities contained within a project's dependencies.",
@@ -80480,6 +80594,12 @@
             "name": "Topaz",
             "url": "https://www.topaz.sh",
             "description": "Fine-grained authorization for applications with support for RBAC, ABAC, and ReBAC.",
+            "tags": []
+          },
+          {
+            "name": "MOSS",
+            "url": "https://central.sonatype.com/artifact/com.mosscomputing/moss-sdk",
+            "description": "Cryptographic signing for AI agents using ML-DSA-44 post-quantum signatures, creating audit trails for attribution and compliance.",
             "tags": []
           }
         ]
@@ -80704,6 +80824,12 @@
             "name": "JGiven",
             "url": "http://jgiven.org",
             "description": "Provides a fluent API which allows for simpler composition.",
+            "tags": []
+          },
+          {
+            "name": "Kensa",
+            "url": "https://github.com/kensa-dev/kensa",
+            "description": "Code-first BDD framework for Java and Kotlin that generates interactive HTML reports and sequence diagrams from test code.",
             "tags": []
           },
           {
@@ -80947,6 +81073,12 @@
             "tags": []
           },
           {
+            "name": "skipper-java",
+            "url": "https://github.com/get-skipper/skipper-java",
+            "description": "Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.",
+            "tags": []
+          },
+          {
             "name": "Stebz",
             "url": "https://github.com/stebz/stebz",
             "description": "Multi-approach framework for test steps managing.",
@@ -80956,6 +81088,12 @@
             "name": "Testcontainers",
             "url": "https://github.com/testcontainers/testcontainers-java",
             "description": "Provides throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
+            "tags": []
+          },
+          {
+            "name": "Java Evolved",
+            "url": "https://javaevolved.github.io/",
+            "description": "Side-by-side comparisons of legacy and modern Java patterns.",
             "tags": []
           },
           {
@@ -81090,9 +81228,21 @@
             "tags": []
           },
           {
+            "name": "java-util",
+            "url": "https://github.com/jdereg/java-util",
+            "description": "Zero-dependency, high-performance utilities featuring Converter (universal type conversion), DeepEquals, CaseInsensitiveMap, TTLCache, CompactMap, MultiKeyMap, and object graph traversal.",
+            "tags": []
+          },
+          {
             "name": "JavaVerbalExpressions",
             "url": "https://github.com/VerbalExpressions/JavaVerbalExpressions",
             "description": "Library that helps with constructing difficult regular expressions.",
+            "tags": []
+          },
+          {
+            "name": "Jctx",
+            "url": "https://github.com/Shashwat-Gupta57/jctx",
+            "description": "Reads a Java project and generates a structured context file so AI tools can understand and help plan the codebase.",
             "tags": []
           },
           {
@@ -81105,6 +81255,12 @@
             "name": "JKScope",
             "url": "https://github.com/evpl/jkscope",
             "description": "Java scope functions inspired by Kotlin.",
+            "tags": []
+          },
+          {
+            "name": "java-refined",
+            "url": "https://github.com/JunggiKim/java-refined",
+            "description": "Zero-dependency refinement types for Java 8+ with type-safe wrappers covering numerics, strings, and collections.",
             "tags": []
           },
           {
@@ -81123,6 +81279,12 @@
             "name": "Semver4j",
             "url": "https://github.com/semver4j/semver4j",
             "description": "Lightweight library that helps you handling semantic versioning with different modes.",
+            "tags": []
+          },
+          {
+            "name": "Sift",
+            "url": "https://github.com/Mirkoddd/Sift",
+            "description": "Type-safe, AST-based Regex Builder focused on readability and ReDoS prevention.",
             "tags": []
           },
           {
@@ -81276,6 +81438,12 @@
             "name": "Takes",
             "url": "https://github.com/yegor256/takes",
             "description": "Opinionated web framework which is built around the concepts of True Object-Oriented Programming and immutability.",
+            "tags": []
+          },
+          {
+            "name": "tinystruct",
+            "url": "https://github.com/tinystruct/tinystruct",
+            "description": "Lightweight, pluggable framework for building Java applications with CLI, HTTP, and modular extension support.",
             "tags": []
           },
           {
@@ -81801,6 +81969,12 @@
           {
             "name": "Javalobby",
             "url": "https://dzone.com/java-jdk-development-tutorials-tools-news",
+            "description": "",
+            "tags": []
+          },
+          {
+            "name": "TheCodeForge Java Tutorials",
+            "url": "https://thecodeforge.io/java/",
             "description": "",
             "tags": []
           },
