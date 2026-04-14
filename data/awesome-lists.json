@@ -4104,6 +4104,12 @@
             "tags": []
           },
           {
+            "name": "GhostVM",
+            "url": "https://github.com/groundwater/GhostVM",
+            "description": "Virtualization tool for creating and managing isolated macOS virtual machine workspaces.",
+            "tags": []
+          },
+          {
             "name": "MacVirtue",
             "url": "https://naden.co",
             "description": "Run free and unlimited Virtual Machines on your Mac.",
@@ -7388,6 +7394,12 @@
             "tags": []
           },
           {
+            "name": "ChargeMonitor",
+            "url": "https://github.com/CrashSystemZ/ChargeMonitor",
+            "description": "Menu bar battery monitor with real-time charging stats and energy impact insights.",
+            "tags": []
+          },
+          {
             "name": "SaneBar",
             "url": "https://sanebar.com",
             "description": "Privacy-first menu bar manager with hidden zones and automation rules.",
@@ -7774,6 +7786,12 @@
             "name": "Mac Cache Cleaner",
             "url": "https://github.com/kaunteya/MacCacheCleaner",
             "description": "Cache cleaner for Mac",
+            "tags": []
+          },
+          {
+            "name": "MacSift",
+            "url": "https://lcharvol.github.io/MacSift/",
+            "description": "Open-source disk cleaner that groups files by app and moves them to the Trash.",
             "tags": []
           },
           {
@@ -9268,6 +9286,12 @@
             "tags": []
           },
           {
+            "name": "SwiftMTP",
+            "url": "https://github.com/Neighbor-Z/SwiftMTP",
+            "description": "Open-source MTP device manager for browsing and transferring files between Mac and Android devices.",
+            "tags": []
+          },
+          {
             "name": "Core Tunnel",
             "url": "https://codinn.com/tunnel/",
             "description": "Application for managing SSH connections.",
@@ -10291,6 +10315,12 @@
             "name": "furl",
             "url": "https://github.com/gruns/furl",
             "description": "A small Python library that makes parsing and manipulating URLs easy.",
+            "tags": []
+          },
+          {
+            "name": "httptap",
+            "url": "https://github.com/ozeranskii/httptap",
+            "description": "Dissects an HTTP request into DNS, TCP, TLS, wait, and transfer phases and renders the timings as a waterfall.",
             "tags": []
           },
           {
@@ -16545,6 +16575,12 @@
             "name": "sqlpp11",
             "url": "https://github.com/rbock/sqlpp11",
             "description": "A type safe embedded domain specific language for SQL queries and results in C++. [BSD-2-Clause]",
+            "tags": []
+          },
+          {
+            "name": "sqlpp23",
+            "url": "https://github.com/rbock/sqlpp23",
+            "description": "A type safe SQL library for C++. [BSD-2-Clause]",
             "tags": []
           },
           {
@@ -29319,6 +29355,12 @@
             "tags": []
           },
           {
+            "name": "NornicDB",
+            "url": "https://github.com/orneryd/NornicDB",
+            "description": "High performance graph + vector database (Neo4j and qDrant compatible), focused on low latency graph-rag retreival for AI systems.",
+            "tags": []
+          },
+          {
             "name": "nutsdb",
             "url": "https://github.com/xujiajun/nutsdb",
             "description": "Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.",
@@ -40832,6 +40874,12 @@
             "tags": []
           },
           {
+            "name": "doors",
+            "url": "https://github.com/doors-dev/doors",
+            "description": "Server-driven framework for building stateful, reactive web applications entirely in Go.",
+            "tags": []
+          },
+          {
             "name": "Echo",
             "url": "https://github.com/labstack/echo",
             "description": "High performance, minimalist Go web framework.",
@@ -50106,6 +50154,12 @@
             "tags": []
           },
           {
+            "name": "hyperb1iss/unifly",
+            "url": "https://github.com/hyperb1iss/unifly",
+            "description": "[ unifly ] - CLI and TUI for managing Ubiquiti UniFi network controllers with dual-API coverage and a 10-screen Ratatui dashboard",
+            "tags": []
+          },
+          {
             "name": "j0ru/kickoff",
             "url": "https://github.com/j0ru/kickoff",
             "description": "Fast and snappy wayland program launcher",
@@ -50810,6 +50864,12 @@
             "tags": []
           },
           {
+            "name": "veirt/weathr",
+            "url": "https://github.com/Veirt/weathr",
+            "description": "[ weathr ] - A terminal weather app with ASCII animation.",
+            "tags": []
+          },
+          {
             "name": "Vibe",
             "url": "https://github.com/thewh1teagle/vibe",
             "description": "Transcribe audio or video in every language on every platform.",
@@ -51098,12 +51158,6 @@
             "tags": []
           },
           {
-            "name": "antinomyhq/forgecode",
-            "url": "https://github.com/antinomyhq/forgecode",
-            "description": "A terminal-based AI pair programmer for code generation and editing.",
-            "tags": []
-          },
-          {
             "name": "armgabrielyan/deadbranch",
             "url": "https://github.com/armgabrielyan/deadbranch",
             "description": "[ deadbranch ] - Clean up stale git branches safely",
@@ -51206,6 +51260,12 @@
             "tags": []
           },
           {
+            "name": "forgecode",
+            "url": "https://github.com/tailcallhq/forgecode",
+            "description": "A terminal-based AI pair programmer for code generation and editing.",
+            "tags": []
+          },
+          {
             "name": "frolic",
             "url": "https://github.com/frolicflow/Frolic",
             "description": "An API layer to build customer facing dashboards 10x faster",
@@ -51239,6 +51299,12 @@
             "name": "git-journal",
             "url": "https://github.com/saschagrunert/git-journal/",
             "description": "The Git Commit Message and Changelog Generation Framework",
+            "tags": []
+          },
+          {
+            "name": "git-time-machine",
+            "url": "https://github.com/dinakars777/git-time-machine",
+            "description": "Visual git reflog TUI for undoing git mistakes",
             "tags": []
           },
           {
@@ -56168,7 +56234,7 @@
           },
           {
             "name": "capsule",
-            "url": "https://github.com/mavdol/capsule",
+            "url": "https://github.com/capsulerun/capsule",
             "description": "WebAssembly sandboxing runtime for executing untrusted code",
             "tags": []
           },
@@ -56217,6 +56283,12 @@
             "name": "Crates",
             "url": "https://crates.io",
             "description": "The official public registry for Rust/Cargo.",
+            "tags": []
+          },
+          {
+            "name": "getnora-io/nora",
+            "url": "https://github.com/getnora-io/nora",
+            "description": "A lightweight, single-binary artifact registry supporting Docker, Maven, npm, PyPI, Cargo, Go, and raw formats. Upstream proxy with caching and air-gap mode.",
             "tags": []
           },
           {
