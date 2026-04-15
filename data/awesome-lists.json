@@ -5440,6 +5440,12 @@
             "tags": []
           },
           {
+            "name": "Desktop Control",
+            "url": "https://github.com/yaroshevych/desktopctl",
+            "description": "GPU-accelerated CLI for AI agents to control any macOS app via screen, mouse, and keyboard.",
+            "tags": []
+          },
+          {
             "name": "Fazm",
             "url": "https://fazm.ai",
             "description": "Open-source voice-controlled AI agent for apps, files, and workflows.",
@@ -11162,6 +11168,12 @@
             "name": "prospector",
             "url": "https://github.com/prospector-dev/prospector",
             "description": "A tool to analyze Python code.",
+            "tags": []
+          },
+          {
+            "name": "repowise",
+            "url": "https://github.com/repowise-dev/repowise",
+            "description": "Codebase intelligence that indexes repos into dependency graphs, git history, and auto-generated docs with dead code detection.",
             "tags": []
           },
           {
@@ -21348,6 +21360,12 @@
             "tags": []
           },
           {
+            "name": "The RaBitQ Library",
+            "url": "https://github.com/VectorDB-NTU/RaBitQ-Library",
+            "description": "A lightweight library for the RaBitQ algorithm. [Apache-2.0] website",
+            "tags": []
+          },
+          {
             "name": "tiny::optional",
             "url": "https://github.com/Sedeniono/tiny-optional/",
             "description": "Replacement for std::optional that does not waste memory unnecessarily. [BSL-1.0]",
@@ -26702,6 +26720,12 @@
             "name": "AegisFlow",
             "url": "https://github.com/saivedant169/AegisFlow",
             "description": "AI gateway for routing, securing, and monitoring LLM traffic across 10+ providers. OpenAI-compatible API, WASM policy plugins, canary rollouts, real-time dashboard.",
+            "tags": []
+          },
+          {
+            "name": "Aetheris",
+            "url": "https://github.com/Colin4k1024/Aetheris",
+            "description": "AI Agent execution runtime with event sourcing, checkpoint recovery, and At-Most-Once execution guarantee. Written in Go.",
             "tags": []
           },
           {
@@ -48040,6 +48064,12 @@
             "tags": []
           },
           {
+            "name": "s00d/switchshuttle",
+            "url": "https://github.com/s00d/switchshuttle",
+            "description": "Cross-platform system tray app for organizing and running predefined terminal commands with global hotkeys, nested menus, and JSON-backed configuration (Tauri + Vue).",
+            "tags": []
+          },
+          {
             "name": "Saga Reader",
             "url": "https://github.com/sopaco/saga-reader",
             "description": "A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.",
@@ -49904,6 +49934,12 @@
             "tags": []
           },
           {
+            "name": "mullvad/mullvadvpn-app",
+            "url": "https://github.com/mullvad/mullvadvpn-app",
+            "description": "Cross-platform VPN client application for the Mullvad VPN service with WireGuard support, quantum-resistant tunnels, and privacy-focused features.",
+            "tags": []
+          },
+          {
             "name": "observer_ward",
             "url": "https://github.com/emo-crab/observer_ward",
             "description": "Web application and service fingerprint identification tool",
@@ -50521,6 +50557,12 @@
             "name": "ox",
             "url": "https://github.com/curlpipe/ox",
             "description": "An independent Rust text editor that runs in your terminal!",
+            "tags": []
+          },
+          {
+            "name": "SoloMD",
+            "url": "https://github.com/zhitongblog/solomd",
+            "description": "A lightweight, cross-platform Markdown editor with live preview, built with Tauri 2.",
             "tags": []
           },
           {
@@ -51144,6 +51186,12 @@
             "name": "dali-benothmen/cronflow",
             "url": "https://github.com/dali-benothmen/cronflow",
             "description": "Cronflow is a high-performance, developer-focused workflow automation library that lets you build and orchestrate complex, scalable automation workflows fully in code.",
+            "tags": []
+          },
+          {
+            "name": "CCHub",
+            "url": "https://github.com/Moresl/cchub",
+            "description": "A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).",
             "tags": []
           }
         ]
