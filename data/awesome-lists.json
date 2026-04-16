@@ -26729,6 +26729,12 @@
             "tags": []
           },
           {
+            "name": "agent-sdk-go",
+            "url": "https://github.com/agenticenv/agent-sdk-go",
+            "description": "Go SDK for building durable AI agents on Temporal with support for tools, MCP, human approvals, and sub-agent delegation.",
+            "tags": []
+          },
+          {
             "name": "ai",
             "url": "https://github.com/joakimcarlsson/ai",
             "description": "A Go toolkit for building AI agents and applications across multiple providers with unified LLM, embeddings, tool calling, and MCP integration.",
@@ -64371,12 +64377,6 @@
             "name": "Fork Recipes",
             "url": "https://mikebgrep.github.io/forkapi/latest/clients/",
             "description": "Manage your food recipes with simplicity. ( Source Code ) BSD-3-Clause Docker",
-            "tags": []
-          },
-          {
-            "name": "KitchenOwl",
-            "url": "https://docs.kitchenowl.org/latest/",
-            "description": "Cross-platform shopping list, recipe storage, expense tracker, and meal planner following the material design language. ( Source Code ) AGPL-3.0 Docker/deb",
             "tags": []
           },
           {
