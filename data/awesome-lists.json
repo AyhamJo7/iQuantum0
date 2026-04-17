@@ -8069,6 +8069,12 @@
             "tags": []
           },
           {
+            "name": "WaifuX",
+            "url": "https://jipika.github.io/WaifuX",
+            "description": "Open-source ACG app for wallpapers, animated backgrounds, and anime videos.",
+            "tags": []
+          },
+          {
             "name": "CapsLockNoDelay",
             "url": "https://github.com/gkpln3/CapsLockNoDelay",
             "description": "Removes caps-lock key activation delay for fast typers.",
@@ -15262,6 +15268,12 @@
             "name": "cpp-terminal",
             "url": "https://github.com/jupyter-xeus/cpp-terminal",
             "description": "Small header only C++ library for writing multiplatform terminal applications. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "Crossline",
+            "url": "https://github.com/jcwangxp/Crossline",
+            "description": "A small, self-contained, zero-config, MIT licensed, cross-platform, readline and libedit replacement. [MIT]",
             "tags": []
           },
           {
@@ -52966,6 +52978,12 @@
             "tags": []
           },
           {
+            "name": "faiscadev/fakecloud",
+            "url": "https://github.com/faiscadev/fakecloud",
+            "description": "[ fakecloud ] - Local AWS cloud emulator for development and testing.",
+            "tags": []
+          },
+          {
             "name": "rusoto/rusoto",
             "url": "https://github.com/rusoto/rusoto",
             "description": "An AWS SDK for Rust",
@@ -58728,9 +58746,9 @@
             "tags": []
           },
           {
-            "name": "Cal.com",
-            "url": "https://cal.com/",
-            "description": "Online appointment scheduling system. ( Demo , Source Code ) AGPL-3.0 Nodejs",
+            "name": "Cal.diy",
+            "url": "https://cal.diy/",
+            "description": "Online appointment scheduling system. ( Source Code ) MIT Nodejs",
             "tags": []
           },
           {
