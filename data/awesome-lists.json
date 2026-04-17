@@ -15486,6 +15486,12 @@
             "tags": []
           },
           {
+            "name": "LZAV",
+            "url": "https://github.com/avaneev/lzav",
+            "description": "Fast In-Memory Data Compression Algorithm. [MIT]",
+            "tags": []
+          },
+          {
             "name": "LZFSE",
             "url": "https://github.com/lzfse/lzfse",
             "description": "LZFSE compression library and command line tool. Developed by Apple.",
