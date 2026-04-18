@@ -11380,6 +11380,12 @@
             "tags": []
           },
           {
+            "name": "respx",
+            "url": "https://github.com/lundberg/respx",
+            "description": "Mock HTTPX with awesome request patterns and response side effects.",
+            "tags": []
+          },
+          {
             "name": "vcrpy",
             "url": "https://github.com/kevin1024/vcrpy",
             "description": "Record and replay HTTP interactions on your tests.",
@@ -37160,9 +37166,21 @@
             "tags": []
           },
           {
+            "name": "procscope",
+            "url": "https://github.com/Mutasem-mk4/procscope",
+            "description": "Process-scoped runtime investigator using eBPF to trace process lifecycle, file activity, and network connections.",
+            "tags": []
+          },
+          {
             "name": "qrand",
             "url": "https://github.com/bitfield/qrand",
             "description": "Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.",
+            "tags": []
+          },
+          {
+            "name": "redact",
+            "url": "https://github.com/alesr/redact",
+            "description": "Redact sensitive information from slog-based logs using a configurable pipeline.",
             "tags": []
           },
           {
@@ -37449,6 +37467,12 @@
             "name": "gondola",
             "url": "https://github.com/bmf-san/gondola",
             "description": "A YAML based golang reverse proxy.",
+            "tags": []
+          },
+          {
+            "name": "goshs",
+            "url": "https://github.com/patrickhener/goshs",
+            "description": "SimpleHTTPServer replacement with file upload/download, WebDAV, SFTP, SMB, TLS, authentication, and share links.",
             "tags": []
           },
           {
@@ -41756,6 +41780,12 @@
             "name": "golines",
             "url": "https://github.com/segmentio/golines",
             "description": "Formatter that automatically shortens long lines in Go code.",
+            "tags": []
+          },
+          {
+            "name": "gomarklint",
+            "url": "https://github.com/shinagawa-web/gomarklint",
+            "description": "Markdown linter with built-in HTTP link validation, single binary, no Node.js required.",
             "tags": []
           },
           {
@@ -64632,12 +64662,6 @@
             "name": "Websurfx",
             "url": "https://github.com/neon-mmd/websurfx",
             "description": "\u26a0 - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). AGPL-3.0 Rust/Docker",
-            "tags": []
-          },
-          {
-            "name": "Whoogle",
-            "url": "https://github.com/benbusby/whoogle-search",
-            "description": "\u26a0 - A self-hosted, ad-free, privacy-respecting metasearch engine. MIT Python",
             "tags": []
           },
           {
