@@ -37381,6 +37381,12 @@
             "tags": []
           },
           {
+            "name": "mus-go",
+            "url": "https://github.com/mus-format/mus-go",
+            "description": "MUS format serializer for Go.",
+            "tags": []
+          },
+          {
             "name": "php_session_decoder",
             "url": "https://github.com/yvasiyarov/php_session_decoder",
             "description": "GoLang library for working with PHP session format and PHP Serialize/Unserialize functions.",
