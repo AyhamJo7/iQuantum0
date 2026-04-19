@@ -6990,6 +6990,12 @@
             "tags": []
           },
           {
+            "name": "MakLock",
+            "url": "https://github.com/dutkiewiczmaciej/MakLock",
+            "description": "Lock any macOS app with Touch ID, Apple Watch proximity, or password. Full-screen blur overlay on all monitors.",
+            "tags": []
+          },
+          {
             "name": "LuLu",
             "url": "https://objective-see.com/products/lulu.html",
             "description": "LuLu is the free macOS firewall that aims to block unauthorized (outgoing) network traffic.",
@@ -7272,6 +7278,12 @@
             "name": "ClipMenu",
             "url": "http://www.clipmenu.com",
             "description": "Clipboard manager for Mac OS X.",
+            "tags": []
+          },
+          {
+            "name": "Clippy",
+            "url": "https://github.com/yarasaa/Clippy",
+            "description": "Smart clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter.",
             "tags": []
           },
           {
@@ -9849,6 +9861,12 @@
             "url": "https://github.com/fighting41love/funNLP",
             "description": "A collection of tools and datasets for Chinese NLP.",
             "tags": []
+          },
+          {
+            "name": "jieba",
+            "url": "https://github.com/fxsjy/jieba",
+            "description": "The most popular Chinese text segmentation library.",
+            "tags": []
           }
         ]
       },
@@ -10708,6 +10726,12 @@
             "name": "datasette",
             "url": "https://github.com/simonw/datasette",
             "description": "An open source multi-tool for exploring and publishing data.",
+            "tags": []
+          },
+          {
+            "name": "data-profiling",
+            "url": "https://github.com/Data-Centric-AI-Community/data-profiling",
+            "description": "Generate detailed data profiling reports for pandas DataFrames.",
             "tags": []
           },
           {
@@ -17122,6 +17146,12 @@
             "name": "libschrift",
             "url": "https://github.com/tomolt/libschrift",
             "description": "A lightweight TrueType font rendering library. [ISC]",
+            "tags": []
+          },
+          {
+            "name": "SheenBidi",
+            "url": "https://github.com/Tehreer/SheenBidi",
+            "description": "A sophisticated implementation of Unicode Bidirectional Algorithm. [Apache-2.0]",
             "tags": []
           }
         ]
@@ -30534,6 +30564,12 @@
             "tags": []
           },
           {
+            "name": "cmd-stream-go",
+            "url": "https://github.com/cmd-stream/cmd-stream-go",
+            "description": "High-performance distributed command pattern library for Go.",
+            "tags": []
+          },
+          {
             "name": "committer",
             "url": "https://github.com/vadiminshakov/committer",
             "description": "A distributed transactions management system (2PC/3PC implementation).",
@@ -36143,6 +36179,12 @@
             "tags": []
           },
           {
+            "name": "hedge",
+            "url": "https://github.com/bhope/hedge",
+            "description": "Adaptive hedged requests for Go. Cuts p99 latency with zero configuration, based on Google's \"The Tail at Scale\" paper.",
+            "tags": []
+          },
+          {
             "name": "heimdall",
             "url": "https://github.com/gojektech/heimdall",
             "description": "An enhanced http client with retry and hystrix capabilities.",
@@ -40792,6 +40834,12 @@
             "tags": []
           },
           {
+            "name": "git-courer",
+            "url": "https://github.com/Alejandro-M-P/git-courer",
+            "description": "Local MCP server for Git operations using Ollama to save tokens and prevent secret leakage.",
+            "tags": []
+          },
+          {
             "name": "git2go",
             "url": "https://github.com/libgit2/git2go",
             "description": "Go bindings for libgit2.",
@@ -42658,6 +42706,12 @@
             "name": "Pewpew",
             "url": "https://github.com/bengadbois/pewpew",
             "description": "Flexible HTTP command line stress tester.",
+            "tags": []
+          },
+          {
+            "name": "pingtower",
+            "url": "https://github.com/crleonard/pingtower",
+            "description": "Lightweight self-hosted uptime monitor for websites and APIs.",
             "tags": []
           },
           {
