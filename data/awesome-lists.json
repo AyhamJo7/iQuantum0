@@ -9638,6 +9638,12 @@
             "tags": []
           },
           {
+            "name": "bub",
+            "url": "https://github.com/bubbuild/bub",
+            "description": "A lightweight, hook-first Python framework for channel-native agents that live alongside people.",
+            "tags": []
+          },
+          {
             "name": "crewai",
             "url": "https://github.com/crewAIInc/crewAI",
             "description": "A framework for orchestrating role-playing autonomous AI agents for collaborative task solving.",
@@ -13141,6 +13147,17 @@
             "name": "The Real Python Podcast",
             "url": "https://realpython.com/podcasts/rpp/",
             "description": "",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Websites",
+        "resources": [
+          {
+            "name": "Python Developer Tooling Handbook",
+            "url": "https://pydevtools.com/",
+            "description": "Comprehensive guide to modern Python developer tools covering package management, linting, type checking, testing, and more.",
             "tags": []
           }
         ]
@@ -37136,6 +37153,12 @@
             "tags": []
           },
           {
+            "name": "gspy",
+            "url": "https://github.com/Mutasem-mk4/gspy",
+            "description": "Forensic goroutine-to-syscall inspector for live Go processes.",
+            "tags": []
+          },
+          {
             "name": "Interpol",
             "url": "https://github.com/avahidi/interpol",
             "description": "Rule-based data generator for fuzzing and penetration testing.",
@@ -40526,7 +40549,7 @@
           },
           {
             "name": "stacktower",
-            "url": "https://github.com/matzehuels/stacktower",
+            "url": "https://github.com/stacktower-io/stacktower",
             "description": "Visualize dependency graphs as physical tower structures, inspired by XKCD #2347.",
             "tags": []
           },
@@ -47003,6 +47026,12 @@
             "tags": []
           },
           {
+            "name": "Bytebase",
+            "url": "https://github.com/bytebase/bytebase",
+            "description": "Database DevOps and CI/CD for MySQL, PostgreSQL, and more, with SQL review, schema migration, and access control. By Bytebase .",
+            "tags": []
+          },
+          {
             "name": "coder",
             "url": "https://github.com/coder/coder",
             "description": "Remote development machines powered by Terraform or Docker.",
@@ -49528,8 +49557,8 @@
         "name": "Message Queue",
         "resources": [
           {
-            "name": "Narwhal",
-            "url": "https://github.com/narwhal-io/narwhal",
+            "name": "lonewolf-io/Narwhal",
+            "url": "https://github.com/lonewolf-io/narwhal",
             "description": "An extensible pub/sub messaging server for edge applications.",
             "tags": []
           },
@@ -50139,6 +50168,18 @@
             "name": "anylinuxfs-gui",
             "url": "https://github.com/fenio/anylinuxfs-gui",
             "description": "GUI application for anylinuxfs",
+            "tags": []
+          },
+          {
+            "name": "ataraxy-labs/sem",
+            "url": "https://github.com/ataraxy-labs/sem",
+            "description": "Entity-level semantic version control CLI. Diff, blame, graph, and impact analysis at the function/class level across 26 languages via tree-sitter.",
+            "tags": []
+          },
+          {
+            "name": "ataraxy-labs/weave",
+            "url": "https://github.com/ataraxy-labs/weave",
+            "description": "Entity-level merge driver for Git. Resolves merge conflicts by understanding code structure via tree-sitter. Drops into git as a custom merge driver via .gitattributes.",
             "tags": []
           },
           {
@@ -51108,6 +51149,12 @@
             "tags": []
           },
           {
+            "name": "superradcompany/microsandbox",
+            "url": "https://github.com/superradcompany/microsandbox",
+            "description": "Lightweight microVM sandboxing library for running isolated code execution in milliseconds. Supports Rust, Python, and TypeScript SDKs with OCI-compatible container images.",
+            "tags": []
+          },
+          {
             "name": "tailhook/vagga",
             "url": "https://github.com/tailhook/vagga",
             "description": "A containerization tool without daemons",
@@ -51300,12 +51347,6 @@
             "name": "dali-benothmen/cronflow",
             "url": "https://github.com/dali-benothmen/cronflow",
             "description": "Cronflow is a high-performance, developer-focused workflow automation library that lets you build and orchestrate complex, scalable automation workflows fully in code.",
-            "tags": []
-          },
-          {
-            "name": "CCHub",
-            "url": "https://github.com/Moresl/cchub",
-            "description": "A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).",
             "tags": []
           }
         ]
