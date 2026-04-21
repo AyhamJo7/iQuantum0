@@ -50591,6 +50591,12 @@
             "tags": []
           },
           {
+            "name": "tw93/Kaku",
+            "url": "https://github.com/tw93/Kaku",
+            "description": "A fast, out-of-the-box terminal emulator built for AI coding, with zero-config defaults, AI assistant integration, and WezTerm-compatible Lua configuration. macOS-only.",
+            "tags": []
+          },
+          {
             "name": "uutils/coreutils",
             "url": "https://github.com/uutils/coreutils",
             "description": "A cross-platform rewrite of the GNU coreutils",
@@ -51388,6 +51394,12 @@
             "name": "cachix/devenv",
             "url": "https://github.com/cachix/devenv",
             "description": "Fast, declarative, reproducible, and composable developer environments using Nix",
+            "tags": []
+          },
+          {
+            "name": "claudectl",
+            "url": "https://github.com/mercurialsolo/claudectl",
+            "description": "[ claudectl ] - Auto-pilot for Claude Code with a local LLM brain (ollama/llama.cpp/vLLM) that learns to auto-approve/deny tool calls. Multi-session orchestration, health monitoring, spend control.",
             "tags": []
           },
           {
