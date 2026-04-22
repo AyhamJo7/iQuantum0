@@ -9628,7 +9628,7 @@
           {
             "name": "trailofbits-skills",
             "url": "https://github.com/trailofbits/skills",
-            "description": "Python-friendly security skills for auditing, testing, and safer backend development.",
+            "description": "Python-friendly security skills for auditing, testing, and safer backend development. Also skills-curated .",
             "tags": []
           },
           {
@@ -9704,6 +9704,12 @@
             "tags": []
           },
           {
+            "name": "mlx-lm",
+            "url": "https://github.com/ml-explore/mlx-lm",
+            "description": "Run and fine-tune large language models on Apple Silicon with MLX.",
+            "tags": []
+          },
+          {
             "name": "sglang",
             "url": "https://github.com/sgl-project/sglang",
             "description": "A high-performance serving framework for large language models and multimodal models.",
@@ -9725,6 +9731,24 @@
             "name": "vllm",
             "url": "https://github.com/vllm-project/vllm",
             "description": "A high-throughput and memory-efficient inference and serving engine for LLMs.",
+            "tags": []
+          },
+          {
+            "name": "openai-whisper",
+            "url": "https://github.com/openai/whisper",
+            "description": "A general-purpose automatic speech recognition model trained on 680k hours of multilingual and multitask supervised data.",
+            "tags": []
+          },
+          {
+            "name": "vibevoice",
+            "url": "https://github.com/microsoft/VibeVoice",
+            "description": "A family of open-source voice AI models from Microsoft for text-to-speech and long-form speech recognition.",
+            "tags": []
+          },
+          {
+            "name": "voxcpm",
+            "url": "https://github.com/OpenBMB/VoxCPM",
+            "description": "A tokenizer-free text-to-speech foundation model for multilingual speech generation and voice cloning.",
             "tags": []
           }
         ]
@@ -9825,6 +9849,12 @@
             "name": "TabGAN",
             "url": "https://github.com/Diyago/Tabular-data-generation",
             "description": "Synthetic tabular data generation using GANs, Diffusion Models, and LLMs.",
+            "tags": []
+          },
+          {
+            "name": "timesfm",
+            "url": "https://github.com/google-research/timesfm",
+            "description": "A pretrained foundation model from Google Research for time-series forecasting.",
             "tags": []
           },
           {
@@ -10008,6 +10038,12 @@
       {
         "name": "Web APIs",
         "resources": [
+          {
+            "name": "django-modern-rest",
+            "url": "https://github.com/wemake-services/django-modern-rest",
+            "description": "Modern REST with speed, types, async, msgspec , pydantic and other goodies!",
+            "tags": []
+          },
           {
             "name": "django-ninja",
             "url": "https://github.com/vitalik/django-ninja",
@@ -11279,9 +11315,9 @@
             "tags": []
           },
           {
-            "name": "pyre-check",
-            "url": "https://github.com/facebook/pyre-check",
-            "description": "Performant type checking.",
+            "name": "pyrefly",
+            "url": "https://github.com/facebook/pyrefly",
+            "description": "A fast type checker and language server for Python.",
             "tags": []
           },
           {
@@ -33309,6 +33345,12 @@
             "url": "https://github.com/madflojo/tasks",
             "description": "An easy to use in-process scheduler for recurring tasks in Go.",
             "tags": []
+          },
+          {
+            "name": "tickstem/cron",
+            "url": "https://github.com/tickstem/cron",
+            "description": "Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials.",
+            "tags": []
           }
         ]
       },
@@ -41224,6 +41266,12 @@
             "name": "Yokai",
             "url": "https://github.com/ankorstore/yokai",
             "description": "Simple, modular, and observable Go framework for backend applications.",
+            "tags": []
+          },
+          {
+            "name": "NotNet",
+            "url": "https://github.com/nottechdm/notnet",
+            "description": "A lightweight Go framework for building fast, ergonomic RESTful APIs with middleware and flexible routing.",
             "tags": []
           }
         ]
@@ -49824,6 +49872,12 @@
             "name": "graves/awful_aj",
             "url": "https://github.com/graves/awful_aj",
             "description": "[ awful_aj ] - A CLI for working with OpenAI-compatible APIs, YAML templates for prompt engineering and a built in Vector Database for persistent memories.",
+            "tags": []
+          },
+          {
+            "name": "iBz-04/gloamy",
+            "url": "https://github.com/iBz-04/gloamy",
+            "description": "[ gloamy ] - Rust-first autonomous agent runtime for CLI, channels, gateway, and hardware workflows.",
             "tags": []
           },
           {
@@ -67001,7 +67055,7 @@
           {
             "name": "Blurhash",
             "url": "https://github.com/fluttercommunity/flutter_blurhash",
-            "description": "[556\u2b50] - Compact representation of a placeholder for an image. Encode a blurry image under 30 caracters by Robert Felker .",
+            "description": "[556\u2b50] - Compact representation of a placeholder for an image. Encode a blurry image under 30 characters by Robert Felker .",
             "tags": []
           },
           {
