@@ -9397,6 +9397,12 @@
             "url": "https://getwhisky.app/",
             "description": "Wine wrapper that supports GPTK (Game Porting Toolkit)",
             "tags": []
+          },
+          {
+            "name": "ConsoleMini",
+            "url": "https://github.com/momenbasel/ConsoleMini",
+            "description": "Controller-first big-picture launcher that turns a Mac mini into a PS1-PS4 + retro console (wraps DuckStation, PCSX2, RPCS3, shadPS4, PPSSPP, RetroArch, mGBA, Flycast).",
+            "tags": []
           }
         ]
       },
@@ -9629,6 +9635,12 @@
             "name": "trailofbits-skills",
             "url": "https://github.com/trailofbits/skills",
             "description": "Python-friendly security skills for auditing, testing, and safer backend development. Also skills-curated .",
+            "tags": []
+          },
+          {
+            "name": "ag2",
+            "url": "https://github.com/ag2ai/ag2",
+            "description": "An open-source AgentOS for multi-agent orchestration and building agentic AI systems.",
             "tags": []
           },
           {
@@ -31173,6 +31185,12 @@
             "tags": []
           },
           {
+            "name": "tickstem/verify",
+            "url": "https://github.com/tickstem/verify",
+            "description": "Validate email addresses before they hit your database: syntax, MX lookup, disposable domains, and role-based inboxes.",
+            "tags": []
+          },
+          {
             "name": "truemail-go",
             "url": "https://github.com/truemail-rb/truemail-go",
             "description": "Configurable Golang email validator/verifier. Verify email via Regex, DNS, SMTP and even more.",
@@ -35996,6 +36014,12 @@
             "name": "llb",
             "url": "https://github.com/kirillDanshin/llb",
             "description": "It's a very simple but quick backend for proxy servers. Can be useful for fast redirection to predefined domain with zero memory allocation and fast response.",
+            "tags": []
+          },
+          {
+            "name": "macwifi",
+            "url": "https://github.com/jaisonerick/macwifi",
+            "description": "Wi-Fi scanning and Keychain password retrieval for macOS 13+.",
             "tags": []
           },
           {
@@ -41468,6 +41492,12 @@
             "name": "FastRouter",
             "url": "https://github.com/razonyang/fastrouter",
             "description": "a fast, flexible HTTP router written in Go.",
+            "tags": []
+          },
+          {
+            "name": "Fox",
+            "url": "https://github.com/fox-toolkit/fox",
+            "description": "A high-performance HTTP router for building reverse proxies and API gateways, with first-class support for mutating routes at runtime.",
             "tags": []
           },
           {
@@ -48828,12 +48858,6 @@
             "tags": []
           },
           {
-            "name": "debba/tabularis",
-            "url": "https://github.com/debba/tabularis",
-            "description": "A lightweight, developer-focused database management tool, built with Tauri and React.",
-            "tags": []
-          },
-          {
             "name": "dsplce-co/supabase-plus",
             "url": "https://github.com/dsplce-co/supabase-plus",
             "description": "[ supabase-plus ] - A batteries-included command-line utility that extends the official Supabase CLI",
@@ -49023,6 +49047,12 @@
             "name": "SurrealDB",
             "url": "https://github.com/surrealdb/surrealdb",
             "description": "A scalable, distributed, document-graph database",
+            "tags": []
+          },
+          {
+            "name": "tabularis",
+            "url": "https://github.com/TabularisDB/tabularis",
+            "description": "A lightweight, developer-focused database management tool, built with Tauri and React.",
             "tags": []
           },
           {
@@ -54272,6 +54302,12 @@
             "name": "saresend/gust",
             "url": "https://github.com/saresend/Gust",
             "description": "A small charting/visualization tool and partial vega implementation",
+            "tags": []
+          },
+          {
+            "name": "wangjiawen2013/charton",
+            "url": "https://github.com/wangjiawen2013/charton",
+            "description": "A layered grammar of graphics library in Rust.",
             "tags": []
           }
         ]
