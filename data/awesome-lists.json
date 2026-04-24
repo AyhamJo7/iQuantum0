@@ -24426,7 +24426,7 @@
           },
           {
             "name": "Deptrac",
-            "url": "https://github.com/qossmic/deptrac",
+            "url": "https://github.com/deptrac/deptrac",
             "description": "A static analysis tool for enforcing dependency rules between architectural layers.",
             "tags": []
           },
@@ -38359,15 +38359,15 @@
             "tags": []
           },
           {
-            "name": "gock",
-            "url": "https://github.com/h2non/gock",
-            "description": "Versatile HTTP mocking made easy.",
+            "name": "gomock",
+            "url": "https://github.com/uber-go/mock",
+            "description": "Mocking framework for the Go programming language.",
             "tags": []
           },
           {
             "name": "gomock",
-            "url": "https://github.com/uber-go/mock",
-            "description": "Mocking framework for the Go programming language.",
+            "url": "https://github.com/vibridi/gomock",
+            "description": "CLI tool to generate typed and framework-agnostic interface mocks, with support for generics.",
             "tags": []
           },
           {
@@ -45796,6 +45796,12 @@
             "tags": []
           },
           {
+            "name": "pindock",
+            "url": "https://github.com/deadnews/pindock",
+            "description": "Pin and update Docker image digests in Dockerfiles and compose files. By deadnews .",
+            "tags": []
+          },
+          {
             "name": "Prisma Cloud",
             "url": "https://www.paloaltonetworks.com/prisma/cloud",
             "description": ":yen: (Previously Twistlock Security Suite) detects vulnerabilities, hardens container images, and enforces security policies across the lifecycle of applications.",
@@ -46024,6 +46030,12 @@
             "name": "dry",
             "url": "https://github.com/moncho/dry",
             "description": "An interactive CLI for Docker containers.",
+            "tags": []
+          },
+          {
+            "name": "easydocker",
+            "url": "https://github.com/joao-zanutto/easydocker",
+            "description": "A Terminal UI highly inpired by k9s levaraging beatiful BubbleTea graphics. By joao-zanutto .",
             "tags": []
           },
           {
@@ -50285,6 +50297,12 @@
             "tags": []
           },
           {
+            "name": "bolivian-peru/os-moda",
+            "url": "https://github.com/bolivian-peru/os-moda",
+            "description": "NixOS distribution where an AI agent has root through 91 typed MCP tools. 9 Rust daemons (system bridge, atomic SafeSwitch deploys with auto-rollback, hash-chained audit ledger, AES-256-GCM crypto wallets, Noise_XX + ML-KEM-768 P2P mesh, local STT/TTS, MCP server lifecycle, system learning, domain-allowlisted egress proxy) communicate over Unix sockets.",
+            "tags": []
+          },
+          {
             "name": "bottom",
             "url": "https://github.com/ClementTsang/bottom",
             "description": "Yet another cross-platform graphical process/system monitor.",
@@ -50742,12 +50760,6 @@
             "name": "amp",
             "url": "https://amp.rs",
             "description": "Inspired by Vi/Vim.",
-            "tags": []
-          },
-          {
-            "name": "emacs-ng",
-            "url": "https://github.com/emacs-ng/emacs-ng",
-            "description": "Complementing the C codebase with rust code to introduce new features.",
             "tags": []
           },
           {
@@ -51613,6 +51625,12 @@
             "tags": []
           },
           {
+            "name": "GitoxideLabs/gitoxide",
+            "url": "https://github.com/GitoxideLabs/gitoxide",
+            "description": "[ gix ] - Pure-Rust Git implementation with high-performance plumbing crates and CLI tools for clone, fetch, status, diff, commit, config, refs, and more.",
+            "tags": []
+          },
+          {
             "name": "hot-lib-reloader",
             "url": "https://github.com/rksm/hot-lib-reloader-rs",
             "description": "Hot reload Rust code",
@@ -51930,12 +51948,6 @@
             "tags": []
           },
           {
-            "name": "peaceiris/actions-mdbook",
-            "url": "https://github.com/peaceiris/actions-mdbook",
-            "description": "GitHub Actions for mdBook",
-            "tags": []
-          },
-          {
             "name": "Nix",
             "url": "https://nixos.org/",
             "description": "",
@@ -52036,7 +52048,7 @@
             "tags": []
           },
           {
-            "name": "rust-lang-nursery/docker-rust",
+            "name": "rust-lang/docker-rust",
             "url": "https://github.com/rust-lang/docker-rust",
             "description": "the official Rust Docker image",
             "tags": []
@@ -52472,12 +52484,6 @@
             "name": "llogiq/flame",
             "url": "https://github.com/llogiq/flame",
             "description": "An intrusive flamegraph profiling tool for rust",
-            "tags": []
-          },
-          {
-            "name": "mrhooray/torch",
-            "url": "https://github.com/mrhooray/torch",
-            "description": "generates FlameGraphs based on DWARF Debug Info",
             "tags": []
           },
           {
@@ -53889,18 +53895,6 @@
             "tags": []
           },
           {
-            "name": "dalek-cryptography/ed25519-dalek",
-            "url": "https://github.com/dalek-cryptography/ed25519-dalek",
-            "description": "Ed25519 digital signatures",
-            "tags": []
-          },
-          {
-            "name": "dalek-cryptography/x25519-dalek",
-            "url": "https://github.com/dalek-cryptography/x25519-dalek",
-            "description": "X25519 key exchange",
-            "tags": []
-          },
-          {
             "name": "debris/tiny-keccak",
             "url": "https://github.com/debris/tiny-keccak",
             "description": "Keccak family (SHA3)",
@@ -54754,8 +54748,8 @@
             "tags": []
           },
           {
-            "name": "bincode-org/bincode",
-            "url": "https://github.com/bincode-org/bincode",
+            "name": "bincode",
+            "url": "https://crates.io/crates/bincode",
             "description": "A binary encoder/decoder",
             "tags": []
           },
