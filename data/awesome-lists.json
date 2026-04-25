@@ -9680,6 +9680,12 @@
             "tags": []
           },
           {
+            "name": "openai-agents",
+            "url": "https://github.com/openai/openai-agents-python",
+            "description": "OpenAI's framework for building and managing AI agents.",
+            "tags": []
+          },
+          {
             "name": "pydantic-ai",
             "url": "https://github.com/pydantic/pydantic-ai",
             "description": "A Python agent framework for building generative AI applications with structured schemas.",
@@ -11814,6 +11820,17 @@
         ]
       },
       {
+        "name": "Messaging",
+        "resources": [
+          {
+            "name": "faststream",
+            "url": "https://github.com/ag2ai/faststream",
+            "description": "A framework for building asynchronous services over Apache Kafka, RabbitMQ, NATS, MQTT and Redis.",
+            "tags": []
+          }
+        ]
+      },
+      {
         "name": "Job Schedulers",
         "resources": [
           {
@@ -13062,6 +13079,17 @@
             "name": "sqlmap",
             "url": "https://github.com/sqlmapproject/sqlmap",
             "description": "Automatic SQL injection and database takeover tool.",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Web Security",
+        "resources": [
+          {
+            "name": "secure",
+            "url": "https://github.com/TypeError/secure",
+            "description": "HTTP security headers for Python web applications with ASGI and WSGI middleware.",
             "tags": []
           }
         ]
@@ -19585,6 +19613,12 @@
             "name": "Seasocks",
             "url": "https://github.com/mattgodbolt/seasocks",
             "description": "Simple, small, C++ embeddable webserver with WebSockets support. [BSD]",
+            "tags": []
+          },
+          {
+            "name": "SNMP++",
+            "url": "https://www.agentpp.com/api/cpp/snmp_pp.html",
+            "description": "a C++ API which supports SNMP v1/2c/v3. [custom permissive license]",
             "tags": []
           },
           {
@@ -48192,6 +48226,12 @@
             "name": "linkerd/linkerd2-proxy",
             "url": "https://github.com/linkerd/linkerd2-proxy",
             "description": "Ultralight service mesh for Kubernetes.",
+            "tags": []
+          },
+          {
+            "name": "LWE",
+            "url": "https://github.com/YangYuS8/lwe",
+            "description": "Linux desktop app for browsing, managing, and applying Wallpaper Engine content, built with Rust and Tauri.",
             "tags": []
           },
           {
