@@ -14890,6 +14890,12 @@
             "tags": []
           },
           {
+            "name": "cpp-mcp",
+            "url": "https://github.com/hkr04/cpp-mcp",
+            "description": "Lightweight C++ MCP (Model Context Protocol) SDK. [MIT]",
+            "tags": []
+          },
+          {
             "name": "Evolving Objects",
             "url": "http://eodev.sourceforge.net/",
             "description": "A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast. [LGPL]",
@@ -50026,6 +50032,12 @@
             "name": "tassiovirginio/try-rs",
             "url": "https://github.com/tassiovirginio/try-rs",
             "description": "[ try-rs ] - Workspace manager CLI with a TUI to organize and navigate temporary experiments.",
+            "tags": []
+          },
+          {
+            "name": "thClaws/thClaws",
+            "url": "https://github.com/thClaws/thClaws",
+            "description": "Native Rust AI agent workspace with multi-provider LLM support, skills system, MCP servers, knowledge bases, and agent orchestration. Features desktop GUI, CLI REPL, and non-interactive modes.",
             "tags": []
           },
           {
