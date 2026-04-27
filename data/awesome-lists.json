@@ -19328,6 +19328,12 @@
             "tags": []
           },
           {
+            "name": "AGENT++",
+            "url": "https://www.agentpp.com/api/cpp/agent_pp.html",
+            "description": "C++ framework provides a complete tri-lingual SNMP v1/2c/3 protocol engine and dispatcher for the development of SNMP agents. [Apache-2.0]",
+            "tags": []
+          },
+          {
             "name": "Boost.Asio",
             "url": "https://github.com/boostorg/asio",
             "description": ":zap: - A cross-platform C++ library for network and low-level I/O programming. [Boost] website",
@@ -29546,7 +29552,7 @@
           {
             "name": "NoKV",
             "url": "https://github.com/feichai0017/NoKV",
-            "description": "High-performance distributed KV storage based on LSM Tree.",
+            "description": "Native metadata service for distributed filesystems, object storage, and AI dataset workloads.",
             "tags": []
           },
           {
@@ -50011,6 +50017,12 @@
             "tags": []
           },
           {
+            "name": "rtk-ai/rtk",
+            "url": "https://github.com/rtk-ai/rtk",
+            "description": "High-performance CLI proxy that reduces LLM token consumption by 60-90% for AI coding assistants. Filters and compresses command outputs for Claude Code, Copilot, Cursor, Gemini CLI, Codex, and more.",
+            "tags": []
+          },
+          {
             "name": "screenpipe",
             "url": "https://github.com/screenpipe/screenpipe",
             "description": "24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama.",
@@ -53460,6 +53472,12 @@
             "tags": []
           },
           {
+            "name": "vyfor/rattles",
+            "url": "https://github.com/vyfor/rattles",
+            "description": "[ rattles ] - A minimal, dependency-free terminal spinner library.",
+            "tags": []
+          },
+          {
             "name": "hashmismatch/terminal_cli.rs",
             "url": "https://github.com/hashmismatch/terminal_cli.rs",
             "description": "[ terminal_cli ] - build an interactive command prompt",
@@ -55037,6 +55055,12 @@
             "name": "saphyr",
             "url": "https://github.com/saphyr-rs/saphyr",
             "description": "A set of crates dedicated to parsing YAML.",
+            "tags": []
+          },
+          {
+            "name": "serde-saphyr",
+            "url": "https://github.com/bourumir-wyngs/serde-saphyr",
+            "description": "YAML (de)serializer for Serde, emphasizing panic-free parsing and good error reporting",
             "tags": []
           }
         ]
@@ -61831,12 +61855,6 @@
             "tags": []
           },
           {
-            "name": "Quizmaster",
-            "url": "https://github.com/nymanjens/quizmaster",
-            "description": "Web application for conducting a quiz, including a page for players to enter their answers. Apache-2.0 Scala",
-            "tags": []
-          },
-          {
             "name": "Red Eclipse 2",
             "url": "https://www.redeclipse.net/",
             "description": "Arena first-person shooter similar to Unreal Tournament. ( Source Code ) Zlib/MIT/CC-BY-SA-4.0 C/C++/deb",
@@ -61864,12 +61882,6 @@
             "name": "Veloren",
             "url": "https://veloren.net/",
             "description": "Multiplayer RPG. Open-source game inspired by Cube World, Legend of Zelda, Dwarf Fortress and Minecraft. ( Source Code ) GPL-3.0 Rust",
-            "tags": []
-          },
-          {
-            "name": "Word Mastermind",
-            "url": "https://github.com/clupasq/word-mastermind",
-            "description": "Wordle clone. A Mastermind-like game, but instead of colors you need to guess words. ( Demo ) MIT Nodejs",
             "tags": []
           },
           {
@@ -64416,6 +64428,12 @@
             "tags": []
           },
           {
+            "name": "Memtly",
+            "url": "https://docs.memtly.com/",
+            "description": "Event photo sharing platform and gallery with slideshow that allows guests to view and share memories via a QR code. ( Demo , Source Code ) GPL-3.0 C#/Docker",
+            "tags": []
+          },
+          {
             "name": "Nextcloud Memories",
             "url": "https://memories.gallery/",
             "description": "Fast, modern and advanced photo management suite. Runs as a Nextcloud app. ( Demo , Source Code ) AGPL-3.0 PHP",
@@ -64473,12 +64491,6 @@
             "name": "Thumbor",
             "url": "http://thumbor.org/",
             "description": "A smart imaging service and enables on-demand cropping, resizing, applying filters and optimizing images. ( Source Code ) MIT Python/Docker",
-            "tags": []
-          },
-          {
-            "name": "WeddingShare",
-            "url": "https://docs.wedding-share.org/",
-            "description": "Event photo sharing platform and gallery with slideshow that allows guests to view and share memories via a QR code. ( Demo , Source Code ) GPL-3.0 C#/Docker",
             "tags": []
           },
           {
