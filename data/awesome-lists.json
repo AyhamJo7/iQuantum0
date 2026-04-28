@@ -9686,6 +9686,12 @@
             "tags": []
           },
           {
+            "name": "OpenChronicle",
+            "url": "https://github.com/Einsia/OpenChronicle",
+            "description": "Open-source, local-first memory for any tool-capable LLM agent.",
+            "tags": []
+          },
+          {
             "name": "pydantic-ai",
             "url": "https://github.com/pydantic/pydantic-ai",
             "description": "A Python agent framework for building generative AI applications with structured schemas.",
@@ -12877,6 +12883,12 @@
       {
         "name": "Environment Management",
         "resources": [
+          {
+            "name": "KillPy",
+            "url": "https://github.com/Tlaloc-Es/killpy",
+            "description": "Analyze, detect, and clean unused Python environments and pipx packages.",
+            "tags": []
+          },
           {
             "name": "pyenv",
             "url": "https://github.com/pyenv/pyenv",
@@ -19999,6 +20011,12 @@
             "name": "Easy Reflection",
             "url": "https://github.com/chocolacula/easy_reflection_cpp",
             "description": "Easy and fast reflection + serialization solution like in Rust, Java or Go. [Apache]",
+            "tags": []
+          },
+          {
+            "name": "Enchantum",
+            "url": "https://github.com/ZXShady/enchantum",
+            "description": "modern C++17 header-only library for compile-time enum reflection. [MIT]",
             "tags": []
           },
           {
@@ -29535,6 +29553,12 @@
             "name": "lotusdb",
             "url": "https://github.com/flower-corp/lotusdb",
             "description": "Fast k/v database compatible with lsm and b+tree.",
+            "tags": []
+          },
+          {
+            "name": "lynxdb",
+            "url": "https://github.com/lynxbase/lynxdb",
+            "description": "Lightweight columnar log analytics database with a pipe-style query language inspired by SPL.",
             "tags": []
           },
           {
@@ -51362,6 +51386,12 @@
             "tags": []
           },
           {
+            "name": "hook0/hook0",
+            "url": "https://github.com/hook0/hook0",
+            "description": "An open-source webhooks-as-a-service platform that makes it easy for SaaS developers to send webhooks",
+            "tags": []
+          },
+          {
             "name": "importantimport/hatsu",
             "url": "https://github.com/importantimport/hatsu",
             "description": "\ud83e\ude75 Self-hosted and fully-automated ActivityPub bridge for static sites.",
@@ -51413,6 +51443,12 @@
             "name": "Stoatchat",
             "url": "https://github.com/stoatchat/stoatchat",
             "description": "User-first chat platform built with modern web technologies.",
+            "tags": []
+          },
+          {
+            "name": "zhom/donutbrowser",
+            "url": "https://github.com/zhom/donutbrowser",
+            "description": "Open source anti-detect browser with unlimited isolated profiles, Chromium/Firefox engines, fingerprint spoofing, proxy/VPN support, local API & MCP server, and E2E encrypted cloud sync.",
             "tags": []
           }
         ]
@@ -59433,12 +59469,6 @@
             "name": "Synapse",
             "url": "https://element-hq.github.io/synapse/latest/index.html",
             "description": "Server for Matrix , an open standard for decentralized persistent communication. ( Source Code ) Apache-2.0 Python/deb",
-            "tags": []
-          },
-          {
-            "name": "Tailchat",
-            "url": "https://tailchat.msgbyte.com/",
-            "description": "Next generation noIM application in your own workspace, not only another Slack/Discord/rocket.chat. ( Demo , Source Code ) Apache-2.0 Docker/K8S/Nodejs",
             "tags": []
           },
           {
