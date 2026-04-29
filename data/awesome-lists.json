@@ -46145,6 +46145,12 @@
             "tags": []
           },
           {
+            "name": "wharf",
+            "url": "https://github.com/idesyatov/wharf",
+            "description": "A k9s-inspired TUI for Docker Compose with vim-style navigation, real-time CPU/MEM monitoring with braille charts, container file browser, SSH remote host support, and command mode. By @idesyatov",
+            "tags": []
+          },
+          {
             "name": "captain",
             "url": "https://github.com/jenssegers/captain",
             "description": ":ice_cube: - Easily start and stop docker compose projects from any directory. By jenssegers .",
@@ -51779,6 +51785,12 @@
             "tags": []
           },
           {
+            "name": "Muvon/octocode",
+            "url": "https://github.com/Muvon/octocode",
+            "description": "[ octocode ] - Semantic code indexer with GraphRAG knowledge graph and MCP server. Tree-sitter AST parsing, ast-grep structural search, LanceDB vector storage, code signatures view. CLI + MCP server modes for AI assistants like Claude/Cursor/Windsurf.",
+            "tags": []
+          },
+          {
             "name": "ptags",
             "url": "https://github.com/dalance/ptags",
             "description": "A parallel universal-ctags wrapper for git repository",
@@ -56291,6 +56303,12 @@
             "name": "kcl",
             "url": "https://github.com/kcl-lang/kcl",
             "description": "A constraint-based record & functional language mainly used in configuration and policy scenarios.",
+            "tags": []
+          },
+          {
+            "name": "kyren/piccolo",
+            "url": "https://github.com/kyren/piccolo",
+            "description": "[ piccolo ] - Experimental stackless Lua VM implemented in pure Rust with cycle-detecting incremental GC, sandboxing features, and safe Rust <-> Lua bindings.",
             "tags": []
           },
           {
