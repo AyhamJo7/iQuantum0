@@ -20127,6 +20127,12 @@
             "tags": []
           },
           {
+            "name": "PCRE2",
+            "url": "https://github.com/PCRE2Project/pcre2",
+            "description": "a set of C functions that implement\nregular expression pattern matching. [BSD] website",
+            "tags": []
+          },
+          {
             "name": "PIRE",
             "url": "https://github.com/yandex/pire",
             "description": "Perl Incompatible Regular Expressions library by Yandex. Can be really fast (more than 400 MB/s). [LPGL v3.0]",
