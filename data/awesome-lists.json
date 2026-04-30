@@ -2450,6 +2450,12 @@
             "tags": []
           },
           {
+            "name": "MarkViewer",
+            "url": "https://markviewer.com",
+            "description": "Markdown viewer and editor for macOS with AI-assisted editing.",
+            "tags": []
+          },
+          {
             "name": "Marp",
             "url": "https://marp.app",
             "description": "Markdown presentation writer with cross-platform support.",
@@ -49481,6 +49487,12 @@
             "tags": []
           },
           {
+            "name": "garkimasera/gaia-maker",
+            "url": "https://github.com/garkimasera/gaia-maker",
+            "description": "Planet and terraforming simulation game",
+            "tags": []
+          },
+          {
             "name": "garkimasera/rusted-ruins",
             "url": "https://github.com/garkimasera/rusted-ruins",
             "description": "Extensible open world rogue like game with pixel art",
@@ -51849,6 +51861,12 @@
             "url": "https://github.com/Wilfred/difftastic",
             "description": "[ difftastic ] - A structural diff tool that understands syntax, supporting 30+ programming languages",
             "tags": []
+          },
+          {
+            "name": "yvgude/lean-ctx",
+            "url": "https://github.com/yvgude/lean-ctx",
+            "description": "[ lean-ctx ] - Context runtime for AI coding agents: MCP server and shell hook that compresses tool and terminal output to reduce LLM token use; Tree-sitter parsing, session caching.",
+            "tags": []
           }
         ]
       },
@@ -53050,6 +53068,12 @@
             "name": "mio",
             "url": "https://github.com/tokio-rs/mio",
             "description": "MIO is a lightweight IO library, with a focus on adding as little overhead as possible over the OS abstractions",
+            "tags": []
+          },
+          {
+            "name": "nextest-rs/future-queue",
+            "url": "https://github.com/nextest-rs/future-queue",
+            "description": "[ future-queue ] - Stream adaptors for running futures concurrently with weighted concurrency limits and optional per-group limits.",
             "tags": []
           },
           {
