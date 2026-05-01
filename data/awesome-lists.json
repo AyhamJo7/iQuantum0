@@ -3500,7 +3500,7 @@
           {
             "name": "NameQuick",
             "url": "https://namequick.app",
-            "description": "AI-powered file renaming tool for macO",
+            "description": "AI-powered file renaming tool for macOS",
             "tags": []
           },
           {
@@ -29152,6 +29152,12 @@
             "tags": []
           },
           {
+            "name": "radixtree",
+            "url": "https://github.com/gammazero/radixtree",
+            "description": "Adaptive radix tree (prefix-tree or compact-trie).",
+            "tags": []
+          },
+          {
             "name": "trie",
             "url": "https://github.com/derekparker/trie",
             "description": "Trie implementation in Go.",
@@ -32872,6 +32878,12 @@
             "name": "AppIndicator Go",
             "url": "https://github.com/gopherlibs/appindicator",
             "description": "Go bindings for libappindicator3 C library.",
+            "tags": []
+          },
+          {
+            "name": "gogpu/systray",
+            "url": "https://github.com/gogpu/systray",
+            "description": "Pure Go system tray library for Windows, macOS, and Linux with zero CGO (part of GoGPU ecosystem).",
             "tags": []
           },
           {
@@ -49428,6 +49440,12 @@
         "name": "Finance",
         "resources": [
           {
+            "name": "Ashutosh0x/rust-finance",
+            "url": "https://github.com/Ashutosh0x/rust-finance",
+            "description": "AI trading terminal with multi-exchange ingestion, execution, risk models, and TUI dashboard.",
+            "tags": []
+          },
+          {
             "name": "klirr",
             "url": "https://github.com/Sajjon/klirr",
             "description": "[ klirr ] - Zero-maintenance and smart FOSS generating beautiful invoices for services and expenses.",
@@ -53333,6 +53351,12 @@
             "name": "mozilla/sccache",
             "url": "https://github.com/mozilla/sccache/",
             "description": "Shared Compilation Cache, great compilation",
+            "tags": []
+          },
+          {
+            "name": "salsa-rs/salsa",
+            "url": "https://github.com/salsa-rs/salsa",
+            "description": "[ salsa ] - A generic framework for on-demand, incrementalized computation with memoized queries, inspired by rustc's query system.",
             "tags": []
           },
           {
