@@ -11388,7 +11388,7 @@
           {
             "name": "pytest",
             "url": "https://github.com/pytest-dev/pytest",
-            "description": "A mature full-featured Python testing tool.",
+            "description": "A mature full-featured Python testing tool. awesome-pytest",
             "tags": []
           },
           {
@@ -15779,6 +15779,12 @@
             "name": "Async++",
             "url": "https://github.com/Amanieu/asyncplusplus",
             "description": "A lightweight concurrency framework for C++11, inspired by the Microsoft PPL library and the N3428 C++ standard proposal. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "atomic_queue",
+            "url": "https://github.com/max0x7ba/atomic_queue",
+            "description": "C++14 multiple-producer-multiple-consumer lock-free queues based on circular buffers and std::atomic. [MIT]",
             "tags": []
           },
           {
@@ -29938,6 +29944,12 @@
             "tags": []
           },
           {
+            "name": "pgxcli",
+            "url": "https://github.com/Balaji01-4D/pgxcli",
+            "description": "PostgreSQL CLI client written in Go, inspired by pgcli.",
+            "tags": []
+          },
+          {
             "name": "prep",
             "url": "https://github.com/hexdigest/prep",
             "description": "Use prepared SQL statements without changing your code.",
@@ -32103,6 +32115,12 @@
             "name": "gogpu",
             "url": "https://github.com/gogpu/gogpu",
             "description": "GPU application framework with windowing, input, and rendering built on WebGPU \u2014 reduces 480+ lines of GPU code to ~20, zero CGO (GoGPU ecosystem: gg , ui , wgpu , naga ).",
+            "tags": []
+          },
+          {
+            "name": "gogpu/wgpu",
+            "url": "https://github.com/gogpu/wgpu",
+            "description": "Pure Go WebGPU implementation with Vulkan, DX12, and Metal backends, zero CGO (part of GoGPU ecosystem).",
             "tags": []
           },
           {
@@ -37223,6 +37241,12 @@
             "tags": []
           },
           {
+            "name": "canery",
+            "url": "https://github.com/rluders/canery",
+            "description": "Minimal, stateless authorization engine with a pluggable evaluation model.",
+            "tags": []
+          },
+          {
             "name": "Cameradar",
             "url": "https://github.com/Ullaakut/cameradar",
             "description": "Tool and library to remotely hack RTSP streams from surveillance cameras.",
@@ -41306,6 +41330,12 @@
             "name": "Huma",
             "url": "https://github.com/danielgtaylor/huma/",
             "description": "Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.",
+            "tags": []
+          },
+          {
+            "name": "httpsuite",
+            "url": "https://github.com/rluders/httpsuite",
+            "description": "HTTP request parsing and RFC 9457 problem responses for Go, with a stdlib-only core and optional validation.",
             "tags": []
           },
           {
@@ -48178,6 +48208,12 @@
             "name": "cloudflare/boringtun",
             "url": "https://github.com/cloudflare/boringtun",
             "description": "A Userspace WireGuard VPN Implementation",
+            "tags": []
+          },
+          {
+            "name": "DBX",
+            "url": "https://github.com/t8y2/dbx",
+            "description": "A lightweight, open-source database management tool built with Tauri, supporting MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, and more.",
             "tags": []
           },
           {
@@ -56151,6 +56187,12 @@
             "name": "nrc/zero",
             "url": "https://github.com/nrc/zero",
             "description": "[ zero ] - zero-allocation parsing of binary data",
+            "tags": []
+          },
+          {
+            "name": "oxc-project/oxc",
+            "url": "https://github.com/oxc-project/oxc",
+            "description": "[ oxc ] - High-performance JavaScript/TypeScript parser, transformer, minifier, and resolver written in Rust. Powers Rolldown, Nuxt, Nova, and more.",
             "tags": []
           },
           {
