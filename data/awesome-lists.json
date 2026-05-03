@@ -9400,8 +9400,8 @@
           },
           {
             "name": "Whisky",
-            "url": "https://getwhisky.app/",
-            "description": "Wine wrapper that supports GPTK (Game Porting Toolkit)",
+            "url": "https://github.com/frankea/Whisky",
+            "description": "A tool for running Windows apps on macOS, built with SwiftUI and supporting D3DMetal and DXVK backends.",
             "tags": []
           },
           {
@@ -51630,6 +51630,12 @@
         "name": "Workflow Automation",
         "resources": [
           {
+            "name": "cowork-forge",
+            "url": "https://github.com/sopaco/cowork-forge",
+            "description": "AI-native multi-agent platform that orchestrates specialized agents through a 7-stage pipeline to transform ideas into production-ready software.",
+            "tags": []
+          },
+          {
             "name": "dali-benothmen/cronflow",
             "url": "https://github.com/dali-benothmen/cronflow",
             "description": "Cronflow is a high-performance, developer-focused workflow automation library that lets you build and orchestrate complex, scalable automation workflows fully in code.",
@@ -53007,6 +53013,12 @@
             "tags": []
           },
           {
+            "name": "awakenworks/awaken",
+            "url": "https://github.com/awakenworks/awaken",
+            "description": "[ awaken ] - AI agent runtime for Rust \u2014 type-safe state, multi-protocol serving, plugin extensibility.",
+            "tags": []
+          },
+          {
             "name": "liquidos-ai/AutoAgents",
             "url": "https://github.com/liquidos-ai/AutoAgents",
             "description": "[ AutoAgents ] - Multi Agent Framework for building AI agents with native edge support.",
@@ -54279,6 +54291,12 @@
             "name": "kernelmachine/utah",
             "url": "https://github.com/kernelmachine/utah",
             "description": "Dataframe structure and operations",
+            "tags": []
+          },
+          {
+            "name": "lakehq/sail",
+            "url": "https://github.com/lakehq/sail",
+            "description": "Sail is a drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
             "tags": []
           },
           {
