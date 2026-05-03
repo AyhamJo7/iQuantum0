@@ -1,404 +1,514 @@
 /**
- * Main JavaScript for iQuantum
- * Handles UI interactions and rendering
+ * iQuantum — main UI controller
+ * Top-tier search experience: debounce, keyboard shortcuts, filter chips,
+ * skeleton loading, smart pagination, clickable tags, favicons.
  */
 
 document.addEventListener('DOMContentLoaded', async () => {
-    // UI Elements
-    const resourcesContainer = document.getElementById('resources-container');
-    const resourceCount = document.getElementById('resource-count');
-    const searchInput = document.getElementById('search');
-    const categoryFilter = document.getElementById('category-filter');
-    const listFilter = document.getElementById('list-filter');
-    const resetFiltersBtn = document.getElementById('reset-filters');
-    const sortBySelect = document.getElementById('sort-by');
-    const toggleViewBtn = document.getElementById('toggle-view');
-    const pageSizeSelect = document.getElementById('page-size');
-    const prevPageBtn = document.getElementById('prev-page');
-    const nextPageBtn = document.getElementById('next-page');
-    const pageInfoSpan = document.getElementById('page-info');
-    
-    // State
+    /* -------------------- Element references -------------------- */
+    const $ = (id) => document.getElementById(id);
+
+    const resourcesContainer = $('resources-container');
+    const resourceCount = $('resource-count');
+    const resultsContext = $('results-context');
+    const heroSummary = $('hero-summary');
+
+    const searchBar = document.querySelector('.search-bar');
+    const searchInput = $('search');
+    const searchClear = $('search-clear');
+
+    const categoryFilter = $('category-filter');
+    const listFilter = $('list-filter');
+    const resetFiltersBtn = $('reset-filters');
+    const activeFilters = $('active-filters');
+
+    const sortBySelect = $('sort-by');
+    const pageSizeSelect = $('page-size');
+
+    const viewGridBtn = $('view-grid');
+    const viewListBtn = $('view-list');
+
+    const prevPageBtn = $('prev-page');
+    const nextPageBtn = $('next-page');
+    const pageNumbers = $('page-numbers');
+    const pageInfoSpan = $('page-info');
+
+    const backToTopBtn = $('back-to-top');
+
+    /* -------------------- State -------------------- */
     let resources = [];
     let filteredResources = [];
     let categories = [];
     let listNames = [];
-    let currentView = 'grid'; // 'grid' or 'list'
+    let currentView = 'grid';        // 'grid' | 'list'
     let currentPage = 1;
-    let pageSize = 25; // Default page size
+    let pageSize = 25;
     let totalPages = 1;
-    let fuseInstance = null; // Fuse.js instance for fuzzy search
-    
-    // Initialize
+    let fuseInstance = null;
+    let searchDebounce = null;
+
+    /* -------------------- Helpers -------------------- */
+    const escapeHTML = (str = '') =>
+        String(str).replace(/[&<>"']/g, (c) => ({
+            '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+        }[c]));
+
+    const escapeRegex = (str) => str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
+    function highlightMatches(text, term) {
+        const safe = escapeHTML(text);
+        if (!term) return safe;
+        const re = new RegExp(`(${escapeRegex(term)})`, 'gi');
+        return safe.replace(re, '<mark class="highlight">$1</mark>');
+    }
+
+    function getDomain(url) {
+        try { return new URL(url).hostname.replace(/^www\./, ''); }
+        catch { return ''; }
+    }
+
+    function faviconURL(url) {
+        const domain = getDomain(url);
+        if (!domain) return '';
+        return `https://www.google.com/s2/favicons?sz=64&domain=${encodeURIComponent(domain)}`;
+    }
+
+    function debounce(fn, wait) {
+        return (...args) => {
+            clearTimeout(searchDebounce);
+            searchDebounce = setTimeout(() => fn(...args), wait);
+        };
+    }
+
+    /* -------------------- Initialize -------------------- */
     try {
         const data = await dataProcessor.init();
         resources = data.resources;
         filteredResources = [...resources];
         categories = data.categories;
         listNames = data.listNames;
-        
-        // Set initial page size from dropdown
-        pageSize = parseInt(pageSizeSelect.value);
-        
-        // Initialize Fuse.js for fuzzy search
+
+        pageSize = parseInt(pageSizeSelect.value, 10) || 25;
+
         initializeFuseSearch();
-        
-        // Populate filter dropdowns
         populateFilterDropdowns();
-        
-        // Initial pagination setup
-        updatePagination();
-        
-        // Initial render
+        updateHeroSummary();
+
         renderResources();
-        
-        // Set up event listeners
         setupEventListeners();
-        
-        // Load and display last update time
         loadLastUpdateTime();
     } catch (error) {
         console.error('Error initializing app:', error);
+        resourcesContainer.classList.remove('resources-grid');
         resourcesContainer.innerHTML = `
-            <div class="col-12 text-center py-5">
-                <div class="alert alert-danger" role="alert">
-                    <i class="fas fa-exclamation-triangle me-2"></i>
-                    Error loading resources. Please try again later.
-                </div>
+            <div class="error-state" role="alert">
+                <i class="fas fa-exclamation-triangle me-2" aria-hidden="true"></i>
+                Couldn't load resources. Please refresh and try again.
             </div>
         `;
     }
-    
-    /**
-     * Populate category and list filter dropdowns
-     */
+
+    /* -------------------- Population -------------------- */
     function populateFilterDropdowns() {
-        // Populate categories
-        categories.forEach(category => {
-            const option = document.createElement('option');
-            option.value = category;
-            option.textContent = category;
-            categoryFilter.appendChild(option);
+        const frag1 = document.createDocumentFragment();
+        categories.forEach((c) => {
+            const opt = document.createElement('option');
+            opt.value = c; opt.textContent = c;
+            frag1.appendChild(opt);
         });
-        
-        // Populate list names
-        listNames.forEach(listName => {
-            const option = document.createElement('option');
-            option.value = listName;
-            option.textContent = listName;
-            listFilter.appendChild(option);
+        categoryFilter.appendChild(frag1);
+
+        const frag2 = document.createDocumentFragment();
+        listNames.forEach((l) => {
+            const opt = document.createElement('option');
+            opt.value = l; opt.textContent = l;
+            frag2.appendChild(opt);
         });
+        listFilter.appendChild(frag2);
     }
-    
-    /**
-     * Set up event listeners for UI interactions
-     */
+
+    function updateHeroSummary() {
+        if (!heroSummary) return;
+        const total = resources.length.toLocaleString();
+        const lists = listNames.length;
+        const cats = categories.length;
+        heroSummary.innerHTML = `Search <strong>${total}</strong> curated resources across <strong>${lists}</strong> lists and <strong>${cats}</strong> categories.`;
+    }
+
+    /* -------------------- Event listeners -------------------- */
     function setupEventListeners() {
-        // Search input
-        searchInput.addEventListener('input', filterResources);
-        
-        // Category filter
-        categoryFilter.addEventListener('change', filterResources);
-        
-        // List filter
-        listFilter.addEventListener('change', filterResources);
-        
-        // Reset filters
-        resetFiltersBtn.addEventListener('click', resetFilters);
-        
-        // Sort by
-        sortBySelect.addEventListener('change', sortResources);
-        
-        // Toggle view
-        toggleViewBtn.addEventListener('click', toggleView);
-        
-        // Page size
-        pageSizeSelect.addEventListener('change', changePageSize);
-        
-        // Pagination controls
-        prevPageBtn.addEventListener('click', goToPreviousPage);
-        nextPageBtn.addEventListener('click', goToNextPage);
-    }
-    
-    /**
-     * Change the number of resources displayed per page
-     */
-    function changePageSize() {
-        pageSize = parseInt(pageSizeSelect.value);
-        currentPage = 1; // Reset to first page when changing page size
-        updatePagination();
-        renderResources();
-    }
-    
-    /**
-     * Go to the previous page
-     */
-    function goToPreviousPage() {
-        if (currentPage > 1) {
-            currentPage--;
-            renderResources();
-        }
-    }
-    
-    /**
-     * Go to the next page
-     */
-    function goToNextPage() {
-        if (currentPage < totalPages) {
-            currentPage++;
-            renderResources();
-        }
-    }
-    
-    /**
-     * Update pagination controls and information
-     */
-    function updatePagination() {
-        totalPages = Math.ceil(filteredResources.length / pageSize);
-        
-        // Update page info
-        pageInfoSpan.textContent = `Page ${currentPage} of ${totalPages}`;
-        
-        // Update button states
-        prevPageBtn.disabled = currentPage <= 1;
-        nextPageBtn.disabled = currentPage >= totalPages;
-    }
-    
-    /**
-     * Initialize Fuse.js for fuzzy search
-     */
-    function initializeFuseSearch() {
-        // Configure Fuse.js options
-        const fuseOptions = {
-            // Search in these fields
-            keys: [
-                { name: 'name', weight: 2 },      // Higher weight for name
-                { name: 'description', weight: 1 },
-                { name: 'tags', weight: 1.5 },    // Higher weight for tags
-                { name: 'category', weight: 1 },
-                { name: 'list', weight: 1 }
-            ],
-            // Fuzzy search settings
-            includeScore: true,
-            threshold: 0.4,        // Lower threshold = more strict matching
-            distance: 100,         // How far to search for matching characters
-            minMatchCharLength: 2, // Minimum characters that must match
-            shouldSort: false,     // We'll handle sorting separately
-            useExtendedSearch: true,
-            ignoreLocation: true   // Search the entire string, not just from the beginning
-        };
-        
-        // Create Fuse instance with resources and options
-        fuseInstance = new Fuse(resources, fuseOptions);
-    }
-    
-    /**
-     * Filter resources based on search input and dropdown selections
-     */
-    function filterResources() {
-        const searchTerm = searchInput.value.trim();
-        const selectedCategory = categoryFilter.value;
-        const selectedList = listFilter.value;
-        
-        // Start with all resources
-        let results = [...resources];
-        
-        // Apply fuzzy search if there's a search term
-        if (searchTerm) {
-            // Use Fuse.js for fuzzy search
-            const searchResults = fuseInstance.search(searchTerm);
-            results = searchResults.map(result => result.item);
-        }
-        
-        // Apply category and list filters
-        filteredResources = results.filter(resource => {
-            // Category filter
-            const matchesCategory = selectedCategory === 'all' || resource.category === selectedCategory;
-            
-            // List filter
-            const matchesList = selectedList === 'all' || resource.list === selectedList;
-            
-            return matchesCategory && matchesList;
+        // Search (debounced)
+        const debouncedFilter = debounce(() => {
+            searchBar.classList.remove('is-loading');
+            filterResources();
+        }, 180);
+        searchInput.addEventListener('input', () => {
+            searchBar.classList.add('is-loading');
+            searchClear.hidden = !searchInput.value;
+            debouncedFilter();
         });
-        
-        // Reset to first page when filtering
-        currentPage = 1;
-        updatePagination();
-        renderResources();
+
+        // Clear search
+        searchClear.addEventListener('click', () => {
+            searchInput.value = '';
+            searchClear.hidden = true;
+            searchBar.classList.remove('is-loading');
+            searchInput.focus();
+            filterResources();
+        });
+
+        // Dropdowns
+        categoryFilter.addEventListener('change', filterResources);
+        listFilter.addEventListener('change', filterResources);
+        sortBySelect.addEventListener('change', () => { sortResources(); renderResources(); });
+        pageSizeSelect.addEventListener('change', () => {
+            pageSize = parseInt(pageSizeSelect.value, 10);
+            currentPage = 1;
+            renderResources();
+        });
+
+        // Reset
+        resetFiltersBtn.addEventListener('click', resetFilters);
+
+        // View toggle
+        viewGridBtn.addEventListener('click', () => setView('grid'));
+        viewListBtn.addEventListener('click', () => setView('list'));
+
+        // Pagination
+        prevPageBtn.addEventListener('click', () => goToPage(currentPage - 1));
+        nextPageBtn.addEventListener('click', () => goToPage(currentPage + 1));
+
+        // Keyboard shortcuts
+        document.addEventListener('keydown', (e) => {
+            // ⌘K / Ctrl+K — focus search
+            if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') {
+                e.preventDefault();
+                searchInput.focus();
+                searchInput.select();
+                return;
+            }
+            // / — focus search when not typing
+            if (e.key === '/' && document.activeElement !== searchInput && !e.metaKey && !e.ctrlKey) {
+                const tag = (document.activeElement?.tagName || '').toLowerCase();
+                if (tag !== 'input' && tag !== 'textarea' && tag !== 'select') {
+                    e.preventDefault();
+                    searchInput.focus();
+                }
+            }
+            // ESC — clear search when focused
+            if (e.key === 'Escape' && document.activeElement === searchInput) {
+                if (searchInput.value) {
+                    searchInput.value = '';
+                    searchClear.hidden = true;
+                    filterResources();
+                }
+                searchInput.blur();
+            }
+        });
+
+        // Back to top
+        window.addEventListener('scroll', () => {
+            const show = window.scrollY > 600;
+            backToTopBtn.hidden = false;
+            backToTopBtn.classList.toggle('is-visible', show);
+        }, { passive: true });
+        backToTopBtn.addEventListener('click', () => {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+
+        // Delegate clicks for tags / meta pills
+        resourcesContainer.addEventListener('click', (e) => {
+            const tag = e.target.closest('[data-filter-tag]');
+            if (tag) {
+                searchInput.value = tag.dataset.filterTag;
+                searchClear.hidden = false;
+                filterResources();
+                window.scrollTo({ top: searchBar.offsetTop, behavior: 'smooth' });
+                return;
+            }
+            const cat = e.target.closest('[data-filter-category]');
+            if (cat) {
+                categoryFilter.value = cat.dataset.filterCategory;
+                filterResources();
+                return;
+            }
+            const list = e.target.closest('[data-filter-list]');
+            if (list) {
+                listFilter.value = list.dataset.filterList;
+                filterResources();
+            }
+        });
     }
-    
-    /**
-     * Reset all filters to their default values
-     */
+
+    /* -------------------- Search / filter / sort -------------------- */
+    function initializeFuseSearch() {
+        fuseInstance = new Fuse(resources, {
+            keys: [
+                { name: 'name', weight: 2.2 },
+                { name: 'tags', weight: 1.5 },
+                { name: 'description', weight: 1 },
+                { name: 'category', weight: 0.8 },
+                { name: 'list', weight: 0.6 }
+            ],
+            includeScore: true,
+            threshold: 0.38,
+            distance: 120,
+            minMatchCharLength: 2,
+            shouldSort: true,
+            useExtendedSearch: true,
+            ignoreLocation: true
+        });
+    }
+
+    function filterResources() {
+        const term = searchInput.value.trim();
+        const cat = categoryFilter.value;
+        const list = listFilter.value;
+
+        let results = term
+            ? fuseInstance.search(term).map((r) => r.item)
+            : [...resources];
+
+        filteredResources = results.filter((r) => {
+            const okCat = cat === 'all' || r.category === cat;
+            const okList = list === 'all' || r.list === list;
+            return okCat && okList;
+        });
+
+        if (sortBySelect.value && !term) sortResources();
+
+        currentPage = 1;
+        renderResources();
+        renderActiveChips();
+    }
+
+    function sortResources() {
+        const by = sortBySelect.value;
+        filteredResources.sort((a, b) => {
+            switch (by) {
+                case 'name': return a.name.localeCompare(b.name);
+                case 'category': return a.category.localeCompare(b.category);
+                case 'list': return a.list.localeCompare(b.list);
+                default: return 0;
+            }
+        });
+    }
+
     function resetFilters() {
         searchInput.value = '';
+        searchClear.hidden = true;
         categoryFilter.value = 'all';
         listFilter.value = 'all';
         sortBySelect.value = 'name';
-        
         filteredResources = [...resources];
-        currentPage = 1; // Reset to first page
-        updatePagination();
-        renderResources();
-    }
-    
-    /**
-     * Sort resources based on the selected sort option
-     */
-    function sortResources() {
-        const sortBy = sortBySelect.value;
-        
-        filteredResources.sort((a, b) => {
-            switch (sortBy) {
-                case 'name':
-                    return a.name.localeCompare(b.name);
-                case 'category':
-                    return a.category.localeCompare(b.category);
-                case 'list':
-                    return a.list.localeCompare(b.list);
-                default:
-                    return 0;
-            }
-        });
-        
-        // Reset to first page when sorting
+        sortResources();
         currentPage = 1;
-        updatePagination();
         renderResources();
+        renderActiveChips();
     }
-    
-    /**
-     * Toggle between grid and list views
-     */
-    function toggleView() {
-        currentView = currentView === 'grid' ? 'list' : 'grid';
-        
-        // Update button icon
-        toggleViewBtn.innerHTML = currentView === 'grid' 
-            ? '<i class="fas fa-th-list"></i>' 
-            : '<i class="fas fa-th"></i>';
-        
-        // Keep the same page when toggling view
+
+    /* -------------------- Active filter chips -------------------- */
+    function renderActiveChips() {
+        const chips = [];
+        const term = searchInput.value.trim();
+        if (term) chips.push({ label: 'Search', value: term, kind: 'search' });
+        if (categoryFilter.value !== 'all') chips.push({ label: 'Category', value: categoryFilter.value, kind: 'category' });
+        if (listFilter.value !== 'all') chips.push({ label: 'List', value: listFilter.value, kind: 'list' });
+
+        activeFilters.innerHTML = chips.map((c) => `
+            <span class="chip" data-kind="${c.kind}">
+                <span class="chip__label">${c.label}:</span>
+                <span class="chip__value">${escapeHTML(c.value)}</span>
+                <button type="button" aria-label="Remove ${c.label} filter ${escapeHTML(c.value)}">
+                    <i class="fas fa-times" aria-hidden="true"></i>
+                </button>
+            </span>
+        `).join('');
+
+        activeFilters.querySelectorAll('.chip button').forEach((btn) => {
+            btn.addEventListener('click', () => {
+                const kind = btn.parentElement.dataset.kind;
+                if (kind === 'search') { searchInput.value = ''; searchClear.hidden = true; }
+                if (kind === 'category') categoryFilter.value = 'all';
+                if (kind === 'list') listFilter.value = 'all';
+                filterResources();
+            });
+        });
+    }
+
+    /* -------------------- View / pagination -------------------- */
+    function setView(view) {
+        currentView = view;
+        viewGridBtn.classList.toggle('is-active', view === 'grid');
+        viewListBtn.classList.toggle('is-active', view === 'list');
+        viewGridBtn.setAttribute('aria-pressed', view === 'grid');
+        viewListBtn.setAttribute('aria-pressed', view === 'list');
+        resourcesContainer.classList.toggle('is-list', view === 'list');
+    }
+
+    function goToPage(page) {
+        if (page < 1 || page > totalPages) return;
+        currentPage = page;
         renderResources();
+        const target = document.querySelector('.results-meta');
+        if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
-    
-    /**
-     * Load and display the last update time from metadata
-     */
-    async function loadLastUpdateTime() {
-        const lastUpdatedElement = document.getElementById('last-updated');
-        try {
-            const response = await fetch('data/metadata.json');
-            if (response.ok) {
-                const metadata = await response.json();
-                if (metadata.last_updated) {
-                    const date = new Date(metadata.last_updated);
-                    const formattedDate = date.toLocaleString();
-                    lastUpdatedElement.textContent = `Last updated: ${formattedDate}`;
-                }
-            } else {
-                lastUpdatedElement.textContent = 'Last updated: Unknown';
-            }
-        } catch (error) {
-            console.error('Error loading metadata:', error);
-            lastUpdatedElement.textContent = 'Last updated: Unknown';
+
+    function buildPageNumbers() {
+        pageNumbers.innerHTML = '';
+        if (totalPages <= 1) return;
+
+        const add = (n) => {
+            const btn = document.createElement('button');
+            btn.className = 'page-num' + (n === currentPage ? ' is-active' : '');
+            btn.type = 'button';
+            btn.textContent = n;
+            btn.setAttribute('aria-label', `Go to page ${n}`);
+            if (n === currentPage) btn.setAttribute('aria-current', 'page');
+            btn.addEventListener('click', () => goToPage(n));
+            pageNumbers.appendChild(btn);
+        };
+        const ellipsis = () => {
+            const span = document.createElement('span');
+            span.className = 'page-ellipsis';
+            span.textContent = '…';
+            pageNumbers.appendChild(span);
+        };
+
+        // Smart pagination: 1 ... 4 5 [6] 7 8 ... N
+        const window_ = 1;
+        const pages = new Set([1, totalPages, currentPage]);
+        for (let i = 1; i <= window_; i++) {
+            pages.add(currentPage - i);
+            pages.add(currentPage + i);
         }
+        const sorted = [...pages].filter((n) => n >= 1 && n <= totalPages).sort((a, b) => a - b);
+        let prev = 0;
+        sorted.forEach((n) => {
+            if (prev && n - prev > 1) ellipsis();
+            add(n);
+            prev = n;
+        });
     }
-    
-    /**
-     * Highlight search matches in text
-     * @param {string} text - The text to highlight
-     * @param {string} searchTerm - The search term to highlight
-     * @returns {string} - HTML with highlighted search matches
-     */
-    function highlightMatches(text, searchTerm) {
-        if (!searchTerm || !text) return text;
-        
-        // Escape special characters in the search term for regex
-        const escapedSearchTerm = searchTerm.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-        
-        // Create a regex that's case insensitive
-        const regex = new RegExp(`(${escapedSearchTerm})`, 'gi');
-        
-        // Replace matches with highlighted spans
-        return text.replace(regex, '<span class="highlight">$1</span>');
-    }
-    
-    /**
-     * Render resources in the container
-     */
+
+    /* -------------------- Render -------------------- */
     function renderResources() {
-        // Update resource count
-        resourceCount.textContent = filteredResources.length;
-        
-        // Update pagination
-        updatePagination();
-        
-        // Clear container
+        const total = filteredResources.length;
+        resourceCount.textContent = total.toLocaleString();
+        totalPages = Math.max(1, Math.ceil(total / pageSize));
+        if (currentPage > totalPages) currentPage = totalPages;
+
+        // context phrase
+        const term = searchInput.value.trim();
+        const cat = categoryFilter.value;
+        const list = listFilter.value;
+        const ctx = [];
+        if (term) ctx.push(`for “${escapeHTML(term)}”`);
+        if (cat !== 'all') ctx.push(`in ${escapeHTML(cat)}`);
+        if (list !== 'all') ctx.push(`from ${escapeHTML(list)}`);
+        resultsContext.innerHTML = ctx.length ? `· ${ctx.join(' ')}` : '';
+
+        // pagination buttons
+        prevPageBtn.disabled = currentPage <= 1;
+        nextPageBtn.disabled = currentPage >= totalPages;
+        pageInfoSpan.textContent = totalPages > 1 ? `Page ${currentPage} of ${totalPages}` : '';
+        buildPageNumbers();
+
+        // clear container
+        resourcesContainer.classList.add('resources-grid');
+        resourcesContainer.classList.toggle('is-list', currentView === 'list');
+        resourcesContainer.removeAttribute('aria-busy');
         resourcesContainer.innerHTML = '';
-        
-        // Add appropriate class for view type
-        resourcesContainer.className = currentView === 'grid' ? 'row grid-view' : 'row list-view';
-        
-        if (filteredResources.length === 0) {
-            resourcesContainer.innerHTML = `
-                <div class="col-12 text-center py-5">
-                    <div class="alert alert-info" role="alert">
-                        <i class="fas fa-info-circle me-2"></i>
-                        No resources found matching your filters.
-                    </div>
-                </div>
+
+        if (total === 0) {
+            const empty = document.createElement('div');
+            empty.className = 'empty-state';
+            empty.innerHTML = `
+                <div class="empty-state__icon"><i class="fas fa-magnifying-glass" aria-hidden="true"></i></div>
+                <div class="empty-state__title">No matching resources</div>
+                <div class="empty-state__desc">Try a different search term or remove a filter to broaden your results.</div>
+                <button type="button" class="btn btn-ghost" id="empty-reset">
+                    <i class="fas fa-rotate-left" aria-hidden="true"></i><span>Reset filters</span>
+                </button>
             `;
+            resourcesContainer.appendChild(empty);
+            empty.querySelector('#empty-reset').addEventListener('click', resetFilters);
             return;
         }
-        
-        // Calculate pagination indices
-        const startIndex = (currentPage - 1) * pageSize;
-        const endIndex = Math.min(startIndex + pageSize, filteredResources.length);
-        
-        // Get current page resources
-        const currentPageResources = filteredResources.slice(startIndex, endIndex);
-        
-        // Get search term for highlighting
-        const searchTerm = searchInput.value.trim();
-        
-        // Render each resource for the current page
-        currentPageResources.forEach(resource => {
-            const colClass = currentView === 'grid' ? 'col-md-4 mb-4' : 'col-12 mb-3';
-            
-            // Highlight matches if there's a search term
-            const highlightedName = searchTerm ? highlightMatches(resource.name, searchTerm) : resource.name;
-            const highlightedDescription = searchTerm ? highlightMatches(resource.description, searchTerm) : resource.description;
-            
-            const resourceElement = document.createElement('div');
-            resourceElement.className = colClass;
-            
-            resourceElement.innerHTML = `
-                <div class="card resource-card h-100">
-                    <div class="card-header">
-                        <h5 class="mb-0 gradient-text">${highlightedName}</h5>
-                        <span class="badge">${resource.list}</span>
-                    </div>
-                    <div class="card-body">
-                        <p class="card-text">${highlightedDescription}</p>
-                        <p class="card-text"><a href="${resource.url}" target="_blank">${resource.url}</a></p>
-                        <div class="mb-2">
-                            ${resource.tags.map(tag => {
-                                const highlightedTag = searchTerm ? highlightMatches(tag, searchTerm) : tag;
-                                return `<span class="resource-tag">${highlightedTag}</span>`;
-                            }).join('')}
-                        </div>
-                        <p class="mb-0"><strong>Category:</strong> ${resource.category}</p>
-                    </div>
-                    <div class="card-footer">
-                        <a href="${resource.url}" class="btn" target="_blank">
-                            <i class="fas fa-external-link-alt me-1"></i> Visit
-                        </a>
-                    </div>
-                </div>
-            `;
-            
-            resourcesContainer.appendChild(resourceElement);
+
+        // current page slice
+        const start = (currentPage - 1) * pageSize;
+        const end = Math.min(start + pageSize, total);
+        const slice = filteredResources.slice(start, end);
+
+        // Build with fragment for performance
+        const frag = document.createDocumentFragment();
+        slice.forEach((r, i) => {
+            frag.appendChild(buildCard(r, term, i));
         });
+        resourcesContainer.appendChild(frag);
+    }
+
+    function buildCard(r, term, index) {
+        const card = document.createElement('article');
+        card.className = 'resource-card';
+        card.style.animationDelay = `${Math.min(index * 18, 240)}ms`;
+
+        const name = highlightMatches(r.name, term);
+        const desc = r.description
+            ? highlightMatches(r.description, term)
+            : '<em style="color:var(--text-muted)">No description provided.</em>';
+
+        const favicon = faviconURL(r.url);
+        const domain = getDomain(r.url);
+
+        const tagsHTML = (r.tags || []).slice(0, 6).map((t) => {
+            const safe = escapeHTML(t);
+            return `<button type="button" class="resource-tag" data-filter-tag="${safe}" title="Search for ${safe}">${highlightMatches(t, term)}</button>`;
+        }).join('');
+
+        card.innerHTML = `
+            <header class="resource-card__head">
+                <div class="resource-card__favicon" aria-hidden="true">
+                    ${favicon ? `<img src="${favicon}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.innerHTML='<i class=&quot;fas fa-globe&quot;></i>'">` : `<i class="fas fa-globe"></i>`}
+                </div>
+                <h3 class="resource-card__title" title="${escapeHTML(r.name)}">${name}</h3>
+            </header>
+            <div class="resource-card__body">
+                <p class="resource-card__desc">${desc}</p>
+                <div class="resource-card__meta">
+                    <button type="button" class="meta-pill" data-filter-list="${escapeHTML(r.list)}" title="Filter by ${escapeHTML(r.list)}">
+                        <i class="fas fa-list" aria-hidden="true"></i><span>${escapeHTML(r.list)}</span>
+                    </button>
+                    <button type="button" class="meta-pill" data-filter-category="${escapeHTML(r.category)}" title="Filter by ${escapeHTML(r.category)}">
+                        <i class="fas fa-folder" aria-hidden="true"></i><span>${escapeHTML(r.category)}</span>
+                    </button>
+                </div>
+                ${tagsHTML ? `<div class="resource-card__tags">${tagsHTML}</div>` : ''}
+            </div>
+            <footer class="resource-card__foot">
+                <span class="resource-card__url" title="${escapeHTML(r.url)}">${escapeHTML(domain)}</span>
+                <a class="resource-card__visit" href="${escapeHTML(r.url)}" target="_blank" rel="noopener" aria-label="Visit ${escapeHTML(r.name)}">
+                    <span>Visit</span><i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i>
+                </a>
+            </footer>
+        `;
+        return card;
+    }
+
+    /* -------------------- Metadata -------------------- */
+    async function loadLastUpdateTime() {
+        const el = $('last-updated');
+        try {
+            const res = await fetch('data/metadata.json');
+            if (!res.ok) throw new Error(res.statusText);
+            const meta = await res.json();
+            if (meta.last_updated) {
+                el.textContent = `Last updated: ${new Date(meta.last_updated).toLocaleString()}`;
+            }
+        } catch (err) {
+            console.error('Error loading metadata:', err);
+            el.textContent = 'Last updated: unknown';
+        }
     }
 });

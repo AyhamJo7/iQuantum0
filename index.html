@@ -3,16 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ultimate Collection of Awesome Lists</title>
+    <title>iQuantum · Ultimate Collection of Awesome Lists</title>
     <meta name="description" content="The biggest collection of curated awesome lists in one searchable place. Browse resources by category, list, and more.">
     <meta name="keywords" content="awesome lists, developer resources, programming, tech resources, curated lists">
     <meta name="theme-color" content="#1B2735">
-    
+
     <!-- Open Graph / Social Media -->
     <meta property="og:title" content="Ultimate Collection of Awesome Lists">
     <meta property="og:description" content="The biggest collection of curated awesome lists in one searchable place.">
     <meta property="og:type" content="website">
-    
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/styles.css">
@@ -21,151 +21,160 @@
 <body>
     <!-- Skip navigation for accessibility -->
     <a href="#main-content" class="skip-nav">Skip to main content</a>
-    
+
     <!-- Stars Background -->
     <div id="stars"></div>
     <div id="stars2"></div>
     <div id="stars3"></div>
-    
-    <!-- Aurora Title -->
-    <div class="aurora-title-container">
-        <h1 class="aurora-title">Ultimate Collection of Awesome Lists
-            <div class="aurora-effect">
-                <div class="aurora-effect__item"></div>
-                <div class="aurora-effect__item"></div>
-                <div class="aurora-effect__item"></div>
-                <div class="aurora-effect__item"></div>
-            </div>
-        </h1>
-        <p class="aurora-subtitle">Made with love and passion</p>
-    </div>
-    
+
     <!-- Navbar -->
-    <nav class="navbar">
+    <nav class="navbar" aria-label="Primary">
         <div class="container navbar-content">
             <div class="logo-container">
                 <img src="css/iquantum.svg" alt="iQuantum Logo" class="logo">
             </div>
             <div class="navbar-actions">
-                <a href="https://github.com/AyhamJo7/iQuantum" class="btn btn-github" target="_blank">
-                    <i class="fab fa-github"></i> GitHub
+                <a href="https://github.com/AyhamJo7/iQuantum" class="btn btn-github" target="_blank" rel="noopener">
+                    <i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span>
                 </a>
-                <a href="https://www.paypal.com/donate/?hosted_button_id=UX6STH6DUL2BE" class="btn btn-paypal" target="_blank">
-                    <i class="fab fa-paypal"></i> PayPal
+                <a href="https://www.paypal.com/donate/?hosted_button_id=UX6STH6DUL2BE" class="btn btn-paypal" target="_blank" rel="noopener">
+                    <i class="fab fa-paypal" aria-hidden="true"></i><span>PayPal</span>
                 </a>
-                <a href="https://www.patreon.com/c/ayhamjo7/membership" class="btn btn-patreon" target="_blank">
-                    <i class="fab fa-patreon"></i> Patreon
+                <a href="https://www.patreon.com/c/ayhamjo7/membership" class="btn btn-patreon" target="_blank" rel="noopener">
+                    <i class="fab fa-patreon" aria-hidden="true"></i><span>Patreon</span>
                 </a>
-                <a href="https://buymeacoffee.com/ayhamjo7" class="btn btn-coffee" target="_blank">
-                    <i class="fas fa-coffee"></i> Buy Me A Coffee
+                <a href="https://buymeacoffee.com/ayhamjo7" class="btn btn-coffee" target="_blank" rel="noopener">
+                    <i class="fas fa-coffee" aria-hidden="true"></i><span>Buy Me A Coffee</span>
                 </a>
             </div>
         </div>
     </nav>
 
-    <!-- Horizontal Filters -->
-    <div class="container mt-4">
-        <div class="row">
-            <div class="col-12">
-                <div class="card">
-                    <div class="card-body d-flex flex-wrap align-items-end gap-3">
-                        <div class="flex-grow-1 me-2">
-                            <label for="search" class="form-label"><strong>Advanced Search</strong></label>
-                            <div class="input-group">
-                                <span class="input-group-text"><i class="fas fa-search" aria-hidden="true"></i></span>
-                                <input type="text" class="form-control" id="search" 
-                                    placeholder="Search across all fields..." 
-                                    aria-label="Search through resources">
-                            </div>
-                        </div>
-                        
-                        <div class="me-2">
-                            <label for="category-filter" class="form-label"><strong>Category</strong></label>
-                            <select class="form-select" id="category-filter">
-                                <option value="all">All Categories</option>
-                                <!-- Categories will be populated dynamically -->
-                            </select>
-                        </div>
-                        
-                        <div class="me-2">
-                            <label for="list-filter" class="form-label"><strong>Awesome List</strong></label>
-                            <select class="form-select" id="list-filter">
-                                <option value="all">All Lists</option>
-                                <!-- Lists will be populated dynamically -->
-                            </select>
-                        </div>
-                        
-                        <div>
-                            <button id="reset-filters" class="btn">Reset Filters</button>
-                        </div>
-                    </div>
+    <!-- Hero / Aurora Title -->
+    <header class="hero">
+        <div class="aurora-title-container">
+            <h1 class="aurora-title">Ultimate Collection of Awesome Lists
+                <div class="aurora-effect" aria-hidden="true">
+                    <div class="aurora-effect__item"></div>
+                    <div class="aurora-effect__item"></div>
+                    <div class="aurora-effect__item"></div>
+                    <div class="aurora-effect__item"></div>
                 </div>
+            </h1>
+            <p class="aurora-subtitle" id="hero-summary">The biggest collection of awesome lists in one searchable place.</p>
+        </div>
+    </header>
+
+    <!-- Sticky Search Bar -->
+    <div class="search-bar" role="search">
+        <div class="container search-bar__inner">
+            <div class="search-input-wrap">
+                <span class="search-input-wrap__icon" aria-hidden="true"><i class="fas fa-search"></i></span>
+                <input
+                    type="text"
+                    id="search"
+                    class="search-input"
+                    placeholder="Search across thousands of resources…"
+                    aria-label="Search through resources"
+                    autocomplete="off"
+                    spellcheck="false">
+                <button type="button" id="search-clear" class="search-input-wrap__clear" aria-label="Clear search" hidden>
+                    <i class="fas fa-times" aria-hidden="true"></i>
+                </button>
+                <kbd class="search-input-wrap__kbd" aria-hidden="true"><span class="kbd-mod">⌘</span>K</kbd>
+                <span class="search-input-wrap__loader" aria-hidden="true"></span>
             </div>
+
+            <div class="search-bar__filters">
+                <div class="select-wrap">
+                    <label for="category-filter" class="visually-hidden">Filter by category</label>
+                    <select class="form-select" id="category-filter">
+                        <option value="all">All categories</option>
+                    </select>
+                </div>
+                <div class="select-wrap">
+                    <label for="list-filter" class="visually-hidden">Filter by awesome list</label>
+                    <select class="form-select" id="list-filter">
+                        <option value="all">All lists</option>
+                    </select>
+                </div>
+                <button id="reset-filters" class="btn btn-ghost" type="button">
+                    <i class="fas fa-rotate-left" aria-hidden="true"></i><span>Reset</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- Active filter chips -->
+        <div class="container">
+            <div id="active-filters" class="active-filters" aria-live="polite"></div>
         </div>
     </div>
 
     <!-- Main Content -->
-    <div class="content-container">
+    <main class="content-container">
         <div id="main-content" class="main-content">
-            <div class="row">
-                <div class="col-12">
-                <div class="d-flex justify-content-between align-items-center mb-4">
-                    <h2 class="gradient-text">Resources <span id="resource-count" class="badge" aria-live="polite">0</span></h2>
-                    <div class="d-flex">
-                        <div class="me-2">
-                            <label for="page-size" class="visually-hidden">Items per page</label>
-                            <select id="page-size" class="form-select" aria-label="Number of items per page">
-                                <option value="25">25 per page</option>
-                                <option value="50">50 per page</option>
-                                <option value="100">100 per page</option>
-                            </select>
-                        </div>
-                        <div class="me-2">
-                            <label for="sort-by" class="visually-hidden">Sort by</label>
-                            <select id="sort-by" class="form-select" aria-label="Sort resources by">
-                                <option value="name">Sort by Name</option>
-                                <option value="category">Sort by Category</option>
-                                <option value="list">Sort by List</option>
-                            </select>
-                        </div>
-                        <div>
-                            <button id="toggle-view" class="form-select" aria-label="Toggle view mode">
-                                <i class="fas fa-th-list" aria-hidden="true"></i>
-                            </button>
-                        </div>
-                    </div>
+            <!-- Results meta bar -->
+            <div class="results-meta">
+                <div class="results-meta__count">
+                    <span id="resource-count" class="results-count" aria-live="polite">0</span>
+                    <span class="results-count__label">resources</span>
+                    <span id="results-context" class="results-context"></span>
                 </div>
-                    
-                    <div id="resources-container" class="row">
-                        <!-- Resources will be populated dynamically -->
-                        <div class="col-12 text-center py-5">
-                            <div class="spinner-border" role="status">
-                                <span class="visually-hidden">Loading...</span>
-                            </div>
-                            <p class="mt-3">Loading awesome resources...</p>
-                        </div>
+                <div class="results-meta__controls">
+                    <label for="sort-by" class="visually-hidden">Sort by</label>
+                    <select id="sort-by" class="form-select form-select-sm" aria-label="Sort resources by">
+                        <option value="name">Sort: Name</option>
+                        <option value="category">Sort: Category</option>
+                        <option value="list">Sort: List</option>
+                    </select>
+
+                    <label for="page-size" class="visually-hidden">Items per page</label>
+                    <select id="page-size" class="form-select form-select-sm" aria-label="Number of items per page">
+                        <option value="25">25 / page</option>
+                        <option value="50">50 / page</option>
+                        <option value="100">100 / page</option>
+                    </select>
+
+                    <div class="view-toggle" role="group" aria-label="View mode">
+                        <button id="view-grid" class="view-toggle__btn is-active" aria-label="Grid view" aria-pressed="true">
+                            <i class="fas fa-th" aria-hidden="true"></i>
+                        </button>
+                        <button id="view-list" class="view-toggle__btn" aria-label="List view" aria-pressed="false">
+                            <i class="fas fa-list" aria-hidden="true"></i>
+                        </button>
                     </div>
-                    
-                    <!-- Pagination controls -->
-                    <nav aria-label="Resource pagination">
-                        <div id="pagination-controls" class="d-flex justify-content-between align-items-center mt-4">
-                            <div>
-                                <span id="page-info" aria-live="polite">Page 1 of 1</span>
-                            </div>
-                            <div>
-                                <button id="prev-page" class="btn btn-outline-primary me-2" disabled aria-label="Go to previous page">
-                                    <i class="fas fa-chevron-left" aria-hidden="true"></i> Previous
-                                </button>
-                                <button id="next-page" class="btn btn-outline-primary" disabled aria-label="Go to next page">
-                                    Next <i class="fas fa-chevron-right" aria-hidden="true"></i>
-                                </button>
-                            </div>
-                        </div>
-                    </nav>
                 </div>
             </div>
+
+            <!-- Results -->
+            <div id="resources-container" class="resources-grid" aria-busy="true">
+                <!-- Skeleton loaders -->
+                <div class="skeleton-card" aria-hidden="true"><div class="sk-line sk-line--title"></div><div class="sk-line"></div><div class="sk-line sk-line--short"></div><div class="sk-tags"><span></span><span></span><span></span></div></div>
+                <div class="skeleton-card" aria-hidden="true"><div class="sk-line sk-line--title"></div><div class="sk-line"></div><div class="sk-line sk-line--short"></div><div class="sk-tags"><span></span><span></span><span></span></div></div>
+                <div class="skeleton-card" aria-hidden="true"><div class="sk-line sk-line--title"></div><div class="sk-line"></div><div class="sk-line sk-line--short"></div><div class="sk-tags"><span></span><span></span><span></span></div></div>
+                <div class="skeleton-card" aria-hidden="true"><div class="sk-line sk-line--title"></div><div class="sk-line"></div><div class="sk-line sk-line--short"></div><div class="sk-tags"><span></span><span></span><span></span></div></div>
+                <div class="skeleton-card" aria-hidden="true"><div class="sk-line sk-line--title"></div><div class="sk-line"></div><div class="sk-line sk-line--short"></div><div class="sk-tags"><span></span><span></span><span></span></div></div>
+                <div class="skeleton-card" aria-hidden="true"><div class="sk-line sk-line--title"></div><div class="sk-line"></div><div class="sk-line sk-line--short"></div><div class="sk-tags"><span></span><span></span><span></span></div></div>
+            </div>
+
+            <!-- Pagination -->
+            <nav aria-label="Resource pagination" class="pagination-wrap">
+                <button id="prev-page" class="pagination-btn" disabled aria-label="Go to previous page">
+                    <i class="fas fa-chevron-left" aria-hidden="true"></i><span>Prev</span>
+                </button>
+                <div id="page-numbers" class="page-numbers" role="list"></div>
+                <button id="next-page" class="pagination-btn" disabled aria-label="Go to next page">
+                    <span>Next</span><i class="fas fa-chevron-right" aria-hidden="true"></i>
+                </button>
+            </nav>
+            <p id="page-info" class="page-info" aria-live="polite">Page 1 of 1</p>
         </div>
-    </div>
+    </main>
+
+    <!-- Back to top -->
+    <button id="back-to-top" class="back-to-top" aria-label="Back to top" hidden>
+        <i class="fas fa-arrow-up" aria-hidden="true"></i>
+    </button>
 
     <footer>
         <div class="container">
@@ -176,11 +185,11 @@
                 </div>
                 <div class="col-md-6 text-md-end">
                     <p>
-                        <a href="https://github.com/AyhamJo7/iQuantum" target="_blank">
+                        <a href="https://github.com/AyhamJo7/iQuantum" target="_blank" rel="noopener">
                             <i class="fab fa-github"></i> GitHub
                         </a>
                     </p>
-                    <p id="last-updated" class="text-muted small mb-1">Last updated: Loading...</p>
+                    <p id="last-updated" class="text-muted small mb-1">Last updated: Loading…</p>
                     <p class="mb-0">© 2025 iQuantum. All rights reserved.</p>
                 </div>
             </div>
