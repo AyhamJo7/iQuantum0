@@ -5368,6 +5368,12 @@
         "name": "AI Tools",
         "resources": [
           {
+            "name": "Agenttrace",
+            "url": "https://luoyuctl.github.io/agenttrace/",
+            "description": "Local-first TUI for inspecting AI coding agent sessions, costs, tokens, latency, tool failures, health, and diffs.",
+            "tags": []
+          },
+          {
             "name": "AppleAi",
             "url": "https://www.theappleai.tech/",
             "description": "Access multiple AI assistants from your menu bar with one shortcut.",
@@ -7613,6 +7619,12 @@
             "name": "NotchNook",
             "url": "https://lo.cafe/notchnook",
             "description": "Customizes your Mac's menu bar to seamlessly integrate with the notch design.",
+            "tags": []
+          },
+          {
+            "name": "Notchly",
+            "url": "https://notchly.xyz",
+            "description": "Lightweight native macOS app that turns the MacBook notch into an interactive space for live activities, music, battery, and custom HUDs.",
             "tags": []
           },
           {
@@ -12179,7 +12191,7 @@
           {
             "name": "curses",
             "url": "https://docs.python.org/3/library/curses.html",
-            "description": "Built-in wrapper for ncurses used to create terminal GUI applications.",
+            "description": "(Python standard library) The built-in wrapper for ncurses used to create terminal GUI applications.",
             "tags": []
           },
           {
@@ -18926,6 +18938,12 @@
             "name": "Fastor",
             "url": "https://github.com/romeric/Fastor",
             "description": "A lightweight high performance tensor algebra framework for modern C++. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "geo-utils",
+            "url": "https://github.com/gistrec/geo-utils",
+            "description": "Header-only C++17 library for spherical lat/lng geometry: distance, bearing, area, point-in-polygon. [Apache2]",
             "tags": []
           },
           {
@@ -33487,6 +33505,12 @@
             "url": "https://github.com/tickstem/cron",
             "description": "Go client for scheduling HTTP cron jobs, with execution history, failure alerts, and tsk-local for testing handlers without live credentials.",
             "tags": []
+          },
+          {
+            "name": "tickstem/heartbeat",
+            "url": "https://github.com/tickstem/heartbeat",
+            "description": "Go client for dead-man's switch heartbeat monitoring: ping a URL after each job run and get alerted by email if pings stop arriving.",
+            "tags": []
           }
         ]
       },
@@ -43048,6 +43072,12 @@
             "tags": []
           },
           {
+            "name": "tickstem/uptime",
+            "url": "https://github.com/tickstem/uptime",
+            "description": "Go client for HTTP uptime monitoring with SSL expiry alerts and configurable response assertions.",
+            "tags": []
+          },
+          {
             "name": "tf-profile",
             "url": "https://github.com/datarootsio/tf-profile",
             "description": "Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.",
@@ -43099,6 +43129,12 @@
             "name": "winrm-cli",
             "url": "https://github.com/masterzen/winrm-cli",
             "description": "Cli tool to remotely execute commands on Windows machines.",
+            "tags": []
+          },
+          {
+            "name": "zerohand",
+            "url": "https://github.com/nilpoona/zerohand",
+            "description": "A simple and efficient load testing tool for Web APIs.",
             "tags": []
           }
         ]
@@ -62017,6 +62053,12 @@
             "tags": []
           },
           {
+            "name": "Rahoot",
+            "url": "https://github.com/Ralex91/Rahoot",
+            "description": "Quiz game platform, clone of Kahoot!, designed for smaller self-hosted events (alternative to Kahoot!). MIT Nodejs/Docker",
+            "tags": []
+          },
+          {
             "name": "Red Eclipse 2",
             "url": "https://www.redeclipse.net/",
             "description": "Arena first-person shooter similar to Unreal Tournament. ( Source Code ) Zlib/MIT/CC-BY-SA-4.0 C/C++/deb",
@@ -62109,6 +62151,12 @@
             "name": "Minus Games",
             "url": "https://accessory.github.io/minus_games_user_guide",
             "description": "Sync games and save files across multiple devices. ( Source Code ) MIT Rust",
+            "tags": []
+          },
+          {
+            "name": "Ownfoil",
+            "url": "https://github.com/a1ex4/ownfoil",
+            "description": "Nintendo Switch library manager, with automated management tasks (file identification and organization, missing updates/DLC), serving your library to multiple supported clients on your Switch, with shop customization and multi user authentication. AGPL-3.0 Docker/Python",
             "tags": []
           },
           {
@@ -62215,6 +62263,12 @@
             "name": "Khoj",
             "url": "https://khoj.dev/",
             "description": "Your AI second brain. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI. ( Demo , Source Code ) AGPL-3.0 Python/Docker",
+            "tags": []
+          },
+          {
+            "name": "LibreChat",
+            "url": "https://www.librechat.ai",
+            "description": "\u26a0 - Enhanced ChatGPT-compatible AI chat interface supporting multiple AI providers, with multi-user auth, message search, and plugin support. ( Demo , Source Code ) MIT Nodejs/Docker",
             "tags": []
           },
           {
@@ -62493,6 +62547,12 @@
             "name": "Node RED",
             "url": "https://nodered.org/",
             "description": "Browser-based flow editor that helps you wiring hardware devices, APIs and online services to create IoT solutions. ( Source Code ) Apache-2.0 Nodejs/Docker",
+            "tags": []
+          },
+          {
+            "name": "Onloc",
+            "url": "https://onloc.app",
+            "description": "Track and share your location in real time. Control and lock stolen or lost phones. ( Source Code , Clients ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -62922,6 +62982,12 @@
             "tags": []
           },
           {
+            "name": "MyTube",
+            "url": "https://github.com/franklioxygen/MyTube",
+            "description": "\u26a0 - Downloader and player for yt-dlp-supported sites with channel subscriptions, cloud upload support, and local library organization. ( Demo ) MIT Nodejs/Docker",
+            "tags": []
+          },
+          {
             "name": "nefarious",
             "url": "https://lardbit.github.io/nefarious/",
             "description": "Automate downloading Movies and TV Shows. ( Source Code ) GPL-3.0 Python",
@@ -63050,6 +63116,12 @@
             "name": "Black Candy",
             "url": "https://github.com/blackcandy-org/blackcandy",
             "description": "Music streaming server. MIT Docker/Ruby",
+            "tags": []
+          },
+          {
+            "name": "BotWave",
+            "url": "https://botwave.dpip.lol",
+            "description": "FM broadcasting system with server-client architecture for managing multiple Raspberry Pi transmitters remotely. ( Source Code ) GPL-3.0 Python",
             "tags": []
           },
           {
@@ -64916,6 +64988,12 @@
         "name": "Remote Access",
         "resources": [
           {
+            "name": "Cardea",
+            "url": "https://github.com/hectorm/cardea",
+            "description": "SSH bastion server with access control, session recording, and optional TPM-backed key protection. EUPL-1.2 Go/Docker",
+            "tags": []
+          },
+          {
             "name": "Engity's Bifr\u00f6st",
             "url": "https://bifroest.engity.org/",
             "description": "Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session. ( Source Code ) Apache-2.0 Go/Docker",
@@ -65787,6 +65865,12 @@
             "tags": []
           },
           {
+            "name": "HamsterBase Tasks",
+            "url": "https://tasks.hamsterbase.com",
+            "description": "A tool to help organize ideas and build great things. Plan, organize, build and ship. ( Demo , Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Kanboard",
             "url": "https://kanboard.org/",
             "description": "Simple visual task board. ( Source Code ) MIT PHP",
@@ -66276,6 +66360,12 @@
             "name": "Gollum",
             "url": "https://github.com/gollum/gollum",
             "description": "Simple, Git-powered wiki with a sweet API and local frontend. MIT Ruby",
+            "tags": []
+          },
+          {
+            "name": "LeafWiki",
+            "url": "https://github.com/perber/leafwiki",
+            "description": "A fast wiki for people who think in folders, not feeds. Fast editing. Tree navigation. Markdown on disk. ( Demo ) MIT Docker/Go",
             "tags": []
           },
           {
