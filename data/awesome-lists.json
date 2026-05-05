@@ -9635,6 +9635,17 @@
     "name": "Awesome Python",
     "categories": [
       {
+        "name": "Sponsors",
+        "resources": [
+          {
+            "name": "pyr",
+            "url": "https://pyrun.dev",
+            "description": ": Zero-config Python project manager. Bootstraps its own runtime, app-convention, and working imports - out the box.",
+            "tags": []
+          }
+        ]
+      },
+      {
         "name": "AI and Agents",
         "resources": [
           {
@@ -11130,6 +11141,12 @@
             "name": "PythonRobotics",
             "url": "https://github.com/AtsushiSakai/PythonRobotics",
             "description": "This is a compilation of various robotics algorithms with visualizations.",
+            "tags": []
+          },
+          {
+            "name": "mesa",
+            "url": "https://github.com/projectmesa/mesa",
+            "description": "An agent-based modeling framework for building, analyzing, and visualizing complex system simulations.",
             "tags": []
           },
           {
@@ -30987,6 +31004,12 @@
             "tags": []
           },
           {
+            "name": "lock",
+            "url": "https://github.com/ubgo/lock",
+            "description": "Distributed lock family with one Go interface and five backends (filelock, flock, Redis, Postgres, etcd) \u2014 fencing tokens, semaphore mode, and observability hooks across all backends.",
+            "tags": []
+          },
+          {
             "name": "lura",
             "url": "https://github.com/luraproject/lura",
             "description": "Ultra performant API Gateway framework with middlewares.",
@@ -43404,6 +43427,12 @@
             "name": "LiteIDE",
             "url": "https://github.com/visualfc/liteide",
             "description": "LiteIDE is a simple, open source, cross-platform Go IDE.",
+            "tags": []
+          },
+          {
+            "name": "mac-cleanup-go",
+            "url": "https://github.com/2ykwang/mac-cleanup-go",
+            "description": "Preview-first TUI for cleaning macOS caches, logs, and temporary files.",
             "tags": []
           },
           {
