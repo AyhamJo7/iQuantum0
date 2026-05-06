@@ -2438,6 +2438,12 @@
             "tags": []
           },
           {
+            "name": "MacDown",
+            "url": "https://macdown.uranusjr.com/",
+            "description": "Open source Markdown editor for macOS with live preview and HTML/PDF export.",
+            "tags": []
+          },
+          {
             "name": "Marked 2",
             "url": "http://marked2app.com/",
             "description": "This is the Markdown preview with an elegant and powerful set of tools for all writers.",
@@ -9718,6 +9724,12 @@
             "name": "OpenChronicle",
             "url": "https://github.com/Einsia/OpenChronicle",
             "description": "Open-source, local-first memory for any tool-capable LLM agent.",
+            "tags": []
+          },
+          {
+            "name": "promptise",
+            "url": "https://github.com/promptise-com/foundry",
+            "description": "A framework for building end-to-end production-ready agentic systems, scalable & secure MCP's and autonomous agents.",
             "tags": []
           },
           {
@@ -29973,6 +29985,12 @@
             "tags": []
           },
           {
+            "name": "pgrwl",
+            "url": "https://github.com/pgrwl/pgrwl",
+            "description": "Cloud-native continuous backup for PostgreSQL.",
+            "tags": []
+          },
+          {
             "name": "pgweb",
             "url": "https://github.com/sosedoff/pgweb",
             "description": "Web-based PostgreSQL database browser.",
@@ -37480,6 +37498,12 @@
             "tags": []
           },
           {
+            "name": "Razify",
+            "url": "https://github.com/Hossiy21/razify",
+            "description": "CLI to scan, validate and audit .env files for leaked secrets and environment drift.",
+            "tags": []
+          },
+          {
             "name": "redact",
             "url": "https://github.com/alesr/redact",
             "description": "Redact sensitive information from slog-based logs using a configurable pipeline.",
@@ -37656,6 +37680,12 @@
             "name": "pletter",
             "url": "https://github.com/vimeda/pletter",
             "description": "A standard way to wrap a proto message for message brokers.",
+            "tags": []
+          },
+          {
+            "name": "proto",
+            "url": "https://github.com/emicklei/proto",
+            "description": "Parser and writer for Google ProtocolBuffers .proto files.",
             "tags": []
           },
           {
@@ -71386,6 +71416,12 @@
             "name": "Real-time Chat with Firebase",
             "url": "https://github.com/dopebase/messenger-iOS-chat-swift-firestore",
             "description": "Functional real-time chat app with Firebase Firestore using MessageKit.",
+            "tags": []
+          },
+          {
+            "name": "swiftui-messaging-ui",
+            "url": "https://github.com/FluidGroup/swiftui-messaging-ui",
+            "description": "Primitive SwiftUI chat UI component with stable prepending for loading older messages without scroll jumps.",
             "tags": []
           }
         ]
