@@ -37270,6 +37270,12 @@
             "tags": []
           },
           {
+            "name": "aes-ctr-drbg",
+            "url": "https://github.com/sixafter/aes-ctr-drbg",
+            "description": "A Deterministic Random Bit Generator based on AES in Counter mode (AES-CTR-DRBG) as specified in NIST SP 800-90A.",
+            "tags": []
+          },
+          {
             "name": "age",
             "url": "https://github.com/FiloSottile/age",
             "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
