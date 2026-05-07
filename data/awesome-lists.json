@@ -7436,6 +7436,12 @@
             "tags": []
           },
           {
+            "name": "CodexIsland",
+            "url": "https://github.com/ericjypark/codex-island",
+            "description": "Turns the MacBook notch into a Dynamic Island-style live activity for Claude Code and Codex CLI rate limits and spend, computed locally with no telemetry.",
+            "tags": []
+          },
+          {
             "name": "SaneBar",
             "url": "https://sanebar.com",
             "description": "Privacy-first menu bar manager with hidden zones and automation rules.",
@@ -40647,6 +40653,12 @@
             "tags": []
           },
           {
+            "name": "relimpact",
+            "url": "https://github.com/hashmap-kz/relimpact",
+            "description": "Fast API compatibility reports for Go projects.",
+            "tags": []
+          },
+          {
             "name": "remote-touchpad",
             "url": "https://github.com/Unrud/remote-touchpad",
             "description": "Control mouse and keyboard from a smartphone.",
@@ -48664,6 +48676,12 @@
             "url": "https://github.com/zellij-org/zellij",
             "description": "A terminal multiplexer (workspace) with batteries included",
             "tags": []
+          },
+          {
+            "name": "Zephyr",
+            "url": "https://github.com/Juwan-Hwang/Zephyr",
+            "description": "A modern, lightweight, and secure Mihomo (Clash Meta) GUI client built with Tauri.",
+            "tags": []
           }
         ]
       },
@@ -49375,6 +49393,12 @@
       {
         "name": "Embedded",
         "resources": [
+          {
+            "name": "embassy-rs/embassy",
+            "url": "https://github.com/embassy-rs/embassy",
+            "description": "[ embassy ] - Next-generation async/await framework for embedded Rust with HALs for STM32, nRF, RP, ESP32, and more. Features embassy-time, embassy-net, embassy-usb, and low-power support.",
+            "tags": []
+          },
           {
             "name": "rmk",
             "url": "https://github.com/haobogu/rmk",
