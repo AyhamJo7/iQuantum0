@@ -6636,6 +6636,12 @@
             "tags": []
           },
           {
+            "name": "OpenQuack",
+            "url": "https://github.com/larryxiao/openquack",
+            "description": "Privacy-first voice dictation tool that transcribes locally with WhisperKit and inserts text at the cursor with a hotkey.",
+            "tags": []
+          },
+          {
             "name": "OpenTypeless",
             "url": "https://github.com/tover0314-w/opentypeless",
             "description": "Open-source AI voice input that types polished text into any app.",
@@ -6669,6 +6675,12 @@
             "name": "VoiceInk",
             "url": "https://tryvoiceink.com/",
             "description": "Real-time speech-to-text app.",
+            "tags": []
+          },
+          {
+            "name": "Voxt",
+            "url": "https://github.com/hehehai/voxt",
+            "description": "Hold-to-talk voice input tool with AI transcription rules per app and URL, and built-in translation.",
             "tags": []
           },
           {
@@ -11875,6 +11887,12 @@
             "url": "https://github.com/rq/rq",
             "description": "Simple job queues for Python.",
             "tags": []
+          },
+          {
+            "name": "taskiq",
+            "url": "https://github.com/taskiq-python/taskiq",
+            "description": "Distributed task queue with native asyncio support and pluggable brokers.",
+            "tags": []
           }
         ]
       },
@@ -12644,6 +12662,12 @@
         "name": "Audio & Video Processing",
         "resources": [
           {
+            "name": "birdnet",
+            "url": "https://github.com/kahst/BirdNET-Analyzer",
+            "description": "Deep learning framework for acoustic species detection; identifies bird species from audio recordings using TensorFlow.",
+            "tags": []
+          },
+          {
             "name": "gtts",
             "url": "https://github.com/pndurette/gTTS",
             "description": "Python library and CLI tool for converting text to speech using Google Translate TTS.",
@@ -13233,7 +13257,7 @@
         "resources": [
           {
             "name": "Awesome Python Newsletter",
-            "url": "http://python.libhunt.com/newsletter",
+            "url": "https://python.libhunt.com/newsletter",
             "description": "",
             "tags": []
           },
@@ -50202,6 +50226,12 @@
             "tags": []
           },
           {
+            "name": "Hmbown/DeepSeek-TUI",
+            "url": "https://github.com/Hmbown/DeepSeek-TUI",
+            "description": "[ deepseek-tui-cli ] - Terminal coding agent for DeepSeek V4 with streaming reasoning blocks, local workspace editing, auto model selection, MCP support, and ratatui-based TUI.",
+            "tags": []
+          },
+          {
             "name": "iBz-04/gloamy",
             "url": "https://github.com/iBz-04/gloamy",
             "description": "[ gloamy ] - Rust-first autonomous agent runtime for CLI, channels, gateway, and hardware workflows.",
@@ -62142,12 +62172,6 @@
             "tags": []
           },
           {
-            "name": "Rahoot",
-            "url": "https://github.com/Ralex91/Rahoot",
-            "description": "Quiz game platform, clone of Kahoot!, designed for smaller self-hosted events (alternative to Kahoot!). MIT Nodejs/Docker",
-            "tags": []
-          },
-          {
             "name": "Red Eclipse 2",
             "url": "https://www.redeclipse.net/",
             "description": "Arena first-person shooter similar to Unreal Tournament. ( Source Code ) Zlib/MIT/CC-BY-SA-4.0 C/C++/deb",
@@ -66376,7 +66400,7 @@
           },
           {
             "name": "UUSEC WAF",
-            "url": "https://uuwaf.uusec.com",
+            "url": "https://waf.uusec.com/",
             "description": "Industry-leading high-performance, AI and semantic technology web application firewall and API security gateway (fork of nginx). ( Source Code ) GPL-3.0 C/Lua/Docker",
             "tags": []
           },
