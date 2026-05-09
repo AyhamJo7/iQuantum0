@@ -50310,6 +50310,12 @@
             "tags": []
           },
           {
+            "name": "xingkongliang/skills-manager",
+            "url": "https://github.com/xingkongliang/skills-manager",
+            "description": "Lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools (Cursor, Claude Code, Codex, Copilot, etc.) with Tauri 2, Rust backend, and Git backup support.",
+            "tags": []
+          },
+          {
             "name": "yashs662/rust_kanban",
             "url": "https://github.com/yashs662/rust_kanban",
             "description": "[ rust-kanban ] - A Kanban App for the terminal",
@@ -52326,6 +52332,12 @@
             "name": "tracemachina/nativelink",
             "url": "https://github.com/TraceMachina/nativelink",
             "description": "NativeLink is a Backend Remote Execution platform written in rust for client build systems such as Buck2 , Bazel , Pants , etc..",
+            "tags": []
+          },
+          {
+            "name": "vercel/turborepo",
+            "url": "https://github.com/vercel/turborepo",
+            "description": "High-performance build system for JavaScript and TypeScript monorepos, written in Rust. Features incremental computation, remote caching, and parallel task execution.",
             "tags": []
           }
         ]
