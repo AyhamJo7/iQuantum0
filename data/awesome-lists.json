@@ -7634,6 +7634,12 @@
             "tags": []
           },
           {
+            "name": "muxbar",
+            "url": "https://github.com/1989v/muxbar",
+            "description": "Menu bar app for tmux session management \u2014 list, attach, kill sessions, live preview, and a closed-lid mode for in-bag work.",
+            "tags": []
+          },
+          {
             "name": "NetFluss",
             "url": "https://www.ranagmbh.de/netfluss/",
             "description": "Native menu bar app for real-time upload/download speeds and top bandwidth-using apps.",
@@ -9066,7 +9072,7 @@
         "resources": [
           {
             "name": "Actions",
-            "url": "https://github.com/sindresorhus/Actions",
+            "url": "https://sindresorhus.com/actions",
             "description": "Provides many useful actions for the Shortcuts app.",
             "tags": []
           },
@@ -19000,8 +19006,8 @@
             "tags": []
           },
           {
-            "name": "geo-utils",
-            "url": "https://github.com/gistrec/geo-utils",
+            "name": "geo-utils-cpp",
+            "url": "https://github.com/gistrec/geo-utils-cpp",
             "description": "Header-only C++17 library for spherical lat/lng geometry: distance, bearing, area, point-in-polygon. [Apache2]",
             "tags": []
           },
@@ -40257,6 +40263,12 @@
             "tags": []
           },
           {
+            "name": "go-snk",
+            "url": "https://github.com/SharkByteSoftware/go-snk",
+            "description": "Type-safe generic helpers for slices, maps, strings, errors, JSON, HTTP, and containers, organized as small independently adoptable packages.",
+            "tags": []
+          },
+          {
             "name": "go-trigger",
             "url": "https://github.com/sadlil/go-trigger",
             "description": "Go-lang global event triggerer, Register Events with an id and trigger the event from anywhere from your project.",
@@ -59443,12 +59455,6 @@
         "name": "Bookmarks and Link Sharing",
         "resources": [
           {
-            "name": "Briefkasten",
-            "url": "https://github.com/ndom91/briefkasten",
-            "description": "Modern app for saving and managing your own bookmarks. Includes a browser extension. ( Demo ) MIT Nodejs/Docker",
-            "tags": []
-          },
-          {
             "name": "Buku",
             "url": "https://github.com/jarun/Buku",
             "description": "Powerful bookmark manager and a personal textual mini-web. GPL-3.0 Python/deb",
@@ -61991,12 +61997,6 @@
             "name": "Uguu",
             "url": "https://github.com/nokonoko/uguu",
             "description": "Stores files and deletes after X amount of time. MIT PHP",
-            "tags": []
-          },
-          {
-            "name": "Uploady",
-            "url": "https://github.com/farisc0de/Uploady",
-            "description": "Uploady is a simple file uploader script with multi file upload support. MIT PHP",
             "tags": []
           },
           {
@@ -65028,12 +65028,6 @@
             "name": "Tinyproxy",
             "url": "https://tinyproxy.github.io/",
             "description": "Light-weight HTTP/HTTPS proxy daemon. ( Source Code ) GPL-2.0 C/deb",
-            "tags": []
-          },
-          {
-            "name": "txtdot",
-            "url": "https://tempoworks.github.io/documentation",
-            "description": "A HTTP proxy that parses only text, links and pictures from pages reducing internet bandwidth usage, removing ads and heavy scripts. ( Demo , Source Code ) MIT Nodejs/Docker",
             "tags": []
           }
         ]
