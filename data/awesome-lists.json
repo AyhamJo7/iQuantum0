@@ -3588,6 +3588,12 @@
             "tags": []
           },
           {
+            "name": "SSH Keys Manager",
+            "url": "https://github.com/Stmol/ssh-keys-manager-macos-app",
+            "description": "Native macOS app for managing local SSH keys and Git identities.",
+            "tags": []
+          },
+          {
             "name": "StarUML",
             "url": "http://staruml.io",
             "description": "Powerful UML app.",
@@ -9706,6 +9712,12 @@
             "name": "autogen",
             "url": "https://github.com/microsoft/autogen",
             "description": "A programming framework for building agentic AI applications.",
+            "tags": []
+          },
+          {
+            "name": "bernstein",
+            "url": "https://github.com/sipyourdrink-ltd/bernstein",
+            "description": "A deterministic Python orchestrator for CLI coding agents (Claude Code, Codex, Gemini CLI, and 40+ more) with parallel git worktrees and an HMAC-signed audit chain.",
             "tags": []
           },
           {
@@ -27100,6 +27112,12 @@
             "name": "routex",
             "url": "https://github.com/Ad3bay0c/routex",
             "description": "YAML-driven multi-agent AI runtime for Go with Erlang-style supervision, MCP tool server support, and a CLI.",
+            "tags": []
+          },
+          {
+            "name": "zenflow",
+            "url": "https://github.com/zendev-sh/zenflow",
+            "description": "Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, race-safe delivery. One YAML file, one Go binary. Runs on any goai-supported provider.",
             "tags": []
           }
         ]
@@ -57010,7 +57028,7 @@
           {
             "name": "Cloudsmith :heavy_dollar_sign:",
             "url": "https://cloudsmith.com/product/formats/cargo-registry",
-            "description": "A fully managed package management SaaS, with first-class support for public and private Cargo/Rust registries (plus many others). Has a generous free-tier and is also completely free for open-source.",
+            "description": "A fully managed package management SaaS, with first-class support for public and private Cargo/Rust registries (plus many others). Free for open-source projects.",
             "tags": []
           },
           {
@@ -57026,7 +57044,7 @@
             "tags": []
           },
           {
-            "name": "RepoFlow",
+            "name": "RepoFlow :heavy_dollar_sign:",
             "url": "https://www.repoflow.io",
             "description": "A simple and modern repository platform that can host Rust crate repositories and proxy crates.io. Also supports other package types like Docker, PyPI, Maven, npm, and RubyGems. Available as a cloud service or self-hosted.",
             "tags": []
