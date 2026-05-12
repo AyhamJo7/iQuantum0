@@ -10946,6 +10946,17 @@
         ]
       },
       {
+        "name": "Data Ingestion / ETL",
+        "resources": [
+          {
+            "name": "dlt",
+            "url": "https://github.com/dlt-hub/dlt",
+            "description": "A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.",
+            "tags": []
+          }
+        ]
+      },
+      {
         "name": "Data Validation",
         "resources": [
           {
@@ -11377,12 +11388,6 @@
             "name": "pylint",
             "url": "https://github.com/pylint-dev/pylint",
             "description": "A fully customizable source code analyzer.",
-            "tags": []
-          },
-          {
-            "name": "ruff",
-            "url": "https://github.com/astral-sh/ruff",
-            "description": "An extremely fast Python linter and code formatter.",
             "tags": []
           },
           {
@@ -53138,6 +53143,12 @@
             "tags": []
           },
           {
+            "name": "luminal-ai/luminal",
+            "url": "https://github.com/luminal-ai/luminal",
+            "description": "[ luminal ] - High-performance general-purpose inference compiler with RISC-style architecture, search-based optimization, and native CUDA/Metal backends. Supports transformers, convnets, and autograd.",
+            "tags": []
+          },
+          {
             "name": "maciejkula/rustlearn",
             "url": "https://github.com/maciejkula/rustlearn",
             "description": "Machine learning library.",
@@ -63772,6 +63783,12 @@
             "name": "HortusFox",
             "url": "https://hortusfox.github.io",
             "description": "Collaborative plant management and tracking system for plant enthusiasts. ( Source Code ) MIT PHP/Docker",
+            "tags": []
+          },
+          {
+            "name": "ImgCompress",
+            "url": "https://imgcompress.karimzouine.com",
+            "description": "Image processing tool that runs entirely in Docker. Compress, convert, resize, batch-process images, and remove backgrounds using local AI without cloud dependencies. ( Source Code ) GPL-3.0 Docker",
             "tags": []
           },
           {
