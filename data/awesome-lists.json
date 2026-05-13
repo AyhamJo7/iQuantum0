@@ -10912,6 +10912,17 @@
             "url": "https://github.com/pola-rs/polars",
             "description": "A fast DataFrame library implemented in Rust with a Python API.",
             "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Data Ingestion / ETL",
+        "resources": [
+          {
+            "name": "dlt",
+            "url": "https://github.com/dlt-hub/dlt",
+            "description": "A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.",
+            "tags": []
           },
           {
             "name": "akshare",
@@ -10941,17 +10952,6 @@
             "name": "yfinance",
             "url": "https://github.com/ranaroussi/yfinance",
             "description": "Easy Pythonic way to download market and financial data from Yahoo Finance.",
-            "tags": []
-          }
-        ]
-      },
-      {
-        "name": "Data Ingestion / ETL",
-        "resources": [
-          {
-            "name": "dlt",
-            "url": "https://github.com/dlt-hub/dlt",
-            "description": "A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.",
             "tags": []
           }
         ]
@@ -27054,6 +27054,12 @@
             "tags": []
           },
           {
+            "name": "dakera-go",
+            "url": "https://github.com/dakera-ai/dakera-go",
+            "description": "Official Go client SDK for the Dakera self-hosted agent memory server, providing typed interfaces for memory store/recall, session management, namespace operations, and decay configuration.",
+            "tags": []
+          },
+          {
             "name": "fun",
             "url": "https://gitlab.com/tozd/go/fun",
             "description": "The simplest but powerful way to use large language models (LLMs) in Go.",
@@ -31888,6 +31894,12 @@
             "name": "decimal",
             "url": "https://github.com/shopspring/decimal",
             "description": "Arbitrary-precision fixed-point decimal numbers.",
+            "tags": []
+          },
+          {
+            "name": "decimal",
+            "url": "https://github.com/aytechnet/decimal",
+            "description": "High performance 64-bit decimal partially compatible with shopspring/decimal and int64, including Weight and Length.",
             "tags": []
           },
           {
@@ -55308,6 +55320,12 @@
             "tags": []
           },
           {
+            "name": "vcschapp/bufjson",
+            "url": "https://github.com/vcschapp/bufjson",
+            "description": "[ bufjson ] - Streaming JSON parser and lexer, no copy/no allocation, optional streaming JSON Pointer evaluator",
+            "tags": []
+          },
+          {
             "name": "3Hren/msgpack-rust",
             "url": "https://github.com/3Hren/msgpack-rust",
             "description": "Low/high level MessagePack implementation",
@@ -59662,6 +59680,12 @@
             "tags": []
           },
           {
+            "name": "Continuwuity",
+            "url": "https://continuwuity.org/",
+            "description": "Community-driven Matrix homeserver, the continuation of conduwuit focusing on user experience and new features (fork of Conduit). ( Source Code ) Apache-2.0 Rust/Docker/K8S/deb",
+            "tags": []
+          },
+          {
             "name": "Databag",
             "url": "https://github.com/balzack/databag",
             "description": "Federated, end-to-end encrypted messaging service for the web, iOS, and Android, supporting text, photos, video, and WebRTC video and audio calls. ( Demo ) Apache-2.0 Docker",
@@ -61168,6 +61192,12 @@
         "name": "Document Management",
         "resources": [
           {
+            "name": "BentoPDF",
+            "url": "https://bentopdf.com",
+            "description": "\u26a0 - Powerful, privacy-first, client-side PDF toolkit that allows you to manipulate, edit, merge, and process PDF files directly in your browser. ( Demo , Source Code ) AGPL-3.0 Nodejs/Docker",
+            "tags": []
+          },
+          {
             "name": "Docspell",
             "url": "https://docspell.org",
             "description": "Auto-tagging document organizer and archive. ( Source Code ) GPL-3.0 Scala/Java/Docker",
@@ -62275,6 +62305,12 @@
             "name": "EasyWI",
             "url": "https://easy-wi.com",
             "description": "Easy-Wi is a Web-interface that allows you to manage server daemons like gameservers. In addition it provides you with a CMS which includes a fully automated game- and voiceserver lending service. ( Source Code ) GPL-3.0 PHP/Shell",
+            "tags": []
+          },
+          {
+            "name": "GameAP",
+            "url": "https://gameap.com/",
+            "description": "Game Administration Panel for managing game servers on Linux and Windows. ( Demo , Source Code , Clients ) MIT Go/Docker",
             "tags": []
           },
           {
