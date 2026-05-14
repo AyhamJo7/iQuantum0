@@ -8870,6 +8870,12 @@
             "tags": []
           },
           {
+            "name": "Snapback",
+            "url": "https://snapbackapp.com",
+            "description": "Save and restore entire window layouts with one keystroke.",
+            "tags": []
+          },
+          {
             "name": "Swift Shift",
             "url": "https://swiftshift.app",
             "description": "Move and resize windows with keyboard shortcuts and mouse gestures.",
@@ -54567,6 +54573,12 @@
             "tags": []
           },
           {
+            "name": "beava-dev/beava",
+            "url": "https://github.com/beava-dev/beava",
+            "description": "Single-binary feature server. Push events over HTTP or TCP, query fresh per-entity counters and aggregates inline, no broker in between. For fraud, recommendations, LLM guardrails, and in-product analytics",
+            "tags": []
+          },
+          {
             "name": "fluvio",
             "url": "https://github.com/fluvio-community/fluvio",
             "description": "Programmable data streaming platform",
@@ -55672,6 +55684,12 @@
             "name": "emoon/rust_minifb",
             "url": "https://github.com/emoon/rust_minifb",
             "description": "minifb is a cross-platform window setup with optional bitmap rendering. It also comes with easy mouse and keyboard input. Primarily designed for prototyping",
+            "tags": []
+          },
+          {
+            "name": "FerrisMind/shadcn-rs",
+            "url": "https://github.com/FerrisMind/shadcn-rs",
+            "description": "[ iced-shadcn ] - iced and egui component set with shadcn/ui aesthetics; includes egui-shadcn .",
             "tags": []
           },
           {
