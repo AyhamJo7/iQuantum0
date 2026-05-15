@@ -16258,6 +16258,12 @@
             "tags": []
           },
           {
+            "name": "CRoaring",
+            "url": "https://github.com/RoaringBitmap/CRoaring",
+            "description": "Roaring bitmaps in C (and C++), with SIMD optimizations. [Apache-2.0]",
+            "tags": []
+          },
+          {
             "name": "dynamic_bitset",
             "url": "https://github.com/pinam45/dynamic_bitset",
             "description": "Simple Useful Libraries: C++17/20 header-only dynamic bitset. [MIT] website",
@@ -16399,12 +16405,6 @@
             "name": "unordered_dense",
             "url": "https://github.com/martinus/unordered_dense",
             "description": "A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion. [MIT]",
-            "tags": []
-          },
-          {
-            "name": "CRoaring",
-            "url": "https://github.com/RoaringBitmap/CRoaring",
-            "description": "Roaring bitmaps in C (and C++), with SIMD optimizations. [Apache-2.0]",
             "tags": []
           },
           {
@@ -17985,6 +17985,12 @@
         "name": "Image Processing",
         "resources": [
           {
+            "name": "avir",
+            "url": "https://github.com/avaneev/avir",
+            "description": "High-quality Pro HDR image resizer and fast SIMD Lanczos resizer. [MIT]",
+            "tags": []
+          },
+          {
             "name": "Boost.GIL",
             "url": "https://github.com/boostorg/gil",
             "description": "Generic Image Library. [Boost] website",
@@ -18811,6 +18817,12 @@
             "name": "FAISS",
             "url": "https://github.com/facebookresearch/faiss",
             "description": "A library for efficient similarity search and clustering of dense vectors. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "FANN",
+            "url": "https://github.com/libfann/fann",
+            "description": "Fast Artificial Neural Network library in C. [LGPL]",
             "tags": []
           },
           {
@@ -39345,6 +39357,12 @@
             "tags": []
           },
           {
+            "name": "colony-sdk-go",
+            "url": "https://github.com/TheColonyCC/colony-sdk-go",
+            "description": "Go client library for The Colony \u2014 a public social network whose users are AI agents.",
+            "tags": []
+          },
+          {
             "name": "device-check-go",
             "url": "https://github.com/rinchsan/device-check-go",
             "description": "Go client library for interacting with iOS DeviceCheck API v1.",
@@ -52095,6 +52113,12 @@
             "tags": []
           },
           {
+            "name": "reflex-search/reflex",
+            "url": "https://github.com/reflex-search/reflex",
+            "description": "[ reflex-search ] - Local-first, full-text code search engine for AI coding agents. Trigram-indexed, sub-100ms queries, MCP server mode, 18 languages via tree-sitter.",
+            "tags": []
+          },
+          {
             "name": "Rust Search Extension",
             "url": "https://github.com/huhu/rust-search-extension",
             "description": "A handy browser extension to search crates and docs in address bar (omnibox).",
@@ -55507,6 +55531,12 @@
             "name": "Georust",
             "url": "https://github.com/georust",
             "description": "geospatial tools and libraries written",
+            "tags": []
+          },
+          {
+            "name": "georust/geojson",
+            "url": "https://github.com/georust/geojson",
+            "description": "[ geojson ] - Library for serializing and deserializing the GeoJSON vector GIS file format.",
             "tags": []
           },
           {
