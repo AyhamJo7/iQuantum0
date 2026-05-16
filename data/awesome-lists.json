@@ -23873,6 +23873,12 @@
             "tags": []
           },
           {
+            "name": "Sourcey",
+            "url": "https://github.com/sourcey/sourcey",
+            "description": "Static documentation generator that consumes Doxygen XML alongside OpenAPI, godoc, MCP, and Markdown. [AGPL-3.0] website",
+            "tags": []
+          },
+          {
             "name": "Sphinx",
             "url": "https://github.com/sphinx-doc/sphinx",
             "description": "Sphinx makes it easy to create intelligent and beautiful documentation. [BSD-2-Clause] website",
@@ -59603,6 +59609,12 @@
             "tags": []
           },
           {
+            "name": "muvon/octomind",
+            "url": "https://github.com/muvon/octomind",
+            "description": "Open-source AI agent runtime CLI with 48+ specialist agents, MCP host with dynamic server registration, multi-provider support (13+ LLMs), and adaptive context compression for 4+ hour sessions.",
+            "tags": []
+          },
+          {
             "name": "pier-cli/pier",
             "url": "https://github.com/pier-cli/pier",
             "description": "A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs",
@@ -60783,6 +60795,12 @@
             "tags": []
           },
           {
+            "name": "splashboard",
+            "url": "https://github.com/unhappychoice/splashboard",
+            "description": "[ splashboard ] - A customizable terminal splash rendered on shell startup and on directory change, with per-directory dashboards",
+            "tags": []
+          },
+          {
             "name": "str4d/rage",
             "url": "https://github.com/str4d/rage",
             "description": "[ rage ] - Rust implementation of age .",
@@ -61827,6 +61845,12 @@
       {
         "name": "FFI",
         "resources": [
+          {
+            "name": "gtk-rs/gir",
+            "url": "https://github.com/gtk-rs/gir",
+            "description": "Code generator for creating safe Rust bindings from GObject-based C libraries.",
+            "tags": []
+          },
           {
             "name": "mozilla/cbindgen",
             "url": "https://github.com/mozilla/cbindgen",
