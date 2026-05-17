@@ -63743,6 +63743,12 @@
             "tags": []
           },
           {
+            "name": "rust-random/rand",
+            "url": "https://github.com/rust-random/rand",
+            "description": "[ rand ] - Comprehensive random number generation library with support for strong and small PRNGs, random value sampling, distributions, and random processes.",
+            "tags": []
+          },
+          {
             "name": "RustCrypto/hashes",
             "url": "https://github.com/RustCrypto/hashes",
             "description": "Collection of cryptographic hash functions",
@@ -69051,7 +69057,7 @@
           {
             "name": "localaik",
             "url": "https://github.com/harshaneel/localaik",
-            "description": "Local compatibility proxy for the Gemini and OpenAI APIs. Run one container locally and test both SDK protocol shapes on the same port without API keys or network access.",
+            "description": "LocalStack-style local emulation of OpenAI and Gemini APIs; single Docker container, llama.cpp + Gemma 3 backend.",
             "tags": []
           },
           {
