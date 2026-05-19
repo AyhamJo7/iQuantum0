@@ -11193,6 +11193,12 @@
             "url": "https://github.com/madmaze/pytesseract",
             "description": "A wrapper for Google Tesseract OCR .",
             "tags": []
+          },
+          {
+            "name": "ultralytics",
+            "url": "https://github.com/ultralytics/ultralytics",
+            "description": "Ultralytics YOLO for object detection, segmentation, pose estimation, and classification with state-of-the-art accuracy and speed.",
+            "tags": []
           }
         ]
       },
@@ -54353,12 +54359,6 @@
             "url": "https://github.com/roquie/smalte",
             "description": "\u2013 Dynamically configure applications that require static configuration in docker container.",
             "tags": []
-          },
-          {
-            "name": "Stitchocker",
-            "url": "https://github.com/alexaandrov/stitchocker",
-            "description": "A lightweight and fast command line utility for conveniently grouping your docker-compose multiple container services.",
-            "tags": []
           }
         ]
       },
@@ -54585,12 +54585,6 @@
             "tags": []
           },
           {
-            "name": "docker-consul",
-            "url": "https://github.com/gliderlabs/docker-consul",
-            "description": "Consul packaged for Docker \u2014 registers and discovers running containers.",
-            "tags": []
-          },
-          {
             "name": "docker-dns",
             "url": "https://github.com/bytesharky/docker-dns",
             "description": "Lightweight DNS forwarder for Docker containers, resolves container names with custom suffixes (e.g. .docker ) on the host to simplify service discovery.",
@@ -54703,12 +54697,6 @@
         "name": "Storage & Data",
         "resources": [
           {
-            "name": "Blockbridge",
-            "url": "https://github.com/blockbridge/blockbridge-docker-volume",
-            "description": ":yen: The Blockbridge plugin is a volume plugin that provides access to an extensible set of container-based persistent storage options. It supports single and multi-host Docker environments with features that include tenant isolation, automated provisioning, encryption, secure deletion, snapshots and QoS.",
-            "tags": []
-          },
-          {
             "name": "Label Backup",
             "url": "https://github.com/resulgg/label-backup",
             "description": "A lightweight, Docker-aware backup agent that automatically discovers and backs up containerized databases (PostgreSQL, MySQL, MongoDB, Redis) based on Docker labels. Supports local storage and S3-compatible destinations with flexible scheduling via cron expressions.",
@@ -54792,6 +54780,12 @@
             "tags": []
           },
           {
+            "name": "docker-exporter",
+            "url": "https://github.com/dlepaux/docker-exporter",
+            "description": "Lightweight Prometheus exporter for Docker container metrics written in Rust. Correct cgroup v2 memory working set on ARM64 (Raspberry Pi 5), runs non-root with a read-only socket, ~7 MiB idle RAM.",
+            "tags": []
+          },
+          {
             "name": "Docker-Sentinel",
             "url": "https://github.com/Will-Luck/Docker-Sentinel",
             "description": "Automated container updates with per-container policies, rollback safety, and a real-time web dashboard.",
@@ -54846,6 +54840,12 @@
             "tags": []
           },
           {
+            "name": "Middleware",
+            "url": "https://middleware.io/",
+            "description": ":yen: Monitor Docker hosts, containers, logs, and application performance from a unified observability platform.",
+            "tags": []
+          },
+          {
             "name": "Site24x7",
             "url": "https://www.site24x7.com/docker-monitoring.html",
             "description": ":yen: Docker Monitoring for DevOps and IT, SaaS Pay-per-Host model.",
@@ -54893,6 +54893,12 @@
             "tags": []
           },
           {
+            "name": "container-explorer",
+            "url": "https://github.com/google/container-explorer",
+            "description": "Forensic utility to explore Docker and containerd container details from mounted disk images.",
+            "tags": []
+          },
+          {
             "name": "Deepfence Threat Mapper",
             "url": "https://github.com/deepfence/ThreatMapper",
             "description": "Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.",
@@ -54908,12 +54914,6 @@
             "name": "docker-bench-security",
             "url": "https://github.com/docker/docker-bench-security",
             "description": "Script that checks for dozens of common best-practices around deploying Docker containers in production.",
-            "tags": []
-          },
-          {
-            "name": "docker-explorer",
-            "url": "https://github.com/google/docker-explorer",
-            "description": "A tool to help forensicate offline docker acquisitions.",
             "tags": []
           },
           {
@@ -55020,12 +55020,6 @@
             "name": "dive",
             "url": "https://github.com/wagoodman/dive",
             "description": "A tool for exploring each layer in a docker image.",
-            "tags": []
-          },
-          {
-            "name": "dockdash",
-            "url": "https://github.com/byrnedo/dockdash",
-            "description": "Detailed Docker container stats.",
             "tags": []
           },
           {
@@ -58218,6 +58212,12 @@
             "name": "tikv",
             "url": "https://github.com/tikv/tikv",
             "description": "A distributed KV database in Rust",
+            "tags": []
+          },
+          {
+            "name": "tokio-rs/toasty",
+            "url": "https://github.com/tokio-rs/toasty",
+            "description": "[ toasty ] - A cozy, easy ORM for Rust supporting SQL (SQLite, PostgreSQL, MySQL) and DynamoDB with derive macros, type-safe queries, and database-specific feature exposure.",
             "tags": []
           },
           {
@@ -81727,6 +81727,12 @@
             "name": "go-clip",
             "url": "https://github.com/prashantgupta24/go-clip",
             "description": "A minimalistic clipboard manager for Mac.",
+            "tags": []
+          },
+          {
+            "name": "Go-Constant",
+            "url": "https://github.com/sajjadrabiee/go-constant",
+            "description": "Generic typed constant sets with safe string parsing for Go's missing enum type.",
             "tags": []
           },
           {
