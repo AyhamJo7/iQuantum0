@@ -10881,6 +10881,12 @@
             "tags": []
           },
           {
+            "name": "bindu",
+            "url": "https://github.com/getbindu/Bindu",
+            "description": "A framework that wraps any agent handler with DID-based cryptographic identity, A2A JSON-RPC over HTTP, OAuth2 auth, x402 (USDC) payments, and a built-in operator inbox.",
+            "tags": []
+          },
+          {
             "name": "bub",
             "url": "https://github.com/bubbuild/bub",
             "description": "A lightweight, hook-first Python framework for channel-native agents that live alongside people.",
@@ -23408,6 +23414,12 @@
             "tags": []
           },
           {
+            "name": "SlothDB",
+            "url": "https://github.com/SouravRoy-ETL/slothdb",
+            "description": "an embedded SQL database that runs everywhere: on your laptop, on a server, and in the browser. [MIT] website",
+            "tags": []
+          },
+          {
             "name": "SOCI",
             "url": "https://github.com/SOCI/soci",
             "description": "A database abstraction layer for C++. [Boost]",
@@ -31181,6 +31193,12 @@
             "name": "Poirot",
             "url": "https://github.com/LeonardoCardoso/Poirot",
             "description": "Companion app for browsing Claude Code sessions, reviewing diffs, and rerunning commands.",
+            "tags": []
+          },
+          {
+            "name": "Muxy",
+            "url": "https://github.com/muxy-app/muxy",
+            "description": "AI-native GUI for managing AI coding sessions, projects, with split panes, Git integration, and AI usage tracking.",
             "tags": []
           },
           {
@@ -58280,6 +58298,12 @@
             "tags": []
           },
           {
+            "name": "infinition/waveshare-watch-rs",
+            "url": "https://github.com/infinition/waveshare-watch-rs",
+            "description": "100% Rust no_std smartwatch firmware for Waveshare ESP32-S3-Touch-AMOLED-2.06. Features QSPI 80 MHz DMA display, Embassy async runtime, event-driven power management with Always-On Display.",
+            "tags": []
+          },
+          {
             "name": "rmk",
             "url": "https://github.com/haobogu/rmk",
             "description": "A feature-rich keyboard firmware.",
@@ -65344,6 +65368,12 @@
         "name": "Peripherals",
         "resources": [
           {
+            "name": "esp-rs/esp-hal",
+            "url": "https://github.com/esp-rs/esp-hal",
+            "description": "[ esp-hal ] - Bare-metal no_std hardware abstraction layer for Espressif ESP32 devices (ESP32, ESP32-C2/C3/C5/C6/C61, ESP32-H2, ESP32-P4, ESP32-S2/S3). Provides safe Rust APIs for GPIO, I2C, SPI, UART, timers, DMA, and more.",
+            "tags": []
+          },
+          {
             "name": "alvaroparker/libfprint-rs",
             "url": "https://github.com/alvaroparker/libfprint-rs",
             "description": "[ libfprint-rs ] - Libfprint-rs provides a wrapper around the Linux libfprint library.",
@@ -66034,6 +66064,12 @@
             "name": "Easy Rust",
             "url": "https://github.com/Dhghomon/easy_rust",
             "description": "Learn Rust in easy English.",
+            "tags": []
+          },
+          {
+            "name": "Embedded Software with Rust",
+            "url": "https://www.manning.com/books/embedded-software-with-rust",
+            "description": "A practical introduction to building firmware that is fast, efficient, and far safer than traditional embedded software written in C or C++.",
             "tags": []
           },
           {
@@ -68597,6 +68633,12 @@
             "name": "routex",
             "url": "https://github.com/Ad3bay0c/routex",
             "description": "YAML-driven multi-agent AI runtime for Go with Erlang-style supervision, MCP tool server support, and a CLI.",
+            "tags": []
+          },
+          {
+            "name": "web-researcher-mcp",
+            "url": "https://github.com/zoharbabin/web-researcher-mcp",
+            "description": "MCP server providing AI assistants with web search, content extraction, and multi-source research capabilities. Single binary, 5 search providers with circuit-breaker failover, 4-tier scraping pipeline.",
             "tags": []
           },
           {
@@ -78750,6 +78792,12 @@
             "tags": []
           },
           {
+            "name": "matrix",
+            "url": "https://github.com/Arceus-7/matrix",
+            "description": "A clean, generic, zero-dependency matrix math package for Go with support for arithmetic, decompositions, and linear system solving.",
+            "tags": []
+          },
+          {
             "name": "ode",
             "url": "https://github.com/ChristopherRabotin/ode",
             "description": "Ordinary differential equation (ODE) solver which supports extended states and channel-based iteration stop conditions.",
@@ -79849,8 +79897,8 @@
           },
           {
             "name": "go-mutesting",
-            "url": "https://github.com/zimmski/go-mutesting",
-            "description": "Mutation testing for Go source code.",
+            "url": "https://github.com/jonbaldie/go-mutesting",
+            "description": "Mutation testing for Go with CI quality gates, coverage-aware MSI, baseline tracking, and git-diff filtering.",
             "tags": []
           },
           {
