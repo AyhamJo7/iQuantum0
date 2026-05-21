@@ -49418,12 +49418,6 @@
             "tags": []
           },
           {
-            "name": "Spooty",
-            "url": "https://github.com/Raiper34/spooty",
-            "description": "\u26a0 - Download tracks/playlists/albums from Spotify. It can also subscribe to a playlist or author page and download new songs upon release. MIT Docker/Nodejs",
-            "tags": []
-          },
-          {
             "name": "TrackWatch",
             "url": "https://trackwatch.emlopezr.com",
             "description": "\u26a0 - Automated music release tracker for Spotify with email notifications, discography generator, and ghost track cleaner (alternative to Release Radar). ( Source Code ) MIT Docker",
@@ -59193,6 +59187,12 @@
             "name": "thClaws/thClaws",
             "url": "https://github.com/thClaws/thClaws",
             "description": "Native Rust AI agent workspace with multi-provider LLM support, skills system, MCP servers, knowledge bases, and agent orchestration. Features desktop GUI, CLI REPL, and non-interactive modes.",
+            "tags": []
+          },
+          {
+            "name": "tinyhumansai/openhuman",
+            "url": "https://github.com/tinyhumansai/openhuman",
+            "description": "Open-source agentic assistant with desktop UI, 118+ OAuth integrations, local-first memory tree, Obsidian-compatible wiki, native voice, and TokenJuice compression. Built with Tauri and Rust for privacy-focused personal AI.",
             "tags": []
           },
           {
@@ -69225,6 +69225,12 @@
             "tags": []
           },
           {
+            "name": "rex",
+            "url": "https://github.com/rexrun-dev/rex",
+            "description": "Zero-config universal project runner. Detects your stack (Go, Node, Python, Rust, PHP, Zig, Elixir) and runs the right command.",
+            "tags": []
+          },
+          {
             "name": "Task",
             "url": "https://github.com/go-task/task",
             "description": "simple \"Make\" alternative.",
@@ -71849,6 +71855,12 @@
             "name": "gokv",
             "url": "https://github.com/philippgille/gokv",
             "description": "Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more).",
+            "tags": []
+          },
+          {
+            "name": "transactor",
+            "url": "https://github.com/metalfm/transactor",
+            "description": "Type-safe transaction boundary abstraction with adapters for database/sql, sqlx, and pgx.",
             "tags": []
           }
         ]
@@ -79923,6 +79935,12 @@
             "name": "go-testdeep",
             "url": "https://github.com/maxatome/go-testdeep",
             "description": "Extremely flexible golang deep comparison, extends the go testing package.",
+            "tags": []
+          },
+          {
+            "name": "go-testing",
+            "url": "https://github.com/tkrop/go-testing",
+            "description": "Go testing extension, that allows a simple setup of strongly isolated unit, component, and integration test providing advanced mock support extending gomock and gock.",
             "tags": []
           },
           {
