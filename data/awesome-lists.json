@@ -23528,6 +23528,12 @@
             "tags": []
           },
           {
+            "name": "Zvec",
+            "url": "https://github.com/alibaba/zvec",
+            "description": "A lightweight, lightning-fast, in-process vector database. [Apache2] website",
+            "tags": []
+          },
+          {
             "name": "constexpr-sql",
             "url": "https://github.com/mkitzan/constexpr-sql",
             "description": "A compile-time SQL query parser and executor in C++17. [MIT]",
@@ -30584,6 +30590,12 @@
             "name": "Doughnut",
             "url": "https://doughnutapp.com/",
             "description": "Beautiful, open-source podcast catcher for Mac.",
+            "tags": []
+          },
+          {
+            "name": "Papr",
+            "url": "https://github.com/l0ng-ai/papr",
+            "description": "RSS reader with adjustable typography, keyboard-driven navigation, and highlight export to Readwise, Notion and Obsidian.",
             "tags": []
           },
           {
@@ -58743,6 +58755,12 @@
             "tags": []
           },
           {
+            "name": "museslabs/phonto",
+            "url": "https://github.com/museslabs/phonto",
+            "description": "GPU-accelerated video wallpaper program for Wayland and macOS, written in Rust.",
+            "tags": []
+          },
+          {
             "name": "rodrigorc/papercraft",
             "url": "https://github.com/rodrigorc/papercraft",
             "description": "A tool to unwrap 3D models and create them in paper with scissors and glue.",
@@ -79221,6 +79239,12 @@
             "url": "https://github.com/calpa/urusai",
             "description": "Urusai (\"noisy\" in Japanese) is a Go implementation of a random HTTP/DNS traffic noise generator that helps protect privacy by creating digital smokescreens while browsing.",
             "tags": []
+          },
+          {
+            "name": "veil",
+            "url": "https://github.com/getveil/veil",
+            "description": "Local HTTPS proxy that hides API credentials from AI coding agents. OS keychain integration, format-aware placeholders, SQLite audit log.",
+            "tags": []
           }
         ]
       },
@@ -84844,6 +84868,12 @@
             "tags": []
           },
           {
+            "name": "Updatecli",
+            "url": "https://github.com/updatecli/updatecli",
+            "description": "A universal declarative update policy engine.",
+            "tags": []
+          },
+          {
             "name": "uTask",
             "url": "https://github.com/ovh/utask",
             "description": "Automation engine that models and executes business processes declared in yaml.",
@@ -85152,6 +85182,12 @@
             "name": "mac-cleanup-go",
             "url": "https://github.com/2ykwang/mac-cleanup-go",
             "description": "Preview-first TUI for cleaning macOS caches, logs, and temporary files.",
+            "tags": []
+          },
+          {
+            "name": "mdv",
+            "url": "https://github.com/Allra-Fintech/mdv",
+            "description": "CLI tool that renders Markdown files in the browser with live reload, GFM, syntax highlighting, Mermaid diagrams, and PDF export.",
             "tags": []
           },
           {
