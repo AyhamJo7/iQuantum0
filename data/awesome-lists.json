@@ -27968,6 +27968,12 @@
             "tags": []
           },
           {
+            "name": "ffc.h",
+            "url": "https://github.com/kolemannix/ffc.h",
+            "description": "Single-header c99 accelerated float/double parsing. Port of the fast_float library. [Apache-2.0/BSL-1.0/MIT]",
+            "tags": []
+          },
+          {
             "name": "{fmt}",
             "url": "https://github.com/fmtlib/fmt",
             "description": ":zap: - Small, safe and fast formatting library for C++. [Simplified BSD] website",
@@ -57387,6 +57393,12 @@
             "name": "mirrord",
             "url": "https://github.com/metalbear-co/mirrord",
             "description": "Connect your local process and your cloud environment, and run local code in cloud conditions",
+            "tags": []
+          },
+          {
+            "name": "mmalmi/nostr-vpn",
+            "url": "https://github.com/mmalmi/nostr-vpn",
+            "description": "[ nvpn ] - Tailscale-style private mesh VPN built on Nostr identities and a FIPS-backed data plane. Features native cross-platform apps (macOS, Linux, Windows, Mobile) and a CLI/daemon.",
             "tags": []
           },
           {
