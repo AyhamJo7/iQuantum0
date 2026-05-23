@@ -34572,6 +34572,12 @@
             "tags": []
           },
           {
+            "name": "Live Translator",
+            "url": "https://github.com/umutcetinkaya/live-translator",
+            "description": "Real-time on-screen translation of any system audio (YouTube, podcasts, meetings) using OpenAI or Gemini.",
+            "tags": []
+          },
+          {
             "name": "Ludwig",
             "url": "https://ludwig.guru",
             "description": "Linguistic search engine that helps you to write better in English.",
