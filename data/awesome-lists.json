@@ -10851,6 +10851,12 @@
             "tags": []
           },
           {
+            "name": "graphify",
+            "url": "https://github.com/safishamsi/graphify",
+            "description": "Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph.",
+            "tags": []
+          },
+          {
             "name": "sentry-skills",
             "url": "https://github.com/getsentry/skills",
             "description": "Python-focused engineering skills for code review, debugging, and backend workflows.",
@@ -48459,6 +48465,12 @@
             "tags": []
           },
           {
+            "name": "Razzia",
+            "url": "https://github.com/Ralex91/Razzia",
+            "description": "Quiz game platform, designed for smaller self-hosted events (alternative to Kahoot!). MIT Nodejs/Docker",
+            "tags": []
+          },
+          {
             "name": "Red Eclipse 2",
             "url": "https://www.redeclipse.net/",
             "description": "Arena first-person shooter similar to Unreal Tournament. ( Source Code ) Zlib/MIT/CC-BY-SA-4.0 C/C++/deb",
@@ -60098,6 +60110,12 @@
             "name": "ashvardanian/stringzilla",
             "url": "https://github.com/ashvardanian/StringZilla",
             "description": "SIMD-accelerated string search, sort, edit distances, alignments, and generators for x86 AVX2 & AVX-512, and Arm NEON",
+            "tags": []
+          },
+          {
+            "name": "brevity1swos/rgx",
+            "url": "https://github.com/brevity1swos/rgx",
+            "description": "[ rgx-cli ] - Terminal regex debugger with real-time matching, step-through debugger, 3 engines, code generation, and live stream filtering.",
             "tags": []
           },
           {
