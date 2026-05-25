@@ -34773,6 +34773,12 @@
             "tags": []
           },
           {
+            "name": "PureSnitch",
+            "url": "https://github.com/momenbasel/puresnitch",
+            "description": "Open-source application firewall with a Little Snitch-style world map, rule manager, DNS over HTTPS, and pf-based blocking, with no telemetry.",
+            "tags": []
+          },
+          {
             "name": "RansomWhere?",
             "url": "https://objective-see.com/products/ransomwhere.html",
             "description": "Generic Ransomware Detection.",
