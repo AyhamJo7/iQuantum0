@@ -10831,17 +10831,6 @@
     "name": "Awesome Python",
     "categories": [
       {
-        "name": "Sponsors",
-        "resources": [
-          {
-            "name": "pyr",
-            "url": "https://pyrun.dev",
-            "description": ": Zero-config Python project manager. Bootstraps its own runtime, app-convention, and working imports - out the box.",
-            "tags": []
-          }
-        ]
-      },
-      {
         "name": "AI and Agents",
         "resources": [
           {
@@ -23279,6 +23268,12 @@
             "name": "CrossDB",
             "url": "https://github.com/crossdb-org/crossdb",
             "description": "Ultra High-performance Lightweight Embedded and Server OLTP RDBMS. [MPL-2.0] website",
+            "tags": []
+          },
+          {
+            "name": "Doltlite",
+            "url": "https://github.com/dolthub/doltlite",
+            "description": "Version Controlled SQLite. [PublicDomain/Apache2]",
             "tags": []
           },
           {
@@ -48411,6 +48406,12 @@
             "tags": []
           },
           {
+            "name": "DDraceNetwork",
+            "url": "https://ddnet.org/",
+            "description": "Cooperative platformer version of DDRace, a Teeworlds modification featuring unique cooperative gameplay. ( Source Code ) Zlib C++",
+            "tags": []
+          },
+          {
             "name": "Digibuzzer",
             "url": "https://digibuzzer.app/",
             "description": "Create a virtual game room around a connected buzzer (documentation in French). ( Demo , Source Code ) AGPL-3.0 Nodejs",
@@ -50976,6 +50977,12 @@
             "name": "Mafl",
             "url": "https://mafl.hywax.space/",
             "description": "Minimalistic flexible homepage. ( Source Code ) MIT Docker/Nodejs",
+            "tags": []
+          },
+          {
+            "name": "Nimbus",
+            "url": "https://nimbus.turboot.com/",
+            "description": "Modern drag-and-drop homelab dashboard with visual editor and simple configuration. ( Demo , Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -59241,6 +59248,12 @@
             "name": "tinyhumansai/openhuman",
             "url": "https://github.com/tinyhumansai/openhuman",
             "description": "Open-source agentic assistant with desktop UI, 118+ OAuth integrations, local-first memory tree, Obsidian-compatible wiki, native voice, and TokenJuice compression. Built with Tauri and Rust for privacy-focused personal AI.",
+            "tags": []
+          },
+          {
+            "name": "tw93/Pake",
+            "url": "https://github.com/tw93/Pake",
+            "description": "Turn any webpage into a desktop app with one command using Rust and Tauri. Lightweight, fast, and supports macOS, Windows, and Linux.",
             "tags": []
           },
           {
@@ -71312,7 +71325,7 @@
           {
             "name": "nanotdb",
             "url": "https://github.com/aymanhs/nanotdb",
-            "description": "A lightweight, zero-dependency, append-only time-series database optimized for low-power hardware.",
+            "description": "A lightweight, zero-dependency, append-only Time-Series Database and Dashboard optimized for low-power hardware.",
             "tags": []
           },
           {
@@ -73869,6 +73882,12 @@
             "name": "gogpu/wgpu",
             "url": "https://github.com/gogpu/wgpu",
             "description": "Pure Go WebGPU implementation with Vulkan, DX12, and Metal backends, zero CGO (part of GoGPU ecosystem).",
+            "tags": []
+          },
+          {
+            "name": "GOKe",
+            "url": "https://github.com/kjkrol/goke",
+            "description": "Data-Oriented (DOD), archetype-based ECS engine utilizing an L1 cache-aligned chunked SoA layout for predictable, stepless memory growth and zero-allocation execution paths.",
             "tags": []
           },
           {
@@ -85356,6 +85375,12 @@
             "name": "tinycare-tui",
             "url": "https://github.com/DMcP89/tinycare-tui",
             "description": "Small terminal app that shows git commits from the last 24 hours and week, current weather, some self care advice, a joke, and you current todo list tasks.",
+            "tags": []
+          },
+          {
+            "name": "tldx",
+            "url": "https://github.com/brandonyoungdev/tldx",
+            "description": "Bulk domain availability checker using RDAP, DNS, and WHOIS fallback with keyword permutation generation.",
             "tags": []
           },
           {
