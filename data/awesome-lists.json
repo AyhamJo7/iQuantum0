@@ -49365,6 +49365,12 @@
             "tags": []
           },
           {
+            "name": "Downtify",
+            "url": "https://downtify.henriquesebastiao.com",
+            "description": "\u26a0 - Download Spotify music with album art and metadata. ( Source Code ) GPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Headphones",
             "url": "https://github.com/rembo10/headphones",
             "description": "Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, \u00b5Torrent, Deluge and Blackhole. GPL-3.0 Python",
@@ -60608,6 +60614,12 @@
             "tags": []
           },
           {
+            "name": "konippi/servo-fetch",
+            "url": "https://github.com/konippi/servo-fetch",
+            "description": "A self-contained browser engine that fetches, renders, and extracts web content as Markdown, JSON, or screenshots \u2014 no Chromium, no API key. CLI, Python, MCP server.",
+            "tags": []
+          },
+          {
             "name": "LemmyNet/lemmy",
             "url": "https://github.com/LemmyNet/lemmy",
             "description": "A link aggregator / reddit clone for the fediverse",
@@ -65334,6 +65346,12 @@
             "tags": []
           },
           {
+            "name": "firecrawl/pdf-inspector",
+            "url": "https://github.com/firecrawl/pdf-inspector",
+            "description": "Fast Rust library for PDF classification and text extraction.",
+            "tags": []
+          },
+          {
             "name": "Folyd/robotstxt",
             "url": "https://github.com/Folyd/robotstxt",
             "description": "Port of Google's robots.txt parser and matcher C++ library",
@@ -66299,6 +66317,24 @@
             "name": "Tour of Rust",
             "url": "https://tourofrust.com",
             "description": "This is meant to be an interactive step by step guide through the features of the Rust programming language.",
+            "tags": []
+          },
+          {
+            "name": "How to avoid bounds checks in Rust (without unsafe!)",
+            "url": "https://shnatsel.medium.com/how-to-avoid-bounds-checks-in-rust-without-unsafe-f65e618b4c1e",
+            "description": "All you need to know about optimizing bounds checks",
+            "tags": []
+          },
+          {
+            "name": "Performance of Rust language",
+            "url": "https://raw.githubusercontent.com/yugr/rust-slides/main/EN.pdf",
+            "description": "An overview of Rust's performance-oriented language features",
+            "tags": []
+          },
+          {
+            "name": "The Rust Performance Book",
+            "url": "https://nnethercote.github.io/perf-book/",
+            "description": "Tips for optimizing Rust programs",
             "tags": []
           },
           {
@@ -69779,6 +69815,12 @@
             "name": "mcli",
             "url": "https://github.com/jxskiss/mcli",
             "description": "A minimal but very powerful cli library for Go.",
+            "tags": []
+          },
+          {
+            "name": "memsh",
+            "url": "https://github.com/amjadjibon/memsh",
+            "description": "Virtual bash shell in Go: executes shell commands against an in-memory filesystem (afero), with WASM plugin support and an embeddable HTTP server.",
             "tags": []
           },
           {
@@ -83718,6 +83760,12 @@
             "tags": []
           },
           {
+            "name": "Flowbaker",
+            "url": "https://github.com/flowbaker/flowbaker",
+            "description": "Self-hosted execution engine for building, connecting, and automating no-code workflows.",
+            "tags": []
+          },
+          {
             "name": "go-dag",
             "url": "https://github.com/rhosocial/go-dag",
             "description": "A framework developed in Go that manages the execution of workflows described by directed acyclic graphs.",
@@ -83964,6 +84012,12 @@
             "name": "staticcheck",
             "url": "https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck",
             "description": "staticcheck is go vet on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.",
+            "tags": []
+          },
+          {
+            "name": "structalign",
+            "url": "https://github.com/peczenyj/structalign",
+            "description": "Shows how a struct's fields could be reordered to use less memory, printing a diff instead of rewriting files.",
             "tags": []
           },
           {
