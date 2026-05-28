@@ -51769,6 +51769,12 @@
         "name": "Software Development - API Management",
         "resources": [
           {
+            "name": "Aastro",
+            "url": "https://starwalkn.github.io/aastro-docs",
+            "description": "Extensible API Gateway written in Go. ( Source Code ) Apache-2.0 Go/Docker",
+            "tags": []
+          },
+          {
             "name": "DreamFactory",
             "url": "https://www.dreamfactory.com/",
             "description": "Turns any SQL/NoSQL/Structured data into Restful API. ( Source Code ) Apache-2.0 PHP/Docker/K8S",
@@ -71708,6 +71714,12 @@
             "name": "go-mysql",
             "url": "https://github.com/siddontang/go-mysql",
             "description": "Go toolset to handle MySQL protocol and replication.",
+            "tags": []
+          },
+          {
+            "name": "go-postgres-s3-backup",
+            "url": "https://github.com/nicobistolfi/go-postgres-s3-backup",
+            "description": "Serverless PostgreSQL backups to S3 using AWS Lambda, with daily, monthly, and yearly rotation.",
             "tags": []
           },
           {
