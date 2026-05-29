@@ -37111,12 +37111,6 @@
             "tags": []
           },
           {
-            "name": "TuxSEO",
-            "url": "https://tuxseo.com/",
-            "description": "\u26a0 - Create automated blog content for your business, using AI. ( Source Code ) MIT Python/Docker",
-            "tags": []
-          },
-          {
             "name": "Vane",
             "url": "https://github.com/ItzCrazyKns/Vane",
             "description": "AI-powered search engine (alternative to Perplexity AI). MIT Docker",
@@ -40979,6 +40973,12 @@
             "name": "SentryShot",
             "url": "https://codeberg.org/SentryShot/sentryshot",
             "description": "Video surveillance management system. GPL-2.0 Docker/Rust",
+            "tags": []
+          },
+          {
+            "name": "Strix",
+            "url": "https://github.com/eduard256/Strix",
+            "description": "Auto-discovers working stream URLs for IP cameras and generates ready-to-use Frigate and go2rtc configs. MIT Go/Docker",
             "tags": []
           },
           {
@@ -46167,6 +46167,12 @@
       {
         "name": "Database",
         "resources": [
+          {
+            "name": "chdb",
+            "url": "https://github.com/chdb-io/chdb",
+            "description": "In-process OLAP SQL engine with the full ClickHouse dialect, zero-copy pandas/Arrow interop, and federation to remote ClickHouse clusters via remoteSecure() .",
+            "tags": []
+          },
           {
             "name": "chromadb",
             "url": "https://github.com/chroma-core/chroma",
@@ -54463,6 +54469,12 @@
             "tags": []
           },
           {
+            "name": "PikoCI",
+            "url": "https://github.com/pikoci/pikoci",
+            "description": "Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable resource types and runners.",
+            "tags": []
+          },
+          {
             "name": "roveralls",
             "url": "https://github.com/LawrenceWoodman/roveralls",
             "description": "Recursive coverage testing tool.",
@@ -62604,6 +62616,12 @@
             "tags": []
           },
           {
+            "name": "go-perfstat",
+            "url": "https://github.com/go-perfstat/go",
+            "description": "Lightweight performance statistics and execution time aggregation for Go.",
+            "tags": []
+          },
+          {
             "name": "jaeger",
             "url": "https://github.com/jaegertracing/jaeger",
             "description": "A distributed tracing system.",
@@ -65596,6 +65614,12 @@
             "name": "smite",
             "url": "https://github.com/sergiotapia/smitego",
             "description": "Go package to wraps access to the Smite game API.",
+            "tags": []
+          },
+          {
+            "name": "spec",
+            "url": "https://github.com/oaswrap/spec",
+            "description": "Lightweight OpenAPI 3.x builder supporting static generation and popular frameworks like chi, echo, gin, fiber, mux and more.",
             "tags": []
           },
           {
@@ -79579,6 +79603,12 @@
             "tags": []
           },
           {
+            "name": "esrlabs/chipmunk",
+            "url": "https://github.com/esrlabs/chipmunk",
+            "description": "Native egui desktop application for analyzing massive log files and streams. Features a WebAssembly plugin system and automotive formats support.",
+            "tags": []
+          },
+          {
             "name": "MegaAntiCheat/client-backend",
             "url": "https://github.com/MegaAntiCheat/client-backend",
             "description": "The client app for MAC .",
@@ -80459,6 +80489,24 @@
             "tags": []
           },
           {
+            "name": "matthart1983/diskwatch",
+            "url": "https://github.com/matthart1983/diskwatch",
+            "description": "Single-host disk diagnostics TUI: eight tabs across devices, volumes, filesystems, IO, SMART, hot files, and insights.",
+            "tags": []
+          },
+          {
+            "name": "matthart1983/netwatch",
+            "url": "https://github.com/matthart1983/netwatch",
+            "description": "[ netwatch-tui ] - Real-time network diagnostics TUI: deep packet inspection across 13 protocols (TLS, QUIC, HTTP, DNS, SSH, MQTT, SNMP, \u2026), per-process attribution via eBPF / PKTAP, TCP retransmit analytics, JA4 fingerprinting, optional Landlock sandbox, and Flight Recorder incident bundles.",
+            "tags": []
+          },
+          {
+            "name": "matthart1983/syswatch",
+            "url": "https://github.com/matthart1983/syswatch",
+            "description": "[ syswatch ] - Single-host system diagnostics TUI: twelve tabs across CPU, memory, disks, processes, GPU, power, services, and network, plus a Timeline scrubber and an Insights anomaly engine.",
+            "tags": []
+          },
+          {
             "name": "mdgaziur/findex",
             "url": "https://github.com/mdgaziur/findex",
             "description": "Findex is a highly customizable application finder using GTK3",
@@ -80968,6 +81016,12 @@
             "name": "guoxbin/dtool",
             "url": "https://github.com/guoxbin/dtool",
             "description": "A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.",
+            "tags": []
+          },
+          {
+            "name": "IvanWng97/pixtuoid",
+            "url": "https://github.com/IvanWng97/pixtuoid",
+            "description": "[ pixtuoid ] - Terminal pixel-art office that visualizes Claude Code sessions as animated coworkers in real time.",
             "tags": []
           },
           {
@@ -82938,6 +82992,12 @@
             "name": "igumnoff/gabriel2",
             "url": "https://github.com/igumnoff/gabriel2",
             "description": "[ gabriel2 ] - Gabriel2: An actor-model library based on Tokio",
+            "tags": []
+          },
+          {
+            "name": "iii-hq/iii",
+            "url": "https://github.com/iii-hq/iii",
+            "description": "[ iii-sdk ] - Distributed runtime for composing services via Worker-Function-Trigger primitives. Real-time catalog, traceable function calls, and multi-language SDKs (Rust, Node.js, Python). Engine written in Rust (ELv2), SDKs under Apache 2.0.",
             "tags": []
           },
           {
