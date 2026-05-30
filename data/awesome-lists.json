@@ -17321,6 +17321,12 @@
             "tags": []
           },
           {
+            "name": "wide-integer",
+            "url": "https://github.com/ckormanyos/wide-integer",
+            "description": "Wide-Integer implements a generic C++ template for uint128_t, uint256_t, uint512_t, uint1024_t, etc. [BSL-1.0]",
+            "tags": []
+          },
+          {
             "name": "Wykobi",
             "url": "https://www.wykobi.com",
             "description": "A C++ library of efficient, robust and simple to use C++ 2D/3D oriented computational geometry routines. [MIT]",
@@ -24622,6 +24628,12 @@
             "name": "ClawdHome",
             "url": "https://clawdhome.app/",
             "description": "Manage multiple isolated OpenClaw gateway instances from one control panel.",
+            "tags": []
+          },
+          {
+            "name": "clawpypaste",
+            "url": "https://github.com/krisbradley/clawpypaste",
+            "description": "Menu bar block picker and session browser for Claude Code.",
             "tags": []
           },
           {
@@ -33848,6 +33860,12 @@
             "tags": []
           },
           {
+            "name": "flowctl",
+            "url": "https://flowctl.net",
+            "description": "Self-service workflow execution platform with approvals, remote execution and scheduling. ( Demo , Source Code ) Apache-2.0 Go/Docker",
+            "tags": []
+          },
+          {
             "name": "Fredy",
             "url": "https://fredy.orange-coding.net/",
             "description": "\u26a0 - Searches for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, and others, and instantly delivers the results to you via Slack, Telegram, and more. ( Demo , Source Code ) Apache-2.0 Nodejs/Docker",
@@ -39915,6 +39933,12 @@
             "tags": []
           },
           {
+            "name": "Hister",
+            "url": "https://hister.org/",
+            "description": "Personal web search engine with automatic indexing of visited websites. Supports offline local result previews, local files, multi-user handling and optional semantic search. ( Demo , Source Code ) AGPL-3.0 Go/Docker",
+            "tags": []
+          },
+          {
             "name": "Manticore Search",
             "url": "https://github.com/manticoresoftware/manticoresearch/",
             "description": "Full-text search and data analytics, with fast response time for small, medium and big data (alternative to Elasticsearch). GPL-3.0 Docker/deb/C++/K8S",
@@ -40630,6 +40654,12 @@
             "name": "Bencher",
             "url": "https://bencher.dev/",
             "description": "Suite of continuous benchmarking tools designed to catch performance regressions in CI. ( Source Code ) MIT/Apache-2.0 Rust",
+            "tags": []
+          },
+          {
+            "name": "Request Inbox",
+            "url": "https://request-inbox.com/",
+            "description": "Collect and inspect HTTP requests for testing and debugging. Create and manage inboxes, capture detailed request data, configure custom responses. ( Demo , Source Code ) Apache-2.0 Docker",
             "tags": []
           },
           {
@@ -45250,6 +45280,12 @@
             "name": "openai-whisper",
             "url": "https://github.com/openai/whisper",
             "description": "A general-purpose automatic speech recognition model trained on 680k hours of multilingual and multitask supervised data.",
+            "tags": []
+          },
+          {
+            "name": "funasr",
+            "url": "https://github.com/modelscope/FunASR",
+            "description": "Industrial-grade speech recognition toolkit with 170x realtime speed, 50+ languages, speaker diarization, and emotion detection.",
             "tags": []
           },
           {
@@ -86129,6 +86165,12 @@
             "name": "ptal/oak",
             "url": "https://github.com/ptal/oak",
             "description": "A typed PEG parser generator (compiler plugin)",
+            "tags": []
+          },
+          {
+            "name": "run-llama/liteparse",
+            "url": "https://github.com/run-llama/liteparse",
+            "description": "[ liteparse ] - Fast and light PDF parsing library with spatial text extraction, bounding boxes, flexible OCR (Tesseract/HTTP servers), and multi-language bindings (Rust, Node.js, Python, WASM). Built on PDFium with CLI tool lit .",
             "tags": []
           },
           {
