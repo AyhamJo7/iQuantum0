@@ -27040,6 +27040,12 @@
             "tags": []
           },
           {
+            "name": "Mac Clean",
+            "url": "https://github.com/iliyami/MacClean",
+            "description": "Free, open-source cleaner, optimizer, and malware scanner.",
+            "tags": []
+          },
+          {
             "name": "Cleaner One",
             "url": "https://apps.apple.com/app/apple-store/id1133028347?pt=444218&ct=GitHub&mt=8&platform=mac",
             "description": "Disk cleaning and Mac optimization.",
@@ -45389,6 +45395,12 @@
             "tags": []
           },
           {
+            "name": "scikit-lego",
+            "url": "https://github.com/koaning/scikit-lego",
+            "description": "A collection of lego bricks for scikit-learn pipelines.",
+            "tags": []
+          },
+          {
             "name": "spark.ml",
             "url": "https://github.com/apache/spark",
             "description": "Apache Spark 's scalable Machine Learning library for distributed computing.",
@@ -63250,6 +63262,12 @@
             "name": "dongle",
             "url": "https://github.com/golang-module/dongle",
             "description": "A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption.",
+            "tags": []
+          },
+          {
+            "name": "dotlock",
+            "url": "https://github.com/ahmadraza100/dotlock",
+            "description": "Encrypted .env vault manager with interactive TUI for managing secrets across multiple environments and profiles.",
             "tags": []
           },
           {
@@ -86866,6 +86884,12 @@
             "tags": []
           },
           {
+            "name": "An Introduction to Programming using entity-component-systems and existence-based processing in Rust",
+            "url": "https://root-11.github.io/intro-book/",
+            "description": "Book by Bjorn Madsen",
+            "tags": []
+          },
+          {
             "name": "Aquascope",
             "url": "https://github.com/cognitive-engineering-lab/aquascope",
             "description": "Interactive visualizations of Rust at compile-time and run-time",
@@ -86923,6 +86947,12 @@
             "name": "Hands-on Rust",
             "url": "https://pragprog.com/titles/hwrust/hands-on-rust/",
             "description": "A hands-on guide to learning Rust by making games - by Herbert Wolverson (paid)",
+            "tags": []
+          },
+          {
+            "name": "How to Avoid Fighting Rust Borrow Checker",
+            "url": "https://qouteall.fun/qouteall-blog/2025/How%20to%20Avoid%20Fighting%20Rust%20Borrow%20Checker",
+            "description": "A guide to how borrowing works in Rust, and how to prevent borrow errors, by Qouteall",
             "tags": []
           },
           {
