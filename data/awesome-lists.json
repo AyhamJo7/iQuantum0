@@ -15338,7 +15338,7 @@
           },
           {
             "name": "MTuner",
-            "url": "https://github.com/milostosic/MTuner",
+            "url": "https://github.com/RudjiGames/MTuner",
             "description": "A C/C++ memory profiler and memory leak finder for Windows, PlayStation, and other platforms. [BSD-2-Clause]",
             "tags": []
           },
@@ -25635,6 +25635,12 @@
             "name": "Free Download Manager",
             "url": "https://www.freedownloadmanager.org/",
             "description": "A powerful, easy-to-use, and completely free download accelerator and manager.",
+            "tags": []
+          },
+          {
+            "name": "Harbor",
+            "url": "https://github.com/tahseen-kakar/harbor",
+            "description": "Open-source download manager for HTTP(S), magnet links, and .torrent files.",
             "tags": []
           },
           {
@@ -37554,6 +37560,12 @@
             "tags": []
           },
           {
+            "name": "Helium",
+            "url": "https://www.heliumedu.com",
+            "description": "Color-coded student planner for classes, homework, grades, and notes with smart notifications and multi-device sync. ( Demo , Source Code ) MIT Python/Docker",
+            "tags": []
+          },
+          {
             "name": "ILIAS",
             "url": "https://www.ilias.de",
             "description": "Learning management system that can cope with anything you throw at it. ( Demo , Source Code ) GPL-3.0 PHP",
@@ -37878,6 +37890,12 @@
             "name": "ydl_api_ng",
             "url": "https://github.com/Totonyus/ydl_api_ng",
             "description": "Simple youtube-dl REST API to launch downloads on a distant server. GPL-3.0 Python",
+            "tags": []
+          },
+          {
+            "name": "Youtarr",
+            "url": "https://github.com/DialmasterOrg/Youtarr",
+            "description": "\u26a0 - Download videos from YouTube channels on a schedule via yt-dlp, with a web UI to browse and selectively download videos. Integrates with Plex Media Server and generates NFO metadata for Jellyfin, Kodi, and Emby. ISC Docker",
             "tags": []
           },
           {
@@ -40831,7 +40849,7 @@
           {
             "name": "Libredesk",
             "url": "https://libredesk.io/",
-            "description": "Modern customer support desk. Single binary app. ( Source Code ) AGPL-3.0 Docker/Go/Nodejs",
+            "description": "Modern omnichannel customer support desk. Live chat, email, and more in a single binary. ( Demo , Source Code ) AGPL-3.0 Docker/Go/Nodejs",
             "tags": []
           },
           {
@@ -80230,6 +80248,12 @@
             "name": "rustscan",
             "url": "https://github.com/bee-san/RustScan",
             "description": "Make Nmap faster with this port scanning tool",
+            "tags": []
+          },
+          {
+            "name": "secluso",
+            "url": "https://github.com/secluso/core",
+            "description": "A private Raspberry Pi home security camera that uses end-to-end encryption",
             "tags": []
           },
           {
