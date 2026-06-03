@@ -25605,7 +25605,7 @@
           {
             "name": "SystemEQ for Mac",
             "url": "https://denzam.github.io/SystemEQ-for-Mac/",
-            "description": "System-wide parametric equalizer with an 8,665-headphone AutoEQ database, hearing calibration, and a real-time visualizer.",
+            "description": "Free, open-source system-wide parametric equalizer with AutoEQ presets, hearing calibration, and real-time visualization.",
             "tags": []
           }
         ]
@@ -26541,6 +26541,12 @@
             "name": "Clippy",
             "url": "https://github.com/yarasaa/Clippy",
             "description": "Smart clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter.",
+            "tags": []
+          },
+          {
+            "name": "ClipHistory",
+            "url": "https://github.com/weiykong/ClipHistory",
+            "description": "Lightweight native clipboard manager with instant hotkey popup, search, pinning, and text/image history.",
             "tags": []
           },
           {
@@ -28576,6 +28582,12 @@
             "name": "Sensei",
             "url": "https://sensei.app/",
             "description": "Performance toolkit for monitoring, cleanup, and hardware diagnostics.",
+            "tags": []
+          },
+          {
+            "name": "Sleepless",
+            "url": "https://github.com/Aboudjem/Sleepless",
+            "description": "Keeps your laptop awake with lid-closed support, auto-off timer, and battery-floor cutoff.",
             "tags": []
           },
           {
@@ -32732,7 +32744,7 @@
           },
           {
             "name": "Cheatsheets for experienced React developers getting started with TypeScript",
-            "url": "https://github.com/typescript-cheatsheets/react-typescript-cheatsheet",
+            "url": "https://github.com/typescript-cheatsheets/react",
             "description": "",
             "tags": []
           },
@@ -32912,7 +32924,7 @@
           },
           {
             "name": "effector",
-            "url": "https://github.com/zerobias/effector",
+            "url": "https://github.com/effector/effector",
             "description": "Business logic with ease",
             "tags": []
           },
@@ -32948,7 +32960,7 @@
           },
           {
             "name": "vanilla-extract",
-            "url": "https://github.com/seek-oss/vanilla-extract",
+            "url": "https://github.com/vanilla-extract-css/vanilla-extract",
             "description": "Zero-runtime Stylesheets-in-TypeScript",
             "tags": []
           },
@@ -33002,13 +33014,13 @@
           },
           {
             "name": "reactotron",
-            "url": "https://github.com/skellock/reactotron",
+            "url": "https://github.com/infinitered/reactotron",
             "description": "A desktop app for inspecting your React and React Native projects",
             "tags": []
           },
           {
             "name": "eslint-plugin-react",
-            "url": "https://github.com/yannickcr/eslint-plugin-react",
+            "url": "https://github.com/jsx-eslint/eslint-plugin-react",
             "description": "React specific linting rules for ESLint",
             "tags": []
           },
@@ -33068,7 +33080,7 @@
           },
           {
             "name": "jest",
-            "url": "https://github.com/facebook/jest",
+            "url": "https://github.com/jestjs/jest",
             "description": "Delightful JavaScript Testing",
             "tags": []
           },
@@ -33104,7 +33116,7 @@
           },
           {
             "name": "react-big-calendar",
-            "url": "https://github.com/jquense/react-big-calendar",
+            "url": "https://github.com/bigcalendar/react-big-calendar",
             "description": "Calendar component",
             "tags": []
           },
@@ -33176,7 +33188,7 @@
           },
           {
             "name": "puck",
-            "url": "https://github.com/measuredco/puck",
+            "url": "https://github.com/puckeditor/puck",
             "description": "The visual editor for React",
             "tags": []
           },
@@ -33242,7 +33254,7 @@
           },
           {
             "name": "react-data-grid",
-            "url": "https://github.com/adazzle/react-data-grid",
+            "url": "https://github.com/Comcast/react-data-grid",
             "description": "Feature-rich and customizable data grid React component",
             "tags": []
           },
@@ -33356,7 +33368,7 @@
           },
           {
             "name": "framer-motion",
-            "url": "https://github.com/framer/motion",
+            "url": "https://github.com/motiondivision/motion",
             "description": "Open source, production-ready animation and gesture library for React",
             "tags": []
           },
@@ -33368,7 +33380,7 @@
           },
           {
             "name": "react-tsparticles",
-            "url": "https://github.com/matteobruni/tsparticles",
+            "url": "https://github.com/tsparticles/tsparticles",
             "description": "Easily create highly customizable particles effects",
             "tags": []
           },
@@ -33386,7 +33398,7 @@
           },
           {
             "name": "rescript-compiler",
-            "url": "https://github.com/rescript-lang/rescript-compiler",
+            "url": "https://github.com/rescript-lang/rescript",
             "description": "A robustly typed language that compiles to efficient and human-readable JavaScript",
             "tags": []
           },
@@ -33398,7 +33410,7 @@
           },
           {
             "name": "mattermost-server",
-            "url": "https://github.com/mattermost/mattermost-server",
+            "url": "https://github.com/mattermost/mattermost",
             "description": "An open source platform for secure collaboration",
             "tags": []
           },
@@ -35122,6 +35134,12 @@
             "name": "phpBB",
             "url": "https://www.phpbb.com/",
             "description": "Flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website. ( Source Code ) GPL-2.0 PHP",
+            "tags": []
+          },
+          {
+            "name": "PieFed",
+            "url": "https://join.piefed.social",
+            "description": "A link aggregator / reddit clone for the fediverse (alternative to Reddit). ( Demo , Source Code ) AGPL-3.0 Python/Docker",
             "tags": []
           },
           {
@@ -40808,7 +40826,7 @@
           {
             "name": "Vikunja",
             "url": "https://vikunja.io/",
-            "description": "The to-do app to organize your life. ( Demo , Source Code ) GPL-3.0 Go",
+            "description": "The to-do app to organize your life. ( Demo , Source Code ) AGPL-3.0/GPL-3.0 Go",
             "tags": []
           },
           {
@@ -48721,6 +48739,12 @@
             "name": "pynput",
             "url": "https://github.com/moses-palmer/pynput",
             "description": "A library to control and monitor input devices.",
+            "tags": []
+          },
+          {
+            "name": "synology-api",
+            "url": "https://github.com/N4S4/synology-api",
+            "description": "Python wrapper for Synology NAS APIs: Surveillance Station, File Station, Download Station, Docker, and 50+ other endpoints.",
             "tags": []
           }
         ]
@@ -60109,6 +60133,12 @@
       {
         "name": "Machine Learning",
         "resources": [
+          {
+            "name": "Anneal",
+            "url": "https://github.com/georgebuilds/anneal",
+            "description": "Machine learning compiler in Go, a from-scratch tinygrad port with a WebGPU backend.",
+            "tags": []
+          },
           {
             "name": "bayesian",
             "url": "https://github.com/jbrukh/bayesian",
@@ -80874,6 +80904,12 @@
             "name": "Lapce",
             "url": "https://github.com/lapce/lapce",
             "description": "A modern editor with a backend. Taking inspiration from the discontinued xi-editor .",
+            "tags": []
+          },
+          {
+            "name": "manyougz/velotype",
+            "url": "https://github.com/manyougz/velotype",
+            "description": "A block-based native Markdown editor with WYSIWYG rendering and source editing modes, built on GPUI without a WebView shell.",
             "tags": []
           },
           {
