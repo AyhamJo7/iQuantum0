@@ -24655,6 +24655,12 @@
             "tags": []
           },
           {
+            "name": "Cursor Voice",
+            "url": "https://cursorvoice.app",
+            "description": "Voice assistant that lives by your cursor, sees your screen, and can control apps via the OpenAI Realtime API.",
+            "tags": []
+          },
+          {
             "name": "Desktop Control",
             "url": "https://github.com/yaroshevych/desktopctl",
             "description": "GPU-accelerated CLI for AI agents to control any macOS app via screen, mouse, and keyboard.",
