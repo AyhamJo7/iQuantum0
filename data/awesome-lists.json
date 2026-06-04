@@ -59411,6 +59411,12 @@
             "tags": []
           },
           {
+            "name": "go-cron",
+            "url": "https://github.com/netresearch/go-cron",
+            "description": "Cron job scheduler with runtime schedule updates, per-entry context, resilience middleware (retry, circuit breaker, rate limiting), and observability hooks; successor to robfig/cron.",
+            "tags": []
+          },
+          {
             "name": "go-job",
             "url": "https://github.com/cybergarage/go-job",
             "description": "A flexible and extensible job scheduling and execution library for Go.",
@@ -59462,6 +59468,12 @@
             "name": "leprechaun",
             "url": "https://github.com/kilgaloon/leprechaun",
             "description": "Job scheduler that supports webhooks, crons and classic scheduling.",
+            "tags": []
+          },
+          {
+            "name": "ofelia",
+            "url": "https://github.com/netresearch/ofelia",
+            "description": "Docker job scheduler (crontab for Docker); fork of mcuadros/ofelia that adds a web UI, job dependencies, retries, and job persistence.",
             "tags": []
           },
           {
