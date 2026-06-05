@@ -45426,7 +45426,7 @@
           },
           {
             "name": "mindsdb",
-            "url": "https://github.com/mindsdb/mindsdb",
+            "url": "https://github.com/mindsdb/minds-platform",
             "description": "MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.",
             "tags": []
           },
@@ -46393,7 +46393,7 @@
           },
           {
             "name": "data-profiling",
-            "url": "https://github.com/Data-Centric-AI-Community/data-profiling",
+            "url": "https://github.com/Data-Centric-AI-Community/fg-data-profiling",
             "description": "Generate detailed data profiling reports for pandas DataFrames.",
             "tags": []
           },
@@ -46724,7 +46724,7 @@
           },
           {
             "name": "mesa",
-            "url": "https://github.com/projectmesa/mesa",
+            "url": "https://github.com/mesa/mesa",
             "description": "An agent-based modeling framework for building, analyzing, and visualizing complex system simulations.",
             "tags": []
           },
@@ -47353,6 +47353,12 @@
             "name": "chaostoolkit",
             "url": "https://github.com/chaostoolkit/chaostoolkit",
             "description": "A Chaos Engineering toolkit & Orchestration for Developers.",
+            "tags": []
+          },
+          {
+            "name": "kubesdk",
+            "url": "https://github.com/puzl-cloud/kubesdk",
+            "description": "A modern async-first Kubernetes client and API model generator.",
             "tags": []
           },
           {
@@ -48077,7 +48083,7 @@
           },
           {
             "name": "markdown",
-            "url": "https://github.com/waylan/Python-Markdown",
+            "url": "https://github.com/Python-Markdown/markdown",
             "description": "A Python implementation of John Gruber\u2019s Markdown.",
             "tags": []
           },
@@ -48206,7 +48212,7 @@
         "resources": [
           {
             "name": "birdnet",
-            "url": "https://github.com/kahst/BirdNET-Analyzer",
+            "url": "https://github.com/birdnet-team/BirdNET-Analyzer",
             "description": "Deep learning framework for acoustic species detection; identifies bird species from audio recordings using TensorFlow.",
             "tags": []
           },
@@ -48266,7 +48272,7 @@
           },
           {
             "name": "tinytag",
-            "url": "https://github.com/devsnd/tinytag",
+            "url": "https://github.com/tinytag/tinytag",
             "description": "A library for reading music meta data of MP3, OGG, FLAC and Wave files.",
             "tags": []
           }
@@ -48374,6 +48380,12 @@
             "url": "https://github.com/cdgriffith/Box",
             "description": "Python dictionaries with advanced dot notation access.",
             "tags": []
+          },
+          {
+            "name": "uuid-utils",
+            "url": "https://github.com/aminalaee/uuid-utils",
+            "description": "A fast, Rust-backed drop-in replacement for Python's built-in uuid module, supporting RFC 9562 (UUIDv6, UUIDv7, and UUIDv8).",
+            "tags": []
           }
         ]
       },
@@ -48400,7 +48412,7 @@
           },
           {
             "name": "more-itertools",
-            "url": "https://github.com/erikrose/more-itertools",
+            "url": "https://github.com/more-itertools/more-itertools",
             "description": "More routines for operating on iterables, beyond itertools .",
             "tags": []
           },
@@ -48593,7 +48605,7 @@
           },
           {
             "name": "warehouse",
-            "url": "https://github.com/pypa/warehouse",
+            "url": "https://github.com/pypi/warehouse",
             "description": "Next generation Python Package Repository (PyPI).",
             "tags": []
           }
@@ -48783,7 +48795,7 @@
         "resources": [
           {
             "name": "blinker",
-            "url": "https://github.com/jek/blinker",
+            "url": "https://github.com/pallets-eco/blinker",
             "description": "A fast Python in-process signal/event dispatching system.",
             "tags": []
           },
@@ -54018,6 +54030,12 @@
             "name": "mow.cli",
             "url": "https://github.com/jawher/mow.cli",
             "description": "Go library for building CLI applications with sophisticated flag and argument parsing and validation.",
+            "tags": []
+          },
+          {
+            "name": "neuron-cli",
+            "url": "https://github.com/steevin/neuron-cli",
+            "description": "A local-first, Obsidian-compatible terminal knowledge manager.",
             "tags": []
           },
           {
@@ -79968,6 +79986,12 @@
             "name": "graves/awful_aj",
             "url": "https://github.com/graves/awful_aj",
             "description": "[ awful_aj ] - A CLI for working with OpenAI-compatible APIs, YAML templates for prompt engineering and a built in Vector Database for persistent memories.",
+            "tags": []
+          },
+          {
+            "name": "graykode/abtop",
+            "url": "https://github.com/graykode/abtop",
+            "description": "[ abtop ] - Terminal TUI for monitoring AI coding agent sessions (Claude Code, Codex CLI, OpenCode). Track token usage, context window %, rate limits, child processes, and orphan ports. Features tmux integration, 12 themes including colorblind-friendly options, and cross-platform support.",
             "tags": []
           },
           {
