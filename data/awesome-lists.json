@@ -23301,6 +23301,12 @@
             "tags": []
           },
           {
+            "name": "Gantry",
+            "url": "https://github.com/getgantry/gantry",
+            "description": "Docker management client for local and SSH remote hosts with built-in MCP server support for agent workflows.",
+            "tags": []
+          },
+          {
             "name": "Cocoa-Way",
             "url": "https://github.com/J-x-Z/cocoa-way",
             "description": "Wayland compositor for running Linux GUI apps without a virtual machine.",
@@ -24129,6 +24135,12 @@
       {
         "name": "Screenshot Tools",
         "resources": [
+          {
+            "name": "capcap",
+            "url": "https://capcap.skyrin.fun",
+            "description": "Native menu bar screenshot tool with double-tap Command capture, annotation, scrolling capture, beautify, pinning, and image-host upload.",
+            "tags": []
+          },
           {
             "name": "CleanShot X",
             "url": "https://cleanshot.com/",
@@ -25217,6 +25229,12 @@
             "name": "Elmedia Player",
             "url": "https://mac.eltima.com/media-player.html",
             "description": "Media player with broad audio and video format support.",
+            "tags": []
+          },
+          {
+            "name": "Fader",
+            "url": "https://github.com/pantafive/fader",
+            "description": "Menu bar volume mixer with per-app volume, one-click output switching, and Bluetooth headphone control.",
             "tags": []
           },
           {
@@ -26619,6 +26637,12 @@
             "name": "SaneClip",
             "url": "https://saneclip.com",
             "description": "Clipboard manager with history, privacy protections, and sensitive data detection.",
+            "tags": []
+          },
+          {
+            "name": "SnippetCraft",
+            "url": "https://getsnippetcraft.com",
+            "description": "System-wide text expansion, snippet management, and clipboard history for macOS.",
             "tags": []
           },
           {
@@ -28785,6 +28809,12 @@
       {
         "name": "QuickLook Plugins",
         "resources": [
+          {
+            "name": "CSV Quick Look",
+            "url": "https://github.com/adamorad/csv-quick-look",
+            "description": "Quick Look extension for CSV and TSV files with virtual scrolling, sorting, filtering, and dark mode.",
+            "tags": []
+          },
           {
             "name": "QLMarkdown",
             "url": "https://github.com/sbarex/QLMarkdown",
@@ -34151,6 +34181,12 @@
         "name": "Bookmarks and Link Sharing",
         "resources": [
           {
+            "name": "Betula",
+            "url": "https://joinbetula.org",
+            "description": "Single-user federated bookmark manager with Fediverse support and archives. ( Source Code ) AGPL-3.0 Go",
+            "tags": []
+          },
+          {
             "name": "Buku",
             "url": "https://github.com/jarun/Buku",
             "description": "Powerful bookmark manager and a personal textual mini-web. GPL-3.0 Python/deb",
@@ -34760,6 +34796,12 @@
             "name": "Mautic",
             "url": "https://www.mautic.org/",
             "description": "Marketing automation software (email, social and more). ( Source Code ) GPL-3.0 PHP",
+            "tags": []
+          },
+          {
+            "name": "mlmmj",
+            "url": "https://mlmmj.org/",
+            "description": "Mailing list management made joyful. ( Source Code ) MIT C",
             "tags": []
           },
           {
@@ -36660,6 +36702,12 @@
             "tags": []
           },
           {
+            "name": "Pingvin Share X",
+            "url": "https://github.com/smp46/pingvin-share-x",
+            "description": "File sharing platform with support for logins, reverse shares, share expiry, S3 Buckets, advanced authentication, ClamAV for security scans and more (fork of Pingvin Share). BSD-2-Clause Docker/Nodejs",
+            "tags": []
+          },
+          {
             "name": "Plik",
             "url": "https://github.com/root-gg/plik",
             "description": "Scalable and friendly temporary file upload system. ( Demo ) MIT Go/Docker",
@@ -36954,6 +37002,12 @@
             "name": "auto-mcs",
             "url": "https://www.auto-mcs.com",
             "description": "Cross-platform Minecraft server manager. ( Source Code ) AGPL-3.0 Python",
+            "tags": []
+          },
+          {
+            "name": "Calagopus",
+            "url": "https://calagopus.com",
+            "description": "Modern game server management panel. Deploy, monitor, and manage Minecraft, Hytale, and other game servers with industry-leading performance. ( Source Code ) MIT Rust/Docker/deb",
             "tags": []
           },
           {
@@ -41107,6 +41161,12 @@
             "tags": []
           },
           {
+            "name": "Ferron",
+            "url": "https://ferron.sh/",
+            "description": "Fast, memory-safe web server written in Rust. ( Source Code ) MIT Rust/Docker/deb",
+            "tags": []
+          },
+          {
             "name": "go-doxy",
             "url": "https://github.com/yusing/godoxy",
             "description": "Lightweight, simple, and  performant reverse proxy with WebUI, Docker integration, automatic shutdown/startup for container based on traffic. MIT Docker/Go",
@@ -45178,6 +45238,12 @@
             "name": "graphify",
             "url": "https://github.com/safishamsi/graphify",
             "description": "Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph.",
+            "tags": []
+          },
+          {
+            "name": "nuwa-skill",
+            "url": "https://github.com/alchaincyf/nuwa-skill/blob/main/README_EN.md",
+            "description": "Nuwa distills the thinking of anyone \u2014 let Musk, Naval, Munger, and Feynman work for you.",
             "tags": []
           },
           {
@@ -65671,6 +65737,12 @@
             "tags": []
           },
           {
+            "name": "libopenapi",
+            "url": "https://github.com/pb33f/libopenapi",
+            "description": "Parse, validate, and work with OpenAPI, Swagger, Overlays, and Arazzo specifications.",
+            "tags": []
+          },
+          {
             "name": "Medium",
             "url": "https://github.com/Medium/medium-sdk-go",
             "description": "Golang SDK for Medium's OAuth2 API.",
@@ -80284,6 +80356,12 @@
             "name": "LeChatP/RootAsRole",
             "url": "https://github.com/LeChatP/RootAsRole",
             "description": "A better alternative to sudo(-rs)/su \u2022 \u26a1 Blazing fast \u2022 \ud83d\udee1\ufe0f Memory-safe \u2022 \ud83d\udd10 Security-oriented",
+            "tags": []
+          },
+          {
+            "name": "microsoft/mxc",
+            "url": "https://github.com/microsoft/mxc",
+            "description": "Sandboxed code execution system for running untrusted code (model output, plugins, tools) on Windows, Linux, and macOS. Features multiple containment backends (ProcessContainer, Windows Sandbox, LXC, Bubblewrap, Seatbelt, MicroVM, Hyperlight, IsolationSession, WSLC) with JSON-based policy-driven sandboxing and TypeScript SDK.",
             "tags": []
           },
           {
