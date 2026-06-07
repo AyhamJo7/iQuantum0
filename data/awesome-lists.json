@@ -22205,6 +22205,12 @@
             "tags": []
           },
           {
+            "name": "SmoothCSV",
+            "url": "https://smoothcsv.com/",
+            "description": "Fast, full-featured CSV editor with SQL queries.",
+            "tags": []
+          },
+          {
             "name": "Spillo",
             "url": "https://bananafishsoftware.com/products/spillo/",
             "description": "Powerful, beautiful and amazingly fast Pinboard client for OS X.",
@@ -26888,6 +26894,12 @@
             "name": "MenuScores",
             "url": "https://menuscores.vercel.app/",
             "description": "A menu bar app that delivers real-time sports news and scores.",
+            "tags": []
+          },
+          {
+            "name": "Mole Widget",
+            "url": "https://github.com/bsnkhua/mole-widget",
+            "description": "Lightweight system monitor with live CPU, memory, disk, network, battery, and process stats in a resizable desktop widget managed from the menu bar.",
             "tags": []
           },
           {
@@ -35807,6 +35819,12 @@
             "tags": []
           },
           {
+            "name": "d9",
+            "url": "https://d9.webcapsule.io",
+            "description": "Turn SQL databases into secure APIs through an intuitive admin interface. Data platform and headless CMS (fork of Directus). ( Source Code ) GPL-3.0 Nodejs",
+            "tags": []
+          },
+          {
             "name": "Databunker",
             "url": "https://databunker.org/",
             "description": "Network-based, self-hosted, GDPR compliant, secure database for personal data or PII. ( Source Code ) MIT Docker",
@@ -36729,6 +36747,12 @@
             "name": "QuickShare",
             "url": "https://ihexxa.github.io/quickshare.site/",
             "description": "Quick and simple file sharing between different devices. ( Source Code ) LGPL-3.0 Docker/Go",
+            "tags": []
+          },
+          {
+            "name": "Safebucket",
+            "url": "https://docs.safebucket.io/",
+            "description": "File sharing platform with pluggable infrastructure, where uploads and downloads go directly between clients and S3-compatible storage. ( Source Code ) Apache-2.0 Go/Docker",
             "tags": []
           },
           {
@@ -45237,7 +45261,7 @@
           {
             "name": "graphify",
             "url": "https://github.com/safishamsi/graphify",
-            "description": "Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph.",
+            "description": "Turn any folder of code, SQL schemas, docs, papers, images, or videos into a queryable knowledge graph.",
             "tags": []
           },
           {
@@ -45255,7 +45279,7 @@
           {
             "name": "trailofbits-skills",
             "url": "https://github.com/trailofbits/skills",
-            "description": "Python-friendly security skills for auditing, testing, and safer backend development. Also skills-curated .",
+            "description": "Python-friendly security skills for auditing, testing, and safer backend development.",
             "tags": []
           },
           {
@@ -45770,7 +45794,7 @@
           {
             "name": "sanic",
             "url": "https://github.com/sanic-org/sanic",
-            "description": "A Python 3.6+ web server and web framework that's written to go fast.",
+            "description": "A Python web server and web framework that's written to go fast.",
             "tags": []
           },
           {
@@ -45951,7 +45975,7 @@
           {
             "name": "django-guardian",
             "url": "https://github.com/django-guardian/django-guardian",
-            "description": "Implementation of per object permissions for Django 1.2+",
+            "description": "Implementation of per-object permissions for Django.",
             "tags": []
           },
           {
@@ -47888,7 +47912,7 @@
           {
             "name": "chardet",
             "url": "https://github.com/chardet/chardet",
-            "description": "Python 2/3 compatible character encoding detector.",
+            "description": "Python character encoding detector.",
             "tags": []
           },
           {
@@ -58944,6 +58968,12 @@
             "name": "gowd",
             "url": "https://github.com/dtylman/gowd",
             "description": "Rapid and simple desktop UI development with GO, HTML, CSS and NW.js. Cross platform.",
+            "tags": []
+          },
+          {
+            "name": "proton",
+            "url": "https://github.com/CzaxStudio/proton",
+            "description": "Pure Go immediate-mode GUI framework built on Gio with zero Cgo dependencies.",
             "tags": []
           },
           {
@@ -79383,6 +79413,12 @@
             "tags": []
           },
           {
+            "name": "elio-fm/elio",
+            "url": "https://github.com/elio-fm/elio",
+            "description": "[ elio ] - Batteries-included terminal file manager with rich previews, bulk actions, and trash support.",
+            "tags": []
+          },
+          {
             "name": "FileSSH",
             "url": "https://github.com/JayanAXHF/FileSSH",
             "description": "A fast and easy to use TUI to manage files on a remote server, including quick SSH session creation, in-place file editing and more!",
@@ -82900,6 +82936,12 @@
             "name": "ekzhang/bore",
             "url": "https://github.com/ekzhang/bore",
             "description": "[ bore-cli ] - A simple TCP tunnel to expose local ports to a remote server, bypassing NAT firewalls",
+            "tags": []
+          },
+          {
+            "name": "joaoh82/rustunnel",
+            "url": "https://github.com/joaoh82/rustunnel",
+            "description": "Self-hosted secure tunnel server. Exposes local HTTP/HTTPS/TCP/UDP services via TLS-encrypted WebSocket with yamux multiplexing; multi-region, Prometheus metrics, MCP server for AI agents.",
             "tags": []
           },
           {
