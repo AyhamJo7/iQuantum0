@@ -53008,6 +53008,12 @@
             "tags": []
           },
           {
+            "name": "mcp-go",
+            "url": "https://github.com/mark3labs/mcp-go",
+            "description": "Go implementation of the Model Context Protocol for building MCP servers and clients in Go.",
+            "tags": []
+          },
+          {
             "name": "Ollama",
             "url": "https://github.com/jmorganca/ollama",
             "description": "Run large language models locally.",
@@ -54251,6 +54257,12 @@
             "name": "config",
             "url": "https://github.com/num30/config",
             "description": "configure your app using file, environment variables, or flags in two lines of code.",
+            "tags": []
+          },
+          {
+            "name": "config",
+            "url": "https://github.com/andreiavrammsd/config",
+            "description": "Struct-based configuration loader with a dedicated config file parser, supporting env vars, flags, defaults, and validation.",
             "tags": []
           },
           {
@@ -80049,6 +80061,12 @@
             "tags": []
           },
           {
+            "name": "bitrouter/bitrouter",
+            "url": "https://github.com/bitrouter/bitrouter",
+            "description": "[ bitrouter ] - Agent-native LLM router that optimizes your agent with every run with zero harness changes, making every model call reliable, traceable, secure, and cost-effective. Routes across OpenAI, Anthropic, Google, OpenRouter, Bedrock, GitHub Copilot, and more through a single local endpoint, with an MCP gateway, ACP integration, guardrails, observability, and multi-account failover.",
+            "tags": []
+          },
+          {
             "name": "CookCLI",
             "url": "https://github.com/cooklang/CookCLI",
             "description": "Command-line recipe manager with web server, shopping lists, and meal planning capabilities.",
@@ -80471,6 +80489,12 @@
       {
         "name": "Social networks",
         "resources": [
+          {
+            "name": "concord",
+            "url": "https://github.com/chojs23/concord",
+            "description": "A feature-rich TUI client for Discord.",
+            "tags": []
+          },
           {
             "name": "Rustodon",
             "url": "https://github.com/rustodon/rustodon",
@@ -85094,6 +85118,12 @@
             "name": "reacherhq/check-if-email-exists",
             "url": "https://github.com/reacherhq/check-if-email-exists",
             "description": "[ check-if-email-exists ] - Check if an email address exists without sending any email, with SMTP validation, disposable address detection, and catch-all checks",
+            "tags": []
+          },
+          {
+            "name": "rustmailer/bichon",
+            "url": "https://github.com/rustmailer/bichon",
+            "description": "A lightweight, high-performance email archiver with full-text search and WebUI.",
             "tags": []
           },
           {
