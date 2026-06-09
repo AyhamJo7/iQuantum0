@@ -59961,6 +59961,12 @@
             "tags": []
           },
           {
+            "name": "GoLogX",
+            "url": "https://github.com/AyoubTadlaoui/GoLogX",
+            "description": "Append-only, hash-chained, optionally Ed25519-signed slog handler with offline verification of tampering.",
+            "tags": []
+          },
+          {
             "name": "gone/log",
             "url": "https://github.com/One-com/gone/tree/master/log",
             "description": "Fast, extendable, full-featured, std-lib source compatible log library.",
@@ -67231,6 +67237,12 @@
             "name": "govalidator",
             "url": "https://github.com/thedevsaddam/govalidator",
             "description": "Validate Golang request data with simple rules. Highly inspired by Laravel's request validation.",
+            "tags": []
+          },
+          {
+            "name": "govy",
+            "url": "https://github.com/nobl9/govy",
+            "description": "strongly-typed validation rules over functional interface, powered by generics and reflection free with heavy focus on crafting clear and information-rich error messages.",
             "tags": []
           },
           {
