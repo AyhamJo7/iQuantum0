@@ -23730,6 +23730,12 @@
             "tags": []
           },
           {
+            "name": "mdsmith",
+            "url": "https://github.com/jeduden/mdsmith",
+            "description": "fast, auto-fixing Markdown linter and formatter. Checks style, readability, structure, and cross-file integrity.",
+            "tags": []
+          },
+          {
             "name": "mxj",
             "url": "https://github.com/clbanning/mxj",
             "description": "Encode / decode XML as JSON or map[string]interface{}; extract values with dot-notation paths and wildcards. Replaces x2j and j2x packages.",
@@ -71108,6 +71114,12 @@
             "name": "Pijul",
             "url": "https://pijul.org",
             "description": "A patch-based distributed version control system",
+            "tags": []
+          },
+          {
+            "name": "provrb/OBDium",
+            "url": "https://github.com/provrb/obdium",
+            "description": "A cross-platform Tauri-based application for everything vehicle diagnostics. Connect your vehicle over an ELM327 adapter and read trouble codes, live OBD-II data, I/M readiness tests, and more!",
             "tags": []
           },
           {
