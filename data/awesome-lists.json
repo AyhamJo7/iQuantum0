@@ -14967,6 +14967,12 @@
             "tags": []
           },
           {
+            "name": "sqlh",
+            "url": "https://github.com/kirill-scherba/sqlh",
+            "description": "Zero-boilerplate SQL helper with struct tags and Go generics (CRUD, UPSERT, JOIN, benchmarks).",
+            "tags": []
+          },
+          {
             "name": "sqlingo",
             "url": "https://github.com/lqs/sqlingo",
             "description": "A lightweight DSL to build SQL in Go.",
@@ -50089,6 +50095,12 @@
             "tags": []
           },
           {
+            "name": "langgraph",
+            "url": "https://github.com/langchain-ai/langgraph",
+            "description": "Low-level orchestration framework for building stateful, long-running LLM agents.",
+            "tags": []
+          },
+          {
             "name": "openai-agents",
             "url": "https://github.com/openai/openai-agents-python",
             "description": "OpenAI's framework for building and managing AI agents.",
@@ -63445,6 +63457,12 @@
             "tags": []
           },
           {
+            "name": "Keeper.sh",
+            "url": "https://keeper.sh/",
+            "description": "Calendar syncing tool that pulls and pushes events between calendar sources and destinations via iCal/ICS or OAuth, with support for anonymized busy/free events. ( Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Manage My Damn Life",
             "url": "https://intri.in/manage-my-damn-life/",
             "description": "Manage my Damn Life (MMDL) is a self-hosted front end for managing your CalDAV tasks and calendars. ( Source Code ) GPL-3.0 Nodejs/Docker",
@@ -65121,6 +65139,12 @@
             "name": "Signature PDF",
             "url": "https://github.com/24eme/signaturepdf",
             "description": "Sign and manipulate PDFs with collaboration, organization, compression and metadata editing. ( Demo ) AGPL-3.0 PHP/deb/Docker",
+            "tags": []
+          },
+          {
+            "name": "SimpleDMS",
+            "url": "https://simpledms.eu",
+            "description": "Easy-to-use, metadata-driven, open-source document management system (DMS) for small businesses that sorts documents almost by itself. ( Source Code , Clients ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -69737,6 +69761,12 @@
             "tags": []
           },
           {
+            "name": "Ideon",
+            "url": "https://www.theideon.com",
+            "description": "Project workspace built around an infinite canvas; embed GitHub, GitLab, Gitea, and Forgejo repositories alongside notes, links, and tasks, with real-time collaboration. ( Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Kaneo",
             "url": "https://kaneo.app/",
             "description": "Project management platform focused on simplicity and efficiency. ( Demo , Source Code ) MIT K8S/Docker",
@@ -73927,6 +73957,12 @@
             "name": "grex",
             "url": "https://github.com/pemistahl/grex",
             "description": "A command-line tool and library for generating regular expressions from user-provided test cases",
+            "tags": []
+          },
+          {
+            "name": "harehare/mq",
+            "url": "https://github.com/harehare/mq",
+            "description": "A command-line tool and library for processing Markdown using a jq-like syntax",
             "tags": []
           },
           {
