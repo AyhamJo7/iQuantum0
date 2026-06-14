@@ -26839,6 +26839,12 @@
             "tags": []
           },
           {
+            "name": "HookRun",
+            "url": "https://github.com/bluvenr/hookrun",
+            "description": "Lightweight webhook action engine (~3MB single binary, zero deps) that executes commands and scripts from YAML rules with token/HMAC/IP auth and hot reload.",
+            "tags": []
+          },
+          {
             "name": "webhooked",
             "url": "https://github.com/42Atomys/webhooked",
             "description": "A webhook receiver on steroids: handle, secure, format and store a Webhook payload has never been easier.",
@@ -57416,6 +57422,12 @@
             "tags": []
           },
           {
+            "name": "solid-like-a-rock",
+            "url": "https://github.com/nenadvulic/solid-like-a-rock",
+            "description": ":penguin: - Architecture linter that enforces Clean Architecture and TCA import rules using SwiftSyntax.",
+            "tags": []
+          },
+          {
             "name": "swift-mod",
             "url": "https://github.com/ra1028/swift-mod",
             "description": "A tool for Swift code modification intermediating between code generation and formatting.",
@@ -58933,6 +58945,12 @@
             "name": "Workaholic",
             "url": "https://github.com/hemangshah/Workaholic",
             "description": "A GitHub-like work contribution timeline.",
+            "tags": []
+          },
+          {
+            "name": "Yotei",
+            "url": "https://github.com/claustrofob/Yotei",
+            "description": "A modular, customizable SwiftUI/UIKit calendar package for iOS.",
             "tags": []
           },
           {
@@ -68333,6 +68351,12 @@
             "tags": []
           },
           {
+            "name": "plumio",
+            "url": "https://plumio.app/",
+            "description": "Markdown notes taking app with live preview, document encryption, multi-user support, multi-organization capabilities and more. ( Demo , Source Code ) AGPL-3.0 Nodejs/Docker",
+            "tags": []
+          },
+          {
             "name": "SilverBullet",
             "url": "https://silverbullet.md/",
             "description": "Note-taking application optimized for people with a hacker mindset. ( Demo , Source Code , Clients ) MIT Docker/Deno",
@@ -70291,7 +70315,7 @@
           {
             "name": "Secluso",
             "url": "https://secluso.com",
-            "description": "Private DIY home security camera system for Raspberry Pi, with end-to-end encrypted remote access and mobile apps for live video, alerts, and recording playback. ( Source Code ) GPL-3.0 Rust/deb",
+            "description": "Private DIY home security camera system for Raspberry Pi, with end-to-end encrypted remote access and mobile apps for live video, alerts, and recording playback. ( Source Code ) GPL-3.0 Rust",
             "tags": []
           },
           {
@@ -72564,6 +72588,18 @@
       {
         "name": "Image processing",
         "resources": [
+          {
+            "name": "Darkly",
+            "url": "https://github.com/darkly-art/darkly",
+            "description": "Entropic editor for digital artists and painters.",
+            "tags": []
+          },
+          {
+            "name": "Graphite",
+            "url": "https://github.com/GraphiteEditor/Graphite",
+            "description": "Vector-based graphics editor.",
+            "tags": []
+          },
           {
             "name": "Imager",
             "url": "https://github.com/imager-io/imager",
