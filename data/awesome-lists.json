@@ -726,6 +726,12 @@
             "tags": []
           },
           {
+            "name": "doco-cd",
+            "url": "https://github.com/kimdre/doco-cd",
+            "description": "Lightweight GitOps and Continuous Deployment tool to deploy Docker Compose projects and Swarm stacks using polling and webhooks.",
+            "tags": []
+          },
+          {
             "name": "Dokku",
             "url": "https://github.com/dokku/dokku",
             "description": "Docker powered mini-Heroku that helps you build and manage the lifecycle of applications.",
@@ -13485,6 +13491,12 @@
             "tags": []
           },
           {
+            "name": "confluence2md",
+            "url": "https://github.com/gkoos/confluence2md",
+            "description": "Confluence to Markdown crawler and converter.",
+            "tags": []
+          },
+          {
             "name": "omniparser",
             "url": "https://github.com/jf-tech/omniparser",
             "description": "A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema.",
@@ -23599,6 +23611,12 @@
             "url": "https://github.com/go-rod/rod",
             "description": "A Devtools driver to make web automation and scraping easy.",
             "tags": []
+          },
+          {
+            "name": "selenosis",
+            "url": "https://github.com/alcounit/selenosis",
+            "description": "Stateless Kubernetes-native hub that routes Selenium, Playwright, and MCP sessions to on-demand browser pods via custom resources.",
+            "tags": []
           }
         ]
       },
@@ -28350,6 +28368,12 @@
             "name": "GoNB",
             "url": "https://github.com/janpfeifer/gonb",
             "description": "Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).",
+            "tags": []
+          },
+          {
+            "name": "GooseForum",
+            "url": "https://github.com/leancodebox/GooseForum",
+            "description": "Self-hosted forum platform built with Go, Vue, and Tailwind CSS.",
             "tags": []
           },
           {
@@ -62833,12 +62857,6 @@
             "tags": []
           },
           {
-            "name": "Mixpost",
-            "url": "https://mixpost.app/",
-            "description": "Social media management software to easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite and Buffer). ( Source Code ) MIT PHP/Docker",
-            "tags": []
-          },
-          {
             "name": "Netron",
             "url": "https://netron.app/",
             "description": "Visualizer for neural network and machine learning models. ( Source Code ) MIT Python/Nodejs",
@@ -63380,12 +63398,6 @@
             "tags": []
           },
           {
-            "name": "Grimoire",
-            "url": "https://grimoire.pro",
-            "description": "Bookmark manager with a modern UI, automatic content & metadata extraction, categorization, filtering, and more. It has fully documented REST API, and Docker image for easy deployment. ( Source Code ) MIT Nodejs/Docker",
-            "tags": []
-          },
-          {
             "name": "Karakeep",
             "url": "https://karakeep.app/",
             "description": "Bookmark-everything app with a touch of AI for the data hoarders out there. ( Demo , Source Code ) AGPL-3.0 Docker",
@@ -63764,12 +63776,6 @@
             "name": "Dovel",
             "url": "https://dovel.email",
             "description": "SMTP server that sends and receives emails according to a simple configuration file, with an optional web interface that you can use to browse your emails. ( Source Code ) LGPL-3.0 Go",
-            "tags": []
-          },
-          {
-            "name": "emailwiz",
-            "url": "https://github.com/LukeSmithxyz/emailwiz",
-            "description": "Luke Smith's bash script to completely automate the setup of a Postfix/Dovecot/SpamAssassin/OpenDKIM server on debian. GPL-3.0 Shell",
             "tags": []
           },
           {
@@ -65022,12 +65028,6 @@
             "url": "https://mathesar.org/",
             "description": "Intuitive UI to manage data collaboratively, for users of all technical skill levels. Built on Postgres \u2013 connect an existing DB or set up a new one. ( Source Code ) GPL-3.0 Docker/Python",
             "tags": []
-          },
-          {
-            "name": "WebDB",
-            "url": "https://webdb.app",
-            "description": "Efficient database IDE. ( Demo , Source Code ) AGPL-3.0 Docker",
-            "tags": []
           }
         ]
       },
@@ -65470,12 +65470,6 @@
             "name": "FeedCord",
             "url": "https://github.com/Qolors/FeedCord",
             "description": "\u26a0 - Simple, lightweight & customizable RSS News Feed for your Discord Server. MIT Docker",
-            "tags": []
-          },
-          {
-            "name": "Feedpushr",
-            "url": "https://github.com/ncarlier/feedpushr",
-            "description": "Powerful RSS aggregator, able to transform and send articles to many outputs. Single binary, extensible with plugins. GPL-3.0 Go/Docker",
             "tags": []
           },
           {
@@ -66282,12 +66276,6 @@
             "tags": []
           },
           {
-            "name": "RconCli",
-            "url": "https://github.com/gorcon/rcon-cli",
-            "description": "CLI for executing queries on a remote Valve Source dedicated server using the RCON Protocol. MIT Go",
-            "tags": []
-          },
-          {
             "name": "Retrom",
             "url": "https://github.com/JMBeresford/retrom",
             "description": "Private cloud game library distribution server + frontend/launcher. GPL-3.0 Docker/Rust",
@@ -67050,12 +67038,6 @@
             "tags": []
           },
           {
-            "name": "Headphones",
-            "url": "https://github.com/rembo10/headphones",
-            "description": "Automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, \u00b5Torrent, Deluge and Blackhole. GPL-3.0 Python",
-            "tags": []
-          },
-          {
             "name": "Lidarr",
             "url": "https://lidarr.audio/",
             "description": "Music collection manager for Usenet and BitTorrent users. ( Source Code ) GPL-3.0 C#/Docker",
@@ -67268,12 +67250,6 @@
             "name": "Lyrion Music Server",
             "url": "https://lyrion.org/",
             "description": "Server software which controls a wide range of Squeezebox/Slim Devices audio players and compatible hardware (formerly Logitech Media Server). ( Source Code , Clients ) GPL-2.0 deb/Docker/Perl",
-            "tags": []
-          },
-          {
-            "name": "Maloja",
-            "url": "https://github.com/krateng/maloja",
-            "description": "Music scrobble database (alternative to Last.fm). ( Demo ) GPL-3.0 Python/Docker",
             "tags": []
           },
           {
@@ -68480,12 +68456,6 @@
         "name": "Pastebins",
         "resources": [
           {
-            "name": "bin",
-            "url": "https://github.com/w4/bin",
-            "description": "A paste bin that's actually minimalist. WTFPL/0BSD Rust",
-            "tags": []
-          },
-          {
             "name": "BinPastes",
             "url": "https://github.com/querwurzel/BinPastes",
             "description": "Minimal pastebin supporting client-side encryption, fulltext search, one-time messages. Intended for one to few users looking for a simple pastebin deployment. Apache-2.0 Java",
@@ -68781,12 +68751,6 @@
             "name": "Mediagoblin",
             "url": "https://mediagoblin.org",
             "description": "Media publishing platform that anyone can run (alternative to Flickr, YouTube, SoundCloud). ( Source Code ) AGPL-3.0 Python",
-            "tags": []
-          },
-          {
-            "name": "Mejiro",
-            "url": "https://github.com/dmpop/pellicola",
-            "description": "Easy-to-use instant photo publishing. GPL-3.0 PHP",
             "tags": []
           },
           {
@@ -69317,12 +69281,6 @@
         "name": "Self-hosting Solutions",
         "resources": [
           {
-            "name": "Ansible-NAS",
-            "url": "https://github.com/DaveStephens/ansible-nas",
-            "description": "Build a full-featured home server with this playbook and an Ubuntu box. MIT Ansible/Docker",
-            "tags": []
-          },
-          {
             "name": "CasaOS",
             "url": "https://casaos.zimaspace.com/",
             "description": "Simple, easy-to-use, elegant Home Cloud system. ( Source Code ) Apache-2.0 Go/Docker",
@@ -69803,12 +69761,6 @@
             "tags": []
           },
           {
-            "name": "Mergeable",
-            "url": "https://www.usemergeable.dev",
-            "description": "\u26a0 - A better inbox for GitHub pull requests. ( Demo , Source Code ) MIT Nodejs/Docker/K8S",
-            "tags": []
-          },
-          {
             "name": "Mindwendel",
             "url": "https://www.mindwendel.com/",
             "description": "Brainstorm and upvote ideas and thoughts within your team. ( Demo , Source Code ) AGPL-3.0 Docker/Elixir",
@@ -69872,12 +69824,6 @@
             "name": "Review Board",
             "url": "https://www.reviewboard.org/",
             "description": "Extensible and friendly code review tool for projects and companies of all sizes. ( Demo , Source Code ) MIT Python/Docker",
-            "tags": []
-          },
-          {
-            "name": "rgit",
-            "url": "https://github.com/w4/rgit",
-            "description": "Ultra-fast & lightweight cgit clone. WTFPL Rust/Docker",
             "tags": []
           },
           {
@@ -70002,12 +69948,6 @@
             "name": "Donetick",
             "url": "https://donetick.com",
             "description": "Task and chore management tool for personal and family use, with advanced scheduling, flexible assignment, and group sharing capabilities, detailed history, automation via API, simple and modern design. ( Demo , Source Code ) AGPL-3.0 Go/Docker",
-            "tags": []
-          },
-          {
-            "name": "Focalboard",
-            "url": "https://www.focalboard.com/",
-            "description": "Define, organize, track and manage work across individuals and teams (alternative to Trello, Notion and Asana). ( Source Code , Clients ) MIT/AGPL-3.0/Apache-2.0 Nodejs/Go/Docker",
             "tags": []
           },
           {
