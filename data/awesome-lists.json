@@ -23772,6 +23772,12 @@
             "tags": []
           },
           {
+            "name": "picoloom",
+            "url": "https://github.com/alnah/picoloom",
+            "description": "Markdown-to-PDF converter with CLI and Go library APIs.",
+            "tags": []
+          },
+          {
             "name": "toml",
             "url": "https://github.com/BurntSushi/toml",
             "description": "TOML configuration format (encoder/decoder with reflection).",
@@ -63404,6 +63410,12 @@
             "tags": []
           },
           {
+            "name": "Faved",
+            "url": "https://faved.dev/",
+            "description": "Handcrafted bookmark manager combining powerful tagging, instant search, and a clean, distraction-free interface. Built for large collections and advanced workflows, optimized for efficiency and ease-of-use. ( Demo , Source Code ) MIT Docker",
+            "tags": []
+          },
+          {
             "name": "Firefox Account Server",
             "url": "https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html",
             "description": "Host your own Firefox accounts server. ( Source Code ) MPL-2.0 Nodejs/Java",
@@ -75257,6 +75269,12 @@
             "tags": []
           },
           {
+            "name": "probe-rs/probe-rs",
+            "url": "https://github.com/probe-rs/probe-rs",
+            "description": "[ probe-rs-tools ] - Embedded debugging toolkit for flashing and debugging ARM and RISC-V microcontrollers.",
+            "tags": []
+          },
+          {
             "name": "Vaishnav-Sabari-Girish/ComChan",
             "url": "https://github.com/Vaishnav-Sabari-Girish/ComChan",
             "description": "A minimal serial monitor with plotter TUI.",
@@ -78920,6 +78938,12 @@
             "name": "Covertness/coap-rs",
             "url": "https://github.com/Covertness/coap-rs",
             "description": "A Constrained Application Protocol(CoAP) library.",
+            "tags": []
+          },
+          {
+            "name": "kweonminsung/bind9_rndc_rust",
+            "url": "https://github.com/kweonminsung/bind9_rndc_rust",
+            "description": "[ rndc ] - BIND9 RNDC protocol implementation for Rust",
             "tags": []
           },
           {
