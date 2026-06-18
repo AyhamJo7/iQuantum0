@@ -8345,7 +8345,7 @@
           },
           {
             "name": "Harbor",
-            "url": "https://github.com/tahseen-kakar/harbor",
+            "url": "https://github.com/thsnkhn/harbor",
             "description": "Open-source download manager for HTTP(S), magnet links, and .torrent files.",
             "tags": []
           },
@@ -9147,6 +9147,12 @@
             "name": "tinc",
             "url": "https://www.tinc-vpn.org",
             "description": "Secure mesh VPN software.",
+            "tags": []
+          },
+          {
+            "name": "TrustTunnel",
+            "url": "https://trusttunnel.org/",
+            "description": "A modern, open-source VPN protocol originally developed by AdGuard VPN.",
             "tags": []
           },
           {
@@ -11085,6 +11091,12 @@
             "name": "Luminescent",
             "url": "https://naden.co",
             "description": "Bring back Keyboard Backlight Shortcuts for the MacBook.",
+            "tags": []
+          },
+          {
+            "name": "MaCursor",
+            "url": "https://github.com/writronic/MaCursor",
+            "description": "Custom cursor themes for macOS.",
             "tags": []
           },
           {
@@ -16752,6 +16764,12 @@
             "name": "payme",
             "url": "https://github.com/jovandeginste/payme",
             "description": "QR code generator (ASCII & PNG) for SEPA payments.",
+            "tags": []
+          },
+          {
+            "name": "paystack-sdk-go",
+            "url": "https://github.com/samaasi/paystack-sdk-go",
+            "description": "A comprehensive, zero-dependency, and fully typed Go SDK for the Paystack API.",
             "tags": []
           },
           {
@@ -23025,6 +23043,12 @@
             "name": "arch-go",
             "url": "https://github.com/arch-go/arch-go",
             "description": "Architecture testing tool for Go projects.",
+            "tags": []
+          },
+          {
+            "name": "assay",
+            "url": "https://github.com/tushariitr-19/assay",
+            "description": "Framework-agnostic evaluation library for testing Go agents and MCP servers with deterministic checks, CI-ready exit codes, and zero-code YAML-based testing.",
             "tags": []
           },
           {
@@ -72055,6 +72079,12 @@
             "tags": []
           },
           {
+            "name": "rtic-rs/rtic",
+            "url": "https://github.com/rtic-rs/rtic",
+            "description": "[ rtic ] - Real-Time Interrupt-driven Concurrency framework for building embedded real-time systems.",
+            "tags": []
+          },
+          {
             "name": "uefi-rs",
             "url": "https://github.com/rust-osdev/uefi-rs",
             "description": "Rusty wrapper for the Unified Extensible Firmware Interface. This crate makes it easy to develop Rust software that leverages safe, convenient, and performant abstractions for UEFI functionality.",
@@ -74316,6 +74346,12 @@
             "name": "wthrr",
             "url": "https://github.com/ttytm/wthrr-the-weathercrab",
             "description": "Weather companion for the terminal.",
+            "tags": []
+          },
+          {
+            "name": "YueMiyuki/Risuko",
+            "url": "https://github.com/YueMiyuki/Risuko",
+            "description": "A full-featured download manager.",
             "tags": []
           }
         ]
