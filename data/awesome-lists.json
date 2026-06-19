@@ -9369,6 +9369,12 @@
         "name": "Menu Bar Tools",
         "resources": [
           {
+            "name": "Agent Island",
+            "url": "https://github.com/tristan666666/agent-island",
+            "description": "MacBook notch companion for Claude Code and Codex sessions, showing live status and auto-resuming selected long-running tasks.",
+            "tags": []
+          },
+          {
             "name": "Anvil",
             "url": "https://anvilformac.com/",
             "description": "Tool for serving local static sites and Rack apps with simple URLs.",
