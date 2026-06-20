@@ -78054,6 +78054,12 @@
             "tags": []
           },
           {
+            "name": "bincode-next",
+            "url": "https://crates.io/crates/bincode-next",
+            "description": "A binary encoder/decoder, successor of the now unmaintained bincode",
+            "tags": []
+          },
+          {
             "name": "jamesmunns/postcard",
             "url": "https://github.com/jamesmunns/postcard",
             "description": "[ postcard ] - Postcard is a #![no_std] focused serializer and deserializer for Serde.",
