@@ -5233,6 +5233,12 @@
             "tags": []
           },
           {
+            "name": "Tintpad",
+            "url": "https://github.com/sorkila/tintpad",
+            "description": "Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running.",
+            "tags": []
+          },
+          {
             "name": "FlyEnv",
             "url": "https://www.flyenv.com",
             "description": "Local development environment manager for languages, databases, and services.",
@@ -75770,6 +75776,12 @@
             "name": "creusot-rs/creusot",
             "url": "https://github.com/creusot-rs/creusot",
             "description": "A deductive verifier for Rust that proves absence of panics, overflows, and assertion failures by translating code to the Why3 verification platform",
+            "tags": []
+          },
+          {
+            "name": "dupehound",
+            "url": "https://github.com/Rafaelpta/dupehound",
+            "description": "[ dupehound ] - Duplicate-code detector that fingerprints function bodies (winnowing), so copies survive renaming. Repo slop score, duplication history chart, and a CI gate that points to the original function to reuse. Supports Rust and 11 other languages.",
             "tags": []
           },
           {
