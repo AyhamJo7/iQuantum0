@@ -3422,7 +3422,7 @@
           {
             "name": "C/C++",
             "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools",
-            "description": "Preview C/C++ extension by Microsoft , read official blog post for the details",
+            "description": "C/C++ IntelliSense, debugging and code browsing by Microsoft ; see the official docs",
             "tags": []
           },
           {
@@ -3435,24 +3435,6 @@
             "name": "gnu-global-tags",
             "url": "https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global",
             "description": "Provide Intellisense for C/C++ with the help of the GNU Global tool.",
-            "tags": []
-          },
-          {
-            "name": "YouCompleteMe",
-            "url": "https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me",
-            "description": "Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using YouCompleteMe .",
-            "tags": []
-          },
-          {
-            "name": "C/C++ Clang Command Adapter",
-            "url": "https://github.com/mitaki28/vscode-clang",
-            "description": "Completion and Diagnostic for C/C++/Objective-C using Clang command.",
-            "tags": []
-          },
-          {
-            "name": "CQuery",
-            "url": "https://github.com/cquery-project/vscode-cquery",
-            "description": "C/C++ language server supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.",
             "tags": []
           },
           {
@@ -3470,12 +3452,6 @@
             "name": "C#",
             "url": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp",
             "description": "C# extension by Microsoft , read official documentation for the details",
-            "tags": []
-          },
-          {
-            "name": "C# FixFormat",
-            "url": "https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat",
-            "description": "Fix format of usings / indents / braces / empty lines",
             "tags": []
           },
           {
@@ -3511,6 +3487,12 @@
             "name": "stylelint",
             "url": "https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint",
             "description": "Lint CSS/SCSS.",
+            "tags": []
+          },
+          {
+            "name": "Tailwind CSS IntelliSense",
+            "url": "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss",
+            "description": "Autocomplete, linting and hover previews for Tailwind CSS.",
             "tags": []
           },
           {
@@ -3553,15 +3535,9 @@
         "name": "Haskell",
         "resources": [
           {
-            "name": "haskell-linter",
-            "url": "https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter",
-            "description": "",
-            "tags": []
-          },
-          {
-            "name": "Haskell IDE engine",
-            "url": "https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server",
-            "description": "provides language server for stack and cabal projects.",
+            "name": "Haskell",
+            "url": "https://marketplace.visualstudio.com/items?itemName=haskell.haskell",
+            "description": "Official Haskell support powered by the Haskell Language Server (HLS); supersedes the former Haskell IDE Engine and haskell-linter.",
             "tags": []
           }
         ]
@@ -3611,7 +3587,7 @@
           },
           {
             "name": "Lombok",
-            "url": "https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok",
+            "url": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-lombok",
             "description": "",
             "tags": []
           }
@@ -3644,12 +3620,6 @@
         "name": "Linters",
         "resources": [
           {
-            "name": "tslint (deprecated)",
-            "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin",
-            "description": "TSLint for Visual Studio Code (with \"tslint.jsEnable\": true ).",
-            "tags": []
-          },
-          {
             "name": "eslint",
             "url": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint",
             "description": "Linter for eslint .",
@@ -3670,7 +3640,7 @@
           {
             "name": "Prettier",
             "url": "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode",
-            "description": "Linter, Formatter and Pretty printer for Prettier .",
+            "description": "Opinionated code formatter for Prettier .",
             "tags": []
           },
           {
@@ -3691,9 +3661,9 @@
         "name": "Framework-specific",
         "resources": [
           {
-            "name": "Vetur",
-            "url": "https://marketplace.visualstudio.com/items?itemName=octref.vetur",
-            "description": "Toolkit for Vue.js",
+            "name": "Vue - Official",
+            "url": "https://marketplace.visualstudio.com/items?itemName=Vue.volar",
+            "description": "Official Vue language support (Volar). Supersedes Vetur, which is now in maintenance mode.",
             "tags": []
           }
         ]
@@ -3719,9 +3689,9 @@
         "name": "TypeScript",
         "resources": [
           {
-            "name": "tslint (deprecated)",
-            "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin",
-            "description": "TSLint for Visual Studio Code.",
+            "name": "ESLint",
+            "url": "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint",
+            "description": "TSLint reached end-of-life in 2019 \u2014 use  with typescript-eslint to lint TypeScript.",
             "tags": []
           }
         ]
@@ -3732,13 +3702,7 @@
           {
             "name": "PHP Intelephense",
             "url": "https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client",
-            "description": "",
-            "tags": []
-          },
-          {
-            "name": "PHP IntelliSense",
-            "url": "https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense",
-            "description": "",
+            "description": "The de-facto standard PHP language server: autocompletion, diagnostics, go-to-definition and more. (The former PHP IntelliSense by felixfbecker is deprecated.)",
             "tags": []
           }
         ]
@@ -3775,6 +3739,12 @@
             "url": "https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv",
             "description": "Support for dotenv file syntax",
             "tags": []
+          },
+          {
+            "name": "Laravel Pint",
+            "url": "https://marketplace.visualstudio.com/items?itemName=open-southeners.laravel-pint",
+            "description": "Run and configure Laravel Pint, the opinionated PHP code-style fixer for Laravel.",
+            "tags": []
           }
         ]
       },
@@ -3805,8 +3775,14 @@
             "tags": []
           },
           {
+            "name": "PHP Create Class",
+            "url": "https://marketplace.visualstudio.com/items?itemName=jaguadoromero.vscode-php-create-class",
+            "description": "Create PHP classes, interfaces, traits and enums from the context menu.",
+            "tags": []
+          },
+          {
             "name": "PHP Debug",
-            "url": "https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug",
+            "url": "https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug",
             "description": "XDebug extension for Visual Studio Code",
             "tags": []
           },
@@ -3892,6 +3868,17 @@
         ]
       },
       {
+        "name": "Ruby",
+        "resources": [
+          {
+            "name": "endwise",
+            "url": "https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise",
+            "description": "Automatically add end to Ruby code blocks as you type.",
+            "tags": []
+          }
+        ]
+      },
+      {
         "name": "Rust",
         "resources": [
           {
@@ -3921,12 +3908,6 @@
             "url": "https://github.com/essence-language/vscode-extension",
             "description": "",
             "tags": []
-          },
-          {
-            "name": "Pragmatic Essence",
-            "url": "https://github.com/orta/Essence",
-            "description": "",
-            "tags": []
           }
         ]
       },
@@ -3951,14 +3932,8 @@
         "name": "Libraries",
         "resources": [
           {
-            "name": "vscode-test-content",
-            "url": "https://github.com/mlewand-org/vscode-test-content",
-            "description": "A method to set/get editor content, and it's selection. Especially useful for unit tests.",
-            "tags": []
-          },
-          {
             "name": "typed-vscode",
-            "url": "https://www.npmjs.com/typed-vscode",
+            "url": "https://www.npmjs.com/package/typed-vscode",
             "description": "Generates types from contribution points of your extension manifest",
             "tags": []
           }
@@ -3975,7 +3950,7 @@
           },
           {
             "name": "Online TextMate Themes Editor",
-            "url": "https://tmtheme-editor.herokuapp.com/",
+            "url": "https://el-angel.github.io/theme-editor/",
             "description": "since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using Yo Code tool",
             "tags": []
           },
@@ -3998,9 +3973,9 @@
             "tags": []
           },
           {
-            "name": "Azure Tools for Visual Studio Code",
-            "url": "https://github.com/bradygaster-zz/azure-tools-vscode",
-            "description": "This extension for Visual Studio Code gives Azure developers some convenient commands for creating or accessing resources directly in the editor.",
+            "name": "Azure Tools",
+            "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack",
+            "description": "Microsoft's official Azure extension pack, bundling the core Azure extensions for working with Azure resources directly from VS Code.",
             "tags": []
           },
           {
@@ -5314,6 +5289,12 @@
             "name": "Integrity",
             "url": "http://peacockmedia.software/mac/integrity/free.html",
             "description": "Free website link checker for Mac.",
+            "tags": []
+          },
+          {
+            "name": "JsonStudio",
+            "url": "https://jsonstudio.js.org/",
+            "description": "Local-first JSON workspace for formatting, editing, diffing, converting, validating, and extracting JSON from logs.",
             "tags": []
           },
           {
@@ -11318,6 +11299,12 @@
             "name": "Sensei",
             "url": "https://sensei.app/",
             "description": "Performance toolkit for monitoring, cleanup, and hardware diagnostics.",
+            "tags": []
+          },
+          {
+            "name": "SiliconScope",
+            "url": "https://siliconscope.calidalab.ai",
+            "description": "Sudoless Apple Silicon system monitor (menu bar + dashboard) with first-class ANE, Media Engine and memory-bandwidth tracking plus an E/P-core breakdown \u2014 the chip-level signals Activity Monitor doesn't show.",
             "tags": []
           },
           {
@@ -44396,6 +44383,18 @@
         "name": "Artificial Intelligence",
         "resources": [
           {
+            "name": "Anahata ASI",
+            "url": "https://github.com/anahata-os/anahata-asi",
+            "description": "Java agent container with local LLM adapters, stateful tool execution, context management and IDE integration.",
+            "tags": []
+          },
+          {
+            "name": "Dokimos",
+            "url": "https://github.com/dokimos-dev/dokimos",
+            "description": "Evaluation framework for LLM and AI-agent applications that scores responses, validates tool calls and execution traces, and catches quality regressions in CI.",
+            "tags": []
+          },
+          {
             "name": "JamJet",
             "url": "https://github.com/jamjet-labs/jamjet",
             "description": "Agent runtime with a Java SDK for building AI agents, supporting graph-based workflow orchestration, multi-agent coordination, and MCP/A2A protocols.",
@@ -44411,6 +44410,12 @@
             "name": "MCP Java SDK",
             "url": "https://github.com/modelcontextprotocol/java-sdk",
             "description": "Enables applications to interact with AI models and tools through a standardized interface (i.e. Model Context Protocol), supporting both synchronous and asynchronous communication patterns.",
+            "tags": []
+          },
+          {
+            "name": "Regulus",
+            "url": "https://github.com/neul-labs/regulus",
+            "description": "Google ADK plugin suite that adds runtime compliance profiles, audit envelopes and GRC adapters for regulated Java AI agents.",
             "tags": []
           },
           {
@@ -44434,6 +44439,12 @@
             "name": "dOOv",
             "url": "https://github.com/doov-io/doov",
             "description": "Provides fluent API for typesafe domain model validation and mapping. It uses annotations, code generation and a type safe DSL to make bean validation and mapping fast and easy.",
+            "tags": []
+          },
+          {
+            "name": "Immuto",
+            "url": "https://github.com/karunarathnad/immuto",
+            "description": "Annotation processor that generates type-safe mapper implementations for Java Records using canonical constructors, with zero runtime reflection.",
             "tags": []
           },
           {
@@ -44798,6 +44809,29 @@
         ]
       },
       {
+        "name": "Code Formatting",
+        "resources": [
+          {
+            "name": "google-java-format",
+            "url": "https://github.com/google/google-java-format",
+            "description": "Reformats Java source code to follow Google Java Style.",
+            "tags": []
+          },
+          {
+            "name": "JHarmonizer",
+            "url": "https://github.com/lemon-ant/JHarmonizer",
+            "description": "Safely reorders Java source code with configurable rules and Palantir Java Format.",
+            "tags": []
+          },
+          {
+            "name": "Palantir Java Format",
+            "url": "https://github.com/palantir/palantir-java-format",
+            "description": "Formatter based on google-java-format with wider lines and lambda-friendly output.",
+            "tags": []
+          }
+        ]
+      },
+      {
         "name": "Code Generators",
         "resources": [
           {
@@ -44822,6 +44856,12 @@
             "name": "Bootify",
             "url": "https://bootify.io",
             "description": "Browser-based Spring Boot app generation with JPA model and REST API.",
+            "tags": []
+          },
+          {
+            "name": "CRUDGen",
+            "url": "https://github.com/bariskokulu/CRUDGen",
+            "description": "Compile-time annotation processor generating CRUD layers, DTOs, JSON Patch, and custom HTTP endpoints for Spring Boot.",
             "tags": []
           },
           {
@@ -45030,6 +45070,12 @@
             "url": "https://github.com/lviggiano/owner",
             "description": "Reduces boilerplate of properties.",
             "tags": []
+          },
+          {
+            "name": "sealed-env",
+            "url": "https://github.com/davidalmeidac/sealed-env",
+            "description": "Encrypts environment files with a shared Node.js and Java/Spring Boot format plus optional TOTP unsealing.",
+            "tags": []
           }
         ]
       },
@@ -45131,12 +45177,6 @@
             "tags": []
           },
           {
-            "name": "HyperMinHash-java",
-            "url": "https://github.com/LiveRamp/HyperMinHash-java",
-            "description": "Probabilistic data structure for computing union, intersection, and set cardinality in loglog space.",
-            "tags": []
-          },
-          {
             "name": "Persistent Collection",
             "url": "https://github.com/hrldcpr/pcollections",
             "description": "Persistent and immutable analogue of the Java Collections Framework.",
@@ -45170,6 +45210,12 @@
             "name": "Wire",
             "url": "https://github.com/square/wire",
             "description": "Clean, lightweight protocol buffers.",
+            "tags": []
+          },
+          {
+            "name": "Wormhole4j",
+            "url": "https://github.com/komamitsu/wormhole4j",
+            "description": "High-performance sorted map with fast range scans and thread-safe concurrent access, based on the Wormhole index structure.",
             "tags": []
           }
         ]
@@ -45382,6 +45428,12 @@
             "tags": []
           },
           {
+            "name": "SchemaCrawler",
+            "url": "https://www.schemacrawler.com",
+            "description": "Discovers, documents and diagrams relational database schemas from Java, build tools and the command line.",
+            "tags": []
+          },
+          {
             "name": "Speedment",
             "url": "https://github.com/speedment/speedment",
             "description": "Database access library that utilizes Java 8's Stream API for querying.",
@@ -45467,6 +45519,47 @@
             "name": "java-tron",
             "url": "https://github.com/tronprotocol/java-tron",
             "description": "Implementation of the Tron Protocol, whic utilizes blockchains to develop decentralized applications.",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Decompilation",
+        "resources": [
+          {
+            "name": "CFR",
+            "url": "https://github.com/leibnitz27/cfr",
+            "description": "Java decompiler focused on modern language features.",
+            "tags": []
+          },
+          {
+            "name": "Fernflower",
+            "url": "https://github.com/JetBrains/fernflower",
+            "description": "Java decompiler with broad JVM bytecode support.",
+            "tags": []
+          },
+          {
+            "name": "JD-Core",
+            "url": "https://github.com/java-decompiler/jd-core",
+            "description": "Core Java decompiler library.",
+            "tags": []
+          },
+          {
+            "name": "Procyon",
+            "url": "https://github.com/mstrobel/procyon",
+            "description": "Java decompiler and metadata toolkit.",
+            "tags": []
+          },
+          {
+            "name": "transformer-api",
+            "url": "https://github.com/nbauma109/transformer-api",
+            "description": "Unified API that exposes multiple decompilers through one in-memory transformation interface.",
+            "tags": []
+          },
+          {
+            "name": "Vineflower",
+            "url": "https://github.com/Vineflower/vineflower",
+            "description": "Modern maintained fork of Fernflower.",
             "tags": []
           }
         ]
@@ -45777,6 +45870,12 @@
             "tags": []
           },
           {
+            "name": "Nuts",
+            "url": "https://github.com/thevpc/nuts",
+            "description": "Installs and runs Java applications from Maven repositories, reusing descriptors and provisioning required JDKs.",
+            "tags": []
+          },
+          {
             "name": "Nexus",
             "url": "https://www.sonatype.com",
             "description": "Binary management with proxy and caching capabilities.",
@@ -45824,9 +45923,15 @@
             "tags": []
           },
           {
+            "name": "jackson-dataformat-spreadsheet",
+            "url": "https://github.com/scndry/jackson-dataformat-spreadsheet",
+            "description": "Jackson dataformat module for reading and writing Excel (XLSX/XLS) as POJOs via ObjectMapper .",
+            "tags": []
+          },
+          {
             "name": "Sheetz",
             "url": "https://github.com/chitralabs/sheetz",
-            "description": "Library for reading and writing Excel and CSV files with annotation-based mapping, streaming support, and built-in validation.",
+            "description": "Reads and writes Excel, CSV and ODS files with annotation mapping, streaming, styling and validation.",
             "tags": []
           },
           {
@@ -45874,6 +45979,35 @@
             "name": "ta4j",
             "url": "https://github.com/ta4j/ta4j",
             "description": "Library for technical analysis.",
+            "tags": []
+          },
+          {
+            "name": "Wickra",
+            "url": "https://github.com/wickra-lib/wickra",
+            "description": "Technical-analysis library with 514 streaming O(1)-per-tick indicators on a native Rust core, on Maven Central as org.wickra:wickra; more indicators and incremental updates than the pure-Java ta4j.",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Flat File",
+        "resources": [
+          {
+            "name": "BeanIO",
+            "url": "https://github.com/beanio/beanio",
+            "description": "Maps flat files of fixed-length or delimited records to and from Java beans using XML or annotation configuration.",
+            "tags": []
+          },
+          {
+            "name": "fixedformat4j",
+            "url": "https://github.com/jeyben/fixedformat4j",
+            "description": "Annotation-driven mapping of fixed-width flat files to and from POJOs and Java records.",
+            "tags": []
+          },
+          {
+            "name": "Flatpack",
+            "url": "https://github.com/Appendium/flatpack",
+            "description": "Parses and writes delimited and fixed-length flat files with optional column-mapping definitions.",
             "tags": []
           }
         ]
@@ -46042,12 +46176,6 @@
             "tags": []
           },
           {
-            "name": "Void2D",
-            "url": "https://github.com/xzripper/Void2D",
-            "description": "High-level 2D game engine with built-in physics based on Swing.",
-            "tags": []
-          },
-          {
             "name": "vulkan4j",
             "url": "https://github.com/chuigda/vulkan4j",
             "description": "Vulkan, OpenGL ES2 and GLFW Memory Allocator bindings.",
@@ -46117,6 +46245,12 @@
       {
         "name": "GUI",
         "resources": [
+          {
+            "name": "FlatLaf",
+            "url": "https://github.com/JFormDesigner/FlatLaf",
+            "description": "Modern Swing Look and Feel with Darcula and IntelliJ themes.",
+            "tags": []
+          },
           {
             "name": "JavaFX",
             "url": "https://wiki.openjdk.java.net/display/OpenJFX/Main",
@@ -46257,6 +46391,12 @@
             "name": "unirest-java",
             "url": "https://github.com/Kong/unirest-java",
             "description": "Simplified, lightweight HTTP client library.",
+            "tags": []
+          },
+          {
+            "name": "JQuickCurl",
+            "url": "https://github.com/paohaijiao/jquick-curl",
+            "description": "Executes HTTP requests from cURL syntax through annotations, XML configuration and dynamic proxy clients.",
             "tags": []
           }
         ]
@@ -46987,12 +47127,6 @@
             "tags": []
           },
           {
-            "name": "KeenType",
-            "url": "https://github.com/DaveJarvis/KeenType",
-            "description": "Modernized version of a Java-based implementation of the New Typesetting System, which was heavily based on Donald E. Knuth's original TeX.",
-            "tags": []
-          },
-          {
             "name": "kubernetes-client",
             "url": "https://github.com/fabric8io/kubernetes-client",
             "description": "Client provides access to the full Kubernetes & OpenShift REST APIs via a fluent DSL.",
@@ -47557,6 +47691,12 @@
             "tags": []
           },
           {
+            "name": "java-ngrok",
+            "url": "https://github.com/alexdlaird/java-ngrok",
+            "description": "Java wrapper for ngrok; programmatic tunnels for ingress, webhooks, demos, and APIs.",
+            "tags": []
+          },
+          {
             "name": "KryoNet",
             "url": "https://github.com/EsotericSoftware/kryonet",
             "description": "Provides a clean and simple API for efficient TCP and UDP client/server network communication using NIO and Kryo.",
@@ -47781,6 +47921,12 @@
             "tags": []
           },
           {
+            "name": "GraphCompose",
+            "url": "https://github.com/DemchaAV/GraphCompose",
+            "description": "Declarative engine for structured business PDFs with semantic layout, atomic pagination, theme tokens, and native vector charts.",
+            "tags": []
+          },
+          {
             "name": "iText",
             "url": "https://itextpdf.com/en",
             "description": "Creates PDF files programmatically.",
@@ -47868,6 +48014,12 @@
             "url": "https://github.com/sfkamath/jvm-hotpath",
             "description": "Java agent for line-level execution frequency analysis to identify algorithmic bottlenecks.",
             "tags": []
+          },
+          {
+            "name": "Argus",
+            "url": "https://github.com/rlaope/Argus",
+            "description": "JVM diagnostics CLI for jcmd, JFR, async-profiler, heap analysis and machine-readable health verdicts.",
+            "tags": []
           }
         ]
       },
@@ -47896,12 +48048,6 @@
             "name": "BSF",
             "url": "http://commons.apache.org/proper/commons-bsf/",
             "description": "Bean Scripting Framework - interface to scripting languages, including JSR-223.",
-            "tags": []
-          },
-          {
-            "name": "Chain",
-            "url": "http://commons.apache.org/proper/commons-chain/",
-            "description": "Chain of Responsibility pattern implementation.",
             "tags": []
           },
           {
@@ -48013,12 +48159,6 @@
             "tags": []
           },
           {
-            "name": "Functor",
-            "url": "http://commons.apache.org/proper/commons-functor/",
-            "description": "Function that can be manipulated as an object, or an object representing a single, generic function.",
-            "tags": []
-          },
-          {
             "name": "Graph",
             "url": "http://commons.apache.org/sandbox/commons-graph/",
             "description": "General purpose graph APIs and algorithms.",
@@ -48127,12 +48267,6 @@
             "tags": []
           },
           {
-            "name": "OGNL",
-            "url": "http://commons.apache.org/proper/commons-ognl/",
-            "description": "Object-graph navigation language.",
-            "tags": []
-          },
-          {
             "name": "OpenPGP",
             "url": "http://commons.apache.org/sandbox/commons-openpgp/",
             "description": "Interface to signing and verifying data using OpenPGP.",
@@ -48154,12 +48288,6 @@
             "name": "Pool",
             "url": "http://commons.apache.org/proper/commons-pool/",
             "description": "Generic object pooling component.",
-            "tags": []
-          },
-          {
-            "name": "Proxy",
-            "url": "http://commons.apache.org/proper/commons-proxy/",
-            "description": "Library for creating dynamic proxies.",
             "tags": []
           },
           {
@@ -48207,7 +48335,7 @@
           {
             "name": "Light-4J",
             "url": "https://github.com/networknt/light-4j/",
-            "description": "Fast, lightweight and productive microservices framework with built-in security .",
+            "description": "Fast, lightweight and productive microservices framework with built-in security.",
             "tags": []
           },
           {
@@ -49035,6 +49163,12 @@
             "tags": []
           },
           {
+            "name": "Selenium Boot",
+            "url": "https://github.com/seleniumboot/selenium-boot",
+            "description": "Zero-boilerplate Selenium + TestNG framework with auto driver management, smart retry, self-healing locators, AI failure analysis, and a built-in HTML report.",
+            "tags": []
+          },
+          {
             "name": "AssertJ",
             "url": "https://joel-costigliola.github.io/assertj/",
             "description": "Fluent assertions that improve readability.",
@@ -49146,6 +49280,12 @@
             "name": "Java Evolved",
             "url": "https://javaevolved.github.io/",
             "description": "Side-by-side comparisons of legacy and modern Java patterns.",
+            "tags": []
+          },
+          {
+            "name": "test-watch-maven-plugin",
+            "url": "https://github.com/albilu/test-watch-maven-plugin",
+            "description": "Maven plugin providing Vitest-inspired watch mode for tests with smart selection and parallel execution.",
             "tags": []
           },
           {
@@ -67952,6 +68092,12 @@
             "tags": []
           },
           {
+            "name": "Transmute",
+            "url": "https://transmute.sh",
+            "description": "File converter for images, video, audio, json, excel and more. Supports over 2,000 conversions!. ( Source Code ) MIT Docker",
+            "tags": []
+          },
+          {
             "name": "URL-to-PNG",
             "url": "https://github.com/jasonraimondi/url-to-png",
             "description": "URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB. MIT Nodejs/Docker",
@@ -70008,6 +70154,12 @@
             "name": "Donetick",
             "url": "https://donetick.com",
             "description": "Task and chore management tool for personal and family use, with advanced scheduling, flexible assignment, and group sharing capabilities, detailed history, automation via API, simple and modern design. ( Demo , Source Code ) AGPL-3.0 Go/Docker",
+            "tags": []
+          },
+          {
+            "name": "Focus Flow",
+            "url": "https://github.com/francesco-gaglione/focus_flow_cloud",
+            "description": "Complete ecosystem for time management using the Pomodoro technique. MIT Docker/K8S",
             "tags": []
           },
           {
@@ -74280,6 +74432,12 @@
             "name": "suckit",
             "url": "https://github.com/Skallwar/suckit",
             "description": "Recursively visit and download a website's content to your disk.",
+            "tags": []
+          },
+          {
+            "name": "sundegan/JsonStudio",
+            "url": "https://github.com/sundegan/JsonStudio",
+            "description": "Local-first desktop JSON workspace built with Rust and Tauri for formatting, editing, diffing, converting, validating, and log extraction.",
             "tags": []
           },
           {
