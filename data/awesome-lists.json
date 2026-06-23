@@ -950,15 +950,15 @@
         "name": "Storage & Data",
         "resources": [
           {
-            "name": "Label Backup",
-            "url": "https://github.com/resulgg/label-backup",
-            "description": "A lightweight, Docker-aware backup agent that automatically discovers and backs up containerized databases (PostgreSQL, MySQL, MongoDB, Redis) based on Docker labels. Supports local storage and S3-compatible destinations with flexible scheduling via cron expressions.",
-            "tags": []
-          },
-          {
             "name": "Docker Volume Backup",
             "url": "https://github.com/offen/docker-volume-backup",
             "description": "Backup Docker volumes locally or to any S3 compatible storage.",
+            "tags": []
+          },
+          {
+            "name": "Label Backup",
+            "url": "https://github.com/resulgg/label-backup",
+            "description": "A lightweight, Docker-aware backup agent that automatically discovers and backs up containerized databases (PostgreSQL, MySQL, MongoDB, Redis) based on Docker labels. Supports local storage and S3-compatible destinations with flexible scheduling via cron expressions.",
             "tags": []
           },
           {
@@ -977,6 +977,12 @@
             "name": "quobyte",
             "url": "https://www.quobyte.com/",
             "description": ":yen: Fully fault-tolerant distributed file system with a docker volume driver.",
+            "tags": []
+          },
+          {
+            "name": "resq",
+            "url": "https://github.com/mashb1t/resq",
+            "description": "Restic-powered Docker backups for volumes, databases, and .env files, with or without stopping containers. Works with local, SSH, or any S3 compatible storage.",
             "tags": []
           },
           {
@@ -2368,21 +2374,9 @@
         "name": "Videos",
         "resources": [
           {
-            "name": "Contributing to Docker by Andrew \"Tianon\" Page (InfoSiftr)",
-            "url": "https://www.youtube.com/watch?v=1jwo8-1HYYg",
-            "description": "(34:31)",
-            "tags": []
-          },
-          {
             "name": "Deploying and scaling applications with Docker, Swarm, and a tiny bit of Python magic",
             "url": "https://www.youtube.com/watch?v=GpHMTR7P2Ms",
             "description": "(3:11:06)",
-            "tags": []
-          },
-          {
-            "name": "Docker and SELinux by Daniel Walsh from Red Hat",
-            "url": "https://www.youtube.com/watch?v=zWGFqMuEHdw",
-            "description": "(40:23)",
             "tags": []
           },
           {
@@ -2443,12 +2437,6 @@
             "name": "From Local Docker Development to Production Deployments",
             "url": "https://www.youtube.com/watch?v=7CZFpHUPqXw",
             "description": "",
-            "tags": []
-          },
-          {
-            "name": "Immutable Infrastructure with Docker and EC2 by Michael Bryzek (Gilt)",
-            "url": "https://www.youtube.com/watch?v=GaHzdqFithc",
-            "description": "(42:04)",
             "tags": []
           },
           {
@@ -9584,6 +9572,12 @@
             "tags": []
           },
           {
+            "name": "mysa",
+            "url": "https://github.com/alishansnsn/mysa",
+            "description": "A macOS menu bar app for quick breathing breaks, with a frosted screen overlay and handwritten quotes.",
+            "tags": []
+          },
+          {
             "name": "NetFluss",
             "url": "https://www.ranagmbh.de/netfluss/",
             "description": "Native menu bar app for real-time upload/download speeds and top bandwidth-using apps.",
@@ -12535,6 +12529,12 @@
             "tags": []
           },
           {
+            "name": "goscaf",
+            "url": "https://github.com/iyashjayesh/goscaf",
+            "description": "goscaf generates opinionated, production-quality Go project boilerplate via an interactive CLI. Stop copy-pasting skeleton code between projects.",
+            "tags": []
+          },
+          {
             "name": "lazyenv",
             "url": "https://github.com/lazynop/lazyenv",
             "description": "TUI for browsing, comparing, and editing .env files.",
@@ -12649,15 +12649,15 @@
             "tags": []
           },
           {
-            "name": "yacspin",
-            "url": "https://github.com/theckman/yacspin",
-            "description": "Yet Another CLi Spinner package, for working with terminal spinners.",
+            "name": "vhs",
+            "url": "https://github.com/charmbracelet/vhs",
+            "description": "Your CLI home video recorder - generate terminal GIFs from code for documentation and tutorials.",
             "tags": []
           },
           {
-            "name": "goscaf",
-            "url": "https://github.com/iyashjayesh/goscaf",
-            "description": "goscaf generates opinionated, production-quality Go project boilerplate via an interactive CLI. Stop copy-pasting skeleton code between projects.",
+            "name": "yacspin",
+            "url": "https://github.com/theckman/yacspin",
+            "description": "Yet Another CLi Spinner package, for working with terminal spinners.",
             "tags": []
           }
         ]
@@ -13127,6 +13127,24 @@
             "tags": []
           },
           {
+            "name": "go-cfg",
+            "url": "https://github.com/dsbasko/go-cfg",
+            "description": "The library provides a unified way to read configuration data into a structure from various sources, such as env, flags, and configuration files (.json, .yaml, .toml, .env).",
+            "tags": []
+          },
+          {
+            "name": "go-conf",
+            "url": "https://github.com/ThomasObenaus/go-conf",
+            "description": "Simple library for application configuration based on annotated structs. It supports reading the configuration from environment variables, config files and command line parameters.",
+            "tags": []
+          },
+          {
+            "name": "go-config",
+            "url": "https://github.com/MordaTeam/go-config",
+            "description": "Simple and convenient library for working with app configurations.",
+            "tags": []
+          },
+          {
             "name": "go-external-config",
             "url": "https://github.com/go-external-config/go",
             "description": "Spring-inspired configuration management library for Go.",
@@ -13148,24 +13166,6 @@
             "name": "go-external-config/vault",
             "url": "https://github.com/go-external-config/vault",
             "description": "Vault property source support for go-external-config.",
-            "tags": []
-          },
-          {
-            "name": "go-cfg",
-            "url": "https://github.com/dsbasko/go-cfg",
-            "description": "The library provides a unified way to read configuration data into a structure from various sources, such as env, flags, and configuration files (.json, .yaml, .toml, .env).",
-            "tags": []
-          },
-          {
-            "name": "go-conf",
-            "url": "https://github.com/ThomasObenaus/go-conf",
-            "description": "Simple library for application configuration based on annotated structs. It supports reading the configuration from environment variables, config files and command line parameters.",
-            "tags": []
-          },
-          {
-            "name": "go-config",
-            "url": "https://github.com/MordaTeam/go-config",
-            "description": "Simple and convenient library for working with app configurations.",
             "tags": []
           },
           {
@@ -14375,6 +14375,12 @@
             "tags": []
           },
           {
+            "name": "go-sqlite",
+            "url": "https://github.com/glebarez/go-sqlite",
+            "description": "\u2013 A Pure Golang implemented SQLite driver without CGO.",
+            "tags": []
+          },
+          {
             "name": "godis",
             "url": "https://github.com/hdt3213/godis",
             "description": "A Golang implemented high-performance Redis server and cluster.",
@@ -14444,6 +14450,12 @@
             "name": "Milvus",
             "url": "https://github.com/milvus-io/milvus",
             "description": "Milvus is a vector database for embedding management, analytics and search.",
+            "tags": []
+          },
+          {
+            "name": "minisql",
+            "url": "https://github.com/RichardKnop/minisql",
+            "description": "Embedded single file SQL database.",
             "tags": []
           },
           {
@@ -14570,12 +14582,6 @@
             "name": "VictoriaMetrics",
             "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
             "description": "fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL.",
-            "tags": []
-          },
-          {
-            "name": "minisql",
-            "url": "https://github.com/RichardKnop/minisql",
-            "description": "Embedded single file SQL database.",
             "tags": []
           }
         ]
@@ -14957,6 +14963,12 @@
             "name": "patcher",
             "url": "https://github.com/Jacobbrewer1/patcher",
             "description": "Powerful SQL Query builder that automatically generates SQL queries from structs.",
+            "tags": []
+          },
+          {
+            "name": "qrafter",
+            "url": "https://github.com/SennovE/qrafter",
+            "description": "Type-safe SQL query builder with dialect-aware rendering, schema introspection, and migration generation.",
             "tags": []
           },
           {
@@ -15431,8 +15443,8 @@
           },
           {
             "name": "skizze",
-            "url": "https://github.com/seiflotfy/skizze",
-            "description": "probabilistic data-structures service and storage.",
+            "url": "https://github.com/skizzehq/skizze",
+            "description": "A probabilistic data structure service and storage.",
             "tags": []
           },
           {
@@ -15863,12 +15875,6 @@
             "name": "lura",
             "url": "https://github.com/luraproject/lura",
             "description": "Ultra performant API Gateway framework with middlewares.",
-            "tags": []
-          },
-          {
-            "name": "micro",
-            "url": "https://github.com/micro/micro",
-            "description": "A distributed systems runtime for the cloud and beyond.",
             "tags": []
           },
           {
@@ -16408,12 +16414,6 @@
             "tags": []
           },
           {
-            "name": "go-errr",
-            "url": "https://github.com/go-errr/go",
-            "description": "Error handling library with Catch/Recover semantics, wrapped error chains, and stack traces for Go.",
-            "tags": []
-          },
-          {
             "name": "Falcon",
             "url": "https://github.com/SonicRoshan/falcon",
             "description": "A Simple Yet Highly Powerful Package For Error Handling.",
@@ -16423,6 +16423,12 @@
             "name": "Fault",
             "url": "https://github.com/Southclaws/fault",
             "description": "An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values.",
+            "tags": []
+          },
+          {
+            "name": "go-errr",
+            "url": "https://github.com/go-errr/go",
+            "description": "Error handling library with Catch/Recover semantics, wrapped error chains, and stack traces for Go.",
             "tags": []
           },
           {
@@ -16709,12 +16715,6 @@
             "name": "go-money",
             "url": "https://github.com/rhymond/go-money",
             "description": "Implementation of Fowler's Money pattern.",
-            "tags": []
-          },
-          {
-            "name": "coinpaprika-api-go-client",
-            "url": "https://github.com/coinpaprika/coinpaprika-api-go-client",
-            "description": "Go client for the CoinPaprika cryptocurrency market data API.",
             "tags": []
           },
           {
@@ -17140,6 +17140,12 @@
             "tags": []
           },
           {
+            "name": "go-apispec",
+            "url": "https://github.com/antst/go-apispec",
+            "description": "Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection.",
+            "tags": []
+          },
+          {
             "name": "go-enum",
             "url": "https://github.com/abice/go-enum",
             "description": "Code generation for enums from code comments.",
@@ -17149,12 +17155,6 @@
             "name": "go-enum-encoding",
             "url": "https://github.com/nikolaydubina/go-enum-encoding",
             "description": "Code generation for enum encoding from code comments.",
-            "tags": []
-          },
-          {
-            "name": "go-apispec",
-            "url": "https://github.com/antst/go-apispec",
-            "description": "Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection.",
             "tags": []
           },
           {
@@ -17413,6 +17413,12 @@
             "tags": []
           },
           {
+            "name": "autopool",
+            "url": "https://github.com/AshvinBambhaniya/autopool",
+            "description": "Zero-config, auto-scaling worker pool for Go with priority-aware scheduling.",
+            "tags": []
+          },
+          {
             "name": "breaker",
             "url": "https://github.com/kamilsk/breaker",
             "description": "Flexible mechanism to make execution flow interruptible.",
@@ -17668,12 +17674,6 @@
             "name": "workerpool",
             "url": "https://github.com/gammazero/workerpool",
             "description": "Goroutine pool that limits the concurrency of task execution, not the number of tasks queued.",
-            "tags": []
-          },
-          {
-            "name": "autopool",
-            "url": "https://github.com/AshvinBambhaniya/autopool",
-            "description": "Zero-config, auto-scaling worker pool for Go with priority-aware scheduling.",
             "tags": []
           }
         ]
@@ -20491,6 +20491,12 @@
         "name": "Morphological Analyzers",
         "resources": [
           {
+            "name": "go-propisyu",
+            "url": "https://github.com/rekurt/go-propisyu",
+            "description": "Convert numbers to Russian words with correct grammatical gender and noun declension.",
+            "tags": []
+          },
+          {
             "name": "go-stem",
             "url": "https://github.com/agonopol/go-stem",
             "description": "Implementation of the porter stemming algorithm.",
@@ -20500,12 +20506,6 @@
             "name": "go2vec",
             "url": "https://github.com/danieldk/go2vec",
             "description": "Reader and utility functions for word2vec embeddings.",
-            "tags": []
-          },
-          {
-            "name": "go-propisyu",
-            "url": "https://github.com/rekurt/go-propisyu",
-            "description": "Convert numbers to Russian words with correct grammatical gender and noun declension.",
             "tags": []
           },
           {
@@ -20858,6 +20858,12 @@
             "tags": []
           },
           {
+            "name": "fibersse",
+            "url": "https://github.com/vinod-morya/fibersse",
+            "description": "Production-grade Server-Sent Events (SSE) for Fiber v3 with event coalescing, priority lanes, topic wildcards, adaptive throttling, and built-in auth.",
+            "tags": []
+          },
+          {
             "name": "fortio",
             "url": "https://github.com/fortio/fortio",
             "description": "Load testing library and command line tool, advanced echo server and web UI. Allows to specify a set query-per-second load and record latency histograms and other useful stats and graph them. Tcp, Http, gRPC.",
@@ -20960,12 +20966,6 @@
             "tags": []
           },
           {
-            "name": "fibersse",
-            "url": "https://github.com/vinod-morya/fibersse",
-            "description": "Production-grade Server-Sent Events (SSE) for Fiber v3 with event coalescing, priority lanes, topic wildcards, adaptive throttling, and built-in auth.",
-            "tags": []
-          },
-          {
             "name": "go-stun",
             "url": "https://github.com/ccding/go-stun",
             "description": "Go implementation of the STUN client (RFC 3489 and RFC 5389).",
@@ -21059,12 +21059,6 @@
             "name": "kcp-go",
             "url": "https://github.com/xtaci/kcp-go",
             "description": "KCP - Fast and Reliable ARQ Protocol.",
-            "tags": []
-          },
-          {
-            "name": "kcptun",
-            "url": "https://github.com/xtaci/kcptun",
-            "description": "Extremely simple & fast udp tunnel based on KCP protocol.",
             "tags": []
           },
           {
@@ -22216,15 +22210,15 @@
             "tags": []
           },
           {
-            "name": "canery",
-            "url": "https://github.com/rluders/canery",
-            "description": "Minimal, stateless authorization engine with a pluggable evaluation model.",
-            "tags": []
-          },
-          {
             "name": "Cameradar",
             "url": "https://github.com/Ullaakut/cameradar",
             "description": "Tool and library to remotely hack RTSP streams from surveillance cameras.",
+            "tags": []
+          },
+          {
+            "name": "canery",
+            "url": "https://github.com/rluders/canery",
+            "description": "Minimal, stateless authorization engine with a pluggable evaluation model.",
             "tags": []
           },
           {
@@ -22755,8 +22749,8 @@
           },
           {
             "name": "minio",
-            "url": "https://github.com/minio/minio",
-            "description": "Minio is a distributed object storage server.",
+            "url": "https://github.com/pgsty/minio",
+            "description": "Community Maintained Fork of minio (Object Storage Service).",
             "tags": []
           },
           {
@@ -22835,12 +22829,6 @@
             "name": "Wish",
             "url": "https://github.com/charmbracelet/wish",
             "description": "Make SSH apps, just like that!",
-            "tags": []
-          },
-          {
-            "name": "Kono",
-            "url": "https://github.com/starwalkn/kono",
-            "description": "lightweight extendable API Gateway in Go - parallel fan-out, flexible aggregation, and zero configuration magic.",
             "tags": []
           }
         ]
@@ -23297,12 +23285,6 @@
             "tags": []
           },
           {
-            "name": "Gont",
-            "url": "https://github.com/stv0g/gont",
-            "description": "Go network testing toolkit for testing building complex network topologies using Linux namespaces.",
-            "tags": []
-          },
-          {
             "name": "gospecify",
             "url": "https://github.com/stesla/gospecify",
             "description": "This provides a BDD syntax for testing your Go code. It should be familiar to anybody who has used libraries such as rspec.",
@@ -23330,6 +23312,12 @@
             "name": "Hamcrest",
             "url": "https://github.com/rdrdr/hamcrest",
             "description": "fluent framework for declarative Matcher objects that, when applied to input values, produce self-describing results.",
+            "tags": []
+          },
+          {
+            "name": "httper",
+            "url": "https://github.com/gustofarbi/httper",
+            "description": "CLI runner for JetBrains .http files with scripting, assertions, gRPC, and load testing.",
             "tags": []
           },
           {
@@ -23463,12 +23451,6 @@
       {
         "name": "Mock",
         "resources": [
-          {
-            "name": "connexions",
-            "url": "https://github.com/cubahno/connexions",
-            "description": "Combine multiple APIs with meaningful responses, configurable latency and error codes based on OpenAPI 3.0 specifications and files.",
-            "tags": []
-          },
           {
             "name": "counterfeiter",
             "url": "https://github.com/maxbrunsfeld/counterfeiter",
@@ -23848,12 +23830,6 @@
             "tags": []
           },
           {
-            "name": "encdec",
-            "url": "https://github.com/mickep76/encdec",
-            "description": "Package provides a generic interface to encoders and decoders.",
-            "tags": []
-          },
-          {
             "name": "go-fasttld",
             "url": "https://github.com/elliotwutingfeng/go-fasttld",
             "description": "High performance effective top level domains (eTLD) extraction module.",
@@ -24205,12 +24181,6 @@
             "name": "circleci",
             "url": "https://github.com/jszwedko/go-circleci",
             "description": "Go client library for interacting with CircleCI's API.",
-            "tags": []
-          },
-          {
-            "name": "clarifai",
-            "url": "https://github.com/samuelcouch/clarifai",
-            "description": "Go client library for interfacing with the Clarifai API.",
             "tags": []
           },
           {
@@ -26237,15 +26207,15 @@
             "tags": []
           },
           {
-            "name": "manifestor",
-            "url": "https://github.com/alanzng/manifestor",
-            "description": "Zero-dependency library for parsing, filtering, transforming, and building HLS and DASH manifests.",
-            "tags": []
-          },
-          {
             "name": "libvlc-go",
             "url": "https://github.com/adrg/libvlc-go",
             "description": "Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player).",
+            "tags": []
+          },
+          {
+            "name": "manifestor",
+            "url": "https://github.com/alanzng/manifestor",
+            "description": "Zero-dependency library for parsing, filtering, transforming, and building HLS and DASH manifests.",
             "tags": []
           },
           {
@@ -26374,12 +26344,6 @@
             "tags": []
           },
           {
-            "name": "golamb",
-            "url": "https://github.com/twharmon/golamb",
-            "description": "Golamb makes it easier to write API endpoints for use with AWS Lambda and API Gateway.",
-            "tags": []
-          },
-          {
             "name": "Gone",
             "url": "https://github.com/gone-io/gone",
             "description": "A lightweight dependency injection and web framework inspired by Spring.",
@@ -26410,15 +26374,15 @@
             "tags": []
           },
           {
-            "name": "Huma",
-            "url": "https://github.com/danielgtaylor/huma/",
-            "description": "Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.",
-            "tags": []
-          },
-          {
             "name": "httpsuite",
             "url": "https://github.com/rluders/httpsuite",
             "description": "HTTP request parsing and RFC 9457 problem responses for Go, with a stdlib-only core and optional validation.",
+            "tags": []
+          },
+          {
+            "name": "Huma",
+            "url": "https://github.com/danielgtaylor/huma/",
+            "description": "Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.",
             "tags": []
           },
           {
@@ -26437,6 +26401,12 @@
             "name": "Microservice",
             "url": "https://github.com/claygod/microservice",
             "description": "The framework for the creation of microservices, written in Golang.",
+            "tags": []
+          },
+          {
+            "name": "NotNet",
+            "url": "https://github.com/nottechdm/notnet",
+            "description": "A lightweight Go framework for building fast, ergonomic RESTful APIs with middleware and flexible routing.",
             "tags": []
           },
           {
@@ -26503,12 +26473,6 @@
             "name": "Yokai",
             "url": "https://github.com/ankorstore/yokai",
             "description": "Simple, modular, and observable Go framework for backend applications.",
-            "tags": []
-          },
-          {
-            "name": "NotNet",
-            "url": "https://github.com/nottechdm/notnet",
-            "description": "A lightweight Go framework for building fast, ergonomic RESTful APIs with middleware and flexible routing.",
             "tags": []
           }
         ]
@@ -26886,15 +26850,15 @@
         "name": "Webhooks Server",
         "resources": [
           {
-            "name": "webhook",
-            "url": "https://github.com/adnanh/webhook",
-            "description": "Tool which allows user to create HTTP endpoints (hooks) that execute commands on the server.",
-            "tags": []
-          },
-          {
             "name": "HookRun",
             "url": "https://github.com/bluvenr/hookrun",
             "description": "Lightweight webhook action engine (~3MB single binary, zero deps) that executes commands and scripts from YAML rules with token/HMAC/IP auth and hot reload.",
+            "tags": []
+          },
+          {
+            "name": "webhook",
+            "url": "https://github.com/adnanh/webhook",
+            "description": "Tool which allows user to create HTTP endpoints (hooks) that execute commands on the server.",
             "tags": []
           },
           {
@@ -28149,15 +28113,15 @@
             "tags": []
           },
           {
-            "name": "tickstem/uptime",
-            "url": "https://github.com/tickstem/uptime",
-            "description": "Go client for HTTP uptime monitoring with SSL expiry alerts and configurable response assertions.",
-            "tags": []
-          },
-          {
             "name": "tf-profile",
             "url": "https://github.com/datarootsio/tf-profile",
             "description": "Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.",
+            "tags": []
+          },
+          {
+            "name": "tickstem/uptime",
+            "url": "https://github.com/tickstem/uptime",
+            "description": "Go client for HTTP uptime monitoring with SSL expiry alerts and configurable response assertions.",
             "tags": []
           },
           {
@@ -28762,12 +28726,6 @@
             "name": "golang-benchmarks",
             "url": "https://github.com/SimonWaldherr/golang-benchmarks",
             "description": "a collection of golang benchmarks.",
-            "tags": []
-          },
-          {
-            "name": "golang-sql-benchmark",
-            "url": "https://github.com/tyler-smith/golang-sql-benchmark",
-            "description": "Collection of benchmarks for popular Go database/SQL utilities.",
             "tags": []
           },
           {
@@ -29593,14 +29551,14 @@
         "name": "Style Guides",
         "resources": [
           {
-            "name": "bahlo/go-styleguide",
-            "url": "https://github.com/bahlo/go-styleguide",
+            "name": "CockroachDB",
+            "url": "https://github.com/cockroachdb/cockroach/blob/master/docs/style.md",
             "description": "",
             "tags": []
           },
           {
-            "name": "CockroachDB",
-            "url": "https://github.com/cockroachdb/cockroach/blob/master/docs/style.md",
+            "name": "enra/go-styleguide",
+            "url": "https://codeberg.org/enra/go-styleguide",
             "description": "",
             "tags": []
           },
@@ -74822,6 +74780,12 @@
             "name": "aaif-goose/goose",
             "url": "https://github.com/aaif-goose/goose",
             "description": "An open-source, local AI agent that automates engineering tasks.",
+            "tags": []
+          },
+          {
+            "name": "agavra/tuicr",
+            "url": "https://github.com/agavra/tuicr",
+            "description": "[ tuicr ] - Code review TUI with vim keybindings. Continuous diff viewer, PR-style comments, and export to GitHub/GitLab/clipboard. Supports git, jj, and mercurial.",
             "tags": []
           },
           {
