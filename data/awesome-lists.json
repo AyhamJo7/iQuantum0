@@ -22391,7 +22391,7 @@
           },
           {
             "name": "pii-shield",
-            "url": "https://github.com/aragossa/pii-shield",
+            "url": "https://github.com/pii-shield/pii-shield",
             "description": "Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.",
             "tags": []
           },
@@ -63545,7 +63545,7 @@
           },
           {
             "name": "Faved",
-            "url": "https://faved.dev/",
+            "url": "https://faved.to/",
             "description": "Handcrafted bookmark manager combining powerful tagging, instant search, and a clean, distraction-free interface. Built for large collections and advanced workflows, optimized for efficiency and ease-of-use. ( Demo , Source Code ) MIT Docker",
             "tags": []
           },
@@ -66074,6 +66074,12 @@
             "name": "Safebucket",
             "url": "https://docs.safebucket.io/",
             "description": "File sharing platform with pluggable infrastructure, where uploads and downloads go directly between clients and S3-compatible storage. ( Source Code ) Apache-2.0 Go/Docker",
+            "tags": []
+          },
+          {
+            "name": "sE2EEnd",
+            "url": "https://github.com/sE2EEnd/sE2EEnd",
+            "description": "End-to-end encrypted file sharing with password protection, download limits, and auto-expiration, integrated with Keycloak for authentication. AGPL-3.0 Docker",
             "tags": []
           },
           {
