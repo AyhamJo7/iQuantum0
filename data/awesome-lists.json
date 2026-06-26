@@ -25023,6 +25023,12 @@
             "tags": []
           },
           {
+            "name": "gh-image",
+            "url": "https://github.com/drogers0/gh-image",
+            "description": "A gh CLI extension that uploads images to GitHub issues, PRs, and READMEs from the command line, producing user-attachments URLs that respect repository visibility.",
+            "tags": []
+          },
+          {
             "name": "ghokin",
             "url": "https://github.com/antham/ghokin",
             "description": "Parallelized formatter with no external dependencies for gherkin (cucumber, behat...).",
@@ -25770,6 +25776,12 @@
             "name": "sorty",
             "url": "https://github.com/jfcg/sorty",
             "description": "Fast Concurrent / Parallel Sorting.",
+            "tags": []
+          },
+          {
+            "name": "sqlex",
+            "url": "https://github.com/go-sqlex/sqlex",
+            "description": "Drop-in modernization of jmoiron/sqlx with fixed SQL lexer bugs, automatic IN-clause expansion, pluggable hooks, and unified DB/Tx/Conn interfaces.",
             "tags": []
           },
           {
