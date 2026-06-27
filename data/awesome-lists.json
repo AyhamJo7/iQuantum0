@@ -8574,6 +8574,12 @@
             "tags": []
           },
           {
+            "name": "VoxFlow",
+            "url": "https://github.com/xingbofeng/VoxFlow",
+            "description": "Open-source voice input workspace with local and cloud ASR, OCR, history, and coding-agent workflows.",
+            "tags": []
+          },
+          {
             "name": "Voxt",
             "url": "https://github.com/hehehai/voxt",
             "description": "Hold-to-talk voice input tool with AI transcription rules per app and URL, and built-in translation.",
