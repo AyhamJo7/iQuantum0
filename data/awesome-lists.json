@@ -6991,7 +6991,7 @@
           },
           {
             "name": "Screenpipe",
-            "url": "https://github.com/mediar-ai/screenpipe",
+            "url": "https://github.com/screenpipe/screenpipe",
             "description": "Local screen and microphone recorder with AI search.",
             "tags": []
           },
@@ -7273,6 +7273,12 @@
             "name": "Claude God",
             "url": "https://claudegod.app",
             "description": "Monitor Claude usage, costs, and session stats.",
+            "tags": []
+          },
+          {
+            "name": "Claude Usage",
+            "url": "https://github.com/Bread-bang/claude-usage",
+            "description": "Menu bar app for Claude Code that keeps per-pane context (in the status line) and session/weekly usage always visible \u2014 no usage or context command to run.",
             "tags": []
           },
           {
@@ -9336,6 +9342,12 @@
             "name": "ClipFlow",
             "url": "https://github.com/praneeth552/clipflow",
             "description": "Free clipboard history manager with terminal-style navigation.",
+            "tags": []
+          },
+          {
+            "name": "Pesty",
+            "url": "https://github.com/momenbasel/pesty",
+            "description": "Free and open-source clipboard manager inspired by Paste, with a slide-up color-coded strip, pinboards, and search.",
             "tags": []
           }
         ]
@@ -12514,6 +12526,12 @@
             "name": "go-prompt",
             "url": "https://github.com/c-bata/go-prompt",
             "description": "Library for building a powerful interactive prompt, inspired by python-prompt-toolkit .",
+            "tags": []
+          },
+          {
+            "name": "go-tui",
+            "url": "https://github.com/grindlemire/go-tui",
+            "description": "A declarative terminal UI framework with templ-like templates, flexbox layout, and a language server for editor support.",
             "tags": []
           },
           {
@@ -21119,6 +21137,12 @@
             "name": "net",
             "url": "https://golang.org/x/net",
             "description": "This repository holds supplementary Go networking libraries.",
+            "tags": []
+          },
+          {
+            "name": "nethawk",
+            "url": "https://github.com/Flowtriq/nethawk",
+            "description": "Terminal UI for real-time network traffic capture, analysis, and attack detection with JSON output mode.",
             "tags": []
           },
           {
@@ -45159,6 +45183,12 @@
             "tags": []
           },
           {
+            "name": "HashSmith",
+            "url": "https://github.com/bluuewhale/hash-smith",
+            "description": "Hash map and set implementations using SwissTable-style SWAR/SIMD control-byte probing, optimized for memory efficiency.",
+            "tags": []
+          },
+          {
             "name": "Persistent Collection",
             "url": "https://github.com/hrldcpr/pcollections",
             "description": "Persistent and immutable analogue of the Java Collections Framework.",
@@ -47921,6 +47951,12 @@
             "tags": []
           },
           {
+            "name": "jquick-pdf",
+            "url": "https://github.com/paohaijiao/jquick-pdf",
+            "description": "Generates PDFs from HTML-like templates and ECharts-style charts using iText 7, without a browser dependency.",
+            "tags": []
+          },
+          {
             "name": "Open HTML to PDF",
             "url": "https://github.com/openhtmltopdf/openhtmltopdf",
             "description": "Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.",
@@ -50358,6 +50394,12 @@
             "name": "diffusers",
             "url": "https://github.com/huggingface/diffusers",
             "description": "A library that provides pre-trained diffusion models for generating and editing images, audio, and video.",
+            "tags": []
+          },
+          {
+            "name": "LiteLLM",
+            "url": "https://github.com/BerriAI/litellm",
+            "description": "Call 100+ LLMs using OpenAI format.",
             "tags": []
           },
           {
@@ -90965,6 +91007,12 @@
       {
         "name": "Markup language",
         "resources": [
+          {
+            "name": "bruits/satteri",
+            "url": "https://github.com/bruits/satteri",
+            "description": "[ satteri ] - High-performance Markdown and MDX processing. Parses and compiles in Rust, runs plugins in JavaScript. Includes CommonMark parser with MDX extensions, MDAST/HAST tree operations, and NAPI bindings for JavaScript interop.",
+            "tags": []
+          },
           {
             "name": "pulldown-cmark/pulldown-cmark",
             "url": "https://github.com/pulldown-cmark/pulldown-cmark",
