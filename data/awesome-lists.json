@@ -12220,6 +12220,12 @@
             "tags": []
           },
           {
+            "name": "pactus",
+            "url": "https://github.com/pactus-project/pactus",
+            "description": "A full-node implementation of the Pactus blockchain in Go.",
+            "tags": []
+          },
+          {
             "name": "solana-go",
             "url": "https://github.com/gagliardetto/solana-go",
             "description": "Go library to interface with Solana JSON RPC and WebSocket interfaces.",
@@ -75220,12 +75226,6 @@
             "tags": []
           },
           {
-            "name": "Github Ntfy",
-            "url": "https://github.com/BreizhHardware/ntfy_alerts",
-            "description": "\u26a0 - Push notifications to NTFY, Gotify, Discord or Slack when a new release is available on Docker Hub or Github. ( Clients ) GPL-3.0 Rust/Docker",
-            "tags": []
-          },
-          {
             "name": "gocron",
             "url": "https://github.com/flohoss/gocron",
             "description": "Task scheduler that allows users to specify recurring jobs via a simple YAML configuration file. MIT Docker",
@@ -76664,12 +76664,6 @@
             "name": "ACP Admin",
             "url": "https://acp-admin.ch/",
             "description": "CSA administration. Manage members, subscriptions, deliveries, drop-off locations, member participation, invoices and emails (documentation in French). ( Source Code ) MIT Ruby",
-            "tags": []
-          },
-          {
-            "name": "E-Label",
-            "url": "https://filipecarneiro.github.io/ELabel/",
-            "description": "Solution for electronic labels, with QR Codes, on wine bottles sold within the European Union. ( Source Code ) MIT Docker",
             "tags": []
           },
           {
