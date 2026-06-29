@@ -11815,6 +11815,12 @@
             "tags": []
           },
           {
+            "name": "skillreaper",
+            "url": "https://github.com/thousandflowers/skillreaper",
+            "description": "CLI that scans AI agent session transcripts to identify and safely quarantine unused skills, MCP servers, and agents across Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and OpenClaw.",
+            "tags": []
+          },
+          {
             "name": "trpc-agent-go",
             "url": "https://github.com/trpc-group/trpc-agent-go",
             "description": "Framework for building LLM-based multi-agent systems.",
@@ -22489,6 +22495,12 @@
             "name": "secureio",
             "url": "https://github.com/xaionaro-go/secureio",
             "description": "An keyexchanging+authenticating+encrypting wrapper and multiplexer for io.ReadWriteCloser based on XChaCha20-poly1305, ECDH and ED25519.",
+            "tags": []
+          },
+          {
+            "name": "Sentinel",
+            "url": "https://github.com/sentinel-cli/sentinel",
+            "description": "Local pre-commit secret scanner using an Aho-Corasick automaton.",
             "tags": []
           },
           {
@@ -85430,7 +85442,7 @@
           {
             "name": "ataraxy-labs/sem",
             "url": "https://github.com/ataraxy-labs/sem",
-            "description": "Entity-level semantic version control CLI. Diff, blame, graph, and impact analysis at the function/class level across 26 languages via tree-sitter.",
+            "description": "Entity-level semantic version control CLI. Diff, blame, graph, and impact analysis at the function/class level across 32 languages via tree-sitter.",
             "tags": []
           },
           {
