@@ -5035,6 +5035,12 @@
             "tags": []
           },
           {
+            "name": "Orca",
+            "url": "https://onorca.dev",
+            "description": "An open-source IDE for running parallel AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode), each in its own isolated git worktree.",
+            "tags": []
+          },
+          {
             "name": "Trae",
             "url": "https://www.trae.ai/",
             "description": "AI-powered IDE for coding and software development.",
@@ -50498,15 +50504,15 @@
             "tags": []
           },
           {
-            "name": "pytorch-lightning",
-            "url": "https://github.com/Lightning-AI/pytorch-lightning",
-            "description": "Deep learning framework to train, deploy, and ship AI products Lightning fast.",
-            "tags": []
-          },
-          {
             "name": "pytorch",
             "url": "https://github.com/pytorch/pytorch",
             "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration.",
+            "tags": []
+          },
+          {
+            "name": "pytorch-lightning",
+            "url": "https://github.com/Lightning-AI/pytorch-lightning",
+            "description": "Deep learning framework to train, deploy, and ship AI products Lightning fast.",
             "tags": []
           },
           {
@@ -50552,7 +50558,7 @@
           },
           {
             "name": "mindsdb",
-            "url": "https://github.com/mindsdb/minds-platform",
+            "url": "https://github.com/mindsdb/minds",
             "description": "MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.",
             "tags": []
           },
@@ -50981,7 +50987,7 @@
           {
             "name": "authlib",
             "url": "https://github.com/authlib/authlib",
-            "description": "JavaScript Object Signing and Encryption draft implementation.",
+            "description": "A comprehensive library for building OAuth, OpenID Connect, and JWT/JWS/JWE/JWK/JWA.",
             "tags": []
           },
           {
@@ -51424,6 +51430,12 @@
             "url": "https://github.com/zopefoundation/ZODB",
             "description": "A native object database for Python. A key-value and object graph database.",
             "tags": []
+          },
+          {
+            "name": "zvec",
+            "url": "https://github.com/alibaba/zvec",
+            "description": "An embedded vector database for on-device RAG and edge AI, the SQLite of vector databases.",
+            "tags": []
           }
         ]
       },
@@ -51512,15 +51524,15 @@
             "tags": []
           },
           {
-            "name": "datasette",
-            "url": "https://github.com/simonw/datasette",
-            "description": "An open source multi-tool for exploring and publishing data.",
-            "tags": []
-          },
-          {
             "name": "data-profiling",
             "url": "https://github.com/Data-Centric-AI-Community/fg-data-profiling",
             "description": "Generate detailed data profiling reports for pandas DataFrames.",
+            "tags": []
+          },
+          {
+            "name": "datasette",
+            "url": "https://github.com/simonw/datasette",
+            "description": "An open source multi-tool for exploring and publishing data.",
             "tags": []
           },
           {
@@ -52322,6 +52334,12 @@
             "tags": []
           },
           {
+            "name": "doit",
+            "url": "https://github.com/pydoit/doit",
+            "description": "A task runner and build tool.",
+            "tags": []
+          },
+          {
             "name": "invoke",
             "url": "https://github.com/pyinvoke/invoke",
             "description": "A tool for managing shell-oriented subprocesses and organizing executable Python code into CLI-invokable tasks.",
@@ -52340,12 +52358,6 @@
             "tags": []
           },
           {
-            "name": "doit",
-            "url": "https://github.com/pydoit/doit",
-            "description": "A task runner and build tool.",
-            "tags": []
-          },
-          {
             "name": "scons",
             "url": "https://github.com/SCons/scons",
             "description": "A software construction tool.",
@@ -52356,18 +52368,6 @@
       {
         "name": "Documentation",
         "resources": [
-          {
-            "name": "sphinx",
-            "url": "https://github.com/sphinx-doc/sphinx/",
-            "description": "Python Documentation generator.",
-            "tags": []
-          },
-          {
-            "name": "awesome-sphinxdoc",
-            "url": "https://github.com/ygzgxyz/awesome-sphinxdoc",
-            "description": "",
-            "tags": []
-          },
           {
             "name": "diagrams",
             "url": "https://github.com/mingrammer/diagrams",
@@ -52384,6 +52384,18 @@
             "name": "pdoc",
             "url": "https://github.com/mitmproxy/pdoc",
             "description": "Epydoc replacement to auto generate API documentation for Python libraries.",
+            "tags": []
+          },
+          {
+            "name": "sphinx",
+            "url": "https://github.com/sphinx-doc/sphinx/",
+            "description": "Python Documentation generator.",
+            "tags": []
+          },
+          {
+            "name": "awesome-sphinxdoc",
+            "url": "https://github.com/ygzgxyz/awesome-sphinxdoc",
+            "description": "",
             "tags": []
           }
         ]
@@ -52899,6 +52911,12 @@
             "tags": []
           },
           {
+            "name": "buridan/ui",
+            "url": "https://github.com/LineIndent/ui",
+            "description": "Composable, themeable components designed for Reflex. Extend, override, and ship without fighting the framework. Open source.",
+            "tags": []
+          },
+          {
             "name": "flet",
             "url": "https://github.com/flet-dev/flet",
             "description": "Cross-platform GUI framework for building modern apps in pure Python.",
@@ -53113,7 +53131,7 @@
           },
           {
             "name": "kreuzberg",
-            "url": "https://github.com/kreuzberg-dev/kreuzberg",
+            "url": "https://github.com/xberg-io/xberg",
             "description": "High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.",
             "tags": []
           },
@@ -81243,7 +81261,7 @@
           {
             "name": "Warpgate",
             "url": "https://github.com/warp-tech/warpgate",
-            "description": "Smart SSH and HTTPS bastion that works with any SSH client. Apache-2.0 Rust/Docker",
+            "description": "Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software. Apache-2.0 Rust/Docker",
             "tags": []
           }
         ]
@@ -83953,6 +83971,12 @@
             "tags": []
           },
           {
+            "name": "NoKV-Lab/NoKV",
+            "url": "https://github.com/NoKV-Lab/NoKV",
+            "description": "AI-native distributed filesystem.",
+            "tags": []
+          },
+          {
             "name": "noria",
             "url": "https://github.com/mit-pdos/noria",
             "description": "[ noria ] - Dynamically changing, partially-stateful data-flow for web application backends",
@@ -85402,6 +85426,12 @@
             "name": "concord",
             "url": "https://github.com/chojs23/concord",
             "description": "A feature-rich TUI client for Discord.",
+            "tags": []
+          },
+          {
+            "name": "Dorion",
+            "url": "https://github.com/SpikeHD/Dorion",
+            "description": "Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!",
             "tags": []
           },
           {
