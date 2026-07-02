@@ -6394,6 +6394,12 @@
             "tags": []
           },
           {
+            "name": "Vesta",
+            "url": "https://github.com/vestaterm/Vesta",
+            "description": "Native macOS terminal built on libghostty for running coding agents in parallel.",
+            "tags": []
+          },
+          {
             "name": "Warp",
             "url": "https://www.warp.dev",
             "description": "Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app.",
@@ -23530,6 +23536,12 @@
             "tags": []
           },
           {
+            "name": "fabricator",
+            "url": "https://github.com/Goldziher/fabricator",
+            "description": "Type-safe factories for generating mock and fake data in Go, inspired by factory_boy and interface-forge.",
+            "tags": []
+          },
+          {
             "name": "genmock",
             "url": "https://gitlab.com/so_literate/genmock",
             "description": "Go mocking system with code generator for building calls of the interface methods.",
@@ -25278,6 +25290,12 @@
             "name": "go-type",
             "url": "https://github.com/mikekonan/go-types",
             "description": "Library providing Go types for store/validation and transfer of ISO-4217, ISO-3166, and other types.",
+            "tags": []
+          },
+          {
+            "name": "go-utils",
+            "url": "https://github.com/Goldziher/go-utils",
+            "description": "Simple, performant generic utilities for Go inspired by JavaScript and Python (map, filter, reduce, and more).",
             "tags": []
           },
           {
@@ -53142,9 +53160,9 @@
             "tags": []
           },
           {
-            "name": "kreuzberg",
+            "name": "xberg",
             "url": "https://github.com/xberg-io/xberg",
-            "description": "High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.",
+            "description": "High-performance document intelligence library with a Rust core, extracting text, tables, and metadata from 97+ formats including PDF, Office, images (with OCR), HTML, email, and archives.",
             "tags": []
           },
           {
@@ -79993,6 +80011,12 @@
             "tags": []
           },
           {
+            "name": "re:Director",
+            "url": "https://re-director.github.io/",
+            "description": "Simple domain redirection management tool. ( Source Code ) Apache-2.0 Java/Docker",
+            "tags": []
+          },
+          {
             "name": "Reactive Resume",
             "url": "https://rxresu.me/",
             "description": "One-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. ( Demo , Source Code ) MIT Docker/Nodejs",
@@ -83929,6 +83953,12 @@
             "tags": []
           },
           {
+            "name": "Goldziher/scythe",
+            "url": "https://github.com/Goldziher/scythe",
+            "description": "Polyglot SQL compiler and linter that generates type-safe code from SQL with schema-aware linting.",
+            "tags": []
+          },
+          {
             "name": "GreptimeDB",
             "url": "https://github.com/grepTimeTeam/greptimedb/",
             "description": "An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.",
@@ -86133,6 +86163,12 @@
             "tags": []
           },
           {
+            "name": "Goldziher/uncomment",
+            "url": "https://github.com/Goldziher/uncomment",
+            "description": "[ uncomment ] - Blazingly fast CLI to remove comments from code using tree-sitter grammars.",
+            "tags": []
+          },
+          {
             "name": "grex",
             "url": "https://github.com/pemistahl/grex",
             "description": "A command-line tool and library for generating regular expressions from user-provided test cases",
@@ -88239,6 +88275,12 @@
             "name": "openai/harmony",
             "url": "https://github.com/openai/harmony",
             "description": "[ openai-harmony ] - Renderer for the harmony response format to be used with gpt-oss.",
+            "tags": []
+          },
+          {
+            "name": "xberg-io/liter-llm",
+            "url": "https://github.com/xberg-io/liter-llm",
+            "description": "[ liter-llm ] - Universal LLM API client for 142+ providers with a unified interface, streaming, and native bindings for 11 languages.",
             "tags": []
           },
           {
@@ -91531,6 +91573,12 @@
             "url": "https://github.com/tree-sitter/tree-sitter",
             "description": "A parser generator tool and an incremental parsing library geared towards programming tools",
             "tags": []
+          },
+          {
+            "name": "xberg-io/tree-sitter-language-pack",
+            "url": "https://github.com/xberg-io/tree-sitter-language-pack",
+            "description": "[ tree-sitter-language-pack ] - Pre-built tree-sitter grammars for 300+ languages with a unified parser API and bindings for 14 languages.",
+            "tags": []
           }
         ]
       },
@@ -91925,12 +91973,6 @@
             "tags": []
           },
           {
-            "name": "kreuzberg-dev/kreuzberg",
-            "url": "https://github.com/kreuzberg-dev/kreuzberg",
-            "description": "[ kreuzberg ] - Document intelligence library that extracts text, tables, and metadata from 62+ formats (PDF, Office, images with OCR, HTML, email, archives)",
-            "tags": []
-          },
-          {
             "name": "Lucretiel/joinery",
             "url": "https://github.com/Lucretiel/joinery",
             "description": "[ joinery ] - Generic string + iterable joining",
@@ -91970,6 +92012,18 @@
             "name": "strsim-rs",
             "url": "https://crates.io/crates/strsim",
             "description": "String similarity metrics",
+            "tags": []
+          },
+          {
+            "name": "xberg-io/html-to-markdown",
+            "url": "https://github.com/xberg-io/html-to-markdown",
+            "description": "[ html-to-markdown-rs ] - Fast, CommonMark-compliant HTML to Markdown converter with a Rust core and bindings for 12 languages.",
+            "tags": []
+          },
+          {
+            "name": "xberg-io/xberg",
+            "url": "https://github.com/xberg-io/xberg",
+            "description": "[ xberg ] - Document intelligence library that extracts text, tables, and metadata from 97+ formats (PDF, Office, images with OCR, HTML, email, archives), with bindings for 11 languages.",
             "tags": []
           },
           {
