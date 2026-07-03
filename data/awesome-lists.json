@@ -1674,6 +1674,12 @@
             "tags": []
           },
           {
+            "name": "Self Hosted Runner",
+            "url": "https://github.com/youssefbrr/self-hosted-runner",
+            "description": "Dockerized solution for setting up a self-hosted GitHub Actions runner with support for Linux, macOS, and Windows.",
+            "tags": []
+          },
+          {
             "name": "Semaphore CI",
             "url": "https://semaphore.io/",
             "description": ":yen: High-performance cloud CI that builds, tests and ships containers to production.",
@@ -18718,6 +18724,12 @@
             "name": "omg.jsonparser",
             "url": "https://github.com/dedalqq/omg.jsonparser",
             "description": "Simple JSON parser with validation by condition via golang struct fields tags.",
+            "tags": []
+          },
+          {
+            "name": "silentjson",
+            "url": "https://github.com/GenshIv/silentjson",
+            "description": "Zero-allocation JSON boundary scanner and splitter utilizing AVX2 SIMD instructions.",
             "tags": []
           },
           {
@@ -80898,7 +80910,7 @@
           },
           {
             "name": "Ente",
-            "url": "https://ente.io/",
+            "url": "https://ente.com/",
             "description": "An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ( Source Code ) AGPL-3.0 Docker/Nodejs/Go",
             "tags": []
           },
@@ -85162,6 +85174,12 @@
             "tags": []
           },
           {
+            "name": "ogulcancelik/herdr",
+            "url": "https://github.com/ogulcancelik/herdr",
+            "description": "Terminal multiplexer designed for AI coding agents. Run multiple agents in one terminal with real terminal views, agent state detection (blocked/working/done), workspaces, tabs, and persistent sessions. Single Rust binary with detach/reattach support.",
+            "tags": []
+          },
+          {
             "name": "pier-cli/pier",
             "url": "https://github.com/pier-cli/pier",
             "description": "A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs",
@@ -88191,6 +88209,12 @@
             "name": "Mottl/lightgb3-rs",
             "url": "https://github.com/Mottl/lightgbm3-rs",
             "description": "Bindings for LightGBM",
+            "tags": []
+          },
+          {
+            "name": "openinfer-project/openinfer",
+            "url": "https://github.com/openinfer-project/openinfer",
+            "description": "LLM inference engine in pure Rust + CUDA with no PyTorch and no Python runtime \u2014 OpenAI-compatible API, paged KV cache, CUDA Graph, serving models from Qwen3 to the trillion-parameter Kimi-K2.",
             "tags": []
           },
           {
