@@ -21433,6 +21433,12 @@
             "tags": []
           },
           {
+            "name": "impersonate-http",
+            "url": "https://github.com/North-web-dev/impersonate-http",
+            "description": "Drop-in net/http.Client with a byte-exact browser TLS (JA3/JA4) and HTTP/2 (Akamai) fingerprint.",
+            "tags": []
+          },
+          {
             "name": "pester",
             "url": "https://github.com/sethgrid/pester",
             "description": "Go HTTP client calls with retries, backoff, and concurrency.",
@@ -28568,6 +28574,12 @@
             "tags": []
           },
           {
+            "name": "LightCMS",
+            "url": "https://github.com/jonradoff/lightcms",
+            "description": "Self-hosted content management system with static page generation, role-based access control, and an MCP server for agent-driven content operations.",
+            "tags": []
+          },
+          {
             "name": "limetext",
             "url": "https://limetext.github.io",
             "description": "Lime Text is a powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text.",
@@ -32054,6 +32066,12 @@
             "name": "BeeCrypt",
             "url": "http://beecrypt.sourceforge.net/",
             "description": "A portable and fast cryptography library. [LGPLv2.1+]",
+            "tags": []
+          },
+          {
+            "name": "BoringSSL",
+            "url": "https://boringssl.googlesource.com/boringssl",
+            "description": "A fork of OpenSSL that is designed to meet Google's needs. [Apache2]",
             "tags": []
           },
           {
