@@ -8729,12 +8729,6 @@
             "tags": []
           },
           {
-            "name": "Station",
-            "url": "https://getstation.com/",
-            "description": "An open-source browser providing a single place for all of your web applications.",
-            "tags": []
-          },
-          {
             "name": "Tabbit",
             "url": "https://tabbitbrowser.com/",
             "description": "An AI-native browser that understands your context, chats with webpages, and automates tasks.",
@@ -9596,6 +9590,12 @@
             "tags": []
           },
           {
+            "name": "MenubarCC",
+            "url": "https://github.com/ksterx/MenubarCC",
+            "description": "Menu bar crab that shows your Claude Code sessions at a glance: walking while Claude works, bouncing when it needs you.",
+            "tags": []
+          },
+          {
             "name": "MenubarX",
             "url": "https://menubarx.app/",
             "description": "A powerful Mac menu bar browser, pin webpage like an App.",
@@ -9850,6 +9850,12 @@
             "name": "DaisyDisk",
             "url": "https://daisydiskapp.com/",
             "description": "Disk usage analyzer and cleaner.",
+            "tags": []
+          },
+          {
+            "name": "Harbofly",
+            "url": "https://harbofly.app/",
+            "description": "Menu bar app that auto-discovers and frees the disk space dev build artifacts and caches hog (DerivedData, node_modules, SPM/Homebrew caches). Zero telemetry, notarized.",
             "tags": []
           },
           {
@@ -16638,6 +16644,12 @@
             "name": "gofs",
             "url": "https://github.com/no-src/gofs",
             "description": "A cross-platform real-time file synchronization tool out of the box.",
+            "tags": []
+          },
+          {
+            "name": "gopdfrab",
+            "url": "https://github.com/voidrab/gopdfrab",
+            "description": "PDF/A processing for Go.",
             "tags": []
           },
           {
@@ -44521,6 +44533,12 @@
             "tags": []
           },
           {
+            "name": "liter-llm",
+            "url": "https://github.com/xberg-io/liter-llm",
+            "description": "Provides a Java binding for a unified LLM API client across multiple providers.",
+            "tags": []
+          },
+          {
             "name": "MCP Java SDK",
             "url": "https://github.com/modelcontextprotocol/java-sdk",
             "description": "Enables applications to interact with AI models and tools through a standardized interface (i.e. Model Context Protocol), supporting both synchronous and asynchronous communication patterns.",
@@ -45344,6 +45362,12 @@
         "name": "Database",
         "resources": [
           {
+            "name": "Actual Schema Gradle Plugin",
+            "url": "https://github.com/YRashid/actual-schema-gradle-plugin",
+            "description": "Generates PostgreSQL schema DDL from Liquibase migrations using Testcontainers.",
+            "tags": []
+          },
+          {
             "name": "Apache Calcite",
             "url": "https://calcite.apache.org",
             "description": "Dynamic data management framework. It contains many of the pieces that comprise a typical database management system.",
@@ -46043,6 +46067,12 @@
             "tags": []
           },
           {
+            "name": "html-to-markdown",
+            "url": "https://github.com/xberg-io/html-to-markdown",
+            "description": "Converts HTML to CommonMark-compatible Markdown through a Java binding.",
+            "tags": []
+          },
+          {
             "name": "jackson-dataformat-spreadsheet",
             "url": "https://github.com/scndry/jackson-dataformat-spreadsheet",
             "description": "Jackson dataformat module for reading and writing Excel (XLSX/XLS) as POJOs via ObjectMapper .",
@@ -46052,6 +46082,12 @@
             "name": "Sheetz",
             "url": "https://github.com/chitralabs/sheetz",
             "description": "Reads and writes Excel, CSV and ODS files with annotation mapping, streaming, styling and validation.",
+            "tags": []
+          },
+          {
+            "name": "xberg",
+            "url": "https://github.com/xberg-io/xberg",
+            "description": "Extracts text, tables and metadata from PDFs, Office documents, images and other formats through a Java binding.",
             "tags": []
           },
           {
@@ -47087,6 +47123,12 @@
             "tags": []
           },
           {
+            "name": "sklearn-java",
+            "url": "https://github.com/kVeyra/sklearn-java",
+            "description": "Implements scikit-learn-style machine learning algorithms in pure Java.",
+            "tags": []
+          },
+          {
             "name": "Smile",
             "url": "https://github.com/haifengl/smile",
             "description": "Statistical Machine Intelligence and Learning Engine provides a set of machine learning algorithms and a visualization library.",
@@ -47387,6 +47429,12 @@
             "name": "JPad",
             "url": "http://jpad.io",
             "description": "Snippet runner.",
+            "tags": []
+          },
+          {
+            "name": "JQuick Java",
+            "url": "https://github.com/paohaijiao/jquick-java",
+            "description": "Java-like scripting language for dynamic rule engines with XML orchestration and Java interoperability.",
             "tags": []
           },
           {
@@ -49646,6 +49694,12 @@
             "tags": []
           },
           {
+            "name": "crawlberg",
+            "url": "https://github.com/xberg-io/crawlberg",
+            "description": "Crawls and scrapes websites through a Java binding with Markdown conversion and optional browser rendering.",
+            "tags": []
+          },
+          {
             "name": "Crawler4j",
             "url": "https://github.com/yasserg/crawler4j",
             "description": "Simple and lightweight web crawler.",
@@ -50475,6 +50529,12 @@
             "tags": []
           },
           {
+            "name": "entroly",
+            "url": "https://github.com/juyterman1000/entroly",
+            "description": "An auditable context control plane that optimizes prompt context, stabilizes cache prefixes, and verifies answers locally with WITNESS.",
+            "tags": []
+          },
+          {
             "name": "instructor",
             "url": "https://github.com/567-labs/instructor",
             "description": "A library for extracting structured data from LLMs, powered by Pydantic.",
@@ -51253,6 +51313,12 @@
             "name": "crawl4ai",
             "url": "https://github.com/unclecode/crawl4ai",
             "description": "An open-source, LLM-friendly web crawler that provides lightning-fast, structured data extraction specifically designed for AI agents.",
+            "tags": []
+          },
+          {
+            "name": "crawlberg",
+            "url": "https://github.com/xberg-io/crawlberg",
+            "description": "A high-performance web crawling engine with a Rust core, headless-browser fallback, and built-in robots.txt and sitemap parsing.",
             "tags": []
           },
           {
@@ -53158,6 +53224,12 @@
             "name": "beautifulsoup",
             "url": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/",
             "description": "Providing Pythonic idioms for iterating, searching, and modifying HTML or XML.",
+            "tags": []
+          },
+          {
+            "name": "html-to-markdown",
+            "url": "https://github.com/xberg-io/html-to-markdown",
+            "description": "A fast, CommonMark-compliant HTML to Markdown converter with a Rust core, tolerant of malformed HTML.",
             "tags": []
           },
           {
@@ -77212,12 +77284,6 @@
             "name": "Evidence",
             "url": "https://evidence.dev",
             "description": "Code-based BI tool. Write reports using SQL and markdown and they render as a website. ( Source Code ) MIT Nodejs",
-            "tags": []
-          },
-          {
-            "name": "Kottster",
-            "url": "https://kottster.app/",
-            "description": "Low-code admin panel that connects to your database and automatically generates pages to view and manage your data. ( Demo , Source Code ) Apache-2.0 Nodejs/Docker",
             "tags": []
           },
           {
