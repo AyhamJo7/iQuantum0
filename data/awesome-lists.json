@@ -6400,6 +6400,12 @@
             "tags": []
           },
           {
+            "name": "tty7",
+            "url": "https://github.com/l0ng-ai/tty7",
+            "description": "A GPU-rendered, daemon-backed terminal in pure Rust with sessions that stay alive without tmux.",
+            "tags": []
+          },
+          {
             "name": "Vesta",
             "url": "https://github.com/vestaterm/Vesta",
             "description": "Native macOS terminal built on libghostty for running coding agents in parallel.",
@@ -7399,6 +7405,12 @@
             "name": "TokenMeter",
             "url": "https://priyans-hu.github.io/tokenmeter/",
             "description": "Track Claude Code usage, rate limits, costs, and activity heatmaps.",
+            "tags": []
+          },
+          {
+            "name": "TokenTracker",
+            "url": "https://www.tokentracker.cc",
+            "description": "Local-first menu bar app and CLI that tracks token usage and cost across 20+ AI coding tools.",
             "tags": []
           },
           {
@@ -9416,6 +9428,12 @@
             "tags": []
           },
           {
+            "name": "cctop",
+            "url": "https://cctop.app",
+            "description": "Open-source menu bar monitor that shows live status for AI coding sessions (Claude Code, Codex, opencode, pi) and jumps to the right terminal pane or editor window.",
+            "tags": []
+          },
+          {
             "name": "ChargeMonitor",
             "url": "https://github.com/CrashSystemZ/ChargeMonitor",
             "description": "Menu bar battery monitor with real-time charging stats and energy impact insights.",
@@ -10686,6 +10704,12 @@
             "name": "Velja",
             "url": "https://sindresorhus.com/velja",
             "description": "Browser picker that lets you open links in a specific browser or a desktop app.",
+            "tags": []
+          },
+          {
+            "name": "Wox",
+            "url": "https://wox-launcher.github.io/Wox/",
+            "description": "Open-source cross-platform launcher with fast local search and plugin extensibility.",
             "tags": []
           },
           {
@@ -44645,6 +44669,12 @@
             "tags": []
           },
           {
+            "name": "jar-cart",
+            "url": "https://github.com/Sudhanshu-Ambastha/jar-cart",
+            "description": "A modern, zero-configuration package manager and runner for the Java ecosystem written in Go, focusing on developer productivity and build speed.",
+            "tags": []
+          },
+          {
             "name": "ReleaseRun",
             "url": "https://releaserun.com",
             "description": "Dependency health checker for pom.xml and Gradle projects that scans for CVEs and outdated packages.",
@@ -48609,6 +48639,12 @@
             "name": "Microserver",
             "url": "https://github.com/aol/micro-server",
             "description": "Convenient, extensible microservices plugin system for Spring & Spring Boot. With more than 30 plugins and growing, it supports both micro-monolith and pure microservices styles.",
+            "tags": []
+          },
+          {
+            "name": "OfficeFloor",
+            "url": "https://github.com/officefloor/OfficeFloor",
+            "description": "Spring Boot add-on that adds explicit function orchestration to REST endpoints, with each endpoint's steps, branches and error flows in one YAML file whose directory path maps to the URL.",
             "tags": []
           },
           {
@@ -82488,8 +82524,8 @@
           },
           {
             "name": "Chhoto URL",
-            "url": "https://github.com/SinTan1729/chhoto-url",
-            "description": "Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). ( Demo , Clients ) MIT Rust/Docker",
+            "url": "https://chhoto.link",
+            "description": "Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). ( Demo , Source Code , Clients ) MIT Rust/Docker",
             "tags": []
           },
           {
@@ -83600,6 +83636,12 @@
       {
         "name": "Audio and Music",
         "resources": [
+          {
+            "name": "AreevAI/flowcat",
+            "url": "https://github.com/AreevAI/flowcat",
+            "description": "Native-Rust runtime for real-time voice AI agents (phone + WebRTC), self-hosted single binary, pipecat-compatible",
+            "tags": []
+          },
           {
             "name": "dano",
             "url": "https://github.com/kimono-koans/dano",
@@ -85351,6 +85393,12 @@
             "name": "yashs662/rust_kanban",
             "url": "https://github.com/yashs662/rust_kanban",
             "description": "[ rust-kanban ] - A Kanban App for the terminal",
+            "tags": []
+          },
+          {
+            "name": "Zackriya-Solutions/meetily",
+            "url": "https://github.com/Zackriya-Solutions/meetily",
+            "description": "Privacy-first AI meeting assistant that captures, transcribes, and summarizes meetings entirely on your local machine. Features real-time transcription with Whisper/Parakeet models, AI-powered summaries, and support for multiple AI providers (Ollama, Claude, Groq, OpenAI)",
             "tags": []
           }
         ]
@@ -87542,6 +87590,12 @@
             "name": "kpcyrd/mini-docker-rust",
             "url": "https://github.com/kpcyrd/mini-docker-rust",
             "description": "An example project for very small rust docker images",
+            "tags": []
+          },
+          {
+            "name": "lenra-io/dofigen",
+            "url": "https://github.com/lenra-io/dofigen",
+            "description": "[ dofigen ] - Dockerfile generator using a simplified description in YAML or JSON format",
             "tags": []
           },
           {
@@ -89818,6 +89872,12 @@
             "name": "greyblake/nutype",
             "url": "https://github.com/greyblake/nutype",
             "description": "[ nutype ] - define newtype structures with validation constraints.",
+            "tags": []
+          },
+          {
+            "name": "mikwielgus/undoredo",
+            "url": "https://github.com/mikwielgus/undoredo",
+            "description": "[ undoredo ] - Undo/Redo pattern implementation for arbitrary data structures. Supports delta-based (sparse diffs), snapshot-based, and command-based undo-redo with derive macros for custom types. Compatible with no_std and serde.",
             "tags": []
           },
           {
