@@ -7450,6 +7450,12 @@
             "tags": []
           },
           {
+            "name": "Prevail",
+            "url": "https://prevail.sh",
+            "description": "Local-first AI life OS: any model per life-domain over a plain-markdown vault on your Mac. Signed and notarized.",
+            "tags": []
+          },
+          {
             "name": "Witsy",
             "url": "https://github.com/nbonamy/witsy",
             "description": "desktop AI assistant / universal MCP client.",
@@ -27924,6 +27930,12 @@
             "name": "gitea-github-migrator",
             "url": "https://git.jonasfranz.software/JonasFranzDEV/gitea-github-migrator",
             "description": "Migrate all your GitHub repositories, issues, milestones and labels to your Gitea instance.",
+            "tags": []
+          },
+          {
+            "name": "gitl",
+            "url": "https://github.com/akomyagin/gitl",
+            "description": "AI review of git commit ranges with risk scoring (low/medium/high), changelog generation, and multi-repo activity digest. GitHub Action included.",
             "tags": []
           },
           {
@@ -50607,6 +50619,12 @@
             "tags": []
           },
           {
+            "name": "liter-llm",
+            "url": "https://github.com/xberg-io/liter-llm",
+            "description": "A universal LLM API client with a Rust core, calling 142+ providers through a single OpenAI-compatible interface, with a built-in proxy and MCP server.",
+            "tags": []
+          },
+          {
             "name": "mlx-lm",
             "url": "https://github.com/ml-explore/mlx-lm",
             "description": "Run and fine-tune large language models on Apple Silicon with MLX.",
@@ -50828,6 +50846,12 @@
             "name": "easyocr",
             "url": "https://github.com/JaidedAI/EasyOCR",
             "description": "Ready-to-use OCR with 40+ languages supported.",
+            "tags": []
+          },
+          {
+            "name": "fiftyone",
+            "url": "https://github.com/voxel51/fiftyone",
+            "description": "The open-source tool for building high-quality datasets and computer vision models.",
             "tags": []
           },
           {
