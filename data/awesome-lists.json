@@ -28420,7 +28420,7 @@
           {
             "name": "Chapar",
             "url": "https://github.com/chapar-rest/chapar",
-            "description": "Chapar is a a cross-platform Postman alternative built with go, aims to help developers to test their api endpoints. it support http and grpc protocols.",
+            "description": "Chapar is a cross-platform Postman alternative built with go, aims to help developers to test their api endpoints. it support http and grpc protocols.",
             "tags": []
           },
           {
@@ -36049,6 +36049,12 @@
       {
         "name": "Robotics",
         "resources": [
+          {
+            "name": "FusionCore",
+            "url": "https://github.com/manankharwar/fusioncore",
+            "description": "ROS 2 UKF sensor fusion library fusing GPS, IMU, and wheel odometry with adaptive noise and outlier rejection for robust outdoor localization. [Apache2]",
+            "tags": []
+          },
           {
             "name": "MOOS-IvP",
             "url": "http://moos-ivp.org",
@@ -50655,15 +50661,21 @@
             "tags": []
           },
           {
+            "name": "funasr",
+            "url": "https://github.com/modelscope/FunASR",
+            "description": "Industrial-grade speech recognition toolkit with 170x realtime speed, 50+ languages, speaker diarization, and emotion detection.",
+            "tags": []
+          },
+          {
             "name": "openai-whisper",
             "url": "https://github.com/openai/whisper",
             "description": "A general-purpose automatic speech recognition model trained on 680k hours of multilingual and multitask supervised data.",
             "tags": []
           },
           {
-            "name": "funasr",
-            "url": "https://github.com/modelscope/FunASR",
-            "description": "Industrial-grade speech recognition toolkit with 170x realtime speed, 50+ languages, speaker diarization, and emotion detection.",
+            "name": "SenseVoice",
+            "url": "https://github.com/FunAudioLLM/SenseVoice",
+            "description": "A multilingual speech understanding model for speech recognition, language identification, emotion recognition, and audio event detection.",
             "tags": []
           },
           {
@@ -78707,7 +78719,7 @@
           {
             "name": "LLMKube",
             "url": "https://llmkube.com",
-            "description": "Kubernetes operator for llama.cpp-native LLM inference with GPU scheduling, Apple Silicon Metal support, and OpenAI-compatible API. ( Source Code ) Apache-2.0 Go/Docker/K8S",
+            "description": "Kubernetes operator for self-hosted LLM inference with pluggable runtimes (llama.cpp, vLLM, TGI, Ollama, vllm-swift), multi-GPU sharding, NVIDIA CUDA + Apple Silicon Metal support, and OpenAI-compatible API. ( Source Code ) Apache-2.0 Go/Docker/K8S",
             "tags": []
           },
           {
