@@ -4483,6 +4483,12 @@
             "tags": []
           },
           {
+            "name": "OATS",
+            "url": "https://github.com/ariso-ai/oats",
+            "description": "Open-source local-first meeting-notes app for macOS with live transcription, speaker labels, AI summaries, and a fully offline on-device mode.",
+            "tags": []
+          },
+          {
             "name": "OneNote",
             "url": "https://www.onenote.com/",
             "description": "Note-taking app by Microsoft.",
@@ -82007,12 +82013,6 @@
             "tags": []
           },
           {
-            "name": "autokitteh",
-            "url": "https://autokitteh.com/",
-            "description": "Durable workflow automation in just a few lines of code. ( Source Code ) Apache-2.0 Go/Docker",
-            "tags": []
-          },
-          {
             "name": "Halo",
             "url": "https://www.halo.run",
             "description": "A powerful and easy-to-use website building tool (documentation in Chinese). ( Demo , Source Code , Clients ) GPL-3.0 Java/Docker",
@@ -87703,6 +87703,12 @@
             "name": "japaric/xargo",
             "url": "https://github.com/japaric/xargo",
             "description": "effortless cross compilation of Rust programs to custom bare-metal targets like ARM Cortex-M",
+            "tags": []
+          },
+          {
+            "name": "matheuswhite/scope-rs",
+            "url": "https://github.com/matheuswhite/scope-rs",
+            "description": "[ scope-monitor ] - Cross-platform serial-port & RTT monitor TUI with hex/@tag input macros, search, session recording, and Lua plugins.",
             "tags": []
           },
           {
