@@ -11260,6 +11260,12 @@
             "tags": []
           },
           {
+            "name": "Battery Hog",
+            "url": "https://github.com/luke-fairbanks/BatteryHog",
+            "description": "Shows what is draining the battery: live watts, per-app energy, charge history, and drain insights. 100% local.",
+            "tags": []
+          },
+          {
             "name": "coconutBattery",
             "url": "https://www.coconut-flavour.com/coconutbattery/",
             "description": "Mac battery information and statistics.",
@@ -14504,6 +14510,12 @@
             "name": "eliasdb",
             "url": "https://github.com/krotik/eliasdb",
             "description": "Dependency-free, transactional graph database with REST API, phrase search and SQL-like query language.",
+            "tags": []
+          },
+          {
+            "name": "gedb",
+            "url": "https://github.com/vinicius-lino-figueiredo/gedb",
+            "description": "MongoDB-like embedded database, written in pure-go. Supports indexing and complex queries.",
             "tags": []
           },
           {
@@ -84403,6 +84415,12 @@
             "tags": []
           },
           {
+            "name": "whispem/minikv",
+            "url": "https://github.com/whispem/minikv",
+            "description": "Distributed, multi-tenant key-value and object store with Raft consensus, WAL durability, time-series API, vector search, and S3-compatible endpoints. Production-oriented with Helm chart, Grafana dashboards, and Python SDK.",
+            "tags": []
+          },
+          {
             "name": "WooriDB",
             "url": "https://github.com/naomijub/wooridb",
             "description": "General purpose time serial database inspired by Crux and Datomic.",
@@ -85023,6 +85041,12 @@
         "name": "MLOps",
         "resources": [
           {
+            "name": "cocoindex",
+            "url": "https://github.com/cocoindex-io/cocoindex",
+            "description": "ETL framework to build fresh context for AI agents, with incremental processing",
+            "tags": []
+          },
+          {
             "name": "TensorZero",
             "url": "https://github.com/tensorzero/tensorzero",
             "description": "data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation",
@@ -85161,6 +85185,12 @@
             "name": "helsing-ai/buffrs",
             "url": "https://github.com/helsing-ai/buffrs",
             "description": "[ buffrs ] - A modern package manager for protocol buffers and gRPC architectures.",
+            "tags": []
+          },
+          {
+            "name": "pkgx",
+            "url": "https://github.com/pkgxdev/pkgx",
+            "description": "Run anything. A composable package manager that makes the entire open source ecosystem available to your scripts.",
             "tags": []
           },
           {
@@ -89739,12 +89769,6 @@
             "tags": []
           },
           {
-            "name": "cocoindex",
-            "url": "https://github.com/cocoindex-io/cocoindex",
-            "description": "ETL framework to build fresh index",
-            "tags": []
-          },
-          {
             "name": "DataBora/elusion",
             "url": "https://github.com/DataBora/elusion",
             "description": "[ elusion ] - An end-to-end data engineering DataFrame library built on DataFusion, with connectors for Microsoft Fabric, Azure, SharePoint, FTP, Postgres, MySQL, and REST APIs",
@@ -90083,9 +90107,9 @@
             "tags": []
           },
           {
-            "name": "lmdb",
-            "url": "https://crates.io/keywords/lmdb",
-            "description": "LMDB [  ] meilisearch/heed [ heed ] - Another LMDB binding vhbit/lmdb-rs [ lmdb-rs ] - LMDB bindings",
+            "name": "LMDB",
+            "url": "https://www.symas.com/lmdb.php",
+            "description": "[ lmdb ] meilisearch/heed [ heed ] - Fully typed LMDB wrappers with minimum overhead vhbit/lmdb-rs [ lmdb-rs ] - Rust bindings for LMDB",
             "tags": []
           },
           {
