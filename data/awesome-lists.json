@@ -4417,6 +4417,12 @@
             "tags": []
           },
           {
+            "name": "Knopo",
+            "url": "https://github.com/alkalim/Knopo",
+            "description": "Native macOS outliner for local-first notes stored as plain Markdown files.",
+            "tags": []
+          },
+          {
             "name": "Logseq",
             "url": "https://logseq.com/",
             "description": "Privacy-first, open-source knowledge base.",
@@ -7390,6 +7396,12 @@
             "tags": []
           },
           {
+            "name": "Gemini Collector",
+            "url": "https://github.com/FirenzeLor/gemini-collector",
+            "description": "Back up Google Gemini conversations, attachments, and AI-generated media locally as JSON.",
+            "tags": []
+          },
+          {
             "name": "GroAsk",
             "url": "https://groask.com",
             "description": "Menu bar launcher that sends selected text to AI assistants and CLI agents.",
@@ -8598,8 +8610,8 @@
             "tags": []
           },
           {
-            "name": "Parakey",
-            "url": "https://github.com/rcourtman/parakey",
+            "name": "Presspeech",
+            "url": "https://github.com/rcourtman/presspeech",
             "description": "Native push-to-talk local dictation app for Apple Silicon Macs using Parakeet TDT v3 (CoreML/ANE).",
             "tags": []
           },
@@ -9713,6 +9725,12 @@
             "name": "PowerMeister",
             "url": "https://naden.co",
             "description": "Conserve energy and improve Battery-Life on your MacBook.",
+            "tags": []
+          },
+          {
+            "name": "Profisor",
+            "url": "https://github.com/yefga/Profisor",
+            "description": "Switch Xcode provisioning profiles for the current project from the menu bar.",
             "tags": []
           },
           {
@@ -35273,6 +35291,12 @@
             "name": "c-ares",
             "url": "https://github.com/c-ares/c-ares",
             "description": "A C library for asynchronous DNS requests. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "cofetch",
+            "url": "https://github.com/SSARCandy/cofetch",
+            "description": "Chainable async HTTP client built on libcurl's multi interface and ASIO. Callbacks, coroutines and futures from one implementation. [MIT]",
             "tags": []
           },
           {
@@ -79261,6 +79285,12 @@
             "tags": []
           },
           {
+            "name": "LinuxCNC",
+            "url": "https://www.linuxcnc.org/",
+            "description": "Linux based CNC machine controller. It can drive milling machines, lathes, 3D printers, laser cutters, plasma cutters, robot arms, hexapods, and more. ( Source Code ) GPL-2.0/LGPL-3.0 C/deb",
+            "tags": []
+          },
+          {
             "name": "Mainsail",
             "url": "https://docs.mainsail.xyz/",
             "description": "Modern and responsive user interface for the Klipper 3D printer firmware. Control and monitor your printer from everywhere, from any device. ( Source Code ) GPL-3.0 Docker/Python",
@@ -81256,6 +81286,12 @@
             "tags": []
           },
           {
+            "name": "EventSchedule",
+            "url": "https://eventschedule.com/",
+            "description": "Share events, sell tickets, and bring communities together. ( Source Code ) AAL PHP/Docker",
+            "tags": []
+          },
+          {
             "name": "Fider",
             "url": "https://fider.io",
             "description": "Open platform to collect and prioritize feedback (alternative to UserVoice). ( Demo , Source Code ) MIT Docker",
@@ -82343,6 +82379,12 @@
             "name": "HamsterBase Tasks",
             "url": "https://tasks.hamsterbase.com",
             "description": "A tool to help organize ideas and build great things. Plan, organize, build and ship. ( Demo , Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
+            "name": "Kan",
+            "url": "https://kan.bn/",
+            "description": "Flexible kanban app that helps you organise work, track progress, and deliver results (alternative to Trello). ( Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -91932,6 +91974,12 @@
         "name": "Reverse engineering",
         "resources": [
           {
+            "name": "binlex",
+            "url": "https://github.com/c3rb3ru5d3d53c/binlex",
+            "description": "Binary analysis and reverse engineering framework with function fingerprinting and similarity matching.",
+            "tags": []
+          },
+          {
             "name": "idalib",
             "url": "https://github.com/idalib-rs/idalib",
             "description": "[ idalib ] - Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using IDA v9.0\u2019s idalib",
@@ -92398,6 +92446,12 @@
             "name": "saurvs/hypervisor-rs",
             "url": "https://github.com/saurvs/hypervisor-rs",
             "description": "Hardware-accelerated virtualization on OS X",
+            "tags": []
+          },
+          {
+            "name": "smol-machines/smolvm",
+            "url": "https://github.com/smol-machines/smolvm",
+            "description": "Portable microVM sandboxes on libkrun with copy-on-write forking of running VMs",
             "tags": []
           },
           {
