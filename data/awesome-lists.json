@@ -11869,6 +11869,12 @@
             "tags": []
           },
           {
+            "name": "jargo",
+            "url": "https://github.com/gojargo/jargo",
+            "description": "Framework for building real-time voice AI agents over WebRTC, wiring speech-to-text, LLMs, and text-to-speech into a streaming pipeline.",
+            "tags": []
+          },
+          {
             "name": "langchaingo",
             "url": "https://github.com/tmc/langchaingo",
             "description": "LangChainGo is a framework for developing applications powered by language models.",
@@ -17782,6 +17788,12 @@
             "name": "pool",
             "url": "https://github.com/go-playground/pool",
             "description": "Limited consumer goroutine or unlimited goroutine pool for easier goroutine handling and cancellation.",
+            "tags": []
+          },
+          {
+            "name": "powerlock",
+            "url": "https://github.com/donomii/powerlock",
+            "description": "Named FIFO mutexes with context cancellation, bounded wait queues, watchdog diagnostics, pprof profiles, and Prometheus metrics.",
             "tags": []
           },
           {
@@ -85020,6 +85032,12 @@
             "tags": []
           },
           {
+            "name": "Sprite Fusion Pixel Snapper",
+            "url": "https://github.com/Hugo-Dz/spritefusion-pixel-snapper",
+            "description": "A CLI and WebAssembly tool that cleans up AI-generated pixel art to get pixel-perfect pixel art sprites (MIT).",
+            "tags": []
+          },
+          {
             "name": "visioncortex/vtracer",
             "url": "https://github.com/visioncortex/vtracer",
             "description": "[ vtracer ] - A raster to vector graphics converter (jpg/png to svg).",
@@ -89018,6 +89036,12 @@
       {
         "name": "Command-line",
         "resources": [
+          {
+            "name": "aisk/rust-fire",
+            "url": "https://github.com/aisk/rust-fire",
+            "description": "[ fire ] - Turn your function(s) to a command line app with one line of code",
+            "tags": []
+          },
           {
             "name": "clap-rs",
             "url": "https://github.com/clap-rs/clap",
