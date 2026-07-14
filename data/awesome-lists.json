@@ -9788,6 +9788,12 @@
             "tags": []
           },
           {
+            "name": "Tactile",
+            "url": "https://tactile.masn.studio/",
+            "description": "Adds subtle trackpad haptic taps over clickable elements, with optional visual cues for accessibility.",
+            "tags": []
+          },
+          {
             "name": "TextSniper",
             "url": "https://textsniper.app/",
             "description": "Simple yet powerful OCR app in your Menu Bar. Instantly copy and paste text from anywhere.",
@@ -11863,6 +11869,12 @@
             "tags": []
           },
           {
+            "name": "GoModel",
+            "url": "https://github.com/ENTERPILOT/GoModel",
+            "description": "AI gateway exposing a unified OpenAI-compatible API across OpenAI, Anthropic, Gemini, Groq, xAI, Ollama and other providers, with routing, usage tracking, rate limits, and guardrails.",
+            "tags": []
+          },
+          {
             "name": "hotplex",
             "url": "https://github.com/hrygo/hotplex",
             "description": "AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox.",
@@ -11985,6 +11997,12 @@
             "name": "go-mpris",
             "url": "https://github.com/leberKleber/go-mpris",
             "description": "Client for mpris dbus interfaces.",
+            "tags": []
+          },
+          {
+            "name": "go-resample",
+            "url": "https://github.com/gojargo/go-resample",
+            "description": "Pure-Go (no cgo) audio sample-rate converter with sinc, linear, and zero-order-hold converters.",
             "tags": []
           },
           {
@@ -23030,6 +23048,12 @@
             "tags": []
           },
           {
+            "name": "whois",
+            "url": "https://github.com/KincaidYang/whois",
+            "description": "Self-hosted WHOIS/RDAP query service and MCP server for domains, IPv4/IPv6 addresses, CIDRs and ASNs.",
+            "tags": []
+          },
+          {
             "name": "Wish",
             "url": "https://github.com/charmbracelet/wish",
             "description": "Make SSH apps, just like that!",
@@ -26463,6 +26487,12 @@
       {
         "name": "Web Frameworks",
         "resources": [
+          {
+            "name": "Andurel",
+            "url": "https://github.com/mbvlabs/andurel",
+            "description": "Rails-inspired full-stack Go web framework with scaffolding, database tooling, and server-rendered or Inertia frontends.",
+            "tags": []
+          },
           {
             "name": "Atreugo",
             "url": "https://github.com/savsgio/atreugo",
@@ -78373,6 +78403,12 @@
             "tags": []
           },
           {
+            "name": "ClyoCloud",
+            "url": "https://code.weexnes.dev/ClyoCloud",
+            "description": "A personal, self-hosted cloud storage and media management application built for privacy, efficiency, and aesthetics. MIT Nodejs",
+            "tags": []
+          },
+          {
             "name": "copyparty",
             "url": "https://github.com/9001/copyparty",
             "description": "Portable file server with accelerated resumable uploads, deduplication, WebDAV, FTP, zeroconf, media indexer, video thumbnails, audio transcoding, and write-only folders, in a single file with no mandatory dependencies. ( Demo ) MIT Python",
@@ -78750,6 +78786,12 @@
             "name": "AnythingLLM",
             "url": "https://anythingllm.com/",
             "description": "All-in-one desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more. ( Source Code ) MIT Nodejs/Docker",
+            "tags": []
+          },
+          {
+            "name": "GoModel",
+            "url": "https://gomodel.enterpilot.io/",
+            "description": "AI gateway written in Go with a unified OpenAI-compatible API for multiple LLM providers, USD cost tracking, budgets, usage analytics, guardrails, caching, and an admin dashboard. ( Source Code ) MIT Go/Docker",
             "tags": []
           },
           {
@@ -82481,6 +82523,12 @@
             "name": "Wekan",
             "url": "https://wekan.github.io/",
             "description": "Open-source Trello-like kanban. ( Source Code ) MIT Nodejs",
+            "tags": []
+          },
+          {
+            "name": "Will Be Done",
+            "url": "https://will-be-done.app/",
+            "description": "Offline-first task manager with weekly planning, project boards, real-time sync, Vim keybindings, desktop quick add, and import from popular task managers (alternative to TickTick, Todoist). ( Demo , Source Code ) AGPL-3.0 Docker/Nodejs",
             "tags": []
           }
         ]
@@ -89482,6 +89530,12 @@
             "name": "GuillaumeGomez/rust-GSL",
             "url": "https://github.com/GuillaumeGomez/rust-GSL",
             "description": "GSL bindings",
+            "tags": []
+          },
+          {
+            "name": "jolars/basin",
+            "url": "https://github.com/jolars/basin",
+            "description": "[ basin ] - Numerical optimization library with first-order, derivative-free, nonlinear least-squares, evolutionary, and constrained solvers, generic over linear-algebra backends",
             "tags": []
           },
           {
