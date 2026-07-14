@@ -10145,6 +10145,12 @@
             "tags": []
           },
           {
+            "name": "OpenDisplay",
+            "url": "https://opendisplay.app",
+            "description": "Use a spare iPhone or iPad as a second display for your Mac, wired (USB) or over WiFi, with touch input.",
+            "tags": []
+          },
+          {
             "name": "Plash",
             "url": "https://sindresorhus.com/plash",
             "description": "Make any website your desktop wallpaper.",
