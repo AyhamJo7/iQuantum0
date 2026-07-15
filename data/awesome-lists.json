@@ -9614,6 +9614,12 @@
             "tags": []
           },
           {
+            "name": "MacTools",
+            "url": "https://github.com/ggbond268/MacTools",
+            "description": "Open-source menu bar toolkit with plugins for display controls, system toggles, cleanup, device status, and everyday utilities.",
+            "tags": []
+          },
+          {
             "name": "Mask This",
             "url": "https://apps.apple.com/us/app/mask-this/id6759096128",
             "description": "Menu bar app that masks sensitive information in the clipboard.",
@@ -11768,17 +11774,6 @@
             "name": "MacStories",
             "url": "https://www.macstories.net/",
             "description": "Other sites like  , LifeHacker , ProductHunt are great resources.",
-            "tags": []
-          }
-        ]
-      },
-      {
-        "name": "Podcasts",
-        "resources": [
-          {
-            "name": "Mac Power Users",
-            "url": "https://www.relay.fm/mpu",
-            "description": "Learn about getting the most from your Apple technology with focused topics and workflow guests.",
             "tags": []
           }
         ]
@@ -14803,6 +14798,12 @@
             "name": "darwin",
             "url": "https://github.com/GuiaBolso/darwin",
             "description": "Database schema evolution library for Go.",
+            "tags": []
+          },
+          {
+            "name": "db-migrator.go",
+            "url": "https://github.com/raoptimus/db-migrator.go",
+            "description": "CLI for versioned database schema migrations with support for PostgreSQL, MySQL, ClickHouse, Tarantool, and Apache Iceberg.",
             "tags": []
           },
           {
@@ -20129,6 +20130,12 @@
             "tags": []
           },
           {
+            "name": "go-ddd",
+            "url": "https://github.com/sklinkert/go-ddd",
+            "description": "Domain-Driven Design template with CQRS, value objects, idempotent commands, and a transactional outbox.",
+            "tags": []
+          },
+          {
             "name": "go-module",
             "url": "https://github.com/octomation/go-module",
             "description": "Template for a typical module written on Go.",
@@ -22462,6 +22469,12 @@
             "tags": []
           },
           {
+            "name": "Crenox",
+            "url": "https://github.com/crenoxhq/crenox",
+            "description": "Zero-dependency pre-commit secret scanner using Aho-Corasick for high-performance credentials leak detection.",
+            "tags": []
+          },
+          {
             "name": "dongle",
             "url": "https://github.com/golang-module/dongle",
             "description": "A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption.",
@@ -22669,12 +22682,6 @@
             "name": "secureio",
             "url": "https://github.com/xaionaro-go/secureio",
             "description": "An keyexchanging+authenticating+encrypting wrapper and multiplexer for io.ReadWriteCloser based on XChaCha20-poly1305, ECDH and ED25519.",
-            "tags": []
-          },
-          {
-            "name": "Sentinel",
-            "url": "https://github.com/sentinel-cli/sentinel",
-            "description": "Local pre-commit secret scanner using an Aho-Corasick automaton.",
             "tags": []
           },
           {
@@ -51496,6 +51503,12 @@
             "tags": []
           },
           {
+            "name": "website-downloader",
+            "url": "https://github.com/PKHarsimran/website-downloader",
+            "description": "A modern wget --mirror / HTTrack alternative that turns whole websites into browsable offline copies.",
+            "tags": []
+          },
+          {
             "name": "feedparser",
             "url": "https://github.com/kurtmckee/feedparser",
             "description": "Universal feed parser.",
@@ -51869,6 +51882,12 @@
             "name": "pathway",
             "url": "https://github.com/pathwaycom/pathway",
             "description": "Real-time data processing framework for Python with reactive dataflows.",
+            "tags": []
+          },
+          {
+            "name": "percentify",
+            "url": "https://github.com/data-centt/percentify",
+            "description": "Exploratory stats and data-quality diagnostics/profiler, that supports both pandas and Polars DataFrames inputs.",
             "tags": []
           },
           {
@@ -88626,6 +88645,12 @@
             "tags": []
           },
           {
+            "name": "bigduu/Bamboo-agent",
+            "url": "https://github.com/bigduu/Bamboo-agent",
+            "description": "[ bamboo-agent ] - Local-first AI agent harness & runtime \u2014 persistent memory, built-in tools, skills, MCP, sub-agents, workflows and schedules behind one HTTP + WebSocket API. Embeddable as a crate or runnable as a server.",
+            "tags": []
+          },
+          {
             "name": "liquidos-ai/AutoAgents",
             "url": "https://github.com/liquidos-ai/AutoAgents",
             "description": "[ AutoAgents ] - Multi Agent Framework for building AI agents with native edge support.",
@@ -90391,7 +90416,7 @@
           {
             "name": "postgres",
             "url": "https://crates.io/keywords/postgres",
-            "description": "PostgreSql [  , postgresql ] c410-f3r/wtx - Fast implementation with a low set of external dependencies. rust-postgres [ postgres ] - A native PostgreSQL client",
+            "description": "PostgreSql [  , postgresql ] c410-f3r/wtx - Fast implementation with a low set of external dependencies. isdaniel/pg-walstream - High-performance async CDC (Change Data Capture) library for PostgreSQL logical and physical replication streaming. rust-postgres [ postgres ] - A native PostgreSQL client",
             "tags": []
           },
           {
