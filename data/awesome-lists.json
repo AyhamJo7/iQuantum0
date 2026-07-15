@@ -7270,6 +7270,12 @@
         "name": "AI Tools",
         "resources": [
           {
+            "name": "Agent Teams AI",
+            "url": "https://agentteams.live/",
+            "description": "Open-source desktop app for coordinating autonomous AI coding agents through team messaging, task boards, and code review.",
+            "tags": []
+          },
+          {
             "name": "Agenttrace",
             "url": "https://luoyuctl.github.io/agenttrace/",
             "description": "Local-first TUI for inspecting AI coding agent sessions, costs, tokens, latency, tool failures, health, and diffs.",
