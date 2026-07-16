@@ -9399,6 +9399,12 @@
             "tags": []
           },
           {
+            "name": "Nimclip",
+            "url": "https://hukdoesn.github.io/Nimclip/",
+            "description": "Local-first clipboard history manager with search, tags, and image support.",
+            "tags": []
+          },
+          {
             "name": "OneClip",
             "url": "https://github.com/Wcowin/OneClip",
             "description": "A simple and professional macOS clipboard manager.",
@@ -11951,6 +11957,12 @@
             "name": "routex",
             "url": "https://github.com/Ad3bay0c/routex",
             "description": "YAML-driven multi-agent AI runtime for Go with Erlang-style supervision, MCP tool server support, and a CLI.",
+            "tags": []
+          },
+          {
+            "name": "semantic-search",
+            "url": "https://github.com/DavidBelicza/semantic-search",
+            "description": "Meaning-based search over PDF, Markdown, DOCX, source code, and other file types, using generative AI embedding models to vectorize files into a vector database.",
             "tags": []
           },
           {
@@ -22862,6 +22874,12 @@
             "url": "https://github.com/recolude/unitpacking",
             "description": "Library to pack unit vectors into as fewest bytes as possible.",
             "tags": []
+          },
+          {
+            "name": "relay",
+            "url": "https://github.com/valtors/relay",
+            "description": "MCP server with 40 tools for AI agents. Memory, web fetch, search, file ops, screenshots, and multi-agent coordination in one Go binary.",
+            "tags": []
           }
         ]
       },
@@ -23034,6 +23052,12 @@
             "name": "psql-streamer",
             "url": "https://github.com/blind-oracle/psql-streamer",
             "description": "Stream database events from PostgreSQL to Kafka.",
+            "tags": []
+          },
+          {
+            "name": "relay",
+            "url": "https://github.com/valtors/relay",
+            "description": "MCP server with 40+ tools for AI agents. File operations, web search, screenshots, multi-agent coordination. Single Go binary.",
             "tags": []
           },
           {
@@ -87101,6 +87125,12 @@
             "tags": []
           },
           {
+            "name": "hyperlane-dev/hyperlane",
+            "url": "https://github.com/hyperlane-dev/hyperlane",
+            "description": "[ hyperlane ] - A lightweight, high-performance, cross-platform Rust HTTP server library built on Tokio; built-in support for middleware, WebSocket, SSE, and raw TCP.",
+            "tags": []
+          },
+          {
             "name": "Mini RPS",
             "url": "https://github.com/marcodpt/minirps",
             "description": "Mini reverse proxy server, HTTPS, CORS, static file hosting and template engine (minijinja) crates.io",
@@ -89940,7 +89970,7 @@
           {
             "name": "GoPlasmatic/datalogic-rs",
             "url": "https://github.com/GoPlasmatic/datalogic-rs",
-            "description": "[ datalogic-rs ] - High-performance, type-safe JSONLogic evaluation engine in Rust, ideal for business rules and dynamic filtering.",
+            "description": "[ datalogic-rs ] - High-performance, type-safe JSONLogic evaluation engine for business rules and dynamic filtering, with official bindings for Node, WASM, Python, Go, Java, .NET and PHP",
             "tags": []
           },
           {
@@ -91144,6 +91174,12 @@
             "name": "emoon/rust_minifb",
             "url": "https://github.com/emoon/rust_minifb",
             "description": "minifb is a cross-platform window setup with optional bitmap rendering. It also comes with easy mouse and keyboard input. Primarily designed for prototyping",
+            "tags": []
+          },
+          {
+            "name": "euv-dev/euv",
+            "url": "https://github.com/euv-dev/euv",
+            "description": "[ euv ] - A declarative, cross-platform UI framework for Rust with virtual DOM, reactive signals, and HTML macros for WebAssembly.",
             "tags": []
           },
           {
