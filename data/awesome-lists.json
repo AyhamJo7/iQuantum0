@@ -5232,6 +5232,12 @@
             "tags": []
           },
           {
+            "name": "TabType",
+            "url": "https://github.com/nilava/TabType",
+            "description": "Free, open-source AI autocomplete for every Mac app \u2014 on-device ghost-text suggestions powered by a local LLM (MLX); nothing leaves your Mac.",
+            "tags": []
+          },
+          {
             "name": "Tad",
             "url": "https://www.tadviewer.com",
             "description": "Application for viewing and analyzing tabular data such as CSV files.",
@@ -8711,6 +8717,12 @@
             "name": "Logic Pro X",
             "url": "https://www.apple.com/logic-pro/",
             "description": "Professional digital audio workstation for music and audio production.",
+            "tags": []
+          },
+          {
+            "name": "Segue",
+            "url": "https://segue.npearce.me/",
+            "description": "Broadcast audio playout with crossfade, trim, ramp timers, and pause beds for live radio and podcasts.",
             "tags": []
           },
           {
@@ -31245,6 +31257,12 @@
             "tags": []
           },
           {
+            "name": "HomeButler",
+            "url": "https://homebutler.dev",
+            "description": "Homelab management tool for monitoring hosts, Docker services, Wake-on-LAN, inventory, and remote operations, with a web dashboard and MCP integrations. ( Source Code ) MIT Docker/Go",
+            "tags": []
+          },
+          {
             "name": "Huginn",
             "url": "https://github.com/huginn/huginn",
             "description": "Build agents that monitor and act on your behalf. MIT Ruby",
@@ -32321,12 +32339,6 @@
             "name": "BuddyPress",
             "url": "https://buddypress.org/about/",
             "description": "Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. ( Source Code ) GPL-2.0 PHP",
-            "tags": []
-          },
-          {
-            "name": "Chirpy",
-            "url": "https://chirpy.dev",
-            "description": "Privacy-friendly and customizable Disqus (comment system) alternate. ( Demo , Source Code ) AGPL-3.0 Docker/Nodejs",
             "tags": []
           },
           {
@@ -33557,12 +33569,6 @@
             "tags": []
           },
           {
-            "name": "FeedCord",
-            "url": "https://github.com/Qolors/FeedCord",
-            "description": "\u26a0 - Simple, lightweight & customizable RSS News Feed for your Discord Server. MIT Docker",
-            "tags": []
-          },
-          {
             "name": "Feeds Fun",
             "url": "https://feeds.fun/",
             "description": "News reader with tags, scoring, and AI. ( Source Code ) BSD-3-Clause Python",
@@ -33851,12 +33857,6 @@
             "name": "qBittorrent",
             "url": "https://www.qbittorrent.org/",
             "description": "Free cross-platform bittorrent client with a feature rich Web UI for remote access. ( Source Code ) GPL-2.0 C++",
-            "tags": []
-          },
-          {
-            "name": "Send",
-            "url": "https://gitlab.com/timvisee/send",
-            "description": "Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ( Demo , Clients ) MPL-2.0 Nodejs/Docker",
             "tags": []
           },
           {
@@ -35269,6 +35269,12 @@
             "name": "Youtarr",
             "url": "https://github.com/DialmasterOrg/Youtarr",
             "description": "\u26a0 - Download videos from YouTube channels on a schedule via yt-dlp, with a web UI to browse and selectively download videos. Integrates with Plex Media Server and generates NFO metadata for Jellyfin, Kodi, and Emby. ISC Docker",
+            "tags": []
+          },
+          {
+            "name": "youtube-dl-nas",
+            "url": "https://hyeonsangjeon.github.io/youtube-dl-nas/",
+            "description": "\u26a0 - Authenticated yt-dlp download queue for video, audio and subtitles, with history, mobile sharing and NAS file management (fork of youtube-dl-server). ( Source Code ) MIT Python/Docker",
             "tags": []
           },
           {
@@ -37381,12 +37387,6 @@
             "name": "SearXNG",
             "url": "https://docs.searxng.org/",
             "description": "\u26a0 - Internet metasearch engine which aggregates results from various search services and databases (Fork of Searx). ( Source Code ) AGPL-3.0 Python/Docker",
-            "tags": []
-          },
-          {
-            "name": "sist2",
-            "url": "https://github.com/sist2app/sist2",
-            "description": "Lightning-fast file system indexer and search tool. GPL-3.0 C/Docker",
             "tags": []
           },
           {
@@ -77013,6 +77013,12 @@
             "tags": []
           },
           {
+            "name": "Tura-AI/tura",
+            "url": "https://github.com/Tura-AI/tura",
+            "description": "A local coding agent for terminal, desktop GUI, and command-line workflows, with persistent task state and evidence-backed verification.",
+            "tags": []
+          },
+          {
             "name": "Typst",
             "url": "https://github.com/typst/typst",
             "description": "A markup-based typesetting system",
@@ -83361,6 +83367,12 @@
             "name": "greyblake/nutype",
             "url": "https://github.com/greyblake/nutype",
             "description": "[ nutype ] - define newtype structures with validation constraints.",
+            "tags": []
+          },
+          {
+            "name": "jeromefroe/lru-rs",
+            "url": "https://github.com/jeromefroe/lru-rs",
+            "description": "[ lru ] - An implementation of an LRU cache with O(1) put , get , get_mut , and pop operations.",
             "tags": []
           },
           {
