@@ -7808,6 +7808,12 @@
             "tags": []
           },
           {
+            "name": "Tura",
+            "url": "https://turaai.net/",
+            "description": "Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it.",
+            "tags": []
+          },
+          {
             "name": "Usage4Claude",
             "url": "https://github.com/f-is-h/Usage4Claude",
             "description": "Real-time monitoring of Claude usage quotas across time windows and plans.",
@@ -7817,6 +7823,12 @@
             "name": "Jan",
             "url": "https://jan.ai/",
             "description": "An open-source alternative to ChatGPT that runs entirely offline on your computer.",
+            "tags": []
+          },
+          {
+            "name": "LokalBot",
+            "url": "https://www.lokalbot.com/",
+            "description": "On-device meeting notes, dictation, inline autocomplete, and searchable work memory for macOS.",
             "tags": []
           },
           {
@@ -11083,6 +11095,12 @@
             "tags": []
           },
           {
+            "name": "StrokeMouse",
+            "url": "https://strokemouse.com",
+            "description": "Custom mouse gestures that can trigger keyboard shortcuts, open apps, perform window actions, run shell commands, or execute AppleScript after drawing a stroke.",
+            "tags": []
+          },
+          {
             "name": "SwiftBiu",
             "url": "https://swiftbiu.com/",
             "description": "Text productivity tool with a customizable action bar and AI extensions.",
@@ -13472,6 +13490,12 @@
             "name": "neuron-cli",
             "url": "https://github.com/steevin/neuron-cli",
             "description": "A local-first, Obsidian-compatible terminal knowledge manager.",
+            "tags": []
+          },
+          {
+            "name": "OpenCLI",
+            "url": "https://github.com/bcdxn/opencli",
+            "description": "OpenAPI-style specification for CLIs; define your interface in a language-agnostic document to generate documentation and framework boilerplate code.",
             "tags": []
           },
           {
@@ -25314,6 +25338,12 @@
             "name": "smite",
             "url": "https://github.com/sergiotapia/smitego",
             "description": "Go package to wraps access to the Smite game API.",
+            "tags": []
+          },
+          {
+            "name": "sonarqube-client-go",
+            "url": "https://github.com/BoxBoxJason/sonarqube-client-go",
+            "description": "Go client library and command-line client for the SonarQube Web API.",
             "tags": []
           },
           {
@@ -45653,6 +45683,12 @@
             "name": "conda",
             "url": "https://github.com/conda/conda/",
             "description": "Cross-platform, Python-agnostic binary package manager.",
+            "tags": []
+          },
+          {
+            "name": "hatch",
+            "url": "https://github.com/pypa/hatch",
+            "description": "Modern, extensible Python project manager for environments, builds, and publishing.",
             "tags": []
           },
           {
@@ -80170,6 +80206,12 @@
             "name": "wthrr",
             "url": "https://github.com/ttytm/wthrr-the-weathercrab",
             "description": "Weather companion for the terminal.",
+            "tags": []
+          },
+          {
+            "name": "YAKC",
+            "url": "https://github.com/iammodev/YAKC",
+            "description": "Cross-platform keystroke & mouse-click visualizer for screencasts, streaming, and presentations. Works on Windows, macOS, and Linux (X11 & Wayland).",
             "tags": []
           },
           {
