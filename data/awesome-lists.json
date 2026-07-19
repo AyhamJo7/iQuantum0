@@ -7826,6 +7826,12 @@
             "tags": []
           },
           {
+            "name": "LingShu",
+            "url": "https://royzhao1991.github.io/LingShu/",
+            "description": "Open-source, model-agnostic macOS agent for verified code, documents, slides, and computer actions.",
+            "tags": []
+          },
+          {
             "name": "LokalBot",
             "url": "https://www.lokalbot.com/",
             "description": "On-device meeting notes, dictation, inline autocomplete, and searchable work memory for macOS.",
@@ -88102,19 +88108,19 @@
           },
           {
             "name": "Apache C++ Standard Library",
-            "url": "http://stdcxx.apache.org/",
+            "url": "https://stdcxx.apache.org/",
             "description": "STDCXX, A collection of algorithms, containers, iterators, and other fundamental components. [retired] [Apache2]",
             "tags": []
           },
           {
             "name": "APR",
-            "url": "http://apr.apache.org/",
+            "url": "https://apr.apache.org/",
             "description": "Apache Portable Runtime. Another library of cross-platform utility functions. [Apache2]",
             "tags": []
           },
           {
             "name": "ASL",
-            "url": "http://stlab.adobe.com/",
+            "url": "https://stlab.adobe.com/",
             "description": "Adobe Source Libraries provides peer-reviewed and portable C++ source libraries. [MIT]",
             "tags": []
           },
@@ -88162,7 +88168,7 @@
           },
           {
             "name": "Cxxomfort",
-            "url": "http://ryan.gulix.cl/fossil.cgi/cxxomfort/",
+            "url": "https://ryan.gulix.cl/fossil.cgi/cxxomfort/",
             "description": "A small, header-only library that backports various facilities from more recent C++ Standards to C++03 and later. [MIT]",
             "tags": []
           },
@@ -88252,7 +88258,7 @@
           },
           {
             "name": "Loki",
-            "url": "http://loki-lib.sourceforge.net/",
+            "url": "https://loki-lib.sourceforge.net/",
             "description": "A C++ library of designs, containing flexible implementations of common design patterns and idioms. [MIT]",
             "tags": []
           },
@@ -88282,7 +88288,7 @@
           },
           {
             "name": "Reason",
-            "url": "http://code.google.com/p/reason/",
+            "url": "https://code.google.com/p/reason/",
             "description": "A cross platform framework designed to bring the ease of use of Java, .Net, or Python to developers who require the performance and strength of C++. [GPL2]",
             "tags": []
           },
@@ -88324,13 +88330,13 @@
           },
           {
             "name": "STLport",
-            "url": "http://www.stlport.org/",
+            "url": "https://www.stlport.org/",
             "description": "An exemplary version of STL. [Free]",
             "tags": []
           },
           {
             "name": "STXXL",
-            "url": "http://stxxl.sourceforge.net/",
+            "url": "https://stxxl.sourceforge.net/",
             "description": "Standard Template Library for Extra Large Data Sets. [Boost]",
             "tags": []
           },
@@ -88342,13 +88348,13 @@
           },
           {
             "name": "Ultimate++",
-            "url": "http://www.ultimatepp.org/",
+            "url": "https://www.ultimatepp.org/",
             "description": "A C++ cross-platform rapid application development framework. [BSD]",
             "tags": []
           },
           {
             "name": "Windows Template Library",
-            "url": "http://sourceforge.net/projects/wtl/",
+            "url": "https://sourceforge.net/projects/wtl/",
             "description": "A C++ library for developing Windows applications and UI components. [Public]",
             "tags": []
           },
@@ -88395,7 +88401,7 @@
           },
           {
             "name": "Evolving Objects",
-            "url": "http://eodev.sourceforge.net/",
+            "url": "https://eodev.sourceforge.net/",
             "description": "A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast. [LGPL]",
             "tags": []
           },
@@ -88514,13 +88520,13 @@
           },
           {
             "name": "libev",
-            "url": "http://libev.schmorp.de/",
+            "url": "https://libev.schmorp.de/",
             "description": "A full-featured and high-performance event loop that is loosely modelled after libevent, but without its limitations and bugs. [BSD and GPL]",
             "tags": []
           },
           {
             "name": "libevent",
-            "url": "http://libevent.org/",
+            "url": "https://libevent.org/",
             "description": "An event notification library. [BSD]",
             "tags": []
           },
@@ -88591,7 +88597,7 @@
           },
           {
             "name": "FMOD",
-            "url": "http://www.fmod.org/",
+            "url": "https://www.fmod.org/",
             "description": "An easy to use crossplatform audio engine and audio content creation tool for games. [Free for non-commercial/Commercial]",
             "tags": []
           },
@@ -88627,7 +88633,7 @@
           },
           {
             "name": "OpenAL",
-            "url": "http://www.openal.org/",
+            "url": "https://www.openal.org/",
             "description": "Open Audio Library - A crossplatform audio API. [BSD/LGPL/Proprietary]",
             "tags": []
           },
@@ -88645,13 +88651,13 @@
           },
           {
             "name": "Opus",
-            "url": "http://opus-codec.org/",
+            "url": "https://opus-codec.org/",
             "description": "A totally open, royalty-free, highly versatile audio codec. [BSD]",
             "tags": []
           },
           {
             "name": "PortAudio",
-            "url": "http://www.portaudio.com/",
+            "url": "https://www.portaudio.com/",
             "description": "PortAudio is a free, cross-platform, open-source, audio I/O library. [MIT]",
             "tags": []
           },
@@ -88675,7 +88681,7 @@
           },
           {
             "name": "Speex",
-            "url": "http://www.speex.org/",
+            "url": "https://www.speex.org/",
             "description": "A free codec for free speech. Obsoleted by Opus. [BSD]",
             "tags": []
           },
@@ -88687,7 +88693,7 @@
           },
           {
             "name": "Vorbis",
-            "url": "http://xiph.org/vorbis/",
+            "url": "https://xiph.org/vorbis/",
             "description": "Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio format. [BSD]",
             "tags": []
           },
@@ -88722,25 +88728,25 @@
         "resources": [
           {
             "name": "BioC++",
-            "url": "http://biocpp.sourceforge.net/",
+            "url": "https://biocpp.sourceforge.net/",
             "description": "C++ Computational Libraries for Bioinformatics. [BSD]",
             "tags": []
           },
           {
             "name": "Chaste",
-            "url": "http://www.cs.ox.ac.uk/chaste/",
+            "url": "https://www.cs.ox.ac.uk/chaste/",
             "description": "An open source C++ library for the computational simulation of mathematical models developed for physiology and biology. [BSD]",
             "tags": []
           },
           {
             "name": "libsequence",
-            "url": "http://molpopgen.github.io/libsequence/",
+            "url": "https://molpopgen.github.io/libsequence/",
             "description": "A C++ library for representing and analyzing population genetics data. [GPL]",
             "tags": []
           },
           {
             "name": "SeqAn",
-            "url": "http://www.seqan.de/",
+            "url": "https://www.seqan.de/",
             "description": "Algorithms and data structures for the analysis of sequences with the focus on biological data. [BSD/3-clause]",
             "tags": []
           },
@@ -88977,7 +88983,7 @@
           },
           {
             "name": "Ncurses",
-            "url": "http://invisible-island.net/ncurses/",
+            "url": "https://invisible-island.net/ncurses/",
             "description": "A terminal user interface. [MIT]",
             "tags": []
           },
@@ -89013,7 +89019,7 @@
           },
           {
             "name": "TCLAP",
-            "url": "http://tclap.sourceforge.net",
+            "url": "https://tclap.sourceforge.net",
             "description": "A mature, stable and feature-rich library for defining and accessing command line arguments in ANSI C++. [MIT]",
             "tags": []
           },
@@ -89060,7 +89066,7 @@
           },
           {
             "name": "bzip2",
-            "url": "http://www.bzip.org/",
+            "url": "https://www.bzip.org/",
             "description": "A freely available, patent free, high-quality data compressor. [BSD]",
             "tags": []
           },
@@ -89144,7 +89150,7 @@
           },
           {
             "name": "LZMAT",
-            "url": "http://www.matcode.com/lzmat.htm",
+            "url": "https://www.matcode.com/lzmat.htm",
             "description": "An extremely fast real-time lossless data compression library. [GPL]",
             "tags": []
           },
@@ -89198,7 +89204,7 @@
           },
           {
             "name": "ZLib",
-            "url": "http://zlib.net/",
+            "url": "https://zlib.net/",
             "description": "A very compact compression library for data streams. [zlib]",
             "tags": []
           },
@@ -89222,7 +89228,7 @@
           },
           {
             "name": "ZZIPlib",
-            "url": "http://zziplib.sourceforge.net/",
+            "url": "https://zziplib.sourceforge.net/",
             "description": "Provides read access on ZIP-archives. [MPL/LGPL]",
             "tags": []
           },
@@ -89455,7 +89461,7 @@
           },
           {
             "name": "OpenMP",
-            "url": "http://openmp.org/",
+            "url": "https://openmp.org/",
             "description": "The OpenMP API.",
             "tags": []
           },
@@ -89479,7 +89485,7 @@
           },
           {
             "name": "RaftLib",
-            "url": "http://raftlib.io/",
+            "url": "https://raftlib.io/",
             "description": "The RaftLib C++ library, streaming/dataflow concurrency via C++ iostream-like operators. [Apache2]",
             "tags": []
           },
@@ -89509,7 +89515,7 @@
           },
           {
             "name": "Thrust",
-            "url": "http://thrust.github.io/",
+            "url": "https://thrust.github.io/",
             "description": "A parallel algorithms library which resembles the C++ Standard Template Library (STL). [Apache2]",
             "tags": []
           },
@@ -89533,7 +89539,7 @@
           },
           {
             "name": "STAPL",
-            "url": "http://parasol-lab.gitlab.io/stapl-home/",
+            "url": "https://parasol-lab.gitlab.io/stapl-home/",
             "description": "A C++ parallel programming framework designed to work on both shared and distributed memory parallel computers. [BSD]",
             "tags": []
           },
@@ -89812,13 +89818,13 @@
         "resources": [
           {
             "name": "Bcrypt",
-            "url": "http://bcrypt.sourceforge.net/",
+            "url": "https://bcrypt.sourceforge.net/",
             "description": "A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. [BSD]",
             "tags": []
           },
           {
             "name": "BeeCrypt",
-            "url": "http://beecrypt.sourceforge.net/",
+            "url": "https://beecrypt.sourceforge.net/",
             "description": "A portable and fast cryptography library. [LGPLv2.1+]",
             "tags": []
           },
@@ -89830,7 +89836,7 @@
           },
           {
             "name": "Botan",
-            "url": "http://botan.randombit.net/",
+            "url": "https://botan.randombit.net/",
             "description": "A crypto library for C++. [BSD-2]",
             "tags": []
           },
@@ -89854,19 +89860,19 @@
           },
           {
             "name": "GnuTLS",
-            "url": "http://www.gnutls.org/",
+            "url": "https://www.gnutls.org/",
             "description": "A secure communications library implementing the SSL, TLS and DTLS protocols. [LGPL2.1]",
             "tags": []
           },
           {
             "name": "Libgcrypt",
-            "url": "http://www.gnu.org/software/libgcrypt/",
+            "url": "https://www.gnu.org/software/libgcrypt/",
             "description": "A general purpose cryptographic library originally based on code from GnuPG. [LGPLv2.1+]",
             "tags": []
           },
           {
             "name": "LibreSSL",
-            "url": "http://www.libressl.org/",
+            "url": "https://www.libressl.org/",
             "description": "A free version of the SSL/TLS protocol forked from OpenSSL in 2014. [?]",
             "tags": []
           },
@@ -89896,7 +89902,7 @@
           },
           {
             "name": "Nettle",
-            "url": "http://www.lysator.liu.se/~nisse/nettle/",
+            "url": "https://www.lysator.liu.se/~nisse/nettle/",
             "description": "A low-level cryptographic library. [LGPL]",
             "tags": []
           },
@@ -90170,7 +90176,7 @@
           },
           {
             "name": "MySQL++",
-            "url": "http://www.tangentsoft.net/mysql++/",
+            "url": "https://www.tangentsoft.net/mysql++/",
             "description": "A C++ wrapper for MySQL's C API. [LGPL]",
             "tags": []
           },
@@ -90236,7 +90242,7 @@
           },
           {
             "name": "SQLite",
-            "url": "http://www.sqlite.org/",
+            "url": "https://www.sqlite.org/",
             "description": "A completely embedded, full-featured relational database in a few 100k that you can include right into your project. [PublicDomain]",
             "tags": []
           },
@@ -90450,7 +90456,7 @@
           },
           {
             "name": "CUTE",
-            "url": "http://cute-test.com",
+            "url": "https://cute-test.com",
             "description": "C++ Unit Testing Easier. [LGPL3]",
             "tags": []
           },
@@ -90474,7 +90480,7 @@
           },
           {
             "name": "CppUnit",
-            "url": "http://www.freedesktop.org/wiki/Software/cppunit/",
+            "url": "https://www.freedesktop.org/wiki/Software/cppunit/",
             "description": "C++ port of JUnit. [LGPL2]",
             "tags": []
           },
@@ -90504,7 +90510,7 @@
           },
           {
             "name": "Deleaker",
-            "url": "http://www.deleaker.com",
+            "url": "https://www.deleaker.com",
             "description": "A tool for resource leak detection, including memory, GDI and handle leaks.",
             "tags": []
           },
@@ -90724,7 +90730,7 @@
           },
           {
             "name": "FFTW",
-            "url": "http://www.fftw.org/",
+            "url": "https://www.fftw.org/",
             "description": "A C library for computing the DFT in one or more dimensions. [GPL]",
             "tags": []
           },
@@ -90806,7 +90812,7 @@
           },
           {
             "name": "Allegro",
-            "url": "http://liballeg.org/",
+            "url": "https://liballeg.org/",
             "description": "A cross-platform library mainly aimed for video games and multimedia programming. [zlib]",
             "tags": []
           },
@@ -90818,7 +90824,7 @@
           },
           {
             "name": "Cocos2d-x",
-            "url": "http://www.cocos2d-x.org/",
+            "url": "https://www.cocos2d-x.org/",
             "description": "A multi-platform framework for building 2d games, interactive books, demos and other graphical applications. [MIT]",
             "tags": []
           },
@@ -90836,7 +90842,7 @@
           },
           {
             "name": "delta3d",
-            "url": "http://sourceforge.net/projects/delta3d/",
+            "url": "https://sourceforge.net/projects/delta3d/",
             "description": "A robust simulation platform. [LGPL2]",
             "tags": []
           },
@@ -90914,7 +90920,7 @@
           },
           {
             "name": "Oxygine",
-            "url": "http://oxygine.org/",
+            "url": "https://oxygine.org/",
             "description": "A cross-platform 2D C++ game engine. [MIT]",
             "tags": []
           },
@@ -91020,7 +91026,7 @@
           },
           {
             "name": "CEGUI",
-            "url": "http://cegui.org.uk/",
+            "url": "https://cegui.org.uk/",
             "description": "Flexible, cross-platform GUI library.",
             "tags": []
           },
@@ -91032,13 +91038,13 @@
           },
           {
             "name": "FLTK",
-            "url": "http://www.fltk.org/index.php",
+            "url": "https://www.fltk.org/index.php",
             "description": "Fast, light, cross-platform C++ GUI toolkit. [LGPL2]",
             "tags": []
           },
           {
             "name": "FOX Toolkit",
-            "url": "http://fox-toolkit.org",
+            "url": "https://fox-toolkit.org",
             "description": "an open-source, cross-platform widget toolkit. [LGPL]",
             "tags": []
           },
@@ -91050,13 +91056,13 @@
           },
           {
             "name": "GTK+",
-            "url": "http://www.gtk.org/",
+            "url": "https://www.gtk.org/",
             "description": "A multi-platform toolkit for creating graphical user interfaces. [LGPL]",
             "tags": []
           },
           {
             "name": "gtkmm",
-            "url": "http://www.gtkmm.org/en/",
+            "url": "https://www.gtkmm.org/en/",
             "description": "The official C++ interface for the popular GUI library GTK+. [LGPL]",
             "tags": []
           },
@@ -91116,19 +91122,19 @@
           },
           {
             "name": "QCustomPlot",
-            "url": "http://qcustomplot.com/",
+            "url": "https://qcustomplot.com/",
             "description": "Qt plotting widget without further dependencies. [GPLv3]",
             "tags": []
           },
           {
             "name": "Qwt",
-            "url": "http://qwt.sourceforge.net/",
+            "url": "https://qwt.sourceforge.net/",
             "description": "Qt Widgets for Technical Applications. [Own based on LGPL]",
             "tags": []
           },
           {
             "name": "QwtPlot3D",
-            "url": "http://qwtplot3d.sourceforge.net/",
+            "url": "https://qwtplot3d.sourceforge.net/",
             "description": "A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. [zlib]",
             "tags": []
           },
@@ -91146,7 +91152,7 @@
           },
           {
             "name": "Sciter",
-            "url": "http://sciter.com/",
+            "url": "https://sciter.com/",
             "description": "Sciter is an embeddable HTML/CSS/scripting engine aimed to be used as an UI layer of modern desktop applications. [Free/Commercial]",
             "tags": []
           },
@@ -91176,7 +91182,7 @@
           },
           {
             "name": "wxWidgets",
-            "url": "http://wxwidgets.org/",
+            "url": "https://wxwidgets.org/",
             "description": "A C++ library that lets developers create applications for Windows, Mac OS X, Linux and other platforms with a single code base. [Own LGPL]",
             "tags": []
           },
@@ -91223,7 +91229,7 @@
           },
           {
             "name": "Cairo",
-            "url": "http://www.cairographics.org/",
+            "url": "https://www.cairographics.org/",
             "description": "A 2D graphics library with support for multiple output devices. [LGPL2 or Mozilla MPL]",
             "tags": []
           },
@@ -91283,7 +91289,7 @@
           },
           {
             "name": "Irrlicht",
-            "url": "http://irrlicht.sourceforge.net/",
+            "url": "https://irrlicht.sourceforge.net/",
             "description": "A high performance realtime 3D engine written in C++. [zlib]",
             "tags": []
           },
@@ -91331,7 +91337,7 @@
           },
           {
             "name": "OpenSceneGraph",
-            "url": "http://www.openscenegraph.org/",
+            "url": "https://www.openscenegraph.org/",
             "description": "An open source high performance 3D graphics toolkit. [OSGPL]",
             "tags": []
           },
@@ -91343,13 +91349,13 @@
           },
           {
             "name": "OpenVDB",
-            "url": "http://www.openvdb.org/",
+            "url": "https://www.openvdb.org/",
             "description": "Library and tools for storing, editing, and rendering volumetric datasets. [MPL2]",
             "tags": []
           },
           {
             "name": "Panda3D",
-            "url": "http://www.panda3d.org/",
+            "url": "https://www.panda3d.org/",
             "description": "A framework for 3D rendering and game development for Python and C++. [BSD]",
             "tags": []
           },
@@ -91420,7 +91426,7 @@
           },
           {
             "name": "CImg",
-            "url": "http://cimg.eu/",
+            "url": "https://cimg.eu/",
             "description": "A small, open source, C++ toolkit for image processing. [Own LGPL or GPL]",
             "tags": []
           },
@@ -91444,7 +91450,7 @@
           },
           {
             "name": "FreeImage",
-            "url": "http://freeimage.sourceforge.net/",
+            "url": "https://freeimage.sourceforge.net/",
             "description": "An open source library that supports popular graphics image formats and others as needed by today's multimedia applications. [GPL2 or GPL3]",
             "tags": []
           },
@@ -91456,19 +91462,19 @@
           },
           {
             "name": "DCMTK",
-            "url": "http://dicom.offis.de/dcmtk.php.en",
+            "url": "https://dicom.offis.de/dcmtk.php.en",
             "description": "DICOM Toolkit.",
             "tags": []
           },
           {
             "name": "GDCM",
-            "url": "http://gdcm.sourceforge.net/wiki/index.php/Main_Page",
+            "url": "https://gdcm.sourceforge.net/wiki/index.php/Main_Page",
             "description": "Grassroots DICOM library.",
             "tags": []
           },
           {
             "name": "ITK",
-            "url": "http://www.itk.org/",
+            "url": "https://www.itk.org/",
             "description": "An open-source, cross-platform system for image analysis. [Apache2 from ITK 4.0]",
             "tags": []
           },
@@ -91552,7 +91558,7 @@
           },
           {
             "name": "OpenEXR",
-            "url": "http://www.openexr.com/",
+            "url": "https://www.openexr.com/",
             "description": "Cross-platform library for high dynamic range imaging. [Modified BSDF]",
             "tags": []
           },
@@ -91636,7 +91642,7 @@
           },
           {
             "name": "VTK",
-            "url": "http://www.vtk.org/",
+            "url": "https://www.vtk.org/",
             "description": "Open-source, freely available software system for 3D computer graphics, image processing and visualization. [BSD]",
             "tags": []
           },
@@ -91659,19 +91665,19 @@
         "resources": [
           {
             "name": "gettext",
-            "url": "http://www.gnu.org/software/gettext/",
+            "url": "https://www.gnu.org/software/gettext/",
             "description": "GNU 'gettext'. [GPL2]",
             "tags": []
           },
           {
             "name": "IBM ICU",
-            "url": "http://site.icu-project.org/",
+            "url": "https://site.icu-project.org/",
             "description": "A set of C/C++ and Java libraries providing Unicode and Globalization support. [ICU]",
             "tags": []
           },
           {
             "name": "libiconv",
-            "url": "http://www.gnu.org/software/libiconv/",
+            "url": "https://www.gnu.org/software/libiconv/",
             "description": "An encoding conversion library between different character encodings. [GPL]",
             "tags": []
           },
@@ -91790,13 +91796,13 @@
           },
           {
             "name": "WAMP",
-            "url": "http://wamp.ws/",
+            "url": "https://wamp.ws/",
             "description": "Provides RPC and pub/sub messaging patterns. (various implementations, various languages)",
             "tags": []
           },
           {
             "name": "xmlrpc-c",
-            "url": "http://xmlrpc-c.sourceforge.net/",
+            "url": "https://xmlrpc-c.sourceforge.net/",
             "description": "A lightweight RPC library based on XML and HTTP. [BSD]",
             "tags": []
           }
@@ -91963,7 +91969,7 @@
           },
           {
             "name": "libjson",
-            "url": "http://sourceforge.net/projects/libjson/",
+            "url": "https://sourceforge.net/projects/libjson/",
             "description": "Lightweight JSON library. [?]",
             "tags": []
           },
@@ -92124,7 +92130,7 @@
           },
           {
             "name": "Log4cpp",
-            "url": "http://log4cpp.sourceforge.net/",
+            "url": "https://log4cpp.sourceforge.net/",
             "description": "A library of C++ classes for flexible logging to files, syslog, IDSA and other destinations. [LGPL]",
             "tags": []
           },
@@ -92172,13 +92178,13 @@
           },
           {
             "name": "templog",
-            "url": "http://www.templog.org/",
+            "url": "https://www.templog.org/",
             "description": "A very small and lightweight C++ library which you can use to add logging to your C++ applications. [Boost]",
             "tags": []
           },
           {
             "name": "P7Baical",
-            "url": "http://baical.net/p7.html",
+            "url": "https://baical.net/p7.html",
             "description": "An open source and cross-platform library for high-speed sending telemetry & trace data  with minimal usage of CPU and memory. [LGPL]",
             "tags": []
           },
@@ -92404,7 +92410,7 @@
           },
           {
             "name": "ceres-solver",
-            "url": "http://ceres-solver.org/",
+            "url": "https://ceres-solver.org/",
             "description": "C++ library for modeling and solving large complicated nonlinear least squares problems from google. [BSD]",
             "tags": []
           },
@@ -92440,7 +92446,7 @@
           },
           {
             "name": "Eigen",
-            "url": "http://eigen.tuxfamily.org/",
+            "url": "https://eigen.tuxfamily.org/",
             "description": "A high-level C++ library of template headers for linear algebra, matrix and vector operations, numerical solvers and related algorithms. [MPL2]",
             "tags": []
           },
@@ -92476,7 +92482,7 @@
           },
           {
             "name": "GMTL",
-            "url": "http://ggt.sourceforge.net/",
+            "url": "https://ggt.sourceforge.net/",
             "description": "Graphics Math Template Library is a collection of tools implementing Graphics primitives in generalized ways. [GPL2]",
             "tags": []
           },
@@ -92620,7 +92626,7 @@
           },
           {
             "name": "Versor",
-            "url": "http://versor.mat.ucsb.edu/",
+            "url": "https://versor.mat.ucsb.edu/",
             "description": "A (fast) Generic C++ library for Geometric Algebras, including Euclidean, Projective, Conformal, Spacetime (etc).",
             "tags": []
           },
@@ -92810,7 +92816,7 @@
         "resources": [
           {
             "name": "GStreamer",
-            "url": "http://gstreamer.freedesktop.org/",
+            "url": "https://gstreamer.freedesktop.org/",
             "description": "A library for constructing graphs of media-handling components. [LGPL]",
             "tags": []
           },
@@ -92834,7 +92840,7 @@
           },
           {
             "name": "LIVE555 Streaming Media",
-            "url": "http://www.live555.com/liveMedia/",
+            "url": "https://www.live555.com/liveMedia/",
             "description": "Multimedia streaming library using open standard protocols (RTP/RTCP, RTSP, SIP). [LGPL]",
             "tags": []
           },
@@ -92887,7 +92893,7 @@
           },
           {
             "name": "ACE",
-            "url": "http://www.dre.vanderbilt.edu/~schmidt/ACE.html",
+            "url": "https://www.dre.vanderbilt.edu/~schmidt/ACE.html",
             "description": "An OO Network Programming Toolkit in C++. [?MIT?]",
             "tags": []
           },
@@ -92959,7 +92965,7 @@
           },
           {
             "name": "cpp-netlib",
-            "url": "http://cpp-netlib.org/",
+            "url": "https://cpp-netlib.org/",
             "description": "A collection of open-source libraries for high level network programming. [Boost]",
             "tags": []
           },
@@ -93043,7 +93049,7 @@
           },
           {
             "name": "libcurl",
-            "url": "http://curl.haxx.se/libcurl/",
+            "url": "https://curl.haxx.se/libcurl/",
             "description": "Multiprotocol file transfer library. [MIT/X derivate license]",
             "tags": []
           },
@@ -93055,7 +93061,7 @@
           },
           {
             "name": "Libmicrohttpd",
-            "url": "http://www.gnu.org/software/libmicrohttpd/",
+            "url": "https://www.gnu.org/software/libmicrohttpd/",
             "description": "GNU libmicrohttpd is a small C library that is supposed to make it easy to run an HTTP server as part of another application. [LGPL v2.1+]",
             "tags": []
           },
@@ -93091,7 +93097,7 @@
           },
           {
             "name": "lwIP",
-            "url": "http://savannah.nongnu.org/projects/lwip/",
+            "url": "https://savannah.nongnu.org/projects/lwip/",
             "description": "A lightweight TCP/IP stack. [Modified BSD]",
             "tags": []
           },
@@ -93395,7 +93401,7 @@
           },
           {
             "name": "PoDoFo",
-            "url": "http://podofo.sourceforge.net/",
+            "url": "https://podofo.sourceforge.net/",
             "description": "A library to work with the PDF file format. [LGPL]",
             "tags": []
           },
@@ -93419,7 +93425,7 @@
           },
           {
             "name": "DynaPDF",
-            "url": "http://www.dynaforms.com/",
+            "url": "https://www.dynaforms.com/",
             "description": "An easy-to-use PDF generation library. [Commercial]",
             "tags": []
           }
@@ -93472,7 +93478,7 @@
           },
           {
             "name": "ODE",
-            "url": "http://www.ode.org/",
+            "url": "https://www.ode.org/",
             "description": "Open Dynamics Engine - An open source, high performance library for simulating rigid body dynamics. [BSD&LGPL]",
             "tags": []
           },
@@ -93680,7 +93686,7 @@
           },
           {
             "name": "PCRE",
-            "url": "http://pcre.org/",
+            "url": "https://pcre.org/",
             "description": "A regular expression C library inspired by the regular expression capabilities in Perl. [BSD]",
             "tags": []
           },
@@ -93751,13 +93757,13 @@
           },
           {
             "name": "MOOS-IvP",
-            "url": "http://moos-ivp.org",
+            "url": "https://moos-ivp.org",
             "description": "A set of open source C++ modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles.",
             "tags": []
           },
           {
             "name": "MRPT",
-            "url": "http://www.mrpt.org/",
+            "url": "https://www.mrpt.org/",
             "description": "Mobile Robot Programming Toolkit. [BSD]",
             "tags": []
           },
@@ -93769,7 +93775,7 @@
           },
           {
             "name": "Robotics Library (RL)",
-            "url": "http://www.roboticslibrary.org/",
+            "url": "https://www.roboticslibrary.org/",
             "description": "A self-contained C++ library for robot kinematics, motion planning and control. [BSD]",
             "tags": []
           },
@@ -93781,7 +93787,7 @@
           },
           {
             "name": "ROS",
-            "url": "http://wiki.ros.org/",
+            "url": "https://wiki.ros.org/",
             "description": "Robot Operating System provides libraries and tools to help software developers create robot applications. [BSD]",
             "tags": []
           },
@@ -93822,13 +93828,13 @@
           },
           {
             "name": "FFTW",
-            "url": "http://www.fftw.org/",
+            "url": "https://www.fftw.org/",
             "description": "A C library for computing the DFT in one or more dimensions. [GPL]",
             "tags": []
           },
           {
             "name": "GSL",
-            "url": "http://www.gnu.org/software/gsl/",
+            "url": "https://www.gnu.org/software/gsl/",
             "description": "GNU scientific library. [GPL]",
             "tags": []
           },
@@ -93941,7 +93947,7 @@
           },
           {
             "name": "Lua",
-            "url": "http://www.lua.org/",
+            "url": "https://www.lua.org/",
             "description": "A minimal and fast scripting engine for configuration files and basic application scripting. [MIT]",
             "tags": []
           },
@@ -94144,7 +94150,7 @@
           },
           {
             "name": "Kaitai Struct",
-            "url": "http://kaitai.io",
+            "url": "https://kaitai.io",
             "description": "A declarative language to describe various binary data structures and a compiler to generate C++ parser code. [GPLv3+][MIT][Apache2]",
             "tags": []
           },
@@ -94303,7 +94309,7 @@
         "resources": [
           {
             "name": "libvpx",
-            "url": "http://www.webmproject.org/code/",
+            "url": "https://www.webmproject.org/code/",
             "description": "VP8/VP9 Codec SDK. [BSD]",
             "tags": []
           },
@@ -94339,7 +94345,7 @@
           },
           {
             "name": "Theora",
-            "url": "http://www.theora.org/",
+            "url": "https://www.theora.org/",
             "description": "A free and open video compression format. [BSD]",
             "tags": []
           },
@@ -94403,7 +94409,7 @@
           },
           {
             "name": "CppCMS",
-            "url": "http://cppcms.com/",
+            "url": "https://cppcms.com/",
             "description": "A Free High Performance Web Development Framework (not a CMS). [LGPLv3]",
             "tags": []
           },
@@ -94445,7 +94451,7 @@
           },
           {
             "name": "libOnion",
-            "url": "http://www.coralbits.com/libonion/",
+            "url": "https://www.coralbits.com/libonion/",
             "description": "lightweight library to help you create webservers in C programming language. [LGPLv3]",
             "tags": []
           },
@@ -94487,7 +94493,7 @@
           },
           {
             "name": "Wt",
-            "url": "http://www.webtoolkit.eu/wt",
+            "url": "https://www.webtoolkit.eu/wt",
             "description": "A C++ library for developing web applications. [GPL/Proprietary]",
             "tags": []
           },
@@ -94516,19 +94522,19 @@
           },
           {
             "name": "Expat",
-            "url": "http://www.libexpat.org/",
+            "url": "https://www.libexpat.org/",
             "description": "An XML parser library written in C. [MIT]",
             "tags": []
           },
           {
             "name": "Libxml2",
-            "url": "http://xmlsoft.org/",
+            "url": "https://xmlsoft.org/",
             "description": "The XML C parser and toolkit of Gnome. [MIT]",
             "tags": []
           },
           {
             "name": "libxml++",
-            "url": "http://libxmlplusplus.sourceforge.net/",
+            "url": "https://libxmlplusplus.sourceforge.net/",
             "description": "An XML Parser for C++. [LGPL2]",
             "tags": []
           },
@@ -94540,19 +94546,19 @@
           },
           {
             "name": "PugiXML",
-            "url": "http://pugixml.org/",
+            "url": "https://pugixml.org/",
             "description": "A light-weight, simple and fast XML parser for C++ with XPath support. [MIT]",
             "tags": []
           },
           {
             "name": "RapidXml",
-            "url": "http://rapidxml.sourceforge.net/",
+            "url": "https://rapidxml.sourceforge.net/",
             "description": "An attempt to create the fastest XML parser possible, while retaining useability, portability and reasonable W3C compatibility. [Boost]",
             "tags": []
           },
           {
             "name": "TinyXML",
-            "url": "http://sourceforge.net/projects/tinyxml/",
+            "url": "https://sourceforge.net/projects/tinyxml/",
             "description": "A simple, small, minimal, C++ XML parser that can be easily integrating into other programs. [zlib]",
             "tags": []
           },
@@ -94576,7 +94582,7 @@
           },
           {
             "name": "Xerces-C++",
-            "url": "http://xerces.apache.org/xerces-c/",
+            "url": "https://xerces.apache.org/xerces-c/",
             "description": "A validating XML parser written in a portable subset of C++. [Apache2]",
             "tags": []
           }
@@ -94640,7 +94646,7 @@
           },
           {
             "name": "American fuzzy lop",
-            "url": "http://lcamtuf.coredump.cx/afl/",
+            "url": "https://lcamtuf.coredump.cx/afl/",
             "description": "a.k.a. afl-fuzz - Crazy fuzzing tool that automatically discovers bugs given time and minimal example input. [Apache2]",
             "tags": []
           },
@@ -94658,7 +94664,7 @@
           },
           {
             "name": "Better String",
-            "url": "http://bstring.sourceforge.net",
+            "url": "https://bstring.sourceforge.net",
             "description": "An alternative to the string library for C which is more functional and does not have buffer overflow overrun problems. Also includes a C++ wrapper. [BSD, GPL2]",
             "tags": []
           },
@@ -94766,7 +94772,7 @@
           },
           {
             "name": "FastFormat",
-            "url": "http://www.fastformat.org",
+            "url": "https://www.fastformat.org",
             "description": "Fast, Safe C++ Formatting inspired by log4j and Pantheios. [Simplified BSD]",
             "tags": []
           },
@@ -95006,7 +95012,7 @@
           },
           {
             "name": "Remote Call Framework",
-            "url": "http://www.deltavsoft.com/",
+            "url": "https://www.deltavsoft.com/",
             "description": "Inter-process communication framework for C++. [GPL2/Proprietary]",
             "tags": []
           },
@@ -95030,7 +95036,7 @@
           },
           {
             "name": "Scintilla",
-            "url": "http://scintilla.org/",
+            "url": "https://scintilla.org/",
             "description": "A free source code editing component. [MIT]",
             "tags": []
           },
@@ -95048,7 +95054,7 @@
           },
           {
             "name": "sigslot",
-            "url": "http://sigslot.sourceforge.net/",
+            "url": "https://sigslot.sourceforge.net/",
             "description": "C++ Signal/Slot Library. [PublicDomain]",
             "tags": []
           },
@@ -95186,7 +95192,7 @@
           },
           {
             "name": "ZBar",
-            "url": "http://zbar.sourceforge.net/",
+            "url": "https://zbar.sourceforge.net/",
             "description": "A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. [LGPL2]",
             "tags": []
           },
@@ -95287,7 +95293,7 @@
           },
           {
             "name": "Clang",
-            "url": "http://clang.llvm.org/",
+            "url": "https://clang.llvm.org/",
             "description": "A C compiler for LLVM. Supports C++11/14/1z C11. Developed by LLVM Team. [NCSA]",
             "tags": []
           },
@@ -95323,7 +95329,7 @@
           },
           {
             "name": "LLVM",
-            "url": "http://llvm.org/",
+            "url": "https://llvm.org/",
             "description": "Collection of modular and reusable compiler and toolchain technologies.",
             "tags": []
           },
@@ -95341,13 +95347,13 @@
           },
           {
             "name": "Oracle Solaris Studio",
-            "url": "http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html",
+            "url": "https://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html",
             "description": "C, C++ and Fortran compiler for SPARC and x86. Supports C++11. Available on Linux and Solaris. [OTN Developer License]",
             "tags": []
           },
           {
             "name": "TCC",
-            "url": "http://bellard.org/tcc/",
+            "url": "https://bellard.org/tcc/",
             "description": "Tiny C Compiler. [LGPL]",
             "tags": []
           },
@@ -95376,25 +95382,25 @@
           },
           {
             "name": "coliru",
-            "url": "http://coliru.stacked-crooked.com/",
+            "url": "https://coliru.stacked-crooked.com/",
             "description": "Online compiler/shell with support for various C++ compilers.",
             "tags": []
           },
           {
             "name": "Compiler Explorer",
-            "url": "http://gcc.godbolt.org/",
+            "url": "https://gcc.godbolt.org/",
             "description": "An interactive compiler with assembly output available.",
             "tags": []
           },
           {
             "name": "CompileOnline",
-            "url": "http://www.tutorialspoint.com/codingground.htm",
+            "url": "https://www.tutorialspoint.com/codingground.htm",
             "description": "Compile and Execute C++ online on Linux.",
             "tags": []
           },
           {
             "name": "Ideone",
-            "url": "http://ideone.com/",
+            "url": "https://ideone.com/",
             "description": "An online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.",
             "tags": []
           },
@@ -95418,7 +95424,7 @@
           },
           {
             "name": "Rextester",
-            "url": "http://rextester.com/runcode",
+            "url": "https://rextester.com/runcode",
             "description": "Online compiler which provides several compilers(Clang, GCC, MSVC) and several editors.",
             "tags": []
           },
@@ -95465,7 +95471,7 @@
           },
           {
             "name": "LLDB",
-            "url": "http://lldb.llvm.org/",
+            "url": "https://lldb.llvm.org/",
             "description": "The LLDB Debugger.",
             "tags": []
           },
@@ -95477,13 +95483,13 @@
           },
           {
             "name": "Valgrind",
-            "url": "http://valgrind.org/",
+            "url": "https://valgrind.org/",
             "description": "A tool for memory debugging, memory leak detection, and profiling.",
             "tags": []
           },
           {
             "name": "x64dbg",
-            "url": "http://x64dbg.com/",
+            "url": "https://x64dbg.com/",
             "description": "An open-source x64/x32 debugger for windows.",
             "tags": []
           }
@@ -95500,7 +95506,7 @@
           },
           {
             "name": "AppCode",
-            "url": "http://www.jetbrains.com/objc/",
+            "url": "https://www.jetbrains.com/objc/",
             "description": "an IDE for Objective-C, C, C++, and JavaScript development built on JetBrains\u2019 IntelliJ IDEA platform.",
             "tags": []
           },
@@ -95512,19 +95518,19 @@
           },
           {
             "name": "CLion",
-            "url": "http://www.jetbrains.com/clion/",
+            "url": "https://www.jetbrains.com/clion/",
             "description": "Cross-platform C and C++ IDE from JetBrains.",
             "tags": []
           },
           {
             "name": "Code::Blocks",
-            "url": "http://www.codeblocks.org/",
+            "url": "https://www.codeblocks.org/",
             "description": "A free C, C++ and Fortran IDE.",
             "tags": []
           },
           {
             "name": "CodeLite",
-            "url": "http://codelite.org/",
+            "url": "https://codelite.org/",
             "description": "Another cross-platform, free C and C++ IDE. [GPL2 with an exception for plugins]",
             "tags": []
           },
@@ -95536,13 +95542,13 @@
           },
           {
             "name": "Dev-C++",
-            "url": "http://sourceforge.net/projects/orwelldevcpp/",
+            "url": "https://sourceforge.net/projects/orwelldevcpp/",
             "description": "A portable C/C++/C++11 IDE.",
             "tags": []
           },
           {
             "name": "Eclipse CDT",
-            "url": "http://www.eclipse.org/cdt/",
+            "url": "https://www.eclipse.org/cdt/",
             "description": "A fully functional C and C++ IDE based on the Eclipse platform.",
             "tags": []
           },
@@ -95554,13 +95560,13 @@
           },
           {
             "name": "Geany",
-            "url": "http://www.geany.org/",
+            "url": "https://www.geany.org/",
             "description": "Small, fast, cross-platform IDE. [GPL]",
             "tags": []
           },
           {
             "name": "IBM VisualAge",
-            "url": "http://www-03.ibm.com/software/products/en/visgen",
+            "url": "https://www-03.ibm.com/software/products/en/visgen",
             "description": "A family of computer integrated development environments from IBM.",
             "tags": []
           },
@@ -95709,7 +95715,7 @@
           },
           {
             "name": "FASTBuild",
-            "url": "http://www.fastbuild.org/docs/home.html",
+            "url": "https://www.fastbuild.org/docs/home.html",
             "description": "High performance, open-source build system supporting highly scalable compilation, caching and network distribution.",
             "tags": []
           },
@@ -95721,7 +95727,7 @@
           },
           {
             "name": "MesonBuild",
-            "url": "http://mesonbuild.com",
+            "url": "https://mesonbuild.com",
             "description": "An open source build system meant to be both extremely fast, and, even more importantly, as user friendly as possible.",
             "tags": []
           },
@@ -95739,7 +95745,7 @@
           },
           {
             "name": "Scons",
-            "url": "http://www.scons.org/",
+            "url": "https://www.scons.org/",
             "description": "A software construction tool configured with a Python script.",
             "tags": []
           },
@@ -95769,13 +95775,13 @@
           },
           {
             "name": "tup",
-            "url": "http://gittup.org/tup/",
+            "url": "https://gittup.org/tup/",
             "description": "File-based build system that monitors in the background for changed files.",
             "tags": []
           },
           {
             "name": "Premake",
-            "url": "http://premake.github.io",
+            "url": "https://premake.github.io",
             "description": "A tool configured with a Lua script to generate project files for Visual Studio, GNU Make, Xcode, Code::Blocks, and more across Windows, Mac OS X, and Linux.",
             "tags": []
           },
@@ -95816,7 +95822,7 @@
         "resources": [
           {
             "name": "Cppcheck",
-            "url": "http://cppcheck.sourceforge.net/",
+            "url": "https://cppcheck.sourceforge.net/",
             "description": "A tool for static C/C++ code analysis. - source",
             "tags": []
           },
@@ -95834,7 +95840,7 @@
           },
           {
             "name": "PVS-Studio",
-            "url": "http://www.viva64.com/en/pvs-studio/",
+            "url": "https://www.viva64.com/en/pvs-studio/",
             "description": "A tool for bug detection in the source code of programs, written in C, C++ and C#.",
             "tags": []
           },
@@ -95858,19 +95864,19 @@
           },
           {
             "name": "OCLint",
-            "url": "http://oclint.org/",
+            "url": "https://oclint.org/",
             "description": "A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C. - source",
             "tags": []
           },
           {
             "name": "Clang Static Analyzer",
-            "url": "http://clang-analyzer.llvm.org/index.html",
+            "url": "https://clang-analyzer.llvm.org/index.html",
             "description": "A source code analysis tool that finds bugs in C, C++, and Objective-C programs.",
             "tags": []
           },
           {
             "name": "Linticator",
-            "url": "http://linticator.com",
+            "url": "https://linticator.com",
             "description": "Eclipse CDT integration of Pc-/FlexeLint.",
             "tags": []
           },
@@ -95917,19 +95923,19 @@
         "resources": [
           {
             "name": "Artistic Style",
-            "url": "http://astyle.sourceforge.net/",
+            "url": "https://astyle.sourceforge.net/",
             "description": "A tool to format C/C++/C#/Obj-C/Java code. Also known as astyle.",
             "tags": []
           },
           {
             "name": "ClangFormat",
-            "url": "http://clang.llvm.org/docs/ClangFormat.html",
+            "url": "https://clang.llvm.org/docs/ClangFormat.html",
             "description": "A tool to format C/C++/Obj-C code.",
             "tags": []
           },
           {
             "name": "Clang-Tidy",
-            "url": "http://clang.llvm.org/extra/clang-tidy.html",
+            "url": "https://clang.llvm.org/extra/clang-tidy.html",
             "description": "Clang-based C++ linter tool.",
             "tags": []
           },
@@ -95952,7 +95958,7 @@
         "resources": [
           {
             "name": "Beautiful Native Libraries",
-            "url": "http://lucumr.pocoo.org/2013/8/18/beautiful-native-libraries/",
+            "url": "https://lucumr.pocoo.org/2013/8/18/beautiful-native-libraries/",
             "description": "",
             "tags": []
           },
@@ -96143,7 +96149,7 @@
           },
           {
             "name": "C++ 17 Features",
-            "url": "http://www.bfilipek.com/2017/01/cpp17features.html",
+            "url": "https://www.bfilipek.com/2017/01/cpp17features.html",
             "description": "A comprehensive list of C++17 features.",
             "tags": []
           },
@@ -96230,7 +96236,7 @@
           },
           {
             "name": "C++ Dos and Don'ts",
-            "url": "http://www.chromium.org/developers/coding-style/cpp-dos-and-donts",
+            "url": "https://www.chromium.org/developers/coding-style/cpp-dos-and-donts",
             "description": "The Chromium Projects > For Developers > Coding Style > C++ Dos and Don'ts.",
             "tags": []
           },
@@ -96248,7 +96254,7 @@
           },
           {
             "name": "GNU Coding Standard",
-            "url": "http://www.gnu.org/prep/standards/standards.html",
+            "url": "https://www.gnu.org/prep/standards/standards.html",
             "description": "",
             "tags": []
           },
@@ -96260,7 +96266,7 @@
           },
           {
             "name": "LLVM Coding Standards",
-            "url": "http://llvm.org/docs/CodingStandards.html",
+            "url": "https://llvm.org/docs/CodingStandards.html",
             "description": "",
             "tags": []
           }
@@ -96271,13 +96277,13 @@
         "resources": [
           {
             "name": "CppCast",
-            "url": "http://cppcast.com",
+            "url": "https://cppcast.com",
             "description": "The first podcast by C++ developers for C++ developers.",
             "tags": []
           },
           {
             "name": "CppChat",
-            "url": "http://cpp.chat",
+            "url": "https://cpp.chat",
             "description": "A (sometimes) weekly look at what's going on in the world of C++ chatting with a guest from the community.",
             "tags": []
           }
@@ -96418,7 +96424,7 @@
           },
           {
             "name": "CppCon",
-            "url": "http://cppcon.org/",
+            "url": "https://cppcon.org/",
             "description": "The C++ Conference.",
             "tags": []
           },
@@ -96436,31 +96442,31 @@
           },
           {
             "name": "C++ by Example",
-            "url": "http://www.cbyexample.com/",
+            "url": "https://www.cbyexample.com/",
             "description": "Learn C++ by Example.",
             "tags": []
           },
           {
             "name": "cplusplus.com",
-            "url": "http://www.cplusplus.com/",
+            "url": "https://www.cplusplus.com/",
             "description": "The C++ Resources Network.",
             "tags": []
           },
           {
             "name": "C FAQ",
-            "url": "http://c-faq.com/",
+            "url": "https://c-faq.com/",
             "description": "C frequently asked questions.",
             "tags": []
           },
           {
             "name": "C++ FAQ",
-            "url": "http://www.parashift.com/c++-faq/",
+            "url": "https://www.parashift.com/c++-faq/",
             "description": "C++ frequently asked questions.",
             "tags": []
           },
           {
             "name": "C++ FQA Lite",
-            "url": "http://yosefk.com/c++fqa/",
+            "url": "https://yosefk.com/c++fqa/",
             "description": "C++ frequently questioned answers.",
             "tags": []
           },
@@ -96472,13 +96478,13 @@
           },
           {
             "name": "Guru of the Week",
-            "url": "http://www.gotw.ca/gotw/",
+            "url": "https://www.gotw.ca/gotw/",
             "description": "A regular series of C++ programming problems created and written by Herb Sutter.",
             "tags": []
           },
           {
             "name": "Meeting C++",
-            "url": "http://meetingcpp.com/",
+            "url": "https://meetingcpp.com/",
             "description": "",
             "tags": []
           },
@@ -96496,7 +96502,7 @@
           },
           {
             "name": "C++ Hints",
-            "url": "http://cpphints.com/",
+            "url": "https://cpphints.com/",
             "description": "Every business day hints about most often C++ mistakes and ways to solve them from PVS-Studio Team.",
             "tags": []
           },
@@ -96561,7 +96567,7 @@
           },
           {
             "name": "Eric Niebler",
-            "url": "http://ericniebler.com/",
+            "url": "https://ericniebler.com/",
             "description": "",
             "tags": []
           },
@@ -96573,19 +96579,19 @@
           },
           {
             "name": "Paul Fultz II's Blog",
-            "url": "http://pfultz2.com/blog/",
+            "url": "https://pfultz2.com/blog/",
             "description": "",
             "tags": []
           },
           {
             "name": "ridiculousfish",
-            "url": "http://ridiculousfish.com/blog/posts/will-it-optimize.html",
+            "url": "https://ridiculousfish.com/blog/posts/will-it-optimize.html",
             "description": "Will It Optimize?",
             "tags": []
           },
           {
             "name": "Embedded in Academia",
-            "url": "http://blog.regehr.org/",
+            "url": "https://blog.regehr.org/",
             "description": "",
             "tags": []
           },
