@@ -4383,7 +4383,7 @@
           },
           {
             "name": "Brackets",
-            "url": "http://brackets.io",
+            "url": "https://brackets.io",
             "description": "A modern, open source text editor that understands web design.",
             "tags": []
           },
@@ -4437,7 +4437,7 @@
           },
           {
             "name": "LightTable",
-            "url": "http://lighttable.com/",
+            "url": "https://lighttable.com/",
             "description": "The next generation code editor.",
             "tags": []
           },
@@ -4479,7 +4479,7 @@
           },
           {
             "name": "Sublime Text",
-            "url": "http://www.sublimetext.com/3",
+            "url": "https://www.sublimetext.com/3",
             "description": "Text editor with a fast interface and plugin ecosystem. For more plugins, check Sublime Text Plugins .",
             "tags": []
           },
@@ -4503,13 +4503,13 @@
           },
           {
             "name": "Vim",
-            "url": "http://www.vim.org/",
+            "url": "https://www.vim.org/",
             "description": "An old terminal-based editor. For common plugins, check Vim Common Plugins .",
             "tags": []
           },
           {
             "name": "Vimr",
-            "url": "http://vimr.org/",
+            "url": "https://vimr.org/",
             "description": "Refined Vim Experience for OS X.",
             "tags": []
           },
@@ -4621,7 +4621,7 @@
           },
           {
             "name": "Marked 2",
-            "url": "http://marked2app.com/",
+            "url": "https://marked2app.com/",
             "description": "This is the Markdown preview with an elegant and powerful set of tools for all writers.",
             "tags": []
           },
@@ -4651,7 +4651,7 @@
           },
           {
             "name": "MWeb",
-            "url": "http://www.mweb.im/",
+            "url": "https://www.mweb.im/",
             "description": "Pro Markdown writing, and static blog generator App.",
             "tags": []
           },
@@ -4675,7 +4675,7 @@
           },
           {
             "name": "Typora",
-            "url": "http://www.typora.io/",
+            "url": "https://www.typora.io/",
             "description": "Truly minimal Markdown editor featuring seamless live preview.",
             "tags": []
           },
@@ -4722,7 +4722,7 @@
           },
           {
             "name": "Bear Writer",
-            "url": "http://www.bear-writer.com/",
+            "url": "https://www.bear-writer.com/",
             "description": "Beautiful, flexible writing app for crafting notes and prose.",
             "tags": []
           },
@@ -4824,7 +4824,7 @@
           },
           {
             "name": "Notes",
-            "url": "http://www.get-notes.com/",
+            "url": "https://www.get-notes.com/",
             "description": "Clean, simple note-taking app.",
             "tags": []
           },
@@ -4902,7 +4902,7 @@
           },
           {
             "name": "QOwnNotes",
-            "url": "http://www.qownnotes.org/",
+            "url": "https://www.qownnotes.org/",
             "description": "Open-source notepad with markdown support and todo list manager.",
             "tags": []
           },
@@ -4914,7 +4914,7 @@
           },
           {
             "name": "Quiver",
-            "url": "http://happenapps.com/#quiver",
+            "url": "https://happenapps.com/#quiver",
             "description": "Mix text, code, Markdown, and LaTeX in one note with live preview.",
             "tags": []
           },
@@ -4995,7 +4995,7 @@
         "resources": [
           {
             "name": "Calibre",
-            "url": "http://calibre-ebook.com/",
+            "url": "https://calibre-ebook.com/",
             "description": "Free, open-source e-book manager and reader.",
             "tags": []
           },
@@ -5025,7 +5025,7 @@
           },
           {
             "name": "Klib",
-            "url": "http://klib.me/",
+            "url": "https://klib.me/",
             "description": "New way to manage highlights for Kindle and iBooks.",
             "tags": []
           },
@@ -5090,7 +5090,7 @@
           },
           {
             "name": "Leaf",
-            "url": "http://www.rockysandstudio.com/",
+            "url": "https://www.rockysandstudio.com/",
             "description": "A news reader for managing subscriptions and enjoying daily news.",
             "tags": []
           },
@@ -5114,13 +5114,13 @@
           },
           {
             "name": "ReadKit",
-            "url": "http://readkitapp.com/",
+            "url": "https://readkitapp.com/",
             "description": "Bookmark and RSS management client.",
             "tags": []
           },
           {
             "name": "Reeder 5",
-            "url": "http://reederapp.com",
+            "url": "https://reederapp.com",
             "description": "News reader for Feedbin, Feedly, Feed Wrangler and so on.",
             "tags": []
           },
@@ -5138,7 +5138,7 @@
           },
           {
             "name": "Vienna",
-            "url": "http://viennarss.github.io/",
+            "url": "https://viennarss.github.io/",
             "description": "RSS/Atom reader for Mac OS X.",
             "tags": []
           }
@@ -5161,13 +5161,13 @@
           },
           {
             "name": "CHM Reader",
-            "url": "http://www.hewbo.com/chm-reader.html",
+            "url": "https://www.hewbo.com/chm-reader.html",
             "description": "Read Compiled HTML (.chm) documents on your Mac.",
             "tags": []
           },
           {
             "name": "Chmox",
-            "url": "http://chmox.sourceforge.net/",
+            "url": "https://chmox.sourceforge.net/",
             "description": "Read CHM documents on your Mac.",
             "tags": []
           },
@@ -5203,13 +5203,13 @@
           },
           {
             "name": "PDF Reader Pro",
-            "url": "http://www.pdfreaderpro.com",
+            "url": "https://www.pdfreaderpro.com",
             "description": "You Can view, create, sign, convert and compress any PDF documents.",
             "tags": []
           },
           {
             "name": "Skim",
-            "url": "http://skim-app.sourceforge.net",
+            "url": "https://skim-app.sourceforge.net",
             "description": "PDF reader and note-taker for OS X.",
             "tags": []
           },
@@ -5322,7 +5322,7 @@
           },
           {
             "name": "Espresso",
-            "url": "http://espressoapp.com/",
+            "url": "https://espressoapp.com/",
             "description": "The web editor for Mac is back. For people who make delightful, innovative and fast websites.",
             "tags": []
           },
@@ -5358,7 +5358,7 @@
           },
           {
             "name": "DataGrip",
-            "url": "http://www.jetbrains.com/datagrip/",
+            "url": "https://www.jetbrains.com/datagrip/",
             "description": "Cross-Plaform IDE for Databases and SQL. FREE for Students, check here for more info.",
             "tags": []
           },
@@ -5400,13 +5400,13 @@
           },
           {
             "name": "WebStorm",
-            "url": "http://www.jetbrains.com/webstorm/",
+            "url": "https://www.jetbrains.com/webstorm/",
             "description": "The smartest JavaScript IDE by JetBrains. FREE for Students, check here for more info.",
             "tags": []
           },
           {
             "name": "Haskell for Mac",
-            "url": "http://haskellformac.com",
+            "url": "https://haskellformac.com",
             "description": "A Modern Development Environment for Haskell.",
             "tags": []
           },
@@ -5489,13 +5489,13 @@
           },
           {
             "name": "BetterRename",
-            "url": "http://www.publicspace.net/BetterRename/",
+            "url": "https://www.publicspace.net/BetterRename/",
             "description": "The most powerful and complete Mac file renaming application on the market.",
             "tags": []
           },
           {
             "name": "Beyond Compare",
-            "url": "http://www.scootersoftware.com/",
+            "url": "https://www.scootersoftware.com/",
             "description": "Compare files and folders with powerful commands.",
             "tags": []
           },
@@ -5579,7 +5579,7 @@
           },
           {
             "name": "DiffMerge",
-            "url": "http://sourcegear.com/diffmerge/",
+            "url": "https://sourcegear.com/diffmerge/",
             "description": "Application to visually compare and merge files.",
             "tags": []
           },
@@ -5675,7 +5675,7 @@
           },
           {
             "name": "Integrity",
-            "url": "http://peacockmedia.software/mac/integrity/free.html",
+            "url": "https://peacockmedia.software/mac/integrity/free.html",
             "description": "Free website link checker for Mac.",
             "tags": []
           },
@@ -5693,7 +5693,7 @@
           },
           {
             "name": "Koala",
-            "url": "http://koala-app.com",
+            "url": "https://koala-app.com",
             "description": "GUI application for Less, Sass, Compass and CoffeeScript compilation.",
             "tags": []
           },
@@ -5819,7 +5819,7 @@
           },
           {
             "name": "Solarized",
-            "url": "http://ethanschoonover.com/solarized",
+            "url": "https://ethanschoonover.com/solarized",
             "description": "Clean and beautiful color theme. Works well with iTerm, JetBrains products, Vim etc.",
             "tags": []
           },
@@ -5831,7 +5831,7 @@
           },
           {
             "name": "StarUML",
-            "url": "http://staruml.io",
+            "url": "https://staruml.io",
             "description": "Powerful UML app.",
             "tags": []
           },
@@ -5873,7 +5873,7 @@
           },
           {
             "name": "TeXstudio",
-            "url": "http://www.texstudio.org",
+            "url": "https://www.texstudio.org",
             "description": "Integrated writing environment for creating LaTeX documents.",
             "tags": []
           },
@@ -5891,7 +5891,7 @@
           },
           {
             "name": "Woodpecker",
-            "url": "http://www.woodpeck.cn",
+            "url": "https://www.woodpeck.cn",
             "description": "View iOS app's Sandbox files, UserDefaults, Keychain items on a Mac.",
             "tags": []
           },
@@ -5938,7 +5938,7 @@
         "resources": [
           {
             "name": "Patterns",
-            "url": "http://krillapps.com/patterns/",
+            "url": "https://krillapps.com/patterns/",
             "description": "Regular expression editor.",
             "tags": []
           },
@@ -5950,7 +5950,7 @@
           },
           {
             "name": "RegExRX",
-            "url": "http://www.mactechnologies.com/index.php?page=downloads#regexrx",
+            "url": "https://www.mactechnologies.com/index.php?page=downloads#regexrx",
             "description": "Development tool for regular expressions.",
             "tags": []
           },
@@ -6133,7 +6133,7 @@
         "resources": [
           {
             "name": "AppJS",
-            "url": "http://appjs.com/",
+            "url": "https://appjs.com/",
             "description": "Lightweight JavaScript UI library for creating mobile webapps that behave like native apps.",
             "tags": []
           },
@@ -6157,25 +6157,25 @@
           },
           {
             "name": "Electron",
-            "url": "http://electron.atom.io",
+            "url": "https://electron.atom.io",
             "description": "Build cross platform desktop application with JavaScript, HTML and CSS.",
             "tags": []
           },
           {
             "name": "ionic",
-            "url": "http://ionicframework.com/",
+            "url": "https://ionicframework.com/",
             "description": "Build native and web apps with Angular and open web technologies.",
             "tags": []
           },
           {
             "name": "MacGap",
-            "url": "http://macgapproject.github.io/",
+            "url": "https://macgapproject.github.io/",
             "description": "Lightweight JavaScript API for OS X integration.",
             "tags": []
           },
           {
             "name": "nw.js",
-            "url": "http://nwjs.io",
+            "url": "https://nwjs.io",
             "description": "Build desktop apps with HTML and JavaScript.",
             "tags": []
           },
@@ -6199,7 +6199,7 @@
           },
           {
             "name": "react-desktop",
-            "url": "http://reactdesktop.js.org",
+            "url": "https://reactdesktop.js.org",
             "description": "React UI Components for macOS Sierra.",
             "tags": []
           },
@@ -6222,7 +6222,7 @@
         "resources": [
           {
             "name": "Cornerstone",
-            "url": "http://www.zennaware.com/cornerstone/",
+            "url": "https://www.zennaware.com/cornerstone/",
             "description": "Powerful version control with a gorgeous interface.",
             "tags": []
           },
@@ -6276,7 +6276,7 @@
           },
           {
             "name": "GitUp",
-            "url": "http://gitup.co/",
+            "url": "https://gitup.co/",
             "description": "A simple & powerful Git client\u3002",
             "tags": []
           },
@@ -6300,7 +6300,7 @@
           },
           {
             "name": "SmartGit",
-            "url": "http://www.syntevo.com/smartgit/",
+            "url": "https://www.syntevo.com/smartgit/",
             "description": "Git client with support.",
             "tags": []
           },
@@ -6317,8 +6317,8 @@
             "tags": []
           },
           {
-            "name": "Tempo",
-            "url": "https://github.com/maoyama/Tempo",
+            "name": "Changes",
+            "url": "https://github.com/maoyama/Changes",
             "description": "GUI Git client. Replace the Git CLI with a clear UI and AI assist.",
             "tags": []
           },
@@ -6395,7 +6395,7 @@
           },
           {
             "name": "Parallels",
-            "url": "http://www.parallels.com/",
+            "url": "https://www.parallels.com/",
             "description": "Powerful, easy-to-use VM. No free upgrade for each new Mac OS.",
             "tags": []
           },
@@ -6443,13 +6443,13 @@
           },
           {
             "name": "Virtual Box",
-            "url": "http://www.virtualbox.org",
+            "url": "https://www.virtualbox.org",
             "description": "Powerful x86 and AMD64/Intel64 virtualization product.",
             "tags": []
           },
           {
             "name": "VMware Fusion",
-            "url": "http://www.vmware.com/",
+            "url": "https://www.vmware.com/",
             "description": "Powerful, commercial VM developed by VMware.",
             "tags": []
           }
@@ -6472,7 +6472,7 @@
           },
           {
             "name": "Base 2",
-            "url": "http://menial.co.uk/base/",
+            "url": "https://menial.co.uk/base/",
             "description": "Application for creating, designing, editing and browsing SQLite 3 database files.",
             "tags": []
           },
@@ -6508,7 +6508,7 @@
           },
           {
             "name": "DB Browser for SQLite",
-            "url": "http://sqlitebrowser.org/",
+            "url": "https://sqlitebrowser.org/",
             "description": "Official home of the DB Browser for SQLite.",
             "tags": []
           },
@@ -6526,7 +6526,7 @@
           },
           {
             "name": "ElectroCRUD",
-            "url": "http://garrylachman.github.io/ElectroCRUD/",
+            "url": "https://garrylachman.github.io/ElectroCRUD/",
             "description": "Modern MySQL CRUD application.",
             "tags": []
           },
@@ -6550,13 +6550,13 @@
           },
           {
             "name": "MDB Explorer",
-            "url": "http://www.macexplorer.co/en/mdb-explorer.php",
+            "url": "https://www.macexplorer.co/en/mdb-explorer.php",
             "description": "MDB tool to open, read, export your MDB files to other formats and databases.",
             "tags": []
           },
           {
             "name": "Medis",
-            "url": "http://getmedis.com",
+            "url": "https://getmedis.com",
             "description": "GUI Manager for Redis.",
             "tags": []
           },
@@ -6580,7 +6580,7 @@
           },
           {
             "name": "MySQL Workbench",
-            "url": "http://dev.mysql.com/downloads/workbench/",
+            "url": "https://dev.mysql.com/downloads/workbench/",
             "description": "The official MySQL GUI.",
             "tags": []
           },
@@ -6616,7 +6616,7 @@
           },
           {
             "name": "Postgres.app",
-            "url": "http://postgresapp.com/",
+            "url": "https://postgresapp.com/",
             "description": "The easiest way to get started with PostgreSQL on the Mac.",
             "tags": []
           },
@@ -6628,7 +6628,7 @@
           },
           {
             "name": "PSequel",
-            "url": "http://www.psequel.com/",
+            "url": "https://www.psequel.com/",
             "description": "PostgreSQL GUI tool for Mac OS X.",
             "tags": []
           },
@@ -6646,13 +6646,13 @@
           },
           {
             "name": "RedisDesktopManager",
-            "url": "http://redisdesktop.com",
+            "url": "https://redisdesktop.com",
             "description": "Cross-platform GUI management tool for Redis.",
             "tags": []
           },
           {
             "name": "Sequel Pro",
-            "url": "http://www.sequelpro.com/",
+            "url": "https://www.sequelpro.com/",
             "description": "MySQL database management for Mac OS X.",
             "tags": []
           },
@@ -6670,7 +6670,7 @@
           },
           {
             "name": "SQLPro Studio",
-            "url": "http://www.sqlprostudio.com/",
+            "url": "https://www.sqlprostudio.com/",
             "description": "Simple, powerful database manager for macOS.",
             "tags": []
           },
@@ -6753,7 +6753,7 @@
           },
           {
             "name": "iTerm2",
-            "url": "http://www.iterm2.com",
+            "url": "https://www.iterm2.com",
             "description": "iTerm2 is an amazing terminal emulator for OS X.",
             "tags": []
           },
@@ -6836,7 +6836,7 @@
           },
           {
             "name": "Alchemy",
-            "url": "http://al.chemy.org/",
+            "url": "https://al.chemy.org/",
             "description": "Experimental, open-source drawing application with an emphasis on creating conceptual art.",
             "tags": []
           },
@@ -6890,7 +6890,7 @@
           },
           {
             "name": "FontForge",
-            "url": "http://fontforge.github.io/",
+            "url": "https://fontforge.github.io/",
             "description": "Free, open-source font editor.",
             "tags": []
           },
@@ -6932,13 +6932,13 @@
           },
           {
             "name": "MakeHuman",
-            "url": "http://www.makehumancommunity.org",
+            "url": "https://www.makehumancommunity.org",
             "description": "Powerful and free 3D human modeler.",
             "tags": []
           },
           {
             "name": "Monodraw",
-            "url": "http://monodraw.helftone.com",
+            "url": "https://monodraw.helftone.com",
             "description": "Powerful ASCII art editor designed for the Mac.",
             "tags": []
           },
@@ -6950,7 +6950,7 @@
           },
           {
             "name": "Paintbrush",
-            "url": "http://paintbrush.sourceforge.net/",
+            "url": "https://paintbrush.sourceforge.net/",
             "description": "Bitmap image editor.",
             "tags": []
           },
@@ -6962,7 +6962,7 @@
           },
           {
             "name": "Pixelmator",
-            "url": "http://www.pixelmator.com/mac/",
+            "url": "https://www.pixelmator.com/mac/",
             "description": "Full-featured image editor for Mac.",
             "tags": []
           },
@@ -6974,7 +6974,7 @@
           },
           {
             "name": "Principle",
-            "url": "http://principleformac.com/",
+            "url": "https://principleformac.com/",
             "description": "Application for designing animated and interactive user interfaces.",
             "tags": []
           },
@@ -6998,7 +6998,7 @@
           },
           {
             "name": "Sketch",
-            "url": "http://www.sketchapp.com/",
+            "url": "https://www.sketchapp.com/",
             "description": "Professional digital design for mac. Sketch Cache Cleaner - Deletes hidden Sketch history files. Measure Plugin - Make it a fun to create spec for developers and teammates. Sketch Toolbox Plugin Manager - Simple plugin manager for Sketch. User Flows Plugin -  Generating flow diagrams from Artboards.",
             "tags": []
           },
@@ -7022,7 +7022,7 @@
           },
           {
             "name": "Tayasui Sketches",
-            "url": "http://www.tayasui.com/sketches/",
+            "url": "https://www.tayasui.com/sketches/",
             "description": "Professional drawing software.",
             "tags": []
           },
@@ -7057,13 +7057,13 @@
         "resources": [
           {
             "name": "Adobe XD",
-            "url": "http://www.adobe.com/products/experience-design.html",
+            "url": "https://www.adobe.com/products/experience-design.html",
             "description": "Tool for designing and prototyping websites and mobile apps.",
             "tags": []
           },
           {
             "name": "Axure RP 8",
-            "url": "http://www.axure.com",
+            "url": "https://www.axure.com",
             "description": "Prototypes, specifications and diagrams in one tool.",
             "tags": []
           },
@@ -7081,13 +7081,13 @@
           },
           {
             "name": "Framer",
-            "url": "http://framerjs.com/",
+            "url": "https://framerjs.com/",
             "description": "Tool for interactive prototyping.",
             "tags": []
           },
           {
             "name": "Justinmind",
-            "url": "http://www.justinmind.com",
+            "url": "https://www.justinmind.com",
             "description": "Prototyping platform for web and mobile apps.",
             "tags": []
           },
@@ -7123,7 +7123,7 @@
           },
           {
             "name": "Mockplus",
-            "url": "http://www.mockplus.com",
+            "url": "https://www.mockplus.com",
             "description": "Prototype faster, smarter and easier.",
             "tags": []
           },
@@ -7135,13 +7135,13 @@
           },
           {
             "name": "Origami Studio",
-            "url": "http://origami.design/",
+            "url": "https://origami.design/",
             "description": "Tool for designing modern interfaces, built and used by designers at Facebook.",
             "tags": []
           },
           {
             "name": "pencil",
-            "url": "http://pencil.evolus.vn/",
+            "url": "https://pencil.evolus.vn/",
             "description": "Free, open-source tool for making diagrams and GUI prototyping.",
             "tags": []
           },
@@ -7159,7 +7159,7 @@
           },
           {
             "name": "Scapple",
-            "url": "http://www.literatureandlatte.com/scapple.php",
+            "url": "https://www.literatureandlatte.com/scapple.php",
             "description": "Practical mind-mapping software with free whiteboard-like layout.",
             "tags": []
           },
@@ -7177,7 +7177,7 @@
           },
           {
             "name": "XMind",
-            "url": "http://www.xmind.net",
+            "url": "https://www.xmind.net",
             "description": "The most popular mind-mapping tool on the planet.",
             "tags": []
           },
@@ -7260,7 +7260,7 @@
           },
           {
             "name": "Snip",
-            "url": "http://snip.qq.com/",
+            "url": "https://snip.qq.com/",
             "description": "Application for sharing captured images on QQ Mail.",
             "tags": []
           },
@@ -7272,7 +7272,7 @@
           },
           {
             "name": "Teampaper Snap",
-            "url": "http://teampaper.me/snap/",
+            "url": "https://teampaper.me/snap/",
             "description": "Let your screenshots speak up.",
             "tags": []
           },
@@ -7284,7 +7284,7 @@
           },
           {
             "name": "Xnip",
-            "url": "http://xnipapp.com/",
+            "url": "https://xnipapp.com/",
             "description": "Handy Screenshot App.",
             "tags": []
           }
@@ -7337,7 +7337,7 @@
           },
           {
             "name": "Licecap",
-            "url": "http://www.cockos.com/licecap/",
+            "url": "https://www.cockos.com/licecap/",
             "description": "Screen recorder that exports directly to GIF.",
             "tags": []
           },
@@ -7462,7 +7462,7 @@
           },
           {
             "name": "Couleurs",
-            "url": "http://couleursapp.com",
+            "url": "https://couleursapp.com",
             "description": "Simple app for grabbing and tweaking the colors you see on your screen.",
             "tags": []
           },
@@ -7504,19 +7504,19 @@
           },
           {
             "name": "Iconjar",
-            "url": "http://geticonjar.com/",
+            "url": "https://geticonjar.com/",
             "description": "Icon management tool to organize or search your icons.",
             "tags": []
           },
           {
             "name": "IconKit",
-            "url": "http://appersian.net/",
+            "url": "https://appersian.net/",
             "description": "App icon generator.",
             "tags": []
           },
           {
             "name": "Image2icon",
-            "url": "http://www.img2icnsapp.com",
+            "url": "https://www.img2icnsapp.com",
             "description": "Create and personalize icons from your pictures.",
             "tags": []
           },
@@ -7540,13 +7540,13 @@
           },
           {
             "name": "JPEGmini",
-            "url": "http://www.jpegmini.com/",
+            "url": "https://www.jpegmini.com/",
             "description": "Reduce image size by up to 80%, without compromising quality.",
             "tags": []
           },
           {
             "name": "Mark Man",
-            "url": "http://getmarkman.com/",
+            "url": "https://getmarkman.com/",
             "description": "Measure & Spec Fast.",
             "tags": []
           },
@@ -7576,13 +7576,13 @@
           },
           {
             "name": "Resize Master",
-            "url": "http://www.boltnev.com/resizemaster/",
+            "url": "https://www.boltnev.com/resizemaster/",
             "description": "Batch resize and watermark your images fast and easy.",
             "tags": []
           },
           {
             "name": "RightFont",
-            "url": "http://rightfontapp.com/",
+            "url": "https://rightfontapp.com/",
             "description": "Preview, sync, install and manage fonts on Mac, Dropbox or Google Drive.",
             "tags": []
           },
@@ -7594,7 +7594,7 @@
           },
           {
             "name": "svgus",
-            "url": "http://www.svgs.us/",
+            "url": "https://www.svgs.us/",
             "description": "Organize, clean and transform your SVGs.",
             "tags": []
           },
@@ -7928,7 +7928,7 @@
           },
           {
             "name": "Franz",
-            "url": "http://meetfranz.com/",
+            "url": "https://meetfranz.com/",
             "description": "Messaging app that combines multiple chat services in one place.",
             "tags": []
           },
@@ -7958,7 +7958,7 @@
           },
           {
             "name": "LimeChat",
-            "url": "http://limechat.net/mac/",
+            "url": "https://limechat.net/mac/",
             "description": "Open-source IRC client for Mac OS X.",
             "tags": []
           },
@@ -8000,7 +8000,7 @@
           },
           {
             "name": "Rambox",
-            "url": "http://rambox.pro/",
+            "url": "https://rambox.pro/",
             "description": "Messaging and emailing app that combines common web applications into one.",
             "tags": []
           },
@@ -8089,7 +8089,7 @@
         "resources": [
           {
             "name": "Airmail",
-            "url": "http://airmailapp.com",
+            "url": "https://airmailapp.com",
             "description": "Fast email client. For both Mac OS and iOS.",
             "tags": []
           },
@@ -8107,7 +8107,7 @@
           },
           {
             "name": "Foxmail",
-            "url": "http://www.foxmail.com/mac/en",
+            "url": "https://www.foxmail.com/mac/en",
             "description": "Fast email client.",
             "tags": []
           },
@@ -8196,7 +8196,7 @@
           },
           {
             "name": "Flow",
-            "url": "http://fivedetails.com/flow/",
+            "url": "https://fivedetails.com/flow/",
             "description": "Award-winning, beautiful, fast, and reliable FTP + SFTP client.",
             "tags": []
           },
@@ -8237,13 +8237,13 @@
           },
           {
             "name": "DiskWarrior",
-            "url": "http://www.alsoft.com/DiskWarrior/",
+            "url": "https://www.alsoft.com/DiskWarrior/",
             "description": "The world\u2019s most advanced repair and recovery tool for Mac.",
             "tags": []
           },
           {
             "name": "R-Studio for Mac",
-            "url": "http://www.r-studio.com/data_recovery_macintosh/",
+            "url": "https://www.r-studio.com/data_recovery_macintosh/",
             "description": "Data recovery tool for damaged, deleted, or formatted disks.",
             "tags": []
           },
@@ -8290,13 +8290,13 @@
           },
           {
             "name": "Audacity",
-            "url": "http://www.audacityteam.org/",
+            "url": "https://www.audacityteam.org/",
             "description": "Free, open-source, cross-platform audio software for multi-track recording and editing.",
             "tags": []
           },
           {
             "name": "Audio Hijack",
-            "url": "http://www.rogueamoeba.com/audiohijack/",
+            "url": "https://www.rogueamoeba.com/audiohijack/",
             "description": "Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.",
             "tags": []
           },
@@ -8326,7 +8326,7 @@
           },
           {
             "name": "Cog",
-            "url": "http://cogx.org/",
+            "url": "https://cogx.org/",
             "description": "Free, open-source audio player.",
             "tags": []
           },
@@ -8374,7 +8374,7 @@
           },
           {
             "name": "Hydrogen",
-            "url": "http://hydrogen-music.org/",
+            "url": "https://hydrogen-music.org/",
             "description": "Professional yet simple and intuitive pattern-based drum programming for GNU/Linux.",
             "tags": []
           },
@@ -8452,7 +8452,7 @@
           },
           {
             "name": "Metadatics",
-            "url": "http://markvapps.com/metadatics",
+            "url": "https://markvapps.com/metadatics",
             "description": "Advanced Audio Metadata Editor.",
             "tags": []
           },
@@ -8464,7 +8464,7 @@
           },
           {
             "name": "Mixxx",
-            "url": "http://mixxx.org/",
+            "url": "https://mixxx.org/",
             "description": "The most advanced free DJ software.",
             "tags": []
           },
@@ -8512,7 +8512,7 @@
           },
           {
             "name": "Perian",
-            "url": "http://perian.org/#download",
+            "url": "https://perian.org/#download",
             "description": "( No longer under active development ) ~~Let QuickTime play all the common formats of free plug-ins~~.",
             "tags": []
           },
@@ -8572,7 +8572,7 @@
           },
           {
             "name": "ScreenFlow",
-            "url": "http://www.telestream.net/screenflow/",
+            "url": "https://www.telestream.net/screenflow/",
             "description": "Screencasting and video editing software.",
             "tags": []
           },
@@ -8608,13 +8608,13 @@
           },
           {
             "name": "Stringed 2",
-            "url": "http://stringed.buenosapps.com/",
+            "url": "https://stringed.buenosapps.com/",
             "description": "Music practice software designed to help users learn how to play their favorite songs.",
             "tags": []
           },
           {
             "name": "Synfig Studio",
-            "url": "http://synfig.org",
+            "url": "https://synfig.org",
             "description": "Synfig Studio is free, open-source 2D animation software.",
             "tags": []
           },
@@ -8638,7 +8638,7 @@
           },
           {
             "name": "VLC",
-            "url": "http://www.videolan.org/index.html",
+            "url": "https://www.videolan.org/index.html",
             "description": "Open-source multimedia player for most audio, video, and streaming formats.",
             "tags": []
           },
@@ -8656,7 +8656,7 @@
           },
           {
             "name": "XLD",
-            "url": "http://tmkk.undo.jp/xld/index_e.html",
+            "url": "https://tmkk.undo.jp/xld/index_e.html",
             "description": "Tool to decode, convert and play various 'lossless' audio files.",
             "tags": []
           },
@@ -8774,7 +8774,7 @@
           },
           {
             "name": "FOLX",
-            "url": "http://mac.eltima.com/download-manager.html",
+            "url": "https://mac.eltima.com/download-manager.html",
             "description": "Free download manager for Mac OS X with a true Mac-style interface.",
             "tags": []
           },
@@ -8792,7 +8792,7 @@
           },
           {
             "name": "JDownloader",
-            "url": "http://jdownloader.org/",
+            "url": "https://jdownloader.org/",
             "description": "Open-source download manager for links, files, and hosted content.",
             "tags": []
           },
@@ -8916,7 +8916,7 @@
           },
           {
             "name": "Rocket",
-            "url": "http://matthewpalmer.net/rocket/",
+            "url": "https://matthewpalmer.net/rocket/",
             "description": "Makes typing emoji faster and easier using Slack-style shortcuts.",
             "tags": []
           },
@@ -9225,7 +9225,7 @@
           },
           {
             "name": "iTranslate",
-            "url": "http://www.itranslate.com/",
+            "url": "https://www.itranslate.com/",
             "description": "Translation app for text and web pages in multiple languages.",
             "tags": []
           },
@@ -9371,7 +9371,7 @@
           },
           {
             "name": "LinkLiar",
-            "url": "http://halo.github.io/LinkLiar",
+            "url": "https://halo.github.io/LinkLiar",
             "description": "Link-Layer MAC spoofing GUI for macOS.",
             "tags": []
           },
@@ -9568,7 +9568,7 @@
           },
           {
             "name": "ShadowsocksX",
-            "url": "http://shadowsocks.org/",
+            "url": "https://shadowsocks.org/",
             "description": "Secure socks5 proxy, designed to protect your internet traffic.",
             "tags": []
           },
@@ -9686,7 +9686,7 @@
           },
           {
             "name": "ClipMenu",
-            "url": "http://www.clipmenu.com",
+            "url": "https://www.clipmenu.com",
             "description": "Clipboard manager for Mac OS X.",
             "tags": []
           },
@@ -9740,7 +9740,7 @@
           },
           {
             "name": "Paste",
-            "url": "http://pasteapp.me",
+            "url": "https://pasteapp.me",
             "description": "Smart clipboard history & snippets manager.",
             "tags": []
           },
@@ -10266,7 +10266,7 @@
         "resources": [
           {
             "name": "AppCleaner",
-            "url": "http://freemacsoft.net/appcleaner/",
+            "url": "https://freemacsoft.net/appcleaner/",
             "description": "Thoroughly uninstall apps.",
             "tags": []
           },
@@ -10367,7 +10367,7 @@
           },
           {
             "name": "eZip",
-            "url": "http://ezip.awehunt.com",
+            "url": "https://ezip.awehunt.com",
             "description": "Lightweight archive tool for ZIP, RAR, 7Z, and other common formats.",
             "tags": []
           },
@@ -10397,7 +10397,7 @@
           },
           {
             "name": "muCommander",
-            "url": "http://www.mucommander.com",
+            "url": "https://www.mucommander.com",
             "description": "Lightweight file manager with a dual-pane interface.",
             "tags": []
           },
@@ -10450,7 +10450,7 @@
         "resources": [
           {
             "name": "AirServer",
-            "url": "http://www.airserver.com/Download",
+            "url": "https://www.airserver.com/Download",
             "description": "Most advanced screen mirroring software receiver for Mac, PC and Xbox One.",
             "tags": []
           },
@@ -10504,7 +10504,7 @@
           },
           {
             "name": "HTTrack",
-            "url": "http://www.httrack.com",
+            "url": "https://www.httrack.com",
             "description": "Useful tool for downloading a whole website and offline browsing.",
             "tags": []
           },
@@ -10534,13 +10534,13 @@
           },
           {
             "name": "Memo",
-            "url": "http://memo-app.net/",
+            "url": "https://memo-app.net/",
             "description": "Simple and elegant app. Unlock memos even more quickly using Touch ID.",
             "tags": []
           },
           {
             "name": "Numi",
-            "url": "http://numi.io/",
+            "url": "https://numi.io/",
             "description": "Beautiful calculator app for Mac.",
             "tags": []
           },
@@ -10629,13 +10629,13 @@
         "resources": [
           {
             "name": "2Do",
-            "url": "http://www.2doapp.com/",
+            "url": "https://www.2doapp.com/",
             "description": "Nice todo app.",
             "tags": []
           },
           {
             "name": "Day-O 2",
-            "url": "http://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock",
+            "url": "https://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock",
             "description": "Menu bar clock replacement with built-in calendar.",
             "tags": []
           },
@@ -10844,7 +10844,7 @@
           },
           {
             "name": "Hammerspoon",
-            "url": "http://www.hammerspoon.org/",
+            "url": "https://www.hammerspoon.org/",
             "description": "Tool for powerful OSX automation with the Lua scripting engine.",
             "tags": []
           },
@@ -10904,13 +10904,13 @@
           },
           {
             "name": "Keyboard Maestro",
-            "url": "http://www.keyboardmaestro.com",
+            "url": "https://www.keyboardmaestro.com",
             "description": "Automate repetitive tasks with triggers and macros.",
             "tags": []
           },
           {
             "name": "Keytty",
-            "url": "http://keytty.com",
+            "url": "https://keytty.com",
             "description": "App to keep your hands on the keyboard. Move, click, scroll, drag and more with a few strokes.",
             "tags": []
           },
@@ -11078,7 +11078,7 @@
           },
           {
             "name": "SensibleSideButtons",
-            "url": "http://sensible-side-buttons.archagon.net",
+            "url": "https://sensible-side-buttons.archagon.net",
             "description": "Make mouse side buttons work for back and forward in more apps.",
             "tags": []
           },
@@ -11150,7 +11150,7 @@
           },
           {
             "name": "Ukelele",
-            "url": "http://scripts.sil.org/ukelele",
+            "url": "https://scripts.sil.org/ukelele",
             "description": "Unicode Keyboard Layout Editor.",
             "tags": []
           },
@@ -11168,7 +11168,7 @@
           },
           {
             "name": "xScope",
-            "url": "http://xscopeapp.com/",
+            "url": "https://xscopeapp.com/",
             "description": "Toolset for measuring, inspecting, and testing on-screen layouts and graphics.",
             "tags": []
           },
@@ -11197,7 +11197,7 @@
           },
           {
             "name": "Amethyst",
-            "url": "http://ianyh.com/amethyst/",
+            "url": "https://ianyh.com/amethyst/",
             "description": "Tiling window manager.",
             "tags": []
           },
@@ -11245,7 +11245,7 @@
           },
           {
             "name": "Divvy",
-            "url": "http://mizage.com/divvy/",
+            "url": "https://mizage.com/divvy/",
             "description": "Window management at its finest with its amazing Divvy Grid system.",
             "tags": []
           },
@@ -11287,7 +11287,7 @@
           },
           {
             "name": "Magnet",
-            "url": "http://magnet.crowdcafe.com/",
+            "url": "https://magnet.crowdcafe.com/",
             "description": "Window manager that keeps your workspace organized.",
             "tags": []
           },
@@ -11299,7 +11299,7 @@
           },
           {
             "name": "Moom",
-            "url": "http://manytricks.com/moom/",
+            "url": "https://manytricks.com/moom/",
             "description": "Window management tool for moving, resizing, and saving layouts.",
             "tags": []
           },
@@ -11341,13 +11341,13 @@
           },
           {
             "name": "Sidebar",
-            "url": "http://sidebarapp.net/",
+            "url": "https://sidebarapp.net/",
             "description": "The modern Dock replacement for your Mac.",
             "tags": []
           },
           {
             "name": "SizeUp",
-            "url": "http://www.irradiatedsoftware.com/sizeup/",
+            "url": "https://www.irradiatedsoftware.com/sizeup/",
             "description": "Powerful, keyboard-centric window management.",
             "tags": []
           },
@@ -11389,7 +11389,7 @@
           },
           {
             "name": "Total Spaces",
-            "url": "http://totalspaces.binaryage.com/",
+            "url": "https://totalspaces.binaryage.com/",
             "description": "Workspace manager with hotkeys and spatial overview.",
             "tags": []
           },
@@ -11525,13 +11525,13 @@
           },
           {
             "name": "ForkLift",
-            "url": "http://binarynights.com/forklift/",
+            "url": "https://binarynights.com/forklift/",
             "description": "The most advanced dual pane file manager and file transfer client for macOS.",
             "tags": []
           },
           {
             "name": "Path Finder",
-            "url": "http://www.cocoatech.com/pathfinder/",
+            "url": "https://www.cocoatech.com/pathfinder/",
             "description": "File management app.",
             "tags": []
           },
@@ -11555,7 +11555,7 @@
           },
           {
             "name": "TotalFinder",
-            "url": "http://totalfinder.binaryage.com/",
+            "url": "https://totalfinder.binaryage.com/",
             "description": "Chrome-styled Finder substitute.",
             "tags": []
           },
@@ -11638,13 +11638,13 @@
           },
           {
             "name": "Shifty",
-            "url": "http://shifty.natethompson.io",
+            "url": "https://shifty.natethompson.io",
             "description": "A macOS menu bar app that gives you more control over Night Shift.",
             "tags": []
           },
           {
             "name": "Snap",
-            "url": "http://indragie.com/snap",
+            "url": "https://indragie.com/snap",
             "description": "Launch an app in a snap. Ridiculously easy shortcut management.",
             "tags": []
           },
@@ -11757,7 +11757,7 @@
           },
           {
             "name": "HandShaker",
-            "url": "http://www.smartisan.com/apps/handshaker",
+            "url": "https://www.smartisan.com/apps/handshaker",
             "description": "Manage Android phone content on Mac.",
             "tags": []
           },
@@ -11805,13 +11805,13 @@
           },
           {
             "name": "Monity",
-            "url": "http://www.monityapp.com/",
+            "url": "https://www.monityapp.com/",
             "description": "System monitoring widget for OS X.",
             "tags": []
           },
           {
             "name": "Mounty",
-            "url": "http://enjoygineering.com/mounty/",
+            "url": "https://enjoygineering.com/mounty/",
             "description": "Tiny tool to re-mount write-protected NTFS volumes under Mac OS X 10.9+ in read-write mode.",
             "tags": []
           },
@@ -11907,7 +11907,7 @@
           },
           {
             "name": "Tuxera NTFS",
-            "url": "http://www.tuxera.com/products/tuxera-ntfs-for-mac/",
+            "url": "https://www.tuxera.com/products/tuxera-ntfs-for-mac/",
             "description": "Full read-write compatibility with NTFS-formatted drives on a Mac.",
             "tags": []
           },
@@ -11924,7 +11924,7 @@
         "resources": [
           {
             "name": "OpenEmu",
-            "url": "http://openemu.org/",
+            "url": "https://openemu.org/",
             "description": "Retro game emulator frontend for multiple console systems.",
             "tags": []
           },
@@ -11936,7 +11936,7 @@
           },
           {
             "name": "Porting Kit",
-            "url": "http://portingkit.com/",
+            "url": "https://portingkit.com/",
             "description": "Install Windows\u00ae Games inside your Mac.",
             "tags": []
           },
@@ -12136,7 +12136,7 @@
         "resources": [
           {
             "name": "alternativeTo",
-            "url": "http://alternativeto.net/",
+            "url": "https://alternativeto.net/",
             "description": "Also a very nice community. If you are looking for some alternative apps FOR Windows or another platform, check this site.",
             "tags": []
           },
@@ -12153,8 +12153,8 @@
             "tags": []
           },
           {
-            "name": "http://appshopper.com/",
-            "url": "http://appshopper.com/",
+            "name": "https://appshopper.com/",
+            "url": "https://appshopper.com/",
             "description": "App Shopper\uff1a",
             "tags": []
           },
@@ -38359,6 +38359,17 @@
         ]
       },
       {
+        "name": "Travel Organization",
+        "resources": [
+          {
+            "name": "Surmai",
+            "url": "https://surmai.app/",
+            "description": "Collaborative personal and family travel organizer. ( Demo , Source Code ) MIT Docker",
+            "tags": []
+          }
+        ]
+      },
+      {
         "name": "URL Shorteners",
         "resources": [
           {
@@ -41285,7 +41296,7 @@
         "resources": [
           {
             "name": "Docker Caveats",
-            "url": "http://docker-saigon.github.io/post/Docker-Caveats/",
+            "url": "https://docker-saigon.github.io/post/Docker-Caveats/",
             "description": "What You Should Know About Running Docker In Production (written 11 APRIL 2016).",
             "tags": []
           },
@@ -41309,7 +41320,7 @@
           },
           {
             "name": "GUI Apps with Docker",
-            "url": "http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/",
+            "url": "https://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/",
             "description": "",
             "tags": []
           }
@@ -46337,7 +46348,7 @@
           },
           {
             "name": "Ehcache",
-            "url": "http://www.ehcache.org",
+            "url": "https://www.ehcache.org",
             "description": "Distributed general-purpose cache.",
             "tags": []
           },
@@ -46360,7 +46371,7 @@
           },
           {
             "name": "JCommander",
-            "url": "http://jcommander.org",
+            "url": "https://jcommander.org",
             "description": "Command-line argument-parsing framework with custom types and validation via implementing interfaces.",
             "tags": []
           },
@@ -46465,6 +46476,12 @@
             "tags": []
           },
           {
+            "name": "JSpecify",
+            "url": "https://jspecify.dev/",
+            "description": "Standardized nullness annotations designed to work uniformly across various Java IDEs, compilers, and static analysis tools.",
+            "tags": []
+          },
+          {
             "name": "NullAway",
             "url": "https://github.com/uber/NullAway",
             "description": "Eliminates NullPointerExceptions with low build-time overhead.",
@@ -46562,6 +46579,12 @@
             "name": "Palantir Java Format",
             "url": "https://github.com/palantir/palantir-java-format",
             "description": "Formatter based on google-java-format with wider lines and lambda-friendly output.",
+            "tags": []
+          },
+          {
+            "name": "Spotless",
+            "url": "https://github.com/diffplug/spotless",
+            "description": "A versatile code formatter for Gradle and Maven that enforces multiple styles (including Google and Palantir) across Java and other languages.",
             "tags": []
           }
         ]
@@ -46784,7 +46807,7 @@
           },
           {
             "name": "ini4j",
-            "url": "http://ini4j.sourceforge.net",
+            "url": "https://ini4j.sourceforge.net",
             "description": "Provides an API for handling Windows' INI files.",
             "tags": []
           },
@@ -46860,7 +46883,7 @@
           },
           {
             "name": "opencsv",
-            "url": "http://opencsv.sourceforge.net",
+            "url": "https://opencsv.sourceforge.net",
             "description": "Simple CSV parser.",
             "tags": []
           },
@@ -47056,7 +47079,7 @@
           },
           {
             "name": "JDBI",
-            "url": "http://jdbi.org",
+            "url": "https://jdbi.org",
             "description": "Convenient abstraction of JDBC.",
             "tags": []
           },
@@ -47104,13 +47127,13 @@
           },
           {
             "name": "Liquibase",
-            "url": "http://www.liquibase.org",
+            "url": "https://www.liquibase.org",
             "description": "Database-independent library for tracking, managing and applying database schema changes.",
             "tags": []
           },
           {
             "name": "MapDB",
-            "url": "http://www.mapdb.org",
+            "url": "https://www.mapdb.org",
             "description": "Embedded database engine that provides concurrent collections backed on disk or in off-heap memory.",
             "tags": []
           },
@@ -47494,7 +47517,7 @@
           },
           {
             "name": "Quasar",
-            "url": "http://docs.paralleluniverse.co/quasar/",
+            "url": "https://docs.paralleluniverse.co/quasar/",
             "description": "Lightweight threads and actors for the JVM.",
             "tags": []
           },
@@ -47594,7 +47617,7 @@
           },
           {
             "name": "IzPack",
-            "url": "http://izpack.org",
+            "url": "https://izpack.org",
             "description": "Setup authoring tool for cross-platform deployments.",
             "tags": []
           },
@@ -47812,7 +47835,7 @@
           },
           {
             "name": "OpenJML",
-            "url": "http://www.openjml.org",
+            "url": "https://www.openjml.org",
             "description": "Translates JML specifications into SMT-LIB format and passes the proof problems implied by the program to backend solvers. (GPL-2.0-only)",
             "tags": []
           }
@@ -47841,7 +47864,7 @@
           },
           {
             "name": "Functional Java",
-            "url": "http://www.functionaljava.org",
+            "url": "https://github.com/functionaljava/functionaljava",
             "description": "Implements numerous basic and advanced programming abstractions that assist composition-oriented development.",
             "tags": []
           },
@@ -47900,7 +47923,7 @@
           },
           {
             "name": "JBox2D",
-            "url": "http://www.jbox2d.org/",
+            "url": "https://www.jbox2d.org/",
             "description": "Port of the renowned C++ 2D physics engine.",
             "tags": []
           },
@@ -47977,7 +48000,7 @@
           },
           {
             "name": "H2GIS",
-            "url": "http://www.h2gis.org",
+            "url": "https://h2gis.org/",
             "description": "Spatial extension of the H2 database. (LGPL-3.0-only)",
             "tags": []
           },
@@ -48065,7 +48088,7 @@
           },
           {
             "name": "fastutil",
-            "url": "http://fastutil.di.unimi.it",
+            "url": "https://fastutil.di.unimi.it",
             "description": "Fast and compact type-specific collections.",
             "tags": []
           },
@@ -48312,7 +48335,7 @@
           },
           {
             "name": "Objenesis",
-            "url": "http://objenesis.org",
+            "url": "https://objenesis.org",
             "description": "Allows dynamic instantiation without default constructor, e.g. constructors which have required arguments, side effects or throw exceptions.",
             "tags": []
           },
@@ -48436,7 +48459,7 @@
           },
           {
             "name": "jsoniter",
-            "url": "http://jsoniter.com",
+            "url": "https://jsoniter.com",
             "description": "Fast and flexible library with iterator and lazy parsing API.",
             "tags": []
           },
@@ -48596,7 +48619,7 @@
           },
           {
             "name": "Logback",
-            "url": "http://logback.qos.ch",
+            "url": "https://logback.qos.ch",
             "description": "Robust logging library with interesting configuration options via Groovy.",
             "tags": []
           },
@@ -48620,7 +48643,7 @@
           },
           {
             "name": "SLF4J",
-            "url": "http://www.slf4j.org",
+            "url": "https://www.slf4j.org",
             "description": "Abstraction layer/simple logging facade.",
             "tags": []
           },
@@ -48661,7 +48684,7 @@
           },
           {
             "name": "DatumBox",
-            "url": "http://www.datumbox.com",
+            "url": "https://www.datumbox.com",
             "description": "Provides several algorithms and pre-trained models for natural language processing.",
             "tags": []
           },
@@ -48816,7 +48839,7 @@
           },
           {
             "name": "Hermes",
-            "url": "http://hermes.allegro.tech",
+            "url": "https://hermes.allegro.tech",
             "description": "Fast and reliable message broker built on top of Kafka.",
             "tags": []
           },
@@ -48933,6 +48956,12 @@
         "name": "Miscellaneous",
         "resources": [
           {
+            "name": "AISmessages",
+            "url": "https://github.com/tbsalling/aismessages",
+            "description": "Decodes NMEA-armoured AIS messages for maritime navigation and safety systems with ITU-R M.1371 support and no runtime dependencies. (CC-BY-NC-SA-4.0)",
+            "tags": []
+          },
+          {
             "name": "CQEngine",
             "url": "https://github.com/npgall/cqengine",
             "description": "Ultra-fast, SQL-like queries on Java collections.",
@@ -48942,6 +48971,12 @@
             "name": "Design Patterns",
             "url": "https://github.com/iluwatar/java-design-patterns",
             "description": "Implementation and explanation of the most common design patterns.",
+            "tags": []
+          },
+          {
+            "name": "Explyt",
+            "url": "https://github.com/explyt/explyt",
+            "description": "AI coding agent for JetBrains IDEs that uses IDE indexes, refactorings, test runners, static analysis and debugging for Java and Kotlin projects.",
             "tags": []
           },
           {
@@ -48994,7 +49029,7 @@
           },
           {
             "name": "JCuda",
-            "url": "http://jcuda.org",
+            "url": "https://javagl.de/jcuda.org/",
             "description": "JCuda offers Java bindings for CUDA and CUDA-related libraries.",
             "tags": []
           },
@@ -49030,7 +49065,7 @@
           },
           {
             "name": "JPad",
-            "url": "http://jpad.io",
+            "url": "https://jpad.io",
             "description": "Snippet runner.",
             "tags": []
           },
@@ -49096,7 +49131,7 @@
           },
           {
             "name": "OpenRefine",
-            "url": "http://openrefine.org",
+            "url": "https://openrefine.org",
             "description": "Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.",
             "tags": []
           },
@@ -49422,7 +49457,7 @@
           },
           {
             "name": "LingPipe",
-            "url": "http://alias-i.com/lingpipe/",
+            "url": "https://alias-i.com/lingpipe/",
             "description": "Toolkit for tasks ranging from POS tagging to sentiment analysis.",
             "tags": []
           }
@@ -49511,7 +49546,7 @@
           },
           {
             "name": "Undertow",
-            "url": "http://undertow.io",
+            "url": "https://undertow.io",
             "description": "Web server providing both blocking and non-blocking APIs based on NIO. Used as a network layer in WildFly. (LGPL-2.1-only)",
             "tags": []
           },
@@ -49558,7 +49593,7 @@
           },
           {
             "name": "Hibernate",
-            "url": "http://hibernate.org/orm/",
+            "url": "https://hibernate.org/orm/",
             "description": "Robust and widely used, with an active community. (LGPL-2.1-only)",
             "tags": []
           },
@@ -49776,7 +49811,7 @@
           },
           {
             "name": "JMH",
-            "url": "http://openjdk.java.net/projects/code-tools/jmh/",
+            "url": "https://openjdk.java.net/projects/code-tools/jmh/",
             "description": "Harness for building, running, and analysing nano/micro/milli/macro benchmarks written in Java and other languages targeting the JVM. (GPL-2.0 only WITH Classpath-exception-2.0)",
             "tags": []
           },
@@ -49805,211 +49840,211 @@
         "resources": [
           {
             "name": "BCEL",
-            "url": "http://commons.apache.org/proper/commons-bcel/",
+            "url": "https://commons.apache.org/proper/commons-bcel/",
             "description": "Byte Code Engineering Library - analyze, create, and manipulate Java class files.",
             "tags": []
           },
           {
             "name": "BeanUtils",
-            "url": "http://commons.apache.org/proper/commons-beanutils/",
+            "url": "https://commons.apache.org/proper/commons-beanutils/",
             "description": "Easy-to-use wrappers around the Java reflection and introspection APIs.",
             "tags": []
           },
           {
             "name": "BeanUtils2",
-            "url": "http://commons.apache.org/sandbox/commons-beanutils2/",
+            "url": "https://commons.apache.org/sandbox/commons-beanutils2/",
             "description": "Redesign of Commons BeanUtils.",
             "tags": []
           },
           {
             "name": "BSF",
-            "url": "http://commons.apache.org/proper/commons-bsf/",
+            "url": "https://commons.apache.org/proper/commons-bsf/",
             "description": "Bean Scripting Framework - interface to scripting languages, including JSR-223.",
             "tags": []
           },
           {
             "name": "ClassScan",
-            "url": "http://commons.apache.org/sandbox/commons-classscan/",
+            "url": "https://commons.apache.org/sandbox/commons-classscan/",
             "description": "Find Class interfaces, methods, fields, and annotations without loading.",
             "tags": []
           },
           {
             "name": "CLI",
-            "url": "http://commons.apache.org/proper/commons-cli/",
+            "url": "https://commons.apache.org/proper/commons-cli/",
             "description": "Command-line arguments parser.",
             "tags": []
           },
           {
             "name": "CLI2",
-            "url": "http://commons.apache.org/sandbox/commons-cli2/",
+            "url": "https://commons.apache.org/sandbox/commons-cli2/",
             "description": "Redesign of Commons CLI.",
             "tags": []
           },
           {
             "name": "Codec",
-            "url": "http://commons.apache.org/proper/commons-codec/",
+            "url": "https://commons.apache.org/proper/commons-codec/",
             "description": "General encoding/decoding algorithms, e.g. phonetic, base64 or URL.",
             "tags": []
           },
           {
             "name": "Collections",
-            "url": "http://commons.apache.org/proper/commons-collections/",
+            "url": "https://commons.apache.org/proper/commons-collections/",
             "description": "Extends or augments the Java Collections Framework.",
             "tags": []
           },
           {
             "name": "Compress",
-            "url": "http://commons.apache.org/proper/commons-compress/",
+            "url": "https://commons.apache.org/proper/commons-compress/",
             "description": "Defines an API for working with tar, zip and bzip2 files.",
             "tags": []
           },
           {
             "name": "Configuration",
-            "url": "http://commons.apache.org/proper/commons-configuration/",
+            "url": "https://commons.apache.org/proper/commons-configuration/",
             "description": "Reading of configuration/preferences files in various formats.",
             "tags": []
           },
           {
             "name": "Convert",
-            "url": "http://commons.apache.org/sandbox/commons-convert/",
+            "url": "https://commons.apache.org/sandbox/commons-convert/",
             "description": "Commons-Convert aims to provide a single library dedicated to the task of converting an object of one type to another.",
             "tags": []
           },
           {
             "name": "CSV",
-            "url": "http://commons.apache.org/proper/commons-csv/",
+            "url": "https://commons.apache.org/proper/commons-csv/",
             "description": "Component for reading and writing comma separated value files.",
             "tags": []
           },
           {
             "name": "Daemon",
-            "url": "http://commons.apache.org/proper/commons-daemon/",
+            "url": "https://commons.apache.org/proper/commons-daemon/",
             "description": "Alternative invocation mechanism for unix-daemon-like java code.",
             "tags": []
           },
           {
             "name": "DBCP",
-            "url": "http://commons.apache.org/proper/commons-dbcp/",
+            "url": "https://commons.apache.org/proper/commons-dbcp/",
             "description": "Database connection pooling services.",
             "tags": []
           },
           {
             "name": "DbUtils",
-            "url": "http://commons.apache.org/proper/commons-dbutils/",
+            "url": "https://commons.apache.org/proper/commons-dbutils/",
             "description": "JDBC helper library.",
             "tags": []
           },
           {
             "name": "Digester",
-            "url": "http://commons.apache.org/proper/commons-digester/",
+            "url": "https://commons.apache.org/proper/commons-digester/",
             "description": "XML-to-Java-object mapping utility.",
             "tags": []
           },
           {
             "name": "Email",
-            "url": "http://commons.apache.org/proper/commons-email/",
+            "url": "https://commons.apache.org/proper/commons-email/",
             "description": "Library for sending e-mail from Java.",
             "tags": []
           },
           {
             "name": "Exec",
-            "url": "http://commons.apache.org/proper/commons-exec/",
+            "url": "https://commons.apache.org/proper/commons-exec/",
             "description": "API for dealing with external process execution and environment management in Java.",
             "tags": []
           },
           {
             "name": "FileUpload",
-            "url": "http://commons.apache.org/proper/commons-fileupload/",
+            "url": "https://commons.apache.org/proper/commons-fileupload/",
             "description": "File upload capability for your servlets and web applications.",
             "tags": []
           },
           {
             "name": "Finder",
-            "url": "http://commons.apache.org/sandbox/commons-finder/",
+            "url": "https://commons.apache.org/sandbox/commons-finder/",
             "description": "Java library inspired by the UNIX find command.",
             "tags": []
           },
           {
             "name": "Flatfile",
-            "url": "http://commons.apache.org/sandbox/commons-flatfile/",
+            "url": "https://commons.apache.org/sandbox/commons-flatfile/",
             "description": "Java library for working with flat data structures.",
             "tags": []
           },
           {
             "name": "Graph",
-            "url": "http://commons.apache.org/sandbox/commons-graph/",
+            "url": "https://commons.apache.org/sandbox/commons-graph/",
             "description": "General purpose graph APIs and algorithms.",
             "tags": []
           },
           {
             "name": "I18n",
-            "url": "http://commons.apache.org/sandbox/commons-i18n/",
+            "url": "https://commons.apache.org/sandbox/commons-i18n/",
             "description": "Adds the feature of localized message bundles that consist of one or many localized texts that belong together.",
             "tags": []
           },
           {
             "name": "Id",
-            "url": "http://commons.apache.org/sandbox/commons-id/",
+            "url": "https://commons.apache.org/sandbox/commons-id/",
             "description": "Id is a component used to generate identifiers.",
             "tags": []
           },
           {
             "name": "Imaging",
-            "url": "http://commons.apache.org/proper/commons-imaging/",
+            "url": "https://commons.apache.org/proper/commons-imaging/",
             "description": "Image library.",
             "tags": []
           },
           {
             "name": "IO",
-            "url": "http://commons.apache.org/proper/commons-io/",
+            "url": "https://commons.apache.org/proper/commons-io/",
             "description": "Collection of I/O utilities.",
             "tags": []
           },
           {
             "name": "Javaflow",
-            "url": "http://commons.apache.org/sandbox/commons-javaflow/",
+            "url": "https://commons.apache.org/sandbox/commons-javaflow/",
             "description": "Continuation implementation to capture the state of the application.",
             "tags": []
           },
           {
             "name": "JCI",
-            "url": "http://commons.apache.org/proper/commons-jci/",
+            "url": "https://commons.apache.org/proper/commons-jci/",
             "description": "Java Compiler Interface.",
             "tags": []
           },
           {
             "name": "JCS",
-            "url": "http://commons.apache.org/proper/commons-jcs/",
+            "url": "https://commons.apache.org/proper/commons-jcs/",
             "description": "Java Caching System.",
             "tags": []
           },
           {
             "name": "Jelly",
-            "url": "http://commons.apache.org/proper/commons-jelly/",
+            "url": "https://commons.apache.org/proper/commons-jelly/",
             "description": "XML based scripting and processing engine.",
             "tags": []
           },
           {
             "name": "Jexl",
-            "url": "http://commons.apache.org/proper/commons-jexl/",
+            "url": "https://commons.apache.org/proper/commons-jexl/",
             "description": "Expression language which extends the Expression Language of the JSTL.",
             "tags": []
           },
           {
             "name": "JNet",
-            "url": "http://commons.apache.org/sandbox/commons-jnet/",
+            "url": "https://commons.apache.org/sandbox/commons-jnet/",
             "description": "JNet allows to use dynamically register url stream handlers through the java.net API.",
             "tags": []
           },
           {
             "name": "JXPath",
-            "url": "http://commons.apache.org/proper/commons-jxpath/",
+            "url": "https://commons.apache.org/proper/commons-jxpath/",
             "description": "Utilities for manipulating Java Beans using the XPath syntax.",
             "tags": []
           },
           {
             "name": "Lang",
-            "url": "http://commons.apache.org/proper/commons-lang/",
+            "url": "https://commons.apache.org/proper/commons-lang/",
             "description": "Provides extra functionality for classes in java.lang.",
             "tags": []
           },
@@ -50021,49 +50056,49 @@
           },
           {
             "name": "Math",
-            "url": "http://commons.apache.org/proper/commons-math/",
+            "url": "https://commons.apache.org/proper/commons-math/",
             "description": "Lightweight, self-contained mathematics and statistics components.",
             "tags": []
           },
           {
             "name": "Monitoring",
-            "url": "http://commons.apache.org/sandbox/commons-monitoring/",
+            "url": "https://commons.apache.org/sandbox/commons-monitoring/",
             "description": "Monitoring aims to provide a simple but extensible monitoring solution for Java applications.",
             "tags": []
           },
           {
             "name": "Nabla",
-            "url": "http://commons.apache.org/sandbox/commons-nabla/",
+            "url": "https://commons.apache.org/sandbox/commons-nabla/",
             "description": "Nabla provides automatic differentiation classes that can generate derivative of any function implemented in the Java language.",
             "tags": []
           },
           {
             "name": "Net",
-            "url": "http://commons.apache.org/proper/commons-net/",
+            "url": "https://commons.apache.org/proper/commons-net/",
             "description": "Collection of network utilities and protocol implementations.",
             "tags": []
           },
           {
             "name": "OpenPGP",
-            "url": "http://commons.apache.org/sandbox/commons-openpgp/",
+            "url": "https://commons.apache.org/sandbox/commons-openpgp/",
             "description": "Interface to signing and verifying data using OpenPGP.",
             "tags": []
           },
           {
             "name": "Performance",
-            "url": "http://commons.apache.org/sandbox/commons-performance/",
+            "url": "https://commons.apache.org/sandbox/commons-performance/",
             "description": "Small framework for microbenchmark clients, with implementations for Commons DBCP and Pool.",
             "tags": []
           },
           {
             "name": "Pipeline",
-            "url": "http://commons.apache.org/sandbox/commons-pipeline/",
+            "url": "https://commons.apache.org/sandbox/commons-pipeline/",
             "description": "Provides a set of pipeline utilities designed around work queues that run in parallel to sequentially process data objects.",
             "tags": []
           },
           {
             "name": "Pool",
-            "url": "http://commons.apache.org/proper/commons-pool/",
+            "url": "https://commons.apache.org/proper/commons-pool/",
             "description": "Generic object pooling component.",
             "tags": []
           },
@@ -50081,25 +50116,25 @@
           },
           {
             "name": "SCXML",
-            "url": "http://commons.apache.org/proper/commons-scxml/",
+            "url": "https://commons.apache.org/proper/commons-scxml/",
             "description": "Implementation of the State Chart XML specification aimed at creating and maintaining a Java SCXML engine.",
             "tags": []
           },
           {
             "name": "Validator",
-            "url": "http://commons.apache.org/proper/commons-validator/",
+            "url": "https://commons.apache.org/proper/commons-validator/",
             "description": "Framework to define validators and validation rules in an xml file.",
             "tags": []
           },
           {
             "name": "VFS",
-            "url": "http://commons.apache.org/proper/commons-vfs/",
+            "url": "https://commons.apache.org/proper/commons-vfs/",
             "description": "Virtual File System component for treating files, FTP, SMB, ZIP and such like as a single logical file system.",
             "tags": []
           },
           {
             "name": "Weaver",
-            "url": "http://commons.apache.org/proper/commons-weaver/",
+            "url": "https://commons.apache.org/proper/commons-weaver/",
             "description": "Provides an easy way to enhance (weave) compiled bytecode.",
             "tags": []
           },
@@ -50252,13 +50287,13 @@
           },
           {
             "name": "Spark",
-            "url": "http://sparkjava.com",
+            "url": "https://sparkjava.com",
             "description": "Sinatra inspired framework.",
             "tags": []
           },
           {
             "name": "Crnk",
-            "url": "http://www.crnk.io",
+            "url": "https://github.com/crnk-project/crnk-framework",
             "description": "Implementation of the JSON API specification to build resource-oriented REST endpoints with sorting, filtering, paging, linking, object graphs, type-safety, bulk updates, integrations and more.",
             "tags": []
           },
@@ -50311,13 +50346,13 @@
           },
           {
             "name": "GraphStream",
-            "url": "http://graphstream-project.org",
+            "url": "https://graphstream-project.org",
             "description": "Library for modeling and analyzing dynamic graphs.",
             "tags": []
           },
           {
             "name": "JFreeChart",
-            "url": "http://www.jfree.org/jfreechart/",
+            "url": "https://www.jfree.org/jfreechart/",
             "description": "2D chart library for Swing, JavaFX and server-side applications. (LGPL-2.1-only)",
             "tags": []
           },
@@ -50408,6 +50443,12 @@
             "name": "Indexer4j",
             "url": "https://github.com/haeungun/indexer4j",
             "description": "Simple and light full text indexing and searching library.",
+            "tags": []
+          },
+          {
+            "name": "Viglet Turing ES",
+            "url": "https://github.com/openviglet/turing-ce",
+            "description": "Self-hosted enterprise search platform with faceted, semantic and hybrid search, RAG, AI agents and pluggable Solr, Elasticsearch or Lucene backends.",
             "tags": []
           }
         ]
@@ -50525,7 +50566,7 @@
           },
           {
             "name": "Passay",
-            "url": "http://www.passay.org/",
+            "url": "https://www.passay.org/",
             "description": "Enforce password policy by validating candidate passwords against a configurable rule set.",
             "tags": []
           },
@@ -50785,7 +50826,7 @@
           },
           {
             "name": "JGiven",
-            "url": "http://jgiven.org",
+            "url": "https://jgiven.org",
             "description": "Provides a fluent API which allows for simpler composition.",
             "tags": []
           },
@@ -50869,7 +50910,7 @@
           },
           {
             "name": "Apache JMeter",
-            "url": "http://jmeter.apache.org",
+            "url": "https://jmeter.apache.org",
             "description": "Functional testing and performance measurements.",
             "tags": []
           },
@@ -50881,7 +50922,7 @@
           },
           {
             "name": "Arquillian",
-            "url": "http://arquillian.org",
+            "url": "https://arquillian.org",
             "description": "Integration and functional testing platform for Java EE containers.",
             "tags": []
           },
@@ -50929,7 +50970,7 @@
           },
           {
             "name": "PIT",
-            "url": "http://pitest.org",
+            "url": "https://pitest.org",
             "description": "Fast mutation-testing framework for evaluating fault-detection abilities of existing JUnit or TestNG test suites.",
             "tags": []
           },
@@ -50959,13 +51000,13 @@
           },
           {
             "name": "Hamcrest",
-            "url": "http://hamcrest.org/JavaHamcrest/",
+            "url": "https://hamcrest.org/JavaHamcrest/",
             "description": "Matchers that can be combined to create flexible expressions of intent.",
             "tags": []
           },
           {
             "name": "JSONAssert",
-            "url": "http://jsonassert.skyscreamer.org",
+            "url": "https://jsonassert.skyscreamer.org",
             "description": "Simplifies testing JSON strings.",
             "tags": []
           },
@@ -51073,7 +51114,7 @@
           },
           {
             "name": "JMockit",
-            "url": "http://jmockit.github.io",
+            "url": "https://jmockit.github.io",
             "description": "Integration testing, API mocking and faking, and code coverage.",
             "tags": []
           },
@@ -51103,7 +51144,7 @@
           },
           {
             "name": "WireMock",
-            "url": "http://wiremock.org",
+            "url": "https://wiremock.org",
             "description": "Stubs and mocks web services.",
             "tags": []
           },
@@ -51144,7 +51185,7 @@
           },
           {
             "name": "CRaSH",
-            "url": "http://www.crashub.org",
+            "url": "https://www.crashub.org",
             "description": "Provides a shell into a JVM that's running CRaSH. Used by Spring Boot and others. (LGPL-2.1-or-later)",
             "tags": []
           },
@@ -51322,7 +51363,7 @@
           },
           {
             "name": "StormCrawler",
-            "url": "http://stormcrawler.net",
+            "url": "https://stormcrawler.net",
             "description": "SDK for building low-latency and scalable web crawlers.",
             "tags": []
           },
@@ -51369,7 +51410,7 @@
           },
           {
             "name": "Firefly",
-            "url": "http://www.fireflysource.com",
+            "url": "https://www.fireflysource.com",
             "description": "Asynchronous framework for rapid development of high-performance web application.",
             "tags": []
           },
@@ -51381,19 +51422,19 @@
           },
           {
             "name": "Jooby",
-            "url": "http://www.jooby.org",
+            "url": "https://www.jooby.org",
             "description": "Scalable, fast and modular micro-framework that offers multiple programming models.",
             "tags": []
           },
           {
             "name": "Ninja",
-            "url": "http://www.ninjaframework.org",
+            "url": "https://www.ninjaframework.org",
             "description": "Full-stack web framework.",
             "tags": []
           },
           {
             "name": "Pippo",
-            "url": "http://www.pippo.ro",
+            "url": "https://github.com/pippo-java/pippo",
             "description": "Small, highly modularized, Sinatra-like framework.",
             "tags": []
           },
@@ -51669,7 +51710,7 @@
           },
           {
             "name": "Java Off Heap",
-            "url": "http://www.javaoffheap.com",
+            "url": "https://www.javaoffheap.com",
             "description": "",
             "tags": []
           },
@@ -51985,7 +52026,7 @@
           },
           {
             "name": "TheServerSide.com",
-            "url": "http://www.theserverside.com",
+            "url": "https://www.theserverside.com",
             "description": "",
             "tags": []
           },
@@ -76791,6 +76832,12 @@
             "tags": []
           },
           {
+            "name": "giga-grabber",
+            "url": "https://github.com/chanderlud/giga-grabber",
+            "description": "A very fast and relatively stable Mega downloader",
+            "tags": []
+          },
+          {
             "name": "glzr-io/glazewm",
             "url": "https://github.com/glzr-io/glazewm",
             "description": "A tiling window manager for Windows inspired by i3wm, with YAML config, multi-monitor support, and keyboard-driven commands",
@@ -76854,6 +76901,12 @@
             "name": "linkerd/linkerd2-proxy",
             "url": "https://github.com/linkerd/linkerd2-proxy",
             "description": "Ultralight service mesh for Kubernetes.",
+            "tags": []
+          },
+          {
+            "name": "Livediff",
+            "url": "https://github.com/SoCkEt7/Livediff",
+            "description": "[ livediff ] - Real-time terminal file diff monitoring TUI.",
             "tags": []
           },
           {
@@ -77183,6 +77236,12 @@
             "name": "Pinepods",
             "url": "https://github.com/madeofpendletonwool/PinePods",
             "description": "A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. With clients built using Tauri, it's a full cross-platform listening solution!",
+            "tags": []
+          },
+          {
+            "name": "PodFetch",
+            "url": "https://github.com/SamTV12345/PodFetch",
+            "description": "A self-hosted podcast manager that automatically downloads new episodes, with a web UI for listening and a GPodder-compatible sync API for mobile apps like AntennaPod.",
             "tags": []
           },
           {
@@ -79132,6 +79191,12 @@
             "name": "rustscan",
             "url": "https://github.com/bee-san/RustScan",
             "description": "Make Nmap faster with this port scanning tool",
+            "tags": []
+          },
+          {
+            "name": "santhreal/keyhog",
+            "url": "https://github.com/santhreal/keyhog",
+            "description": "[ keyhog ] - Detects leaked credentials and API keys across source trees, git history, archives, and remote sources, with live verification of found secrets",
             "tags": []
           },
           {
