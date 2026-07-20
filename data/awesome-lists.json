@@ -25215,6 +25215,12 @@
             "tags": []
           },
           {
+            "name": "httpsms-go",
+            "url": "https://github.com/NdoleStudio/httpsms-go",
+            "description": "Go client for the httpSMS API.",
+            "tags": []
+          },
+          {
             "name": "igdb",
             "url": "https://github.com/Henry-Sarabia/igdb",
             "description": "Go client for the Internet Game Database API .",
@@ -25242,6 +25248,12 @@
             "name": "lastpass-go",
             "url": "https://github.com/ansd/lastpass-go",
             "description": "Go client library for the LastPass API.",
+            "tags": []
+          },
+          {
+            "name": "lemonsqueezy-go",
+            "url": "https://github.com/NdoleStudio/lemonsqueezy-go",
+            "description": "Go client for the Lemon Squeezy API.",
             "tags": []
           },
           {
@@ -32426,6 +32438,12 @@
             "tags": []
           },
           {
+            "name": "Habitat",
+            "url": "https://gethabitat.org/",
+            "description": "A Platform for Local Communities. ( Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Hatsu",
             "url": "https://hatsu.cli.rs/",
             "description": "Bridge that interacts with Fediverse on behalf of your static site. ( Source Code ) AGPL-3.0 Docker/Rust",
@@ -33153,6 +33171,12 @@
             "name": "Evidence",
             "url": "https://evidence.dev",
             "description": "Code-based BI tool. Write reports using SQL and markdown and they render as a website. ( Source Code ) MIT Nodejs",
+            "tags": []
+          },
+          {
+            "name": "LibreDB Studio",
+            "url": "https://libredb.org",
+            "description": "Browser-based SQL IDE for PostgreSQL, MySQL, Oracle, SQL Server, SQLite, MongoDB and Redis, with an optional AI assistant that writes SQL from natural language (alternative to DataGrip, DBeaver). ( Source Code ) MIT Docker/K8S",
             "tags": []
           },
           {
@@ -33993,7 +34017,7 @@
           {
             "name": "PicoShare",
             "url": "https://github.com/mtlynch/picoshare",
-            "description": "Minimalist, easy-to-host service for sharing images and other files. AGPL-3.0 Go/Docker",
+            "description": "Minimalist, easy-to-host service for sharing images and other files. ( Clients ) AGPL-3.0 Go/Docker",
             "tags": []
           },
           {
@@ -34066,6 +34090,12 @@
             "name": "Slink",
             "url": "https://docs.slinkapp.io/",
             "description": "Image sharing platform designed to give users complete control over their media sharing experience. ( Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
+            "name": "snowshare",
+            "url": "https://github.com/TuroYT/snowshare",
+            "description": "File and link sharing platform with URL shortening, code snippet sharing, and file uploads, featuring customizable expiration, privacy settings, and QR codes. ( Demo ) CC0-1.0 Nodejs/Docker",
             "tags": []
           },
           {
@@ -34647,12 +34677,6 @@
             "name": "Endurain",
             "url": "https://docs.endurain.com/",
             "description": "Fitness tracking service designed to give users full control over their data and hosting environment. ( Source Code ) AGPL-3.0 Docker",
-            "tags": []
-          },
-          {
-            "name": "Fasten Health",
-            "url": "https://github.com/fastenhealth/fasten-onprem/",
-            "description": "\u26a0 - Personal/family electronic medical record aggregator, designed to integrate with hundreds of thousands of insurances/hospitals/clinics in the United States. GPL-3.0 Go/Docker",
             "tags": []
           },
           {
@@ -35656,6 +35680,12 @@
             "name": "SyncTube",
             "url": "https://github.com/RblSb/SyncTube",
             "description": "Lightweight and very simple to setup CyTube alternative to watch videos with friends and chat. MIT Nodejs/Haxe",
+            "tags": []
+          },
+          {
+            "name": "Tiramisu",
+            "url": "https://github.com/MrRobotoGit/tiramisu",
+            "description": "BitTorrent engine with a FUSE virtual filesystem that streams torrents live to Plex/Jellyfin without downloading (alternative to Real-Debrid). GPL-2.0 Go/Docker",
             "tags": []
           },
           {
@@ -37133,6 +37163,12 @@
             "name": "g3proxy",
             "url": "https://g3-project.readthedocs.io/projects/g3proxy/en/latest/",
             "description": "Forward proxy server supporting proxy chaining, protocol inspection, MITM Interception, ICAP adaptation and transparent proxy. ( Source Code ) Apache-2.0 Rust/deb",
+            "tags": []
+          },
+          {
+            "name": "GitProxy",
+            "url": "https://git-proxy.finos.org/",
+            "description": "Proxy for Git that applies rules and workflows to all outgoing git push operations and ensures they are compliant. It supports both HTTP/HTTPS and SSH protocols with security scanning and validation. ( Source Code ) Apache-2.0 Nodejs/Docker",
             "tags": []
           },
           {
