@@ -3528,7 +3528,7 @@
           },
           {
             "name": "Reactiflux Discord Channel",
-            "url": "http://www.reactiflux.com/",
+            "url": "https://www.reactiflux.com/",
             "description": "",
             "tags": []
           },
@@ -10221,6 +10221,12 @@
             "name": "TomatoBar",
             "url": "https://github.com/ivoronin/TomatoBar",
             "description": "World's neatest Pomodoro timer for macOS menu bar.",
+            "tags": []
+          },
+          {
+            "name": "TypeCue",
+            "url": "https://typecue.app",
+            "description": "Types a prepared script into any app, one hotkey press per line, as real keystrokes at a human pace, for demo recordings and live presentations.",
             "tags": []
           },
           {
@@ -45089,6 +45095,12 @@
             "name": "sqlparse",
             "url": "https://github.com/andialbrecht/sqlparse",
             "description": "A non-validating SQL parser.",
+            "tags": []
+          },
+          {
+            "name": "tree-sitter-language-pack",
+            "url": "https://github.com/xberg-io/tree-sitter-language-pack",
+            "description": "A comprehensive collection of tree-sitter parsers for 300+ languages, distributed as prebuilt wheels.",
             "tags": []
           }
         ]
@@ -80351,6 +80363,12 @@
             "tags": []
           },
           {
+            "name": "Michael-A-Kuykendall/muxide",
+            "url": "https://github.com/Michael-A-Kuykendall/muxide",
+            "description": "[ muxide ] - Pure-Rust MP4 muxer with no external dependencies that writes standards-compliant MP4 from encoded frames.",
+            "tags": []
+          },
+          {
             "name": "vidmerger",
             "url": "https://github.com/TGotwig/vidmerger",
             "description": "Merge video & audio files via CLI",
@@ -81991,6 +82009,12 @@
             "name": "maciejkula/rustlearn",
             "url": "https://github.com/maciejkula/rustlearn",
             "description": "Machine learning library.",
+            "tags": []
+          },
+          {
+            "name": "Michael-A-Kuykendall/shimmytok",
+            "url": "https://github.com/Michael-A-Kuykendall/shimmytok",
+            "description": "[ shimmytok ] - Pure-Rust tokenizer for GGUF models, compatible with llama.cpp tokenization.",
             "tags": []
           },
           {
@@ -85437,6 +85461,12 @@
             "name": "alvaroparker/libfprint-rs",
             "url": "https://github.com/alvaroparker/libfprint-rs",
             "description": "[ libfprint-rs ] - Libfprint-rs provides a wrapper around the Linux libfprint library.",
+            "tags": []
+          },
+          {
+            "name": "Michael-A-Kuykendall/crabcamera",
+            "url": "https://github.com/Michael-A-Kuykendall/crabcamera",
+            "description": "[ crabcamera ] - Tauri plugin providing desktop camera access with automated quality validation and hardware controls.",
             "tags": []
           },
           {
