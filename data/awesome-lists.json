@@ -34141,8 +34141,8 @@
           },
           {
             "name": "ClyoCloud",
-            "url": "https://code.weexnes.dev/ClyoCloud",
-            "description": "A personal, self-hosted cloud storage and media management application built for privacy, efficiency, and aesthetics. MIT Nodejs",
+            "url": "https://clyo.cloud/",
+            "description": "A personal, self-hosted cloud storage and media management application built for privacy, efficiency, and aesthetics. ( Source Code ) AGPL-3.0 Nodejs",
             "tags": []
           },
           {
@@ -34825,6 +34825,12 @@
             "name": "OpenRemote",
             "url": "https://openremote.io",
             "description": "IoT Asset management, Flow Rules and WHEN-THEN rules, Data visualization, Edge Gateway. ( Demo , Source Code ) AGPL-3.0 Java",
+            "tags": []
+          },
+          {
+            "name": "polluSensWeb",
+            "url": "https://wespeakenglish.github.io/polluSensWeb/",
+            "description": "Web-based serial interface and charting tool for visualizing and logging data from UART pollution sensors (PM2.5, VOC, etc). Features live data acquisition, dynamic charts, CSV export, and webhook integration. ( Demo , Source Code , Clients ) MIT Javascript",
             "tags": []
           },
           {
@@ -39359,6 +39365,12 @@
             "tags": []
           },
           {
+            "name": "pglayers",
+            "url": "https://github.com/pglayers/pglayers",
+            "description": "Pre-built PostgreSQL extensions as composable Docker layers. 50+ extensions, ready-to-use combined images (full, Azure-compatible).",
+            "tags": []
+          },
+          {
             "name": "Wolfi",
             "url": "https://github.com/wolfi-dev/os",
             "description": "Undistro Linux designed for containers; glibc-based, signed, daily SBOMs.",
@@ -39379,6 +39391,12 @@
             "name": "Dockershelf",
             "url": "https://github.com/Dockershelf/dockershelf",
             "description": "A repository that serves as a collector for docker recipes that are universal, efficient and slim. Images are updated, tested and published daily via a Travis cron job.",
+            "tags": []
+          },
+          {
+            "name": "Dofigen",
+            "url": "https://github.com/lenra-io/dofigen",
+            "description": "A Dockerfile generator using a simplified description in YAML or JSON format.",
             "tags": []
           },
           {
@@ -39603,6 +39621,12 @@
             "name": "Anchor Enterprise",
             "url": "https://anchore.com/",
             "description": ":yen: Analyze images for CVE vulnerabilities and against custom security policies.",
+            "tags": []
+          },
+          {
+            "name": "BomLens",
+            "url": "https://github.com/sktelecom/bomlens",
+            "description": "Scan container images (plus source, binaries, and firmware) into CycloneDX SBOMs with vulnerability, license, and notice reports. Ships as a single Docker image with a web UI.",
             "tags": []
           },
           {
@@ -39875,6 +39899,12 @@
             "name": "Mesosphere DC/OS Platform",
             "url": "https://d2iq.com/products/dcos",
             "description": ":yen: Integrated platform for data and containers built on Apache Mesos.",
+            "tags": []
+          },
+          {
+            "name": "OpenRun",
+            "url": "https://github.com/openrundev/openrun",
+            "description": "Builds, deploys, proxies, authenticates and auto-pauses web apps with Docker or Kubernetes.",
             "tags": []
           },
           {
@@ -40203,6 +40233,12 @@
             "tags": []
           },
           {
+            "name": "InfraCanvas",
+            "url": "https://github.com/bytestrix/InfraCanvas",
+            "description": "Live visual map of containers, pods, volumes, and networks on any Linux server. Single binary, WebSocket-powered live updates.",
+            "tags": []
+          },
+          {
             "name": "Maintenant",
             "url": "https://github.com/kolapsis/maintenant",
             "description": "Self-discovering infrastructure monitoring for Docker and Kubernetes. Auto-detects containers via labels, with endpoint monitoring, heartbeats, TLS certificates, resource metrics, update intelligence, and a built-in status page. Single binary with embedded SPA.",
@@ -40259,6 +40295,12 @@
             "name": "Checkov",
             "url": "https://github.com/bridgecrewio/checkov",
             "description": "Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them.",
+            "tags": []
+          },
+          {
+            "name": "compose-lint",
+            "url": "https://github.com/tmatens/compose-lint",
+            "description": "Lints Docker Compose files for security misconfigurations \u2014 privileged containers, unpinned images, Docker socket mounts, plaintext credentials \u2014 grounded in OWASP and the CIS Docker Benchmark.",
             "tags": []
           },
           {
@@ -40437,6 +40479,12 @@
             "name": "DockTUI",
             "url": "https://github.com/strmax195-hue/docktui",
             "description": "Fast, zero-dependency terminal dashboard for Docker and Compose.",
+            "tags": []
+          },
+          {
+            "name": "dockup",
+            "url": "https://github.com/paulo-amaral/dockup",
+            "description": "TUI to install, harden and maintain container runtimes: Docker Engine + Compose v2, NVIDIA Container Toolkit, Podman and Apple container, with a CIS-inspired security audit.",
             "tags": []
           },
           {
