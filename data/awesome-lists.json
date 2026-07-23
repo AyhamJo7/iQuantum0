@@ -9300,6 +9300,12 @@
         "name": "Finance",
         "resources": [
           {
+            "name": "Pulse",
+            "url": "https://www.pulseticker.app/",
+            "description": "Native menu bar market tracker for US, Hong Kong and China stocks, crypto, indices, ETFs and portfolio P&L.",
+            "tags": []
+          },
+          {
             "name": "SubManager",
             "url": "https://submanager.app",
             "description": "Subscription tracker with renewal reminders.",
@@ -26120,6 +26126,12 @@
             "tags": []
           },
           {
+            "name": "LAN Orangutan",
+            "url": "https://github.com/291-Group/LAN-Orangutan",
+            "description": "Network device discovery and inventory with persistent labeling, multi-network scanning, and Tailscale integration.",
+            "tags": []
+          },
+          {
             "name": "lets-go",
             "url": "https://github.com/aplescia-chwy/lets-go",
             "description": "Go module that provides common utilities for Cloud Native REST API development. Also contains AWS Specific utilities.",
@@ -42447,6 +42459,12 @@
             "tags": []
           },
           {
+            "name": "lumen",
+            "url": "https://github.com/holoviz/lumen",
+            "description": "An agent framework for conversational analysis of SQL, dataframe and multidimensional array data.",
+            "tags": []
+          },
+          {
             "name": "mem0",
             "url": "https://github.com/mem0ai/mem0",
             "description": "An intelligent memory layer for AI agents enabling personalized interactions.",
@@ -44964,6 +44982,12 @@
             "name": "pyside",
             "url": "https://github.com/pyside/pyside-setup",
             "description": "Qt for Python offers the official Python bindings for Qt , this is same as PyQt but it's the official binding with different licensing.",
+            "tags": []
+          },
+          {
+            "name": "tkdesigner",
+            "url": "https://github.com/ParthJadhav/Tkinter-Designer",
+            "description": "Generates Tkinter interfaces from Figma designs using the Figma API.",
             "tags": []
           },
           {
@@ -77909,6 +77933,12 @@
             "tags": []
           },
           {
+            "name": "samyama-ai/samyama-graph",
+            "url": "https://github.com/samyama-ai/samyama-graph",
+            "description": "Rust-native graph-vector database for GraphRAG, knowledge graphs, vector search, and graph analytics.",
+            "tags": []
+          },
+          {
             "name": "seppo0010/rsedis",
             "url": "https://github.com/seppo0010/rsedis",
             "description": "A Redis reimplementation.",
@@ -79324,6 +79354,12 @@
             "url": "https://github.com/SystemVll/TAuth",
             "description": "An easy and user friendly 2FA & Credentials manager, for your PC.",
             "tags": []
+          },
+          {
+            "name": "timescale/rsigma",
+            "url": "https://github.com/timescale/rsigma",
+            "description": "[ rsigma ] - A complete detection engineering toolkit for the Sigma detection standard, with a parser, evaluation engine, rule conversion, streaming runtime, linter, CLI, MCP, and LSP",
+            "tags": []
           }
         ]
       },
@@ -80118,6 +80154,12 @@
             "tags": []
           },
           {
+            "name": "artob/edky",
+            "url": "https://github.com/artob/edky",
+            "description": "[ edky ] - A command-line utility to convert Ed25519 public keys between various encoding formats (Base58, Base64, IPFS, iroh, libp2p, OpenSSH, etc).",
+            "tags": []
+          },
+          {
             "name": "bloznelis/kbt",
             "url": "https://github.com/bloznelis/kbt",
             "description": "[ kbt ] - A simple TUI tool for keyboard testing.",
@@ -80307,6 +80349,12 @@
             "name": "Tail Tales",
             "url": "https://github.com/davidmoreno/tailtales",
             "description": "A TUI log viewer with logfmt support.",
+            "tags": []
+          },
+          {
+            "name": "tareqmy/gitwig",
+            "url": "https://github.com/tareqmy/gitwig",
+            "description": "[ CRATE ] - A mouse-drivable git TUI and multi-repo dashboard.",
             "tags": []
           },
           {
@@ -82057,6 +82105,12 @@
             "name": "maciejkula/rustlearn",
             "url": "https://github.com/maciejkula/rustlearn",
             "description": "Machine learning library.",
+            "tags": []
+          },
+          {
+            "name": "Michael-A-Kuykendall/shimmy",
+            "url": "https://github.com/Michael-A-Kuykendall/shimmy",
+            "description": "[ shimmy ] - Pure-Rust WebGPU inference engine with an OpenAI-compatible API and native GGUF support.",
             "tags": []
           },
           {
