@@ -44878,6 +44878,12 @@
             "tags": []
           },
           {
+            "name": "kaydet",
+            "url": "https://github.com/miratcan/kaydet",
+            "description": "Queryable personal database and terminal diary with SQLite search, tags, metadata, and AI integration via MCP.",
+            "tags": []
+          },
+          {
             "name": "thefuck",
             "url": "https://github.com/nvbn/thefuck",
             "description": "Correcting your previous console command.",
@@ -80010,6 +80016,12 @@
       {
         "name": "Text processing",
         "resources": [
+          {
+            "name": "artob/readmer",
+            "url": "https://github.com/artob/readmer",
+            "description": "[ readmer ] - Readmer composes README.md files from Liquid or Jinja2 templates.",
+            "tags": []
+          },
           {
             "name": "ashvardanian/stringzilla",
             "url": "https://github.com/ashvardanian/StringZilla",
