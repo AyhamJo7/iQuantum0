@@ -3439,6 +3439,12 @@
             "tags": []
           },
           {
+            "name": "genericsyncmap",
+            "url": "https://github.com/donomii/genericsyncmap",
+            "description": "Type-safe generic wrapper for sync.Map with full method parity and zero dependencies.",
+            "tags": []
+          },
+          {
             "name": "go-shelve",
             "url": "https://github.com/lucmq/go-shelve",
             "description": "A persistent, map-like object for the Go programming language. Supports multiple embedded key-value stores.",
@@ -6850,6 +6856,12 @@
             "tags": []
           },
           {
+            "name": "sceneCamera",
+            "url": "https://github.com/donomii/sceneCamera",
+            "description": "Camera movement and view/projection matrices for museum, FPS, RTS, and stereo rendering modes.",
+            "tags": []
+          },
+          {
             "name": "termloop",
             "url": "https://github.com/JoelOtter/termloop",
             "description": "Terminal-based game engine for Go, built on top of Termbox.",
@@ -6866,6 +6878,12 @@
       {
         "name": "Generators",
         "resources": [
+          {
+            "name": "apispec",
+            "url": "https://github.com/ehabterra/apispec",
+            "description": "Generate OpenAPI 3.1 specs from Go code without annotations, plus a browser UI to configure, preview, and explore the call graph.",
+            "tags": []
+          },
           {
             "name": "convergen",
             "url": "https://github.com/reedom/convergen",
@@ -58391,12 +58409,6 @@
             "tags": []
           },
           {
-            "name": "Legerity for Uno Platform",
-            "url": "https://github.com/MADE-Apps/legerity-uno",
-            "description": "(label: good first issue) An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET.",
-            "tags": []
-          },
-          {
             "name": "MvvmCross",
             "url": "https://github.com/MvvmCross/MvvmCross",
             "description": "(label: first-timers-only) The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.",
@@ -59918,12 +59930,6 @@
             "name": "DocsGPT",
             "url": "https://github.com/arc53/DocsGPT",
             "description": "(label: good first issue) Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.",
-            "tags": []
-          },
-          {
-            "name": "Graphback",
-            "url": "https://github.com/aerogear/graphback",
-            "description": "(label: good first issue) A CLI and runtime framework to generate a GraphQL API in seconds.",
             "tags": []
           },
           {
@@ -65697,6 +65703,12 @@
             "name": "constantoine/totp-rs",
             "url": "https://github.com/constantoine/totp-rs",
             "description": "[ totp-rs ] - 2fa library to generate and verify TOTP-based tokens",
+            "tags": []
+          },
+          {
+            "name": "GunduLabs/gaze",
+            "url": "https://github.com/GunduLabs/gaze",
+            "description": "Facial authentication for Linux with on-device face recognition, PAM integration, and tools for login, lock screen, sudo, and desktop management.",
             "tags": []
           },
           {
