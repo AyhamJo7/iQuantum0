@@ -12243,6 +12243,12 @@
             "tags": []
           },
           {
+            "name": "secretgenerator",
+            "url": "https://github.com/rafaelperoco/secretgenerator",
+            "description": "CSPRNG-backed credential generator with a versioned JSON schema for passwords, passphrases, secrets, API keys, and PINs.",
+            "tags": []
+          },
+          {
             "name": "secure",
             "url": "https://github.com/unrolled/secure",
             "description": "HTTP middleware for Go that facilitates some quick security wins.",
@@ -92358,6 +92364,12 @@
             "name": "Sniffnet",
             "url": "https://github.com/GyulyVGC/sniffnet",
             "description": "Application to comfortably monitor your network traffic.",
+            "tags": []
+          },
+          {
+            "name": "WiFi Lens",
+            "url": "https://github.com/SHIINASAMA/wifi-lens",
+            "description": "Native open-source Wi-Fi analyzer and network diagnostics app with real-time spectrum scanning, channel congestion visualization, and BLE device tracking.",
             "tags": []
           },
           {
