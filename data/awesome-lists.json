@@ -4626,6 +4626,12 @@
             "url": "https://github.com/wesql/wescale",
             "description": "WeScale is a database proxy designed to enhance the scalability, performance, security, and resilience of your applications.",
             "tags": []
+          },
+          {
+            "name": "xsql",
+            "url": "https://github.com/zx06/xsql",
+            "description": "AI-first cross-database CLI tool with read-only protection and structured JSON output.",
+            "tags": []
           }
         ]
       },
