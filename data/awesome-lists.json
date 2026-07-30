@@ -45018,6 +45018,12 @@
             "tags": []
           },
           {
+            "name": "misa77",
+            "url": "https://github.com/welcome-to-the-sunny-side/misa77",
+            "description": "Ridiculously fast decompression at good ratios. [MIT]",
+            "tags": []
+          },
+          {
             "name": "OpenZL",
             "url": "https://github.com/facebook/openzl",
             "description": "A novel data compression framework. [BSD] website",
