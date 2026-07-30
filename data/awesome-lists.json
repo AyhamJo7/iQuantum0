@@ -1494,6 +1494,12 @@
             "tags": []
           },
           {
+            "name": "Smeldr",
+            "url": "https://github.com/Smeldr/core",
+            "description": "AI-native content backend with typed lifecycle management, native MCP tools for every content type, and zero runtime dependencies.",
+            "tags": []
+          },
+          {
             "name": "trpc-agent-go",
             "url": "https://github.com/trpc-group/trpc-agent-go",
             "description": "Framework for building LLM-based multi-agent systems.",
@@ -11005,6 +11011,12 @@
             "tags": []
           },
           {
+            "name": "roamr",
+            "url": "https://github.com/sourabh-khot65/roamr",
+            "description": "CLI that scores nearby saved WiFi networks and tells you which to use, and why.",
+            "tags": []
+          },
+          {
             "name": "sdns",
             "url": "https://github.com/semihalev/sdns",
             "description": "A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.",
@@ -12204,6 +12216,12 @@
             "name": "luks.go",
             "url": "https://github.com/anatol/luks.go",
             "description": "Pure Golang library to manage LUKS partitions.",
+            "tags": []
+          },
+          {
+            "name": "mcprobe",
+            "url": "https://github.com/tamish560/mcprobe",
+            "description": "Security scanner for MCP servers with prompt injection detection, tool shadowing, and SARIF output.",
             "tags": []
           },
           {
@@ -16971,6 +16989,12 @@
             "name": "apicompat",
             "url": "https://github.com/bradleyfalzon/apicompat",
             "description": "Checks recent changes to a Go project for backwards incompatible changes.",
+            "tags": []
+          },
+          {
+            "name": "ast-metrics",
+            "url": "https://github.com/ast-metrics/ast-metrics",
+            "description": "Static code analyzer for Go and other languages: complexity, coupling, cohesion and maintainability metrics, with HTML, JSON, Markdown and SARIF reports.",
             "tags": []
           },
           {
@@ -56069,6 +56093,12 @@
             "tags": []
           },
           {
+            "name": "rustrak/rustrak",
+            "url": "https://github.com/rustrak/rustrak",
+            "description": "Ultra-lightweight error tracking server compatible with Sentry SDKs.",
+            "tags": []
+          },
+          {
             "name": "Scaphandre",
             "url": "https://github.com/hubblo-org/scaphandre",
             "description": "A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).",
@@ -56119,6 +56149,12 @@
             "name": "koibtw/highlightos",
             "url": "https://github.com/koibtw/highlightos",
             "description": "x86_64 OS kernel written in Rust & Assembly.",
+            "tags": []
+          },
+          {
+            "name": "NON-OS/nonos-micro-kernel",
+            "url": "https://github.com/NON-OS/nonos-micro-kernel",
+            "description": "A capability-based, RAM-resident microkernel where every program is a signed capsule that must prove itself before the kernel will run it, and drivers run in userspace.",
             "tags": []
           },
           {
@@ -64917,6 +64953,12 @@
             "name": "langgraph",
             "url": "https://github.com/langchain-ai/langgraph",
             "description": "Low-level orchestration framework for building stateful, long-running LLM agents.",
+            "tags": []
+          },
+          {
+            "name": "livetalking",
+            "url": "https://github.com/lipku/livetalking",
+            "description": "A framework for real time interactive streaming digital human.",
             "tags": []
           },
           {
@@ -85677,6 +85719,12 @@
             "name": "Espresso",
             "url": "https://espressoapp.com/",
             "description": "The web editor for Mac is back. For people who make delightful, innovative and fast websites.",
+            "tags": []
+          },
+          {
+            "name": "Fletch",
+            "url": "https://fletch.sh/?utm_source=dir-awesome-mac",
+            "description": "Native IDE for AI coding agents, giving each agent a sandboxed clone of your repository plus a shared symbol and call-graph index, with diff review before merge.",
             "tags": []
           },
           {
