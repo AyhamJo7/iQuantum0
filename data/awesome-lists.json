@@ -44108,6 +44108,12 @@
             "tags": []
           },
           {
+            "name": "micron.cpp",
+            "url": "https://github.com/rfgplk/micron.cpp",
+            "description": "A pure C++ implementation (& redesign) of libc and the Standard Library. [Boost/MIT]",
+            "tags": []
+          },
+          {
             "name": "MiLi",
             "url": "https://github.com/MariadeAnton/MiLi",
             "description": "Minimal headers-only C++ Library. [Boost]",
