@@ -50946,6 +50946,12 @@
             "tags": []
           },
           {
+            "name": "Spicy",
+            "url": "https://github.com/zeek/spicy",
+            "description": "C++ parser generator for dissecting protocols & files. [BSD] website",
+            "tags": []
+          },
+          {
             "name": "Stage",
             "url": "https://github.com/rtv/Stage",
             "description": "Mobile robot simulator. [GPL2]",
@@ -57051,6 +57057,12 @@
             "tags": []
           },
           {
+            "name": "Mapika/portview",
+            "url": "https://github.com/Mapika/portview",
+            "description": "[ portview ] - See what's on your ports: the process behind each one, plus diagnostics for conflicts, wildcard exposure and connection leaks. Doubles as an MCP server.",
+            "tags": []
+          },
+          {
             "name": "matheus-git/systemd-manager-tui",
             "url": "https://github.com/matheus-git/systemd-manager-tui",
             "description": "[ systemd-manager-tui ] - A program for managing systemd services through a TUI (Terminal User Interfaces).",
@@ -57632,6 +57644,12 @@
             "name": "Mobslide",
             "url": "https://github.com/thewh1teagle/mobslide",
             "description": "Desktop application that turns your smartphone into presentation remote controller.",
+            "tags": []
+          },
+          {
+            "name": "MoonProxyHQ/moonproxy-desktop",
+            "url": "https://github.com/MoonProxyHQ/moonproxy-desktop",
+            "description": "A cross-platform GUI desktop client for FRP (frpc), letting non-technical users expose local services to the public internet in one click.",
             "tags": []
           },
           {
@@ -79024,6 +79042,12 @@
             "tags": []
           },
           {
+            "name": "Bindery",
+            "url": "https://github.com/jarynclouatre/bindery",
+            "description": "Folder-watching converter for e-books and comics. EPUB to Kobo KEPUB via kepubify, CBZ/CBR/PDF via Kindle Comic Converter, with per-device profiles, ComicInfo.xml naming, chapter-to-volume bundling and a web UI. MIT Docker",
+            "tags": []
+          },
+          {
             "name": "BookLogr",
             "url": "https://github.com/Mozzo1000/booklogr",
             "description": "Manage your personal book library with ease. ( Demo ) Apache-2.0 Docker",
@@ -79323,6 +79347,12 @@
             "name": "Fusion",
             "url": "https://github.com/0x2E/fusion",
             "description": "Lightweight RSS aggregator and reader. MIT Go/Docker",
+            "tags": []
+          },
+          {
+            "name": "Goeland",
+            "url": "https://github.com/slurdge/goeland",
+            "description": "Turns any RSS/Atom feed into a beautiful email digest. MIT Go/Docker",
             "tags": []
           },
           {
@@ -81643,6 +81673,12 @@
             "tags": []
           },
           {
+            "name": "Mirumoji",
+            "url": "https://svdc1.github.io/mirumoji/docs",
+            "description": "Japanese immersion toolkit providing clickable, tokenized subtitles with dictionary lookups and transcription generation. ( Demo , Source Code ) MIT Docker/Python",
+            "tags": []
+          },
+          {
             "name": "mosparo",
             "url": "https://mosparo.io/",
             "description": "The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. ( Source Code ) MIT PHP",
@@ -82112,6 +82148,12 @@
             "name": "WatchYourLAN",
             "url": "https://github.com/aceberg/WatchYourLAN",
             "description": "Lightweight network IP scanner with notifications, history, export to Grafana. MIT Docker/Go/deb",
+            "tags": []
+          },
+          {
+            "name": "whois",
+            "url": "https://github.com/KincaidYang/whois",
+            "description": "WHOIS/RDAP query API for domains, IP addresses, CIDR prefixes and ASNs, with unified JSON output, caching, API key authentication, batch queries and MCP support for AI assistants. ( Demo ) MIT Go/Docker",
             "tags": []
           }
         ]
@@ -85221,6 +85263,12 @@
             "name": "Notebook",
             "url": "https://www.zoho.com/notebook/notebook-for-mac.html",
             "description": "Note-taking app.",
+            "tags": []
+          },
+          {
+            "name": "NoteGen",
+            "url": "https://notegen.top/",
+            "description": "Open-source, local-first Markdown note-taking app that turns scattered records into structured notes with AI.",
             "tags": []
           },
           {
