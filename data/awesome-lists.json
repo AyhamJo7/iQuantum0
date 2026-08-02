@@ -86617,6 +86617,12 @@
             "tags": []
           },
           {
+            "name": "Rilmazafone",
+            "url": "https://kagerou.glass/rilmazafone/",
+            "description": "Design DMG installers on a WYSIWYG canvas and build exactly what you drew, no scripts.",
+            "tags": []
+          },
+          {
             "name": "Electrino",
             "url": "https://github.com/pojala/electrino",
             "description": "Desktop runtime for web apps using the system's browser engine.",
@@ -91060,6 +91066,12 @@
             "tags": []
           },
           {
+            "name": "Phosphene",
+            "url": "https://kagerou.glass/phosphene/",
+            "description": "Use any video as your macOS wallpaper on the desktop and the lock screen, picked directly from System Settings.",
+            "tags": []
+          },
+          {
             "name": "Plash",
             "url": "https://sindresorhus.com/plash",
             "description": "Make any website your desktop wallpaper.",
@@ -92174,6 +92186,12 @@
       {
         "name": "System Related Tools",
         "resources": [
+          {
+            "name": "Adrafinil",
+            "url": "https://kagerou.glass/adrafinil/",
+            "description": "Keep your Mac awake only while AI agents are still working, then let it sleep normally.",
+            "tags": []
+          },
           {
             "name": "AlDente",
             "url": "https://apphousekitchen.com/",
