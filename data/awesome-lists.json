@@ -12015,6 +12015,12 @@
             "tags": []
           },
           {
+            "name": "acme-proxy",
+            "url": "https://github.com/esnet/acme-proxy",
+            "description": "Solve ACME http-01 challenge without opening port 80 to the internet, obtain certs from an external certificate authority.",
+            "tags": []
+          },
+          {
             "name": "acopw-go",
             "url": "https://sr.ht/~jamesponddotco/acopw-go/",
             "description": "Small cryptographically secure password generator package for Go.",
@@ -78918,6 +78924,12 @@
             "tags": []
           },
           {
+            "name": "Numa",
+            "url": "https://numa.rs/",
+            "description": "Ad-blocking DNS resolver with DNSSEC-validating recursive resolution, DoH/DoT/Oblivious DoH, ephemeral overrides, and local service domains, in a single Rust binary (alternative to Pi-hole, AdGuard Home, NextDNS). ( Source Code ) MIT Rust/Docker/Nix",
+            "tags": []
+          },
+          {
             "name": "Pi-hole",
             "url": "https://pi-hole.net/",
             "description": "Blackhole for Internet advertisements with a GUI for management and monitoring. ( Source Code ) EUPL-1.2 Shell/PHP/Docker",
@@ -80835,6 +80847,12 @@
             "name": "GraphHopper",
             "url": "https://graphhopper.com/",
             "description": "Fast routing library and server using OpenStreetMap. ( Source Code ) Apache-2.0 Java",
+            "tags": []
+          },
+          {
+            "name": "NextGIS Web",
+            "url": "https://nextgis.com/nextgis-web/",
+            "description": "Web GIS server for geospatial data management, web map publishing, and QGIS-centered collaborative workflows. ( Demo , Source Code ) GPL-3.0 Docker",
             "tags": []
           },
           {
