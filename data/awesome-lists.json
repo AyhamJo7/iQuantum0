@@ -32423,6 +32423,12 @@
             "url": "https://github.com/MacPaw/OpenAI",
             "description": "Swift package for OpenAI public API.",
             "tags": []
+          },
+          {
+            "name": "swift-coding-agent",
+            "url": "https://github.com/ivan-magda/swift-coding-agent",
+            "description": "A terminal coding agent with subagents and context compaction.",
+            "tags": []
           }
         ]
       },
@@ -35226,6 +35232,12 @@
             "tags": []
           },
           {
+            "name": "ImmersiveMap",
+            "url": "https://github.com/artembobkin/ImmersiveMap",
+            "description": "A Metal-rendered vector-tile map engine for SwiftUI with a 3D globe, flat map and live avatar markers.",
+            "tags": []
+          },
+          {
             "name": "LocoKit",
             "url": "https://github.com/sobri909/LocoKit",
             "description": "A location and activity recording framework for iOS.",
@@ -35258,6 +35270,12 @@
             "name": "SigmaSwiftStatistics",
             "url": "https://github.com/evgenyneu/SigmaSwiftStatistics",
             "description": "A collection of functions for statistical calculation.",
+            "tags": []
+          },
+          {
+            "name": "SwaTex",
+            "url": "https://github.com/PhraseHQ/SwaTex",
+            "description": "KaTeX-compatible LaTeX math rendering engine with no JavaScript, WebView, or DOM.",
             "tags": []
           },
           {
@@ -38207,6 +38225,12 @@
             "name": "AlexaSkillsKit",
             "url": "https://github.com/choefele/AlexaSkillsKit",
             "description": "Develop custom Alexa Skills.",
+            "tags": []
+          },
+          {
+            "name": "AmoreKit",
+            "url": "https://github.com/AmoreComputer/AmoreKit",
+            "description": "Sell and validate license keys in macOS apps distributed outside the App Store.",
             "tags": []
           },
           {
@@ -56413,6 +56437,12 @@
             "tags": []
           },
           {
+            "name": "morganlinton/Albatross",
+            "url": "https://github.com/morganlinton/Albatross",
+            "description": "[ albatross-cli ] - Terminal-first AI coding agent with transparent multi-model routing across local (Ollama, LM Studio, MLX, llama.cpp) and cloud backends, per-turn cost display, real undo, and auditable routing receipts.",
+            "tags": []
+          },
+          {
             "name": "muvon/octomind",
             "url": "https://github.com/muvon/octomind",
             "description": "Open-source AI agent runtime CLI with 48+ specialist agents, MCP host with dynamic server registration, multi-provider support (13+ LLMs), and adaptive context compression for 4+ hour sessions.",
@@ -60195,6 +60225,12 @@
             "name": "murarth/linefeed",
             "url": "https://github.com/murarth/linefeed",
             "description": "[ linefeed ] - Configurable, extensible, interactive line reader",
+            "tags": []
+          },
+          {
+            "name": "nushell/reedline",
+            "url": "https://github.com/nushell/reedline",
+            "description": "[ reedline ] - A feature-rich line editor powering Nushell. Supports syntax highlighting, tab completions, multiline, history, vi/emacs keybindings, and Unicode.",
             "tags": []
           },
           {
@@ -65019,6 +65055,12 @@
             "name": "pydantic-ai",
             "url": "https://github.com/pydantic/pydantic-ai",
             "description": "A Python agent framework for building generative AI applications with structured schemas.",
+            "tags": []
+          },
+          {
+            "name": "smolagents",
+            "url": "https://github.com/huggingface/smolagents",
+            "description": "A lightweight library to build agents and multi-agent workflows with minimal code.",
             "tags": []
           },
           {
@@ -85630,6 +85672,12 @@
             "name": "bindPDF",
             "url": "https://github.com/vishaltelangre/bindPDF",
             "description": "Combine multiple PDF files into a single PDF file using a friendly UI.",
+            "tags": []
+          },
+          {
+            "name": "Capd",
+            "url": "https://capd.jxd.dev",
+            "description": "Open-source capture and bookmarking app for saving links, text, notes, and images with full-text search.",
             "tags": []
           },
           {
