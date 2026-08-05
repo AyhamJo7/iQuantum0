@@ -17028,6 +17028,12 @@
             "tags": []
           },
           {
+            "name": "deadmono",
+            "url": "https://github.com/arxeiss/deadmono",
+            "description": "Wrapper around deadcode for detection of dead code in Go monorepo.",
+            "tags": []
+          },
+          {
             "name": "dupl",
             "url": "https://github.com/mibk/dupl",
             "description": "Tool for code clone detection.",
@@ -44256,6 +44262,12 @@
             "url": "https://github.com/jll63/yomm2",
             "description": "Fast, Orthogonal, Open multi-methods. Supersedes Yomm11 [Boost]",
             "tags": []
+          },
+          {
+            "name": "YUP!",
+            "url": "https://github.com/kunitoki/yup",
+            "description": "The modern framework optimized for realtime audio and GPU-native creative software [ISC]",
+            "tags": []
           }
         ]
       },
@@ -54373,6 +54385,12 @@
             "tags": []
           },
           {
+            "name": "GCWing/BitFun",
+            "url": "https://github.com/GCWing/BitFun",
+            "description": "A cross-platform desktop AI agent with a Rust runtime that works in real repositories and can drive the browser, terminal, and desktop applications",
+            "tags": []
+          },
+          {
             "name": "giga-grabber",
             "url": "https://github.com/chanderlud/giga-grabber",
             "description": "A very fast and relatively stable Mega downloader",
@@ -56097,6 +56115,12 @@
             "name": "TensorZero",
             "url": "https://github.com/tensorzero/tensorzero",
             "description": "data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation",
+            "tags": []
+          },
+          {
+            "name": "Uteke",
+            "url": "https://github.com/codecoradev/uteke",
+            "description": "Offline-first semantic memory engine for AI agents. Single binary, zero dependencies, MCP-native.",
             "tags": []
           }
         ]
@@ -82187,6 +82211,12 @@
             "tags": []
           },
           {
+            "name": "PlugNPiN",
+            "url": "https://deepspace2.github.io/PlugNPiN",
+            "description": "Automatically scrapes containers with specific labels and creates local DNS/CNAME entries in Pi-Hole/AdGuard Home and proxy hosts in Nginx Proxy Manager. ( Source Code ) GPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Speed Test by OpenSpeedTest\u2122",
             "url": "https://openspeedtest.com/",
             "description": "Free & Open-Source HTML5 Network Performance Estimation Tool. ( Source Code ) MIT Docker",
@@ -83985,7 +84015,7 @@
           },
           {
             "name": "Our Shopping List",
-            "url": "https://github.com/nanawel/our-shopping-list",
+            "url": "https://codeberg.org/nanawel/our-shopping-list",
             "description": "Simple shared list application including shopping lists and any other small todo-list that needs to be used collaboratively. ( Demo ) AGPL-3.0 Docker",
             "tags": []
           },
