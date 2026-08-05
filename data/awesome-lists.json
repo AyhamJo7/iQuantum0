@@ -12504,12 +12504,6 @@
             "url": "https://github.com/recolude/unitpacking",
             "description": "Library to pack unit vectors into as fewest bytes as possible.",
             "tags": []
-          },
-          {
-            "name": "relay",
-            "url": "https://github.com/valtors/relay",
-            "description": "MCP server with 40 tools for AI agents. Memory, web fetch, search, file ops, screenshots, and multi-agent coordination in one Go binary.",
-            "tags": []
           }
         ]
       },
@@ -15332,15 +15326,15 @@
             "tags": []
           },
           {
-            "name": "lang",
-            "url": "https://github.com/maxbolgarin/lang",
-            "description": "Generic one-liners to work with variables, slices and maps without boilerplate code.",
-            "tags": []
-          },
-          {
             "name": "LAN Orangutan",
             "url": "https://github.com/291-Group/LAN-Orangutan",
             "description": "Network device discovery and inventory with persistent labeling, multi-network scanning, and Tailscale integration.",
+            "tags": []
+          },
+          {
+            "name": "lang",
+            "url": "https://github.com/maxbolgarin/lang",
+            "description": "Generic one-liners to work with variables, slices and maps without boilerplate code.",
             "tags": []
           },
           {
