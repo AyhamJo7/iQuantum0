@@ -66240,6 +66240,12 @@
             "tags": []
           },
           {
+            "name": "msgspec",
+            "url": "https://github.com/msgspec/msgspec",
+            "description": "A fast serialization and validation library with built-in support for JSON, MessagePack, YAML, and TOML.",
+            "tags": []
+          },
+          {
             "name": "orjson",
             "url": "https://github.com/ijl/orjson",
             "description": "Fast, correct JSON library.",
@@ -86177,6 +86183,12 @@
             "tags": []
           },
           {
+            "name": "GraphCode",
+            "url": "https://graphcode.app",
+            "description": "Runs coding-agent sessions as a graph, where each node is a live terminal you can attach to mid-run and each edge a hand-off that fires unattended. Claude Code, Copilot CLI, Codex.",
+            "tags": []
+          },
+          {
             "name": "Hex Fiend",
             "url": "https://ridiculousfish.com/hexfiend/",
             "description": "Fast and clever open source hex editor.",
@@ -88242,6 +88254,12 @@
             "name": "Atomic Chat",
             "url": "https://github.com/AtomicBot-ai/Atomic-Chat",
             "description": "Open-source AI chat client for local and cloud models with MCP support.",
+            "tags": []
+          },
+          {
+            "name": "BitFun",
+            "url": "https://openbitfun.com/",
+            "description": "Open-source AI agent that gives each task its own interactive workspace with chat linked to live state.",
             "tags": []
           },
           {
