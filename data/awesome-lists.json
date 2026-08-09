@@ -78995,6 +78995,12 @@
             "url": "https://mathesar.org/",
             "description": "Intuitive UI to manage data collaboratively, for users of all technical skill levels. Built on Postgres \u2013 connect an existing DB or set up a new one. ( Source Code ) GPL-3.0 Docker/Python",
             "tags": []
+          },
+          {
+            "name": "StackRender",
+            "url": "https://stackrender.io/",
+            "description": "Database schema design and SQL migration generator supporting PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, and Oracle. ( Demo , Source Code ) AGPL-3.0 Nodejs/Docker",
+            "tags": []
           }
         ]
       },
@@ -80677,6 +80683,12 @@
             "name": "Cannery",
             "url": "https://cannery.app",
             "description": "Firearm and ammunition tracker app. ( Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
+            "name": "DVinyl",
+            "url": "https://github.com/Kyonew/DVinyl",
+            "description": "\u26a0 - Modern collection manager for physical media (vinyls, CDs, cassettes, books, movies, and video games). MIT Nodejs/Docker",
             "tags": []
           },
           {
@@ -82501,6 +82513,12 @@
         "name": "Pastebins",
         "resources": [
           {
+            "name": "1time",
+            "url": "https://1time.io",
+            "description": "Zero-knowledge one-time secret sharing. Create a one-time link for a password, API key, or file. Encrypted client-side in the browser, never reaches the server in plaintext, self-destructs after the allowed number of views (one by default). ( Demo , Source Code ) MIT Docker",
+            "tags": []
+          },
+          {
             "name": "BinPastes",
             "url": "https://github.com/querwurzel/BinPastes",
             "description": "Minimal pastebin supporting client-side encryption, fulltext search, one-time messages. Intended for one to few users looking for a simple pastebin deployment. Apache-2.0 Java",
@@ -83990,6 +84008,12 @@
             "tags": []
           },
           {
+            "name": "dayGLANCE",
+            "url": "https://dayglance.app",
+            "description": "Day planner with drag-and-drop time blocking, inbox, recurring tasks, habits, routines, goals, projects and Pomodoro focus mode, plus iCal and CalDAV calendar sync. Data stays in the browser, with optional WebDAV or GLANCEvault sync. ( Source Code , Clients ) MIT Javascript/Docker",
+            "tags": []
+          },
+          {
             "name": "Donetick",
             "url": "https://donetick.com",
             "description": "Task and chore management tool for personal and family use, with advanced scheduling, flexible assignment, and group sharing capabilities, detailed history, automation via API, simple and modern design. ( Demo , Source Code ) AGPL-3.0 Go/Docker",
@@ -84108,6 +84132,12 @@
       {
         "name": "Ticketing",
         "resources": [
+          {
+            "name": "BugPin",
+            "url": "https://bugpin.io",
+            "description": "Visual bug reporting and ticketing tool for web applications. ( Source Code ) AGPL-3.0/MIT Docker",
+            "tags": []
+          },
           {
             "name": "Bugzilla",
             "url": "https://www.bugzilla.org/",
@@ -85174,6 +85204,12 @@
             "name": "iA Writer",
             "url": "https://ia.net/writer/",
             "description": "Writing app with an emphasis on simplicity and design.",
+            "tags": []
+          },
+          {
+            "name": "Imark",
+            "url": "https://github.com/migsilva89/imark",
+            "description": "Open-source Markdown reader that stores your comments inside the document itself as HTML comments.",
             "tags": []
           },
           {
@@ -91978,6 +92014,12 @@
             "name": "Omni",
             "url": "https://github.com/BarutSRB/OmniWM",
             "description": "Notorized Niri and Hyprland inspired tiling window manager with animations.",
+            "tags": []
+          },
+          {
+            "name": "Plonk",
+            "url": "https://github.com/ostapondo/plonk",
+            "description": "Menu bar window manager with snap zones, hotkeys, and saved workspaces that relaunch your apps and put every window back on its monitor; an AI agent can drive it over MCP.",
             "tags": []
           },
           {
