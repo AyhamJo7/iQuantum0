@@ -7785,6 +7785,12 @@
             "tags": []
           },
           {
+            "name": "eagle-image-api",
+            "url": "https://github.com/nicobistolfi/eagle-image-api",
+            "description": "Image optimization and transformation API using libvips, deployable to AWS Lambda and CloudFront.",
+            "tags": []
+          },
+          {
             "name": "geopattern",
             "url": "https://github.com/pravj/geopattern",
             "description": "Create beautiful generative image patterns from a string.",
@@ -77153,7 +77159,7 @@
           },
           {
             "name": "Mylar3",
-            "url": "https://mylarcomics.com/",
+            "url": "https://mylar.nerdfirehurricane.com/",
             "description": "Automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents. ( Source Code ) GPL-3.0 Python/Docker",
             "tags": []
           },
@@ -83349,12 +83355,6 @@
       {
         "name": "Self-hosting Solutions",
         "resources": [
-          {
-            "name": "CasaOS",
-            "url": "https://casaos.zimaspace.com/",
-            "description": "Simple, easy-to-use, elegant Home Cloud system. ( Source Code ) Apache-2.0 Go/Docker",
-            "tags": []
-          },
           {
             "name": "DietPi",
             "url": "https://dietpi.com/",
