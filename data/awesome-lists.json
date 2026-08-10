@@ -89954,6 +89954,12 @@
         "name": "Education",
         "resources": [
           {
+            "name": "Leafy",
+            "url": "https://leafyapp.uk/",
+            "description": "Look up any word on screen with \u2325A, including in PDFs and images, and save it to a searchable local library.",
+            "tags": []
+          },
+          {
             "name": "Wokabulary",
             "url": "https://wokabulary.com/",
             "description": "Collect, practice, and organize your individual foreign language vocabulary.",
