@@ -83617,6 +83617,12 @@
             "tags": []
           },
           {
+            "name": "Hopp",
+            "url": "https://gethopp.app",
+            "description": "Remote pair programming app with low-latency 4K screen sharing, drawing, and remote control, with clients for macOS and Windows (alternative to Tuple, Pop, Drovio, Coscreen). ( Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Judge0 CE",
             "url": "https://judge0.com",
             "description": "API to compile and run source code. ( Source Code ) GPL-3.0 Docker",
