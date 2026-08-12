@@ -1422,6 +1422,12 @@
             "tags": []
           },
           {
+            "name": "keen-code",
+            "url": "https://github.com/mochow13/keen-code",
+            "description": "A context-efficient terminal-based AI coding agent. Provider agnostic, supports MCPs, Agent Skills, Subagents, and more. Comes with a simple and straightforward TUI.",
+            "tags": []
+          },
+          {
             "name": "langchaingo",
             "url": "https://github.com/tmc/langchaingo",
             "description": "LangChainGo is a framework for developing applications powered by language models.",
@@ -6448,6 +6454,12 @@
             "name": "bbgo",
             "url": "https://github.com/c9s/bbgo",
             "description": "A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies.",
+            "tags": []
+          },
+          {
+            "name": "cnn-fear-and-greed-parse",
+            "url": "https://github.com/wildsurfer/cnn-fear-and-greed-parse",
+            "description": "Client for CNN's Fear & Greed Index with the seven component indicators and about a year of daily history.",
             "tags": []
           },
           {
