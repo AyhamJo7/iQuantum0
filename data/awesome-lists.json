@@ -63223,6 +63223,12 @@
             "url": "https://github.com/encounter/objdiff",
             "description": "A local diffing tool for decompilation projects",
             "tags": []
+          },
+          {
+            "name": "wakaru",
+            "url": "https://github.com/pionxzh/wakaru",
+            "description": "[ wakaru ] - JavaScript decompiler: unpacks webpack/esbuild/Metro/Browserify bundles into modules and reverses minifier and Babel/TypeScript output into readable code",
+            "tags": []
           }
         ]
       },
@@ -82683,12 +82689,6 @@
             "name": "Heimdall",
             "url": "https://heimdall.site/",
             "description": "Elegant solution to organise all your web applications. ( Source Code ) MIT PHP",
-            "tags": []
-          },
-          {
-            "name": "Hiccup",
-            "url": "https://designedbyashw.in/test/hiccup/",
-            "description": "Beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ( Source Code ) MIT Javascript/Docker",
             "tags": []
           },
           {
