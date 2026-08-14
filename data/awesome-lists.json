@@ -4532,6 +4532,12 @@
             "tags": []
           },
           {
+            "name": "filesql",
+            "url": "https://github.com/nao1215/filesql",
+            "description": "Query CSV, TSV, LTSV, JSON, JSONL, Parquet, Excel, ACH, and Fedwire files with SQL through the database/sql API, backed by in-memory SQLite.",
+            "tags": []
+          },
+          {
             "name": "gatewayd",
             "url": "https://github.com/gatewayd-io/gatewayd",
             "description": "Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.",
@@ -4625,6 +4631,12 @@
             "name": "rwdb",
             "url": "https://github.com/andizzle/rwdb",
             "description": "rwdb provides read replica capability for multiple database servers setup.",
+            "tags": []
+          },
+          {
+            "name": "sqly",
+            "url": "https://github.com/nao1215/sqly",
+            "description": "Execute SQL against CSV, TSV, LTSV, JSON, Parquet, and Excel files in an interactive shell, backed by in-memory SQLite.",
             "tags": []
           },
           {
@@ -6496,6 +6508,12 @@
             "name": "decimal",
             "url": "https://github.com/govalues/decimal",
             "description": "Immutable decimal numbers with panic-free arithmetic.",
+            "tags": []
+          },
+          {
+            "name": "eu-vat-rates-data-go",
+            "url": "https://github.com/vatnode/eu-vat-rates-data-go",
+            "description": "VAT rates and VAT number formats for 45 European countries, embedded at compile time and refreshed daily from the European Commission TEDB.",
             "tags": []
           },
           {
@@ -13693,6 +13711,12 @@
             "name": "htree",
             "url": "https://github.com/bobg/htree",
             "description": "Traverse, navigate, filter, and otherwise process trees of html.Node objects.",
+            "tags": []
+          },
+          {
+            "name": "markdown",
+            "url": "https://github.com/nao1215/markdown",
+            "description": "Markdown builder that generates GitHub Flavored Markdown and mermaid diagrams through method chaining.",
             "tags": []
           },
           {
@@ -61050,6 +61074,12 @@
             "tags": []
           },
           {
+            "name": "logisky/LogiSheets",
+            "url": "https://github.com/logisky/LogiSheets",
+            "description": "[ logisheets-rs ] - A new, modern spreadsheet engine that drives real products.",
+            "tags": []
+          },
+          {
             "name": "pathwaycom/pathway",
             "url": "https://github.com/pathwaycom/pathway",
             "description": "Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.",
@@ -61373,6 +61403,12 @@
             "name": "mongodb",
             "url": "https://crates.io/keywords/mongodb",
             "description": "MongoDB [  ] mongodb/mongo-rust-driver [ mongodb ] - MongoDB bindings",
+            "tags": []
+          },
+          {
+            "name": "MongrelDB",
+            "url": "https://www.mongreldb.com",
+            "description": "visorcraft/MongrelDB [ mongreldb-core ] - An embedded columnar database engine with SQL, vector search, full-text search, and AI-native retrieval",
             "tags": []
           },
           {
