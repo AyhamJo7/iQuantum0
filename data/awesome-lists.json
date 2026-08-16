@@ -28278,6 +28278,12 @@
             "tags": []
           },
           {
+            "name": "go-arch",
+            "url": "https://github.com/SalvucciFacundo/go-arch",
+            "description": "CLI tool for scaffolding Go applications with Minimalist, Standard, and Hexagonal architecture patterns.",
+            "tags": []
+          },
+          {
             "name": "go-arg",
             "url": "https://github.com/alexflint/go-arg",
             "description": "Struct-based argument parsing in Go.",
@@ -41966,6 +41972,12 @@
             "name": "mp4ff",
             "url": "https://github.com/Eyevinn/mp4ff",
             "description": "Library and tools for working with MP4 files containing video, audio, subtitles, or metadata.",
+            "tags": []
+          },
+          {
+            "name": "mpeg-ts-analyzer",
+            "url": "https://github.com/small-teton/mpeg-ts-analyzer",
+            "description": "Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures.",
             "tags": []
           },
           {
