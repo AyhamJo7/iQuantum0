@@ -12823,6 +12823,12 @@
             "tags": []
           },
           {
+            "name": "Tellor",
+            "url": "https://tellor.cc/",
+            "description": "Minimalist single-user kanban todo app. Clean, simplified, and compact UI. Can import boards from Trello. ( Demo , Source Code ) MIT PHP",
+            "tags": []
+          },
+          {
             "name": "Tracks",
             "url": "https://www.getontracks.org/",
             "description": "Web-based application to help you implement David Allen\u2019s Getting Things Done\u2122 methodology. ( Source Code ) GPL-2.0 Ruby",
@@ -50997,6 +51003,12 @@
             "tags": []
           },
           {
+            "name": "PasteClip",
+            "url": "https://github.com/minsang-alt/PasteClip",
+            "description": "Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying.",
+            "tags": []
+          },
+          {
             "name": "PasteBot",
             "url": "https://tapbots.com/pastebot/",
             "description": "Powerful clipboard manager.",
@@ -69841,6 +69853,12 @@
             "tags": []
           },
           {
+            "name": "lockbook/lockbook",
+            "url": "https://github.com/lockbook/lockbook",
+            "description": "[ lb-rs ] - Collaborative end-to-end encrypted notes, documents, and drawings, with native cross-platform clients built on a shared Rust core and a self-hostable server.",
+            "tags": []
+          },
+          {
             "name": "mag123c/toktrack",
             "url": "https://github.com/mag123c/toktrack",
             "description": "Fast TUI/CLI that tracks token usage and cost across AI coding CLIs (Claude Code, Codex, Gemini CLI, and more), with a persistent cache that survives CLI data deletion.",
@@ -72915,6 +72933,12 @@
             "tags": []
           },
           {
+            "name": "avifenesh/memra",
+            "url": "https://github.com/avifenesh/memra",
+            "description": "[ memra-server ] - Inference engine for NVIDIA Blackwell cards with per-device tuned defaults, serving GGUF and safetensors over an OpenAI-compatible API; speculative, CUDA-graphed and batched decode are each gated byte-identical to plain decode.",
+            "tags": []
+          },
+          {
             "name": "blackportal-ai/delta",
             "url": "https://github.com/blackportal-ai/delta",
             "description": "\u0394 An Open-Source Machine Learning Framework in Rust.",
@@ -74985,6 +75009,12 @@
             "name": "build-trust/ockam",
             "url": "https://github.com/build-trust/ockam",
             "description": "[ ockam ] - End-to-End Encryption, Mutual Authentication, and ABAC for distributed applications",
+            "tags": []
+          },
+          {
+            "name": "zannis/shove",
+            "url": "https://github.com/zannis/shove",
+            "description": "[ shove ] - Type-safe async pub/sub with one consistent API over RabbitMQ, Kafka, NATS JetStream, AWS SNS/SQS, and Redis Streams, with retries, DLQ routing, and autoscaling consumer groups",
             "tags": []
           }
         ]
