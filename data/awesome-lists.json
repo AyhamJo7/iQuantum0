@@ -26633,6 +26633,12 @@
             "tags": []
           },
           {
+            "name": "crewai-go",
+            "url": "https://github.com/rhgs/crewai-go",
+            "description": "Idiomatic Go port of CrewAI (multi-agent orchestration). Zero dependencies, stdlib only.",
+            "tags": []
+          },
+          {
             "name": "dakera-go",
             "url": "https://github.com/dakera-ai/dakera-go",
             "description": "Official Go client SDK for the Dakera self-hosted agent memory server, providing typed interfaces for memory store/recall, session management, namespace operations, and decay configuration.",
@@ -27000,6 +27006,12 @@
             "name": "loginsrv",
             "url": "https://github.com/tarent/loginsrv",
             "description": "JWT login microservice with pluggable backends such as OAuth2 (Github), htpasswd, osiam.",
+            "tags": []
+          },
+          {
+            "name": "melange",
+            "url": "https://github.com/pthm/melange",
+            "description": "Compiles OpenFGA authorization schemas into PL/pgSQL functions that run fine-grained relationship-based access control checks inside PostgreSQL.",
             "tags": []
           },
           {
@@ -53883,6 +53895,12 @@
             "tags": []
           },
           {
+            "name": "Granite Registry",
+            "url": "https://granite.so/products/docker-registry",
+            "description": ":yen: Store private Docker images alongside the workloads that pull them, with scoped read-only and read-write keys.",
+            "tags": []
+          },
+          {
             "name": "Harbor",
             "url": "https://github.com/goharbor/harbor",
             "description": "An open source trusted cloud native registry project that stores, signs, and scans content. Supports replication, user management, access control and activity auditing.",
@@ -54758,6 +54776,12 @@
             "tags": []
           },
           {
+            "name": "Gantry (Desktop)",
+            "url": "https://github.com/getgantry/gantry",
+            "description": "Native macOS app (SwiftUI, no Electron) for managing and monitoring Docker hosts, local and over SSH: fleet dashboard, live logs and stats, exec terminal, file browser, and a bundled MCP server for AI agents.",
+            "tags": []
+          },
+          {
             "name": "Simple Docker UI",
             "url": "https://github.com/felixgborrego/simple-docker-ui",
             "description": "Built on Electron.",
@@ -54774,6 +54798,12 @@
       {
         "name": "Terminal",
         "resources": [
+          {
+            "name": "bosun",
+            "url": "https://github.com/psychedelicdevx/bosun",
+            "description": "A keyboard-driven terminal UI for Docker with compose project grouping, live logs, stats, and shell access.",
+            "tags": []
+          },
           {
             "name": "d4s",
             "url": "https://github.com/jr-k/d4s",
@@ -54883,6 +54913,12 @@
             "tags": []
           },
           {
+            "name": "layerx",
+            "url": "https://github.com/deveshctl/layerx",
+            "description": "Inspect container image layers in a TUI \u2014 browse filesystem diffs, view file contents inline, sort by size, extract individual files, and gate CI on efficiency thresholds. Supports Docker, Podman, and OCI archives.",
+            "tags": []
+          },
+          {
             "name": "lazydocker",
             "url": "https://github.com/jesseduffield/lazydocker",
             "description": "The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.",
@@ -54960,6 +54996,12 @@
             "tags": []
           },
           {
+            "name": "Docker Commander",
+            "url": "https://github.com/koduj-dev/docker-commander",
+            "description": "A self-hosted Docker management and monitoring UI with multi-host support, Compose management, aggregated logs, alerts, RBAC, vulnerability scanning, and MCP integration.",
+            "tags": []
+          },
+          {
             "name": "Docker Registry Browser",
             "url": "https://github.com/klausmeyer/docker-registry-browser",
             "description": "Web Interface for the Docker Registry HTTP API v2.",
@@ -54975,6 +55017,12 @@
             "name": "dockge",
             "url": "https://github.com/louislam/dockge",
             "description": "Easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager.",
+            "tags": []
+          },
+          {
+            "name": "DockScope",
+            "url": "https://github.com/ManuelR-T/dockscope",
+            "description": "Visualizes Docker containers in a 3D dependency graph with live metrics, logs, and an in-browser terminal.",
             "tags": []
           },
           {
@@ -55277,6 +55325,12 @@
             "name": "Lando",
             "url": "https://github.com/lando/lando",
             "description": "Lando is for developers who want to quickly specify and painlessly spin up the services and tools needed to develop their projects.",
+            "tags": []
+          },
+          {
+            "name": "Laradock",
+            "url": "https://github.com/laradock/laradock",
+            "description": "Full PHP development environment based on Docker, running Nginx/Apache, PHP, MySQL, Redis and more as swappable Compose services.",
             "tags": []
           },
           {
@@ -75571,6 +75625,12 @@
             "name": "fschutt/printpdf",
             "url": "https://github.com/fschutt/printpdf",
             "description": "PDF writing library",
+            "tags": []
+          },
+          {
+            "name": "gastongouron/ironpress",
+            "url": "https://github.com/gastongouron/ironpress",
+            "description": "[ ironpress ] - Pure Rust HTML/CSS/Markdown-to-PDF converter with a built-in layout engine and no browser or system dependencies.",
             "tags": []
           },
           {
