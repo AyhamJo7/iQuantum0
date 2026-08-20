@@ -8064,12 +8064,6 @@
             "tags": []
           },
           {
-            "name": "Microweber",
-            "url": "https://microweber.com/",
-            "description": "Drag and Drop CMS and online shop. ( Source Code ) MIT PHP",
-            "tags": []
-          },
-          {
             "name": "myCart",
             "url": "https://github.com/shurco/mycart",
             "description": "\u26a0 - Shopping cart in 1 file (with support for payment by card or cryptocurrency). MIT Go/Docker",
@@ -9243,12 +9237,6 @@
             "name": "wger",
             "url": "https://wger.de/",
             "description": "Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ( Demo , Source Code ) AGPL-3.0 Python/Docker",
-            "tags": []
-          },
-          {
-            "name": "Wingfit",
-            "url": "https://wingfit.fr",
-            "description": "Minimalist fitness app to plan your workouts, track your personal records and leverage smartwatch data. ( Demo , Source Code ) CC-BY-SA-4.0 Python/Docker",
             "tags": []
           }
         ]
@@ -16151,12 +16139,6 @@
         "name": "Containers",
         "resources": [
           {
-            "name": "C++ B-tree",
-            "url": "https://github.com/algorithm-ninja/cpp-btree",
-            "description": "A template library that implements ordered in-memory containers based on a B-tree data structure. [Apache2]",
-            "tags": []
-          },
-          {
             "name": "CRoaring",
             "url": "https://github.com/RoaringBitmap/CRoaring",
             "description": "Roaring bitmaps in C (and C++), with SIMD optimizations. [Apache-2.0]",
@@ -17160,12 +17142,6 @@
             "tags": []
           },
           {
-            "name": "MTuner",
-            "url": "https://github.com/RudjiGames/MTuner",
-            "description": "A C/C++ memory profiler and memory leak finder for Windows, PlayStation, and other platforms. [BSD-2-Clause]",
-            "tags": []
-          },
-          {
             "name": "heaptrack",
             "url": "https://github.com/KDE/heaptrack",
             "description": "A heap memory profiler for Linux. [LGPL-2.1]",
@@ -17825,6 +17801,12 @@
             "tags": []
           },
           {
+            "name": "MESHLIB",
+            "url": "https://github.com/meshinspector/meshlib",
+            "description": "An SDK to Supercharge Your 3D Data Processing Efficiency. [Free/Commercial] website",
+            "tags": []
+          },
+          {
             "name": "micro-gl",
             "url": "https://github.com/micro-gl/micro-gl",
             "description": "Realtime, Embeddable, Headers Only C++11 CPU vector graphics. no STD lib, no FPU and no GPU required. [CUSTOM] website",
@@ -18379,12 +18361,6 @@
             "tags": []
           },
           {
-            "name": "JSON++",
-            "url": "https://github.com/hjiang/jsonxx",
-            "description": "A JSON parser in C++. [MIT]",
-            "tags": []
-          },
-          {
             "name": "json.cpp",
             "url": "https://github.com/jart/json.cpp",
             "description": "a baroque JSON parsing / serialization library for C++. [Apache-2.0]",
@@ -18436,12 +18412,6 @@
             "name": "json-parser",
             "url": "https://github.com/udp/json-parser",
             "description": "Very low footprint JSON parser written in portable ANSI C. [BSD]",
-            "tags": []
-          },
-          {
-            "name": "json11",
-            "url": "https://github.com/dropbox/json11",
-            "description": "A tiny JSON library for C++11. [MIT]",
             "tags": []
           },
           {
@@ -18508,12 +18478,6 @@
             "name": "qt-json",
             "url": "https://github.com/gaudecker/qt-json",
             "description": "A simple class for parsing JSON data into a QVariant hierarchy and vice versa. [GPLv3]",
-            "tags": []
-          },
-          {
-            "name": "QJson",
-            "url": "https://github.com/flavio/qjson",
-            "description": "A qt-based library that maps JSON data to QVariant objects. [LGPL2]",
             "tags": []
           },
           {
@@ -18603,12 +18567,6 @@
             "name": "BqLog",
             "url": "https://github.com/Tencent/BqLog",
             "description": "A lightweight, high-performance logging system used in projects such as \"Honor of Kings\". [Apache-2.0]",
-            "tags": []
-          },
-          {
-            "name": "Easylogging++",
-            "url": "https://github.com/amrayn/easyloggingpp",
-            "description": "Extremely light-weight high performance logging library for C++11 (or higher) applications. [MIT]",
             "tags": []
           },
           {
@@ -19513,12 +19471,6 @@
             "tags": []
           },
           {
-            "name": "Dyad.c",
-            "url": "https://github.com/rxi/dyad",
-            "description": "Asynchronous networking for C. [MIT]",
-            "tags": []
-          },
-          {
             "name": "ENet",
             "url": "https://github.com/lsalzman/enet",
             "description": "Reliable UDP networking library. [MIT] website",
@@ -19540,12 +19492,6 @@
             "name": "H2O",
             "url": "https://github.com/h2o/h2o",
             "description": "An optimized HTTP server with support for HTTP/1.x and HTTP/2. It can also be used as a library. [MIT]",
-            "tags": []
-          },
-          {
-            "name": "HTTP Parser",
-            "url": "https://github.com/nodejs/http-parser",
-            "description": ":zap: - A http request/response parser for C. [MIT]",
             "tags": []
           },
           {
@@ -20112,12 +20058,6 @@
             "name": "Nameof",
             "url": "https://github.com/Neargye/nameof",
             "description": "Header-only C++17 library provides nameof macros and functions to obtain the simple name of variable, type, function, macro, and enum. [MIT]",
-            "tags": []
-          },
-          {
-            "name": "Ponder",
-            "url": "https://github.com/billyquith/ponder",
-            "description": "A C++11 library for reflection. [MIT]",
             "tags": []
           },
           {
@@ -22048,12 +21988,6 @@
             "tags": []
           },
           {
-            "name": "color_coded",
-            "url": "https://github.com/jeaye/color_coded",
-            "description": "A vim plugin for libclang-based highlighting. [MIT]",
-            "tags": []
-          },
-          {
             "name": "Dev-C++",
             "url": "https://sourceforge.net/projects/orwelldevcpp/",
             "description": "A portable C/C++/C++11 IDE.",
@@ -22141,12 +22075,6 @@
             "name": "YouCompleteMe",
             "url": "https://github.com/ycm-core/YouCompleteMe",
             "description": "YouCompleteMe is a fast, as-you-type, fuzzy-search code completion engine for Vim.",
-            "tags": []
-          },
-          {
-            "name": "cquery",
-            "url": "https://github.com/cquery-project/cquery/",
-            "description": "A C++ code completion engine for vscode, emacs, vim, etc.",
             "tags": []
           },
           {
@@ -26621,6 +26549,12 @@
             "tags": []
           },
           {
+            "name": "agy-mcp",
+            "url": "https://github.com/tphakala/agy-mcp",
+            "description": "Model Context Protocol (MCP) server wrapping the Antigravity CLI to run prompts and peer reviews.",
+            "tags": []
+          },
+          {
             "name": "ai",
             "url": "https://github.com/joakimcarlsson/ai",
             "description": "A Go toolkit for building AI agents and applications across multiple providers with unified LLM, embeddings, tool calling, and MCP integration.",
@@ -26800,9 +26734,33 @@
             "tags": []
           },
           {
+            "name": "go-aac",
+            "url": "https://github.com/tphakala/go-aac",
+            "description": "Pure-Go AAC-LC encoder and decoder ported from FFmpeg.",
+            "tags": []
+          },
+          {
+            "name": "go-audio-resampler",
+            "url": "https://github.com/tphakala/go-audio-resampler",
+            "description": "Pure-Go, high-quality audio resampler with SIMD acceleration.",
+            "tags": []
+          },
+          {
+            "name": "go-flac",
+            "url": "https://github.com/tphakala/go-flac",
+            "description": "Native Go FLAC encoder and decoder with SIMD acceleration.",
+            "tags": []
+          },
+          {
             "name": "go-mpris",
             "url": "https://github.com/leberKleber/go-mpris",
             "description": "Client for mpris dbus interfaces.",
+            "tags": []
+          },
+          {
+            "name": "go-opus",
+            "url": "https://github.com/tphakala/go-opus",
+            "description": "Native Go implementation of the Opus audio codec (RFC 6716) with RFC-compliant decoder.",
             "tags": []
           },
           {
@@ -29167,6 +29125,12 @@
             "name": "EchoVault",
             "url": "https://github.com/EchoVault/EchoVault",
             "description": "Embeddable Distributed in-memory data store compatible with Redis clients.",
+            "tags": []
+          },
+          {
+            "name": "easycache",
+            "url": "https://github.com/hugocarreira/easycache",
+            "description": "A simple way to use in-memory cache in Golang (TTL/FIFO/LRU/LFU).",
             "tags": []
           },
           {
@@ -37287,6 +37251,12 @@
             "tags": []
           },
           {
+            "name": "simd",
+            "url": "https://github.com/tphakala/simd",
+            "description": "Native Go vector and SIMD operations on slices with multi-architecture assembly acceleration.",
+            "tags": []
+          },
+          {
             "name": "sparse",
             "url": "https://github.com/james-bowman/sparse",
             "description": "Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries.",
@@ -37923,6 +37893,12 @@
             "name": "flipt",
             "url": "https://github.com/markphelps/flipt",
             "description": "A self contained feature flag solution written in Go and Vue.js",
+            "tags": []
+          },
+          {
+            "name": "flue",
+            "url": "https://github.com/karnstack/flue",
+            "description": "Self-hosted daemon that serves terminal sessions to a browser tab. Sessions keep running after the tab is closed.",
             "tags": []
           },
           {
@@ -49069,6 +49045,12 @@
             "name": "LokalBot",
             "url": "https://www.lokalbot.com/",
             "description": "On-device meeting notes, dictation, inline autocomplete, and searchable work memory for macOS.",
+            "tags": []
+          },
+          {
+            "name": "Loadout",
+            "url": "https://loadout.migsilva.dev",
+            "description": "See and manage what coding assistants load \u2014 Claude Code skills, subagents, slash commands, plugins, and MCP servers, with real usage counts.",
             "tags": []
           },
           {
