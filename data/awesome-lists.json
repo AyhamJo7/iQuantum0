@@ -5919,7 +5919,7 @@
           },
           {
             "name": "Ech0",
-            "url": "https://echo.soopy.cn/",
+            "url": "https://ech0.app/",
             "description": "Lightweight federated publishing platform focused on personal idea sharing (documentation in Chinese). ( Demo , Source Code ) AGPL-3.0 Docker/K8S",
             "tags": []
           },
@@ -7646,7 +7646,7 @@
           {
             "name": "Bytebase",
             "url": "https://www.bytebase.com/",
-            "description": "Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ( Demo , Source Code ) MIT Docker/K8S/Go",
+            "description": "Safe database schema change and version control for DevOps teams, supports MySQL, PostgreSQL, TiDB, ClickHouse, and Snowflake. ( Source Code ) MIT Docker/K8S/Go",
             "tags": []
           },
           {
@@ -8737,8 +8737,8 @@
           },
           {
             "name": "slcl",
-            "url": "https://gitea.privatedns.org/xavi/slcl",
-            "description": "Simple and lightweight web cloud storage. ( Source Code ) AGPL-3.0 C",
+            "url": "https://codeberg.org/xavidcr/slcl",
+            "description": "Simple and lightweight web cloud storage. AGPL-3.0 C",
             "tags": []
           },
           {
@@ -9275,7 +9275,7 @@
           },
           {
             "name": "EMQX",
-            "url": "https://www.emqx.io/",
+            "url": "https://www.emqx.com/",
             "description": "Scalable MQTT broker. Connect 100M+ IoT devices in one single cluster, move and process real-time IoT data with 1M msg/s throughput at 1ms latency. ( Demo , Source Code ) Apache-2.0 Docker/Erlang",
             "tags": []
           },
@@ -9501,7 +9501,7 @@
           {
             "name": "Canvas LMS",
             "url": "https://www.instructure.com/canvas/",
-            "description": "Learning management system (LMS) that is revolutionizing the way we educate. ( Demo , Source Code ) AGPL-3.0 Ruby",
+            "description": "Learning management system (LMS) that is revolutionizing the way we educate. ( Source Code ) AGPL-3.0 Ruby",
             "tags": []
           },
           {
@@ -10841,12 +10841,6 @@
             "tags": []
           },
           {
-            "name": "monetr",
-            "url": "https://monetr.app/",
-            "description": "Budgeting application focused on planning for recurring expenses. ( Source Code ) FSL-1.1-MIT Docker/K8S",
-            "tags": []
-          },
-          {
             "name": "Mybucks.online",
             "url": "https://mybucks.online",
             "description": "Secure, browser-based, password-only self-custodial cryptocurrency wallet. ( Demo , Source Code ) MIT Nodejs",
@@ -11502,7 +11496,7 @@
           {
             "name": "Immich Kiosk",
             "url": "https://github.com/damongolding/immich-kiosk",
-            "description": "Lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source. GPL-3.0 Docker/Go",
+            "description": "Lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source. ( Clients ) GPL-3.0 Docker/Go",
             "tags": []
           },
           {
@@ -11569,12 +11563,6 @@
             "name": "Piwigo",
             "url": "https://piwigo.org/",
             "description": "Photo gallery software for the web, built by an active community of users and developers. ( Source Code ) GPL-2.0 PHP",
-            "tags": []
-          },
-          {
-            "name": "sigal",
-            "url": "https://github.com/saimn/sigal",
-            "description": "Yet another simple static gallery generator. MIT Python",
             "tags": []
           },
           {
@@ -11811,7 +11799,7 @@
           {
             "name": "ManageMeals",
             "url": "https://managemeals.com/",
-            "description": "Manage recipes, import recipes by URL and organize them without any ads or unnecessary text. ( Demo , Source Code ) GPL-3.0 Docker",
+            "description": "Manage recipes, import recipes by URL and organize them without any ads or unnecessary text. ( Source Code ) GPL-3.0 Docker",
             "tags": []
           },
           {
@@ -13147,12 +13135,6 @@
             "tags": []
           },
           {
-            "name": "godoxy",
-            "url": "https://docs.godoxy.dev/",
-            "description": "High-performance reverse proxy and container orchestrator for self-hosters. ( Demo , Source Code ) MIT Docker/Go",
-            "tags": []
-          },
-          {
             "name": "HAProxy",
             "url": "https://www.haproxy.org/",
             "description": "Very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. ( Source Code ) GPL-2.0 C/deb/Docker",
@@ -14003,6 +13985,12 @@
             "name": "react-router",
             "url": "https://github.com/remix-run/react-router",
             "description": "Declarative routing for React",
+            "tags": []
+          },
+          {
+            "name": "speedy-router",
+            "url": "https://github.com/anonrig/router",
+            "description": "TanStack Router API rebuilt for faster navigations and SSR",
             "tags": []
           },
           {
@@ -26767,6 +26755,12 @@
             "name": "go-resample",
             "url": "https://github.com/gojargo/go-resample",
             "description": "Pure-Go (no cgo) audio sample-rate converter with sinc, linear, and zero-order-hold converters.",
+            "tags": []
+          },
+          {
+            "name": "go-wav",
+            "url": "https://github.com/tphakala/go-wav",
+            "description": "Pure-Go WAV/RIFF reader and writer with RF64 and BW64 support for files larger than 4 GiB.",
             "tags": []
           },
           {
@@ -71652,9 +71646,9 @@
             "tags": []
           },
           {
-            "name": "dali-benothmen/cronflow",
-            "url": "https://github.com/dali-benothmen/cronflow",
-            "description": "Cronflow is a high-performance, developer-focused workflow automation library that lets you build and orchestrate complex, scalable automation workflows fully in code.",
+            "name": "dali-benothmen/woml",
+            "url": "https://github.com/dali-benothmen/woml",
+            "description": "WOML (Workflow Orchestration Markup Language) is a markup language for workflow automation, with a Rust execution core. Readable as HTML, versionable as code, powerful as JavaScript \u2014 no visual-builder spaghetti, no ceiling on what a step can do.",
             "tags": []
           },
           {
