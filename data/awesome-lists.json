@@ -9778,6 +9778,12 @@
             "tags": []
           },
           {
+            "name": "Lingarr",
+            "url": "https://lingarr.com",
+            "description": "Automatically translate subtitle files in your Radarr and Sonarr media libraries, using LibreTranslate, local AI models, or SaaS translation services. ( Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Medusa",
             "url": "https://github.com/pymedusa/Medusa",
             "description": "Automatic Video library manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ( Clients ) GPL-3.0 Python",
@@ -17962,6 +17968,12 @@
             "tags": []
           },
           {
+            "name": "Jpegli",
+            "url": "https://github.com/google/jpegli",
+            "description": "an improved JPEG encoder and decoder implementation. [BSD-3-Clause]",
+            "tags": []
+          },
+          {
             "name": "Leptonica",
             "url": "https://github.com/DanBloomberg/leptonica",
             "description": "Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. [BSD-2-Clause] website",
@@ -23867,12 +23879,6 @@
             "url": "https://github.com/aio-libs/yarl",
             "description": "Yet another URL library.",
             "tags": []
-          },
-          {
-            "name": "httpx.URL",
-            "url": "https://www.python-httpx.org/api/",
-            "description": "The immutable URL class bundled with HTTPX.",
-            "tags": []
           }
         ]
       },
@@ -23940,7 +23946,7 @@
           {
             "name": "django.db.models",
             "url": "https://github.com/django/django",
-            "description": "The Django ORM .",
+            "description": "(part of Django) The Django ORM .",
             "tags": []
           },
           {
@@ -24398,7 +24404,7 @@
           {
             "name": "geodjango",
             "url": "https://github.com/django/django",
-            "description": "A world-class geographic web framework that is part of Django .",
+            "description": "(part of Django) A world-class geographic web framework .",
             "tags": []
           }
         ]
@@ -24446,6 +24452,12 @@
             "name": "rdkit",
             "url": "https://github.com/rdkit/rdkit",
             "description": "Cheminformatics and Machine Learning Software.",
+            "tags": []
+          },
+          {
+            "name": "pint",
+            "url": "https://github.com/hgrecco/pint",
+            "description": "Operate and manipulate physical quantities with units and dimensional analysis.",
             "tags": []
           },
           {
@@ -24565,6 +24577,12 @@
             "url": "https://github.com/faif/python-patterns",
             "description": "A collection of design patterns in Python.",
             "tags": []
+          },
+          {
+            "name": "python-statemachine",
+            "url": "https://github.com/fgmacedo/python-statemachine",
+            "description": "Expressive statecharts and finite state machines with a declarative API, in sync and async codebases.",
+            "tags": []
           }
         ]
       },
@@ -24622,6 +24640,12 @@
             "name": "repowise",
             "url": "https://github.com/repowise-dev/repowise",
             "description": "Codebase intelligence that indexes repos into dependency graphs, git history, and auto-generated docs with dead code detection.",
+            "tags": []
+          },
+          {
+            "name": "complexipy",
+            "url": "https://github.com/rohaquinlop/complexipy",
+            "description": "Cognitive complexity analysis for Python code, written in Rust.",
             "tags": []
           },
           {
@@ -24945,12 +24969,6 @@
             "tags": []
           },
           {
-            "name": "mkdocs",
-            "url": "https://github.com/mkdocs/mkdocs/",
-            "description": "Markdown friendly documentation generator.",
-            "tags": []
-          },
-          {
             "name": "diagrams",
             "url": "https://github.com/mingrammer/diagrams",
             "description": "Diagram as Code.",
@@ -24960,6 +24978,12 @@
             "name": "pdoc",
             "url": "https://github.com/mitmproxy/pdoc",
             "description": "Epydoc replacement to auto generate API documentation for Python libraries.",
+            "tags": []
+          },
+          {
+            "name": "zensical",
+            "url": "https://github.com/zensical/zensical",
+            "description": "A modern static site generator for technical documentation.",
             "tags": []
           }
         ]
@@ -26325,9 +26349,9 @@
             "tags": []
           },
           {
-            "name": "uv audit",
-            "url": "https://docs.astral.sh/uv/reference/cli/#uv-audit",
-            "description": "uv's built-in dependency vulnerability and malware scanning backed by OSV.",
+            "name": "uv-audit",
+            "url": "https://github.com/astral-sh/uv",
+            "description": "(part of uv) uv's dependency vulnerability and malware scanning backed by OSV.",
             "tags": []
           }
         ]
@@ -71090,6 +71114,12 @@
             "name": "1History",
             "url": "https://github.com/localfirstapp/1History",
             "description": "Command line interface to backup Firefox/Chrome/Safari history to one SQLite file",
+            "tags": []
+          },
+          {
+            "name": "aravpanwar/decayfmt",
+            "url": "https://github.com/aravpanwar/decayfmt",
+            "description": "[ decayfmt ] - A file format whose files permanently corrupt a little on every open, with no recovery from the file alone.",
             "tags": []
           },
           {
