@@ -24151,6 +24151,12 @@
             "tags": []
           },
           {
+            "name": "hishel",
+            "url": "https://github.com/karpetrosyan/hishel",
+            "description": "RFC 9111 compliant HTTP caching for httpx and requests, with sync and async support.",
+            "tags": []
+          },
+          {
             "name": "dogpile.cache",
             "url": "https://github.com/sqlalchemy/dogpile.cache",
             "description": "dogpile.cache is a next generation replacement for Beaker made by the same authors.",
