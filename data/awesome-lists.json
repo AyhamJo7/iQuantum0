@@ -23232,6 +23232,12 @@
             "tags": []
           },
           {
+            "name": "semantica",
+            "url": "https://github.com/semantica-agi/semantica",
+            "description": "A graph-native context and knowledge layer for AI agents with reasoning, provenance, and governance.",
+            "tags": []
+          },
+          {
             "name": "transformers",
             "url": "https://github.com/huggingface/transformers",
             "description": "A framework that lets you easily use pre-trained transformer models for NLP, vision, and audio tasks.",
@@ -31773,6 +31779,12 @@
             "name": "decimal",
             "url": "https://github.com/govalues/decimal",
             "description": "Immutable decimal numbers with panic-free arithmetic.",
+            "tags": []
+          },
+          {
+            "name": "decimal",
+            "url": "https://github.com/klokare/decimal",
+            "description": "A fixed-size, no allocation decimal type for when you don't need arbitrary precision.",
             "tags": []
           },
           {
@@ -41514,6 +41526,12 @@
             "name": "manifestor",
             "url": "https://github.com/alanzng/manifestor",
             "description": "Zero-dependency library for parsing, filtering, transforming, and building HLS and DASH manifests.",
+            "tags": []
+          },
+          {
+            "name": "mosaic",
+            "url": "https://github.com/farshidrezaei/mosaic",
+            "description": "Predictable, production-ready Adaptive Bitrate (ABR) video packaging for Go (HLS & DASH CMAF).",
             "tags": []
           },
           {
@@ -68023,6 +68041,12 @@
             "tags": []
           },
           {
+            "name": "openma-ai/Martty",
+            "url": "https://github.com/openma-ai/Martty",
+            "description": "A Rust/ratatui terminal client for DeepSeek Harness and other ACP-compatible coding agents.",
+            "tags": []
+          },
+          {
             "name": "OxideTerm",
             "url": "https://github.com/AnalyseDeCircuit/oxideterm",
             "description": "A cross-platform SSH terminal client and local terminal emulator built with Tauri 2.0 and pure-Rust SSH (russh). Features multiplexed connections, SFTP file manager, built-in IDE (CodeMirror 6), port forwarding (-L/-R/-D), Grace Period auto-reconnect, plugin system, AI assistant, encrypted export (.oxide), and 11 languages.",
@@ -76846,6 +76870,12 @@
             "name": "nyx-space",
             "url": "https://crates.io/crates/nyx-space",
             "description": "High fidelity, fast, reliable and validated astrodynamical toolkit library, used for spacecraft mission design and orbit determination",
+            "tags": []
+          },
+          {
+            "name": "rsasaki0109/rust_robotics",
+            "url": "https://github.com/rsasaki0109/rust_robotics",
+            "description": "[ rust_robotics ] - Rust implementations of robotics algorithms inspired by PythonRobotics, covering path planning, localization, SLAM, and control, with no_std support and ROS 2 examples",
             "tags": []
           }
         ]
