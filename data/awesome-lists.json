@@ -23232,6 +23232,12 @@
             "tags": []
           },
           {
+            "name": "openviking",
+            "url": "https://github.com/volcengine/OpenViking",
+            "description": "A context database for AI agents that unifies memory, resources, and skills.",
+            "tags": []
+          },
+          {
             "name": "semantica",
             "url": "https://github.com/semantica-agi/semantica",
             "description": "A graph-native context and knowledge layer for AI agents with reasoning, provenance, and governance.",
@@ -46734,6 +46740,12 @@
             "tags": []
           },
           {
+            "name": "CC-Switch",
+            "url": "https://github.com/farion1231/cc-switch",
+            "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, and AI coding agents.",
+            "tags": []
+          },
+          {
             "name": "CodeKit",
             "url": "https://codekitapp.com/",
             "description": "Web development tool for compiling and auto-refreshing.",
@@ -49063,6 +49075,12 @@
             "name": "Runtime",
             "url": "https://github.com/runtime-org/runtime",
             "description": "AI taskmate and take control of the web & your office tools",
+            "tags": []
+          },
+          {
+            "name": "SpotAsk",
+            "url": "https://github.com/shiquda/SpotAsk",
+            "description": "Native macOS menu bar AI assistant for quick questions: ask first, then use your own AI service for an in-app answer or send the question to another AI, app, or terminal command.",
             "tags": []
           },
           {
@@ -51551,6 +51569,12 @@
             "name": "Vorssaint",
             "url": "https://vorssaint.com",
             "description": "Open-source menu bar toolkit for per-app volume, system monitoring, window control, clipboard history, keeping awake, and app cleanup.",
+            "tags": []
+          },
+          {
+            "name": "WandelBar",
+            "url": "https://github.com/alexiosus/WandelBar",
+            "description": "Customizes the menu bar background with blur, tint, shadows, textures, presets, and per-Space settings.",
             "tags": []
           },
           {
