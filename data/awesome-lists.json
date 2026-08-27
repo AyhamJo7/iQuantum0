@@ -26587,7 +26587,7 @@
           {
             "name": "agent-sdk-go",
             "url": "https://github.com/agenticenv/agent-sdk-go",
-            "description": "Go SDK for building durable AI agents on Temporal with support for tools, MCP, human approvals, and sub-agent delegation.",
+            "description": "Framework for building stateful AI agents in Go.",
             "tags": []
           },
           {
@@ -31746,6 +31746,12 @@
             "tags": []
           },
           {
+            "name": "bybit-go",
+            "url": "https://github.com/tigusigalpa/bybit-go",
+            "description": "Go client for Bybit V5 API with HMAC/RSA authentication, WebSocket streams, demo trading, and TradFi instruments.",
+            "tags": []
+          },
+          {
             "name": "cnn-fear-and-greed-parse",
             "url": "https://github.com/wildsurfer/cnn-fear-and-greed-parse",
             "description": "Client for CNN's Fear & Greed Index with the seven component indicators and about a year of daily history.",
@@ -31863,6 +31869,12 @@
             "name": "ofxgo",
             "url": "https://github.com/aclindsa/ofxgo",
             "description": "Query OFX servers and/or parse the responses (with example command-line client).",
+            "tags": []
+          },
+          {
+            "name": "okx-go",
+            "url": "https://github.com/tigusigalpa/okx-go",
+            "description": "Go client for OKX v5 API with 335 REST endpoints, 53 WebSocket channels, generics support and auto-reconnect.",
             "tags": []
           },
           {
@@ -39464,6 +39476,12 @@
             "tags": []
           },
           {
+            "name": "coinglass-go",
+            "url": "https://github.com/tigusigalpa/coinglass-go",
+            "description": "Go client for Coinglass API v4 with zero dependencies, WebSocket streams, and typed endpoints for futures, spot, options, ETF, and indicators.",
+            "tags": []
+          },
+          {
             "name": "coinpaprika-go",
             "url": "https://github.com/coinpaprika/coinpaprika-api-go-client",
             "description": "Go client library for interacting with Coinpaprika's API.",
@@ -43818,6 +43836,12 @@
             "tags": []
           },
           {
+            "name": "KeibiDrop",
+            "url": "https://github.com/KeibiSoft/KeibiDrop",
+            "description": "On-demand peer-to-peer filesystem that mounts a remote folder and hides link latency with read-ahead, end-to-end encrypted with hybrid X25519 and ML-KEM-1024.",
+            "tags": []
+          },
+          {
             "name": "Layli",
             "url": "https://layli.app",
             "description": "Draw pretty layout diagrams as code.",
@@ -47070,6 +47094,12 @@
             "tags": []
           },
           {
+            "name": "Starcat",
+            "url": "https://starcat.ink/",
+            "description": "Native, local-first GitHub Stars manager that turns saved repositories into a searchable, AI-assisted knowledge base.",
+            "tags": []
+          },
+          {
             "name": "StarUML",
             "url": "https://staruml.io",
             "description": "Powerful UML app.",
@@ -49063,6 +49093,12 @@
             "name": "GroAsk",
             "url": "https://groask.com",
             "description": "Menu bar launcher that sends selected text to AI assistants and CLI agents.",
+            "tags": []
+          },
+          {
+            "name": "Grux",
+            "url": "https://gruxai.com",
+            "description": "Menu bar assistant that reads your active window and reaches local mail, calendar, notes, and files, using your own API key or a local model.",
             "tags": []
           },
           {
@@ -51890,6 +51926,12 @@
             "name": "Memo",
             "url": "https://memo-app.net/",
             "description": "Simple and elegant app. Unlock memos even more quickly using Touch ID.",
+            "tags": []
+          },
+          {
+            "name": "Nifro",
+            "url": "https://github.com/PathGao/Nifro",
+            "description": "Turn websites into configurable desktop wallpapers, with separate views for each display.",
             "tags": []
           },
           {
