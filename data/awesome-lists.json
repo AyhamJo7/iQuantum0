@@ -27277,6 +27277,12 @@
             "tags": []
           },
           {
+            "name": "teleflow",
+            "url": "https://github.com/kslamph/teleflow",
+            "description": "Simple, type-safe Telegram bot framework with fluent flows and automatic state management.",
+            "tags": []
+          },
+          {
             "name": "telego",
             "url": "https://github.com/mymmrac/telego",
             "description": "Telegram Bot API library for Golang with full one-to-one API implementation.",
@@ -31743,6 +31749,12 @@
             "name": "bbgo",
             "url": "https://github.com/c9s/bbgo",
             "description": "A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies.",
+            "tags": []
+          },
+          {
+            "name": "bingx-go",
+            "url": "https://github.com/tigusigalpa/bingx-go",
+            "description": "Go client for BingX API v3 with 260+ methods, USDT-M/Coin-M futures, spot, TradFi, WebSocket streams, and copy trading.",
             "tags": []
           },
           {
