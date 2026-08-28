@@ -70941,6 +70941,12 @@
             "tags": []
           },
           {
+            "name": "vyrti/cleaner",
+            "url": "https://github.com/vyrti/cleaner",
+            "description": "Fastest disk space usage analyzer and cleaner for Windows, macOS, Linux, and FreeBSD.",
+            "tags": []
+          },
+          {
             "name": "watchexec",
             "url": "https://github.com/watchexec/watchexec",
             "description": "Executes commands in response to file modifications",
@@ -71569,6 +71575,12 @@
             "name": "vidmerger",
             "url": "https://github.com/TGotwig/vidmerger",
             "description": "Merge video & audio files via CLI",
+            "tags": []
+          },
+          {
+            "name": "vuiodev/vuio",
+            "url": "https://github.com/vuiodev/vuio",
+            "description": "DLNA media server with support for Linux, macOS, Windows, and Docker",
             "tags": []
           },
           {
