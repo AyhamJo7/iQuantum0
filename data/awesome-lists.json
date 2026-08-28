@@ -5628,7 +5628,7 @@
           {
             "name": "ArchiveBox",
             "url": "https://archivebox.io/",
-            "description": "Create HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources (alternative to Wayback Machine). ( Demo , Source Code ) MIT Python/Docker",
+            "description": "Create HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources (alternative to Wayback Machine). ( Source Code ) MIT Python/Docker",
             "tags": []
           },
           {
@@ -5814,12 +5814,6 @@
             "name": "Healthchecks",
             "url": "https://healthchecks.io/",
             "description": "Listen for pings and sends alerts when pings are late. ( Source Code ) BSD-3-Clause Python/Docker",
-            "tags": []
-          },
-          {
-            "name": "HomeButler",
-            "url": "https://homebutler.dev",
-            "description": "Homelab management tool for monitoring hosts, Docker services, Wake-on-LAN, inventory, and remote operations, with a web dashboard and MCP integrations. ( Source Code ) MIT Docker/Go",
             "tags": []
           },
           {
@@ -6240,7 +6234,7 @@
           {
             "name": "Databag",
             "url": "https://github.com/balzack/databag",
-            "description": "Federated, end-to-end encrypted messaging service for the web, iOS, and Android, supporting text, photos, video, and WebRTC video and audio calls. ( Demo ) Apache-2.0 Docker",
+            "description": "Federated, end-to-end encrypted messaging service for the web, iOS, and Android, supporting text, photos, video, and WebRTC video and audio calls. Apache-2.0 Docker",
             "tags": []
           },
           {
@@ -6450,12 +6444,6 @@
             "name": "docker-mailserver",
             "url": "https://docker-mailserver.github.io/docker-mailserver/edge/",
             "description": "Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. Only configuration files, no SQL database. ( Source Code ) MIT Docker",
-            "tags": []
-          },
-          {
-            "name": "Dovel",
-            "url": "https://dovel.email",
-            "description": "SMTP server that sends and receives emails according to a simple configuration file, with an optional web interface that you can use to browse your emails. ( Source Code ) LGPL-3.0 Go",
             "tags": []
           },
           {
@@ -6708,8 +6696,8 @@
           },
           {
             "name": "SnappyMail",
-            "url": "https://snappymail.eu/",
-            "description": "Simple, modern, lightweight & fast web-based email client (fork of RainLoop). ( Demo , Source Code , Clients ) AGPL-3.0 PHP",
+            "url": "https://github.com/the-djmaze/snappymail",
+            "description": "Simple, modern, lightweight & fast web-based email client (fork of RainLoop). AGPL-3.0 PHP",
             "tags": []
           },
           {
@@ -9016,7 +9004,7 @@
           },
           {
             "name": "GeneWeb",
-            "url": "https://geneweb.tuxfamily.org/wiki/GeneWeb",
+            "url": "https://github.com/geneweb/geneweb/wiki",
             "description": "Genealogy software that can be used offline or as a Web service. ( Source Code ) GPL-2.0 OCaml",
             "tags": []
           },
@@ -9838,6 +9826,12 @@
             "tags": []
           },
           {
+            "name": "Ratelog",
+            "url": "https://ratelog.org",
+            "description": "Movie tracker and rating app (alternative to Letterboxd). ( Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Reaparr",
             "url": "https://www.reaparr.rocks/",
             "description": "\u26a0 - Cross-platform Plex media downloader that seamlessly adds media from other Plex servers to your own. ( Source Code ) GPL-3.0 Docker",
@@ -9870,7 +9864,7 @@
           {
             "name": "Watcharr",
             "url": "https://github.com/sbondCo/Watcharr",
-            "description": "Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. ( Demo ) MIT Docker",
+            "description": "Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. MIT Docker",
             "tags": []
           },
           {
@@ -10018,8 +10012,8 @@
           },
           {
             "name": "musikcube",
-            "url": "https://musikcube.com/",
-            "description": "Streaming audio server with Linux/macOS/Windows/Android clients. ( Source Code ) BSD-3-Clause C++/deb",
+            "url": "https://github.com/clangen/musikcube",
+            "description": "Streaming audio server with Linux/macOS/Windows/Android clients. BSD-3-Clause C++/deb",
             "tags": []
           },
           {
@@ -10251,7 +10245,7 @@
           {
             "name": "Tube",
             "url": "https://git.mills.io/prologic/tube",
-            "description": "Youtube-like ( without censorship and features you don't need! ) video sharing app written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and RSS feed. ( Demo ) MIT Go",
+            "description": "Youtube-like ( without censorship and features you don't need! ) video sharing app written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and RSS feed. MIT Go",
             "tags": []
           },
           {
@@ -12081,6 +12075,12 @@
             "tags": []
           },
           {
+            "name": "HomeButler",
+            "url": "https://homebutler.dev",
+            "description": "Installs and manages a curated catalog of applications via Docker Compose, maps containers and exposed ports, verifies backups restore, and reports what changed since the last run with CLI, JSON, web and MCP interfaces. ( Source Code ) MIT Docker/Go",
+            "tags": []
+          },
+          {
             "name": "HomelabOS",
             "url": "https://homelabos.com",
             "description": "Offline privacy-centric data-center. Deploy over 100 services with a few commands. ( Source Code ) MIT Docker",
@@ -13059,8 +13059,8 @@
         "resources": [
           {
             "name": "Bluecherry",
-            "url": "https://www.bluecherrydvr.com/",
-            "description": "Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ( Source Code ) GPL-2.0 PHP",
+            "url": "https://github.com/bluecherrydvr/bluecherry-apps",
+            "description": "Closed-circuit television (CCTV) software application which supports IP and Analog cameras. GPL-2.0 PHP",
             "tags": []
           },
           {
@@ -13232,7 +13232,7 @@
           {
             "name": "AmuseWiki",
             "url": "https://amusewiki.org/",
-            "description": "Amusewiki is based on the Emacs Muse markup, remaining mostly compatible with the original implementation. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. ( Demo , Source Code ) GPL-1.0 Perl/Docker",
+            "description": "Amusewiki is based on the Emacs Muse markup, remaining mostly compatible with the original implementation. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. ( Source Code ) GPL-1.0 Perl/Docker",
             "tags": []
           },
           {
@@ -47397,6 +47397,12 @@
             "tags": []
           },
           {
+            "name": "Tracexy",
+            "url": "https://rockxy.io/tracexy",
+            "description": "Open-source, session-based network intelligence for capturing live traffic and investigating PCAP/PCAPNG files locally.",
+            "tags": []
+          },
+          {
             "name": "WiFi Lens",
             "url": "https://github.com/SHIINASAMA/wifi-lens",
             "description": "Native open-source Wi-Fi analyzer and network diagnostics app with real-time spectrum scanning, channel congestion visualization, and BLE device tracking.",
@@ -71375,6 +71381,12 @@
             "tags": []
           },
           {
+            "name": "rleeon/hoard",
+            "url": "https://github.com/rleeon/hoard",
+            "description": "Game save backup and sync system with auto-detection, versioned snapshots, and self-hosted storage.",
+            "tags": []
+          },
+          {
             "name": "rust-parallel",
             "url": "https://github.com/aaronriekenberg/rust-parallel",
             "description": "Fast command line app using Tokio to execute commands in parallel.  Similar interface to GNU Parallel or xargs.",
@@ -75628,6 +75640,12 @@
             "name": "stochastic-rs",
             "url": "https://github.com/rust-dd/stochastic-rs",
             "description": "[ stochastic-rs ] - High-performance data generation library for stochastic process with quant finance tools.",
+            "tags": []
+          },
+          {
+            "name": "wickra-lib/wickra",
+            "url": "https://github.com/wickra-lib/wickra",
+            "description": "[ wickra ] - Streaming-first technical analysis: 514 indicators with O(1) per-tick updates, from a Rust core with native Python, Node.js and WASM bindings plus a C ABI hub for C, C++, C#, Go, Java and R.",
             "tags": []
           }
         ]
