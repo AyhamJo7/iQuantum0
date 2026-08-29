@@ -6595,12 +6595,6 @@
             "tags": []
           },
           {
-            "name": "OpenTrashmail",
-            "url": "https://github.com/HaschekSolutions/opentrashmail",
-            "description": "Complete trashmail solution that exposes an SMTP server and has a web interface to manage received emails. Works with multiple and wildcard domains and is fully file based (no database needed). Includes RSS feeds and JSON API. Apache-2.0 Python/PHP/Docker",
-            "tags": []
-          },
-          {
             "name": "Postfix",
             "url": "http://www.postfix.org/",
             "description": "Fast, easy to administer, and secure Sendmail replacement. IPL-1.0 C/deb",
@@ -39890,6 +39884,12 @@
             "tags": []
           },
           {
+            "name": "manus-ai-go",
+            "url": "https://github.com/tigusigalpa/manus-ai-go",
+            "description": "Go client for Manus AI API v2 with task automation, file management, webhooks, and type-safe models.",
+            "tags": []
+          },
+          {
             "name": "Medium",
             "url": "https://github.com/Medium/medium-sdk-go",
             "description": "Golang SDK for Medium's OAuth2 API.",
@@ -51440,6 +51440,12 @@
             "tags": []
           },
           {
+            "name": "Mixio",
+            "url": "https://github.com/RadixIV/Mixio",
+            "description": "Menu bar app with per-app & tab volume control, 10-band EQ with native style UI.",
+            "tags": []
+          },
+          {
             "name": "Mole Widget",
             "url": "https://github.com/bsnkhua/mole-widget",
             "description": "Lightweight system monitor with live CPU, memory, disk, network, battery, and process stats in a resizable desktop widget managed from the menu bar.",
@@ -52368,6 +52374,12 @@
             "name": "Memo Widget",
             "url": "https://sindresorhus.com/memo-widget",
             "description": "Sticky notes on your desktop.",
+            "tags": []
+          },
+          {
+            "name": "Metrune",
+            "url": "https://treafree.github.io/Metrune/en/",
+            "description": "Local-first focus workspace that brings tasks, AI coding, GitHub activity, device events, badges, and reports into the MacBook notch.",
             "tags": []
           },
           {
