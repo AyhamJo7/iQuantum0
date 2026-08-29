@@ -26597,6 +26597,12 @@
             "tags": []
           },
           {
+            "name": "ai-gateway",
+            "url": "https://github.com/ferro-labs/ai-gateway",
+            "description": "OpenAI-compatible LLM gateway that routes requests across 30 providers with fallback, rate limiting, budgets, guardrails, and observability.",
+            "tags": []
+          },
+          {
             "name": "chromem-go",
             "url": "https://github.com/philippgille/chromem-go",
             "description": "Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.",
