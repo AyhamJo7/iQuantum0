@@ -31758,6 +31758,12 @@
             "tags": []
           },
           {
+            "name": "bitget-go",
+            "url": "https://github.com/tigusigalpa/bitget-go",
+            "description": "Go client for Bitget UTA API v3 with typed models, string-based prices, auto-reconnecting WebSocket, and demo trading.",
+            "tags": []
+          },
+          {
             "name": "bybit-go",
             "url": "https://github.com/tigusigalpa/bybit-go",
             "description": "Go client for Bybit V5 API with HMAC/RSA authentication, WebSocket streams, demo trading, and TradFi instruments.",
@@ -31923,6 +31929,12 @@
             "name": "techan",
             "url": "https://github.com/sdcoffey/techan",
             "description": "Technical analysis library with advanced market analysis and trading strategies.",
+            "tags": []
+          },
+          {
+            "name": "telegram-wallet-go",
+            "url": "https://github.com/tigusigalpa/telegram-wallet-go",
+            "description": "Go client for Telegram Wallet Pay API with HMAC-SHA256 webhook verification, middleware for net/http, Gin, and Echo.",
             "tags": []
           },
           {
@@ -43986,6 +43998,12 @@
             "tags": []
           },
           {
+            "name": "ScheduleGate",
+            "url": "https://github.com/gjunqueira-sys/ScheduleGate",
+            "description": "DCMA 14-point schedule assessment CLI for MS Project Excel/CSV exports.",
+            "tags": []
+          },
+          {
             "name": "Seaweed File System",
             "url": "https://github.com/chrislusf/seaweedfs",
             "description": "Fast, Simple and Scalable Distributed File System with O(1) disk seek.",
@@ -51063,6 +51081,12 @@
             "tags": []
           },
           {
+            "name": "Clipbara",
+            "url": "https://github.com/mobrava/Clipbara",
+            "description": "Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying.",
+            "tags": []
+          },
+          {
             "name": "Clipboard",
             "url": "https://getclipboard.app/",
             "description": "Easy-to-use terminal clipboard manager for all platforms.",
@@ -51132,12 +51156,6 @@
             "name": "PasteBar",
             "url": "https://github.com/PasteBar/PasteBarApp",
             "description": "Limitless, Free Clipboard Manager for Mac and Windows.",
-            "tags": []
-          },
-          {
-            "name": "PasteClip",
-            "url": "https://github.com/minsang-alt/PasteClip",
-            "description": "Free Paste-like clipboard manager with pinboards, Quick Look previews, and one-click copying.",
             "tags": []
           },
           {
@@ -51760,6 +51778,12 @@
             "name": "PureMac",
             "url": "https://github.com/momenbasel/PureMac",
             "description": "Free, open-source macOS cleaner with no telemetry. Cleans system and user caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning.",
+            "tags": []
+          },
+          {
+            "name": "Purge",
+            "url": "https://getpurge.com",
+            "description": "Open-source cache cleaner that moves files to the Trash instead of deleting them, using a fixed allowlist and no telemetry.",
             "tags": []
           }
         ]
@@ -68137,6 +68161,12 @@
             "tags": []
           },
           {
+            "name": "newdee/magpie",
+            "url": "https://github.com/newdee/magpie",
+            "description": "Local-first Spotlight-style launcher that searches your GitHub stars, local files, images, and videos semantically, fully on-device.",
+            "tags": []
+          },
+          {
             "name": "nicohman/eidolon",
             "url": "https://github.com/nicohman/eidolon",
             "description": "A steam and drm-free game registry and launcher for linux and macosx",
@@ -71678,6 +71708,12 @@
             "tags": []
           },
           {
+            "name": "IndexFlowing/IndexFlow-core",
+            "url": "https://github.com/IndexFlowing/IndexFlow-core",
+            "description": "Self-hosted SEO indexing infrastructure for managing sitemaps, URL submissions, and search engine indexing.",
+            "tags": []
+          },
+          {
             "name": "janreges/siteone-crawler",
             "url": "https://github.com/janreges/siteone-crawler",
             "description": "[ siteone-crawler ] - All-in-one\n   website crawler, auditor, offline archiver, and AI-ready markdown exporter with CI/CD quality gating",
@@ -73012,6 +73048,12 @@
             "name": "dupehound",
             "url": "https://github.com/Rafaelpta/dupehound",
             "description": "[ dupehound ] - Duplicate-code detector that fingerprints function bodies (winnowing), so copies survive renaming. Repo slop score, duplication history chart, and a CI gate that points to the original function to reuse. Supports Rust and 11 other languages.",
+            "tags": []
+          },
+          {
+            "name": "kucherenko/jscpd",
+            "url": "https://github.com/kucherenko/jscpd",
+            "description": "[ jscpd ] - Copy/paste detector for source code that finds duplicated blocks across 220+ file formats",
             "tags": []
           },
           {
