@@ -34144,9 +34144,21 @@
             "tags": []
           },
           {
+            "name": "slog-datadog",
+            "url": "https://github.com/samber/slog-datadog",
+            "description": "A slog handler for Datadog.",
+            "tags": []
+          },
+          {
             "name": "slog-formatter",
             "url": "https://github.com/samber/slog-formatter",
             "description": "Common formatters for slog and helpers to build your own.",
+            "tags": []
+          },
+          {
+            "name": "slog-loki",
+            "url": "https://github.com/samber/slog-loki",
+            "description": "A slog handler for Grafana Loki.",
             "tags": []
           },
           {
