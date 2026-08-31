@@ -7585,12 +7585,6 @@
             "tags": []
           },
           {
-            "name": "Monica",
-            "url": "https://monicahq.com/",
-            "description": "Personal relationship manager, and a new kind of CRM to organize interactions with your friends and family. ( Source Code ) AGPL-3.0 PHP/Docker",
-            "tags": []
-          },
-          {
             "name": "SuiteCRM",
             "url": "https://suitecrm.com",
             "description": "The award-winning, enterprise-class open source CRM. ( Source Code ) AGPL-3.0 PHP",
@@ -9459,7 +9453,7 @@
           },
           {
             "name": "memEx",
-            "url": "https://codeberg.org/shibao/memEx",
+            "url": "https://gitlab.com/shibaobun/memex",
             "description": "Structured personal knowledge base, inspired by zettlekasten and org-mode. AGPL-3.0 Docker",
             "tags": []
           },
@@ -31872,6 +31866,12 @@
             "tags": []
           },
           {
+            "name": "kucoin-go",
+            "url": "https://github.com/tigusigalpa/kucoin-go",
+            "description": "Go client for KuCoin UTA and Classic REST & WebSocket APIs with HMAC-SHA256 auth, string-typed prices, and typed error hierarchy.",
+            "tags": []
+          },
+          {
             "name": "ledger",
             "url": "https://github.com/formancehq/ledger",
             "description": "A programmable financial ledger that provides a foundation for money-moving applications.",
@@ -36477,6 +36477,12 @@
             "name": "winrm",
             "url": "https://github.com/masterzen/winrm",
             "description": "Go WinRM client to remotely execute commands on Windows machines.",
+            "tags": []
+          },
+          {
+            "name": "ws-reconnect",
+            "url": "https://github.com/sing198/ws-reconnect",
+            "description": "Resilient WebSocket client with automatic reconnection, exponential backoff, and heartbeat management.",
             "tags": []
           },
           {
@@ -48595,6 +48601,12 @@
             "tags": []
           },
           {
+            "name": "Snapzy",
+            "url": "https://snapzy.app/",
+            "description": "Free and open-source native macOS app for screenshots, screen recording, annotation, and video editing.",
+            "tags": []
+          },
+          {
             "name": "Snip",
             "url": "https://snip.qq.com/",
             "description": "Application for sharing captured images on QQ Mail.",
@@ -50358,6 +50370,12 @@
             "tags": []
           },
           {
+            "name": "LocalScribe",
+            "url": "https://github.com/maddylaneeee/ShengJi",
+            "description": "Open-source local transcription and subtitle editor for microphones, media files, and Mac audio.",
+            "tags": []
+          },
+          {
             "name": "OpenDictation",
             "url": "https://github.com/kdcokenny/OpenDictation",
             "description": "Open-source dictation utility with local and cloud speech-to-text.",
@@ -50385,12 +50403,6 @@
             "name": "Presspeech",
             "url": "https://github.com/rcourtman/presspeech",
             "description": "Native push-to-talk local dictation app for Apple Silicon Macs using Parakeet TDT v3 (CoreML/ANE).",
-            "tags": []
-          },
-          {
-            "name": "ShengJi",
-            "url": "https://github.com/maddylaneeee/ShengJi",
-            "description": "Open-source local transcription and subtitle editor for microphones, media files, and Mac audio.",
             "tags": []
           },
           {
@@ -51760,6 +51772,12 @@
             "name": "MacSift",
             "url": "https://lcharvol.github.io/MacSift/",
             "description": "Open-source disk cleaner that groups files by app and moves them to the Trash.",
+            "tags": []
+          },
+          {
+            "name": "Mole",
+            "url": "https://mole.fit/",
+            "description": "Native Mac maintenance utility for cleanup, app management, disk analysis, and system monitoring.",
             "tags": []
           },
           {
