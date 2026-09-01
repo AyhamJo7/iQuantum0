@@ -38924,6 +38924,12 @@
             "tags": []
           },
           {
+            "name": "wsmock",
+            "url": "https://github.com/sing198/wsmock",
+            "description": "Expressive, zero-boilerplate WebSocket mock server for testing with fault injection and assertions.",
+            "tags": []
+          },
+          {
             "name": "xgo",
             "url": "https://github.com/xhd2015/xgo",
             "description": "A general pureposed function mocking library.",
@@ -43881,6 +43887,12 @@
             "name": "Guora",
             "url": "https://github.com/meloalright/guora",
             "description": "A self-hosted Quora like web application written in Go.",
+            "tags": []
+          },
+          {
+            "name": "GURL",
+            "url": "https://github.com/matveynator/gurl",
+            "description": "When CURL says your SSL library is too old \u2014 use GURL. One file. Zero SSL dependencies.",
             "tags": []
           },
           {
