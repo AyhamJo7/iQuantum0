@@ -29088,6 +29088,12 @@
             "tags": []
           },
           {
+            "name": "skiplist",
+            "url": "https://github.com/huandu/skiplist",
+            "description": "Fast and easy-to-use skip list for Go.",
+            "tags": []
+          },
+          {
             "name": "treemap",
             "url": "https://github.com/igrmk/treemap",
             "description": "Generic key-sorted map using a red-black tree under the hood.",
@@ -34156,6 +34162,12 @@
             "tags": []
           },
           {
+            "name": "slog-logrus",
+            "url": "https://github.com/samber/slog-logrus",
+            "description": "A slog handler for Logrus.",
+            "tags": []
+          },
+          {
             "name": "slog-loki",
             "url": "https://github.com/samber/slog-loki",
             "description": "A slog handler for Grafana Loki.",
@@ -34165,6 +34177,30 @@
             "name": "slog-multi",
             "url": "https://github.com/samber/slog-multi",
             "description": "Chain of slog.Handler (pipeline, fanout...).",
+            "tags": []
+          },
+          {
+            "name": "slog-sentry",
+            "url": "https://github.com/samber/slog-sentry",
+            "description": "A slog handler for Sentry.",
+            "tags": []
+          },
+          {
+            "name": "slog-slack",
+            "url": "https://github.com/samber/slog-slack",
+            "description": "A slog handler for Slack.",
+            "tags": []
+          },
+          {
+            "name": "slog-zap",
+            "url": "https://github.com/samber/slog-zap",
+            "description": "A slog handler for Zap.",
+            "tags": []
+          },
+          {
+            "name": "slog-zerolog",
+            "url": "https://github.com/samber/slog-zerolog",
+            "description": "A slog handler for Zerolog.",
             "tags": []
           },
           {
@@ -43728,6 +43764,12 @@
             "tags": []
           },
           {
+            "name": "dispositio",
+            "url": "https://github.com/tsraveling/dispositio",
+            "description": "Terminal tool for planning large projects in simple markdown.",
+            "tags": []
+          },
+          {
             "name": "Documize",
             "url": "https://github.com/documize/community",
             "description": "Modern wiki software that integrates data from SaaS tools.",
@@ -45887,12 +45929,6 @@
             "name": "Imark",
             "url": "https://github.com/migsilva89/imark",
             "description": "Open-source Markdown reader that stores your comments inside the document itself as HTML comments.",
-            "tags": []
-          },
-          {
-            "name": "LightPaper",
-            "url": "https://getlightpaper.com/",
-            "description": "Simple, beautiful, yet powerful text editor for your Mac.",
             "tags": []
           },
           {
@@ -48923,6 +48959,12 @@
             "tags": []
           },
           {
+            "name": "Pixpresso",
+            "url": "https://getapps.cafe/app/pixpresso",
+            "description": "Image viewer and editor for cropping, resizing, annotating, and converting between PNG, JPG, WebP, and HEIC.",
+            "tags": []
+          },
+          {
             "name": "Preset Brewery",
             "url": "https://www.presetbrewery.com",
             "description": "Tool to convert Lightroom presets to Adobe Camera Raw.",
@@ -51320,6 +51362,12 @@
             "tags": []
           },
           {
+            "name": "Blink",
+            "url": "https://github.com/megootronic/Blink",
+            "description": "A little robot that watches your running dev servers and iOS simulators, and restarts them without going back to the terminal.",
+            "tags": []
+          },
+          {
             "name": "Boring Notch",
             "url": "https://theboring.name/",
             "description": "Turn your MacBook notch into a music and file control center.",
@@ -53438,6 +53486,12 @@
       {
         "name": "Gaming Software",
         "resources": [
+          {
+            "name": "ChessCafe",
+            "url": "https://getapps.cafe/app/chesscafe",
+            "description": "Animated 3D chess with three AI levels, multiple armies, and hot-seat multiplayer.",
+            "tags": []
+          },
           {
             "name": "OpenEmu",
             "url": "https://openemu.org/",
@@ -68998,6 +69052,12 @@
             "tags": []
           },
           {
+            "name": "PRQL",
+            "url": "https://github.com/PRQL/prql",
+            "description": "[ prqlc ] - A modern language for transforming data, compiling to readable SQL.",
+            "tags": []
+          },
+          {
             "name": "PumpkinDB",
             "url": "https://github.com/PumpkinDB/PumpkinDB",
             "description": "an event sourcing database engine",
@@ -70075,6 +70135,12 @@
             "tags": []
           },
           {
+            "name": "futuregene/future-os",
+            "url": "https://github.com/futuregene/future-os",
+            "description": "One AI agent everywhere: a single Rust gRPC backend drives a terminal UI, desktop app, mobile apps, CLI, and IM bots with the same sessions, memory, and skills. Trust-first approval-gated tools, 3,800+ models, and a loop control plane for 24h+ runs.",
+            "tags": []
+          },
+          {
             "name": "graves/awful_aj",
             "url": "https://github.com/graves/awful_aj",
             "description": "[ awful_aj ] - A CLI for working with OpenAI-compatible APIs, YAML templates for prompt engineering and a built in Vector Database for persistent memories.",
@@ -70525,6 +70591,12 @@
             "name": "tgt",
             "url": "https://github.com/FedericoBruzzone/tgt",
             "description": "A crossplatform TUI for Telegram",
+            "tags": []
+          },
+          {
+            "name": "imtaqin/waxum",
+            "url": "https://github.com/imtaqin/waxum",
+            "description": "Self-hosted WhatsApp gateway exposing a REST API, webhooks, multi-session support and voice calls from a single static binary.",
             "tags": []
           }
         ]
@@ -70977,6 +71049,12 @@
             "tags": []
           },
           {
+            "name": "Skardyy/mcat",
+            "url": "https://github.com/Skardyy/mcat",
+            "description": "[ mcat ] - View images, video, Markdown, and other documents in the terminal.",
+            "tags": []
+          },
+          {
             "name": "skim",
             "url": "https://github.com/skim-rs/skim",
             "description": "A fuzzy finder",
@@ -71175,6 +71253,12 @@
             "name": "ashvardanian/stringzilla",
             "url": "https://github.com/ashvardanian/StringZilla",
             "description": "SIMD-accelerated string search, sort, edit distances, alignments, and generators for x86 AVX2 & AVX-512, and Arm NEON",
+            "tags": []
+          },
+          {
+            "name": "bensadeh/tailspin",
+            "url": "https://github.com/bensadeh/tailspin",
+            "description": "[ tailspin ] - A log file highlighter that highlights numbers, dates, IP addresses, UUIDs, and log levels.",
             "tags": []
           },
           {
@@ -71957,6 +72041,12 @@
             "tags": []
           },
           {
+            "name": "astral-sh/uv",
+            "url": "https://github.com/astral-sh/uv",
+            "description": "[ uv ] - An extremely fast Python package and project manager, written in Rust.",
+            "tags": []
+          },
+          {
             "name": "ATAC",
             "url": "https://github.com/Julien-cpsn/ATAC",
             "description": "A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.",
@@ -72161,6 +72251,12 @@
             "tags": []
           },
           {
+            "name": "prefix-dev/pixi",
+            "url": "https://github.com/prefix-dev/pixi",
+            "description": "[ pixi ] - Fast package management and workflow tool for multi-language projects, built on top of the conda ecosystem.",
+            "tags": []
+          },
+          {
             "name": "ptags",
             "url": "https://github.com/dalance/ptags",
             "description": "A parallel universal-ctags wrapper for git repository",
@@ -72349,6 +72445,12 @@
             "name": "cargo-limit",
             "url": "https://crates.io/crates/cargo-limit",
             "description": "Cargo with less noise: warnings are skipped until errors are fixed, Neovim integration, etc.",
+            "tags": []
+          },
+          {
+            "name": "cargo-machete",
+            "url": "https://github.com/bnjbvr/cargo-machete",
+            "description": "[ cargo-machete ] - Simple tool for detecting unused dependencies in Cargo.toml.",
             "tags": []
           },
           {
@@ -76815,6 +76917,12 @@
             "name": "tree-sitter/tree-sitter",
             "url": "https://github.com/tree-sitter/tree-sitter",
             "description": "A parser generator tool and an incremental parsing library geared towards programming tools",
+            "tags": []
+          },
+          {
+            "name": "winnow-rs/winnow",
+            "url": "https://github.com/winnow-rs/winnow",
+            "description": "[ winnow ] - A byte-oriented, zero-copy, parser combinators library.",
             "tags": []
           },
           {
