@@ -8664,12 +8664,6 @@
             "tags": []
           },
           {
-            "name": "filebrowser",
-            "url": "https://filebrowser.org/",
-            "description": "Web File Browser with a Material Design web interface. ( Source Code ) Apache-2.0 Go",
-            "tags": []
-          },
-          {
             "name": "FileGator",
             "url": "https://filegator.io/",
             "description": "FileGator is a powerful multi-user file manager with a single page front-end. ( Demo , Source Code ) MIT PHP/Docker",
@@ -9733,6 +9727,12 @@
             "name": "Downtify",
             "url": "https://downtify.henriquesebastiao.com",
             "description": "\u26a0 - Download Spotify music with album art and metadata. ( Source Code ) GPL-3.0 Docker",
+            "tags": []
+          },
+          {
+            "name": "Elengrab",
+            "url": "https://github.com/neosy/elengrab",
+            "description": "Fast cross-platform video and audio downloader and media viewer with flexible format and quality options. Supports 1000+ websites including YouTube, Instagram, TikTok, Twitch and more. ( Demo ) AGPL-3.0 Go/Docker",
             "tags": []
           },
           {
@@ -13263,12 +13263,6 @@
             "name": "Gitit",
             "url": "https://github.com/jgm/gitit",
             "description": "Wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. GPL-2.0 Haskell",
-            "tags": []
-          },
-          {
-            "name": "Gollum",
-            "url": "https://github.com/gollum/gollum",
-            "description": "Simple, Git-powered wiki with a sweet API and local frontend. MIT Ruby",
             "tags": []
           },
           {
@@ -17453,6 +17447,12 @@
             "name": "Urho3D",
             "url": "https://urho3d.github.io/",
             "description": "A free lightweight, cross-platform 2D and 3D game engine implemented in C++. Greatly inspired by OGRE and Horde3D. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "Zodiac Engine",
+            "url": "https://github.com/JeanPhilippeKernel/RendererEngine",
+            "description": "An open-source cross-platform 3D rendering engine and editor (ZEngine) written in C++20 with Vulkan. [MIT]",
             "tags": []
           },
           {
@@ -23271,6 +23271,12 @@
             "name": "unsloth",
             "url": "https://github.com/unslothai/unsloth",
             "description": "A library for faster LLM fine-tuning and training with reduced memory usage.",
+            "tags": []
+          },
+          {
+            "name": "axolotl",
+            "url": "https://github.com/axolotl-ai-cloud/axolotl",
+            "description": "A framework for fine-tuning and post-training large language models.",
             "tags": []
           },
           {
@@ -46256,7 +46262,7 @@
           },
           {
             "name": "VNote",
-            "url": "https://app.vnote.fun/",
+            "url": "https://docs.vnote.fun",
             "description": "Open-source Markdown note-taking app with a polished editor.",
             "tags": []
           },
@@ -46300,6 +46306,12 @@
       {
         "name": "Writing",
         "resources": [
+          {
+            "name": "AI Novel Writer",
+            "url": "https://github.com/EthanYoQ/AI-Novel-Writer",
+            "description": "Open-source AI writing workspace for organizing characters, worldbuilding, outlines, chapters, review, and revision in one novel project.",
+            "tags": []
+          },
           {
             "name": "Retrotype",
             "url": "https://retrotype.ink/",
@@ -46884,12 +46896,6 @@
             "tags": []
           },
           {
-            "name": "CoilPad",
-            "url": "https://coilpad.com",
-            "description": "Native macOS Python scratchpad designed for instant prototyping and interactive learning.",
-            "tags": []
-          },
-          {
             "name": "Conduktor",
             "url": "https://www.conduktor.io",
             "description": "Kafka desktop client.",
@@ -47029,7 +47035,7 @@
           },
           {
             "name": "ILLA Cloud",
-            "url": "https://www.illacloud.com/",
+            "url": "https://github.com/illacloud/illa-builder",
             "description": "Low-code internal tool builder.",
             "tags": []
           },
@@ -47934,7 +47940,7 @@
           },
           {
             "name": "FastoRedis",
-            "url": "https://fastoredis.com/",
+            "url": "https://github.com/fastogt/fastoredis",
             "description": "Cross-platform professional GUI management tool for Redis.",
             "tags": []
           },
@@ -48048,7 +48054,7 @@
           },
           {
             "name": "Sequel Pro",
-            "url": "https://www.sequelpro.com/",
+            "url": "https://github.com/sequelpro/sequelpro",
             "description": "MySQL database management for Mac OS X.",
             "tags": []
           },
@@ -48680,7 +48686,7 @@
           },
           {
             "name": "Teampaper Snap",
-            "url": "https://teampaper.me/snap/",
+            "url": "https://teampaper.me/",
             "description": "Let your screenshots speak up.",
             "tags": []
           },
@@ -48854,12 +48860,6 @@
             "name": "Aspect",
             "url": "https://aspect.bildhuus.com",
             "description": "Photo organization app with peer-to-peer sync.",
-            "tags": []
-          },
-          {
-            "name": "Assetizr",
-            "url": "https://assetizr.com",
-            "description": "Resizing images and optimising them for web and mobile applications.",
             "tags": []
           },
           {
@@ -49067,7 +49067,7 @@
           },
           {
             "name": "AppleAi",
-            "url": "https://www.theappleai.tech/",
+            "url": "https://www.macbunny.co/appleai",
             "description": "Access multiple AI assistants from your menu bar with one shortcut.",
             "tags": []
           },
@@ -50064,7 +50064,7 @@
           },
           {
             "name": "Stringed 2",
-            "url": "https://stringed.buenosapps.com/",
+            "url": "https://apps.apple.com/us/app/stringed-2/id698710517",
             "description": "Music practice software designed to help users learn how to play their favorite songs.",
             "tags": []
           },
@@ -50982,7 +50982,7 @@
           },
           {
             "name": "ClashBar",
-            "url": "https://clashbar.vercel.app/",
+            "url": "https://clashbar.sitoi.workers.dev",
             "description": "mihomo-powered menu bar proxy client.",
             "tags": []
           },
@@ -51307,6 +51307,12 @@
             "url": "https://github.com/momenbasel/pesty",
             "description": "Free and open-source clipboard manager inspired by Paste, with a slide-up color-coded strip, pinboards, and search.",
             "tags": []
+          },
+          {
+            "name": "Whisk",
+            "url": "https://github.com/nathan-poncet/whisk",
+            "description": "Keyboard-first clipboard manager with a Liquid Glass panel, filters by source app and content type, and rich previews.",
+            "tags": []
           }
         ]
       },
@@ -51419,12 +51425,6 @@
             "name": "DynamicHorizon",
             "url": "https://dynamichorizon.app",
             "description": "Adds media controls, notifications, and system indicators to the notch area.",
-            "tags": []
-          },
-          {
-            "name": "Eye Timer",
-            "url": "https://adelmaer.com/eyetimer",
-            "description": "Take Breaks to prevent Eye Strain timer for Mac.",
             "tags": []
           },
           {
@@ -51707,6 +51707,12 @@
             "name": "Today",
             "url": "https://sindresorhus.com/today",
             "description": "View today\u2019s schedule and calendar events from the menu bar.",
+            "tags": []
+          },
+          {
+            "name": "Tomatino",
+            "url": "https://tomatino.app",
+            "description": "Menu bar Pomodoro timer that switches your Focus mode and your music with each session.",
             "tags": []
           },
           {
@@ -52180,12 +52186,6 @@
             "tags": []
           },
           {
-            "name": "Day-O 2",
-            "url": "https://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock",
-            "description": "Menu bar clock replacement with built-in calendar.",
-            "tags": []
-          },
-          {
             "name": "Fantastical",
             "url": "https://flexibits.com/fantastical",
             "description": "The calendar app you won't be able to live without.",
@@ -52211,7 +52211,7 @@
           },
           {
             "name": "Microsoft To-Do",
-            "url": "https://todo.microsoft.com/",
+            "url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-to-do-list-app",
             "description": "Microsoft's successor to Wunderlist.",
             "tags": []
           },
@@ -52259,7 +52259,7 @@
           },
           {
             "name": "Todoist",
-            "url": "https://todoist.com/mac",
+            "url": "https://www.todoist.com/downloads",
             "description": "Cross-platform todo list app.",
             "tags": []
           },
@@ -52431,12 +52431,6 @@
             "tags": []
           },
           {
-            "name": "Journey Navigation",
-            "url": "https://gowithjourney.com",
-            "description": "Route planner with weather, traffic, and turn-by-turn guidance.",
-            "tags": []
-          },
-          {
             "name": "Karabiner",
             "url": "https://pqrs.org/osx/karabiner/",
             "description": "Powerful and stable keyboard customizer for OS X.",
@@ -52486,7 +52480,7 @@
           },
           {
             "name": "Mac Mouse Fix",
-            "url": "https://www.mousefix.org/",
+            "url": "https://macmousefix.com",
             "description": "A simple way to make your mouse better.",
             "tags": []
           },
@@ -52702,7 +52696,7 @@
           },
           {
             "name": "Ukelele",
-            "url": "https://scripts.sil.org/ukelele",
+            "url": "https://software.sil.org/ukelele/",
             "description": "Unicode Keyboard Layout Editor.",
             "tags": []
           },
@@ -53095,7 +53089,7 @@
           },
           {
             "name": "Path Finder",
-            "url": "https://www.cocoatech.com/pathfinder/",
+            "url": "https://www.cocoatech.com/",
             "description": "File management app.",
             "tags": []
           },
@@ -53214,7 +53208,7 @@
           },
           {
             "name": "Snap",
-            "url": "https://indragie.com/snap",
+            "url": "https://apps.apple.com/us/app/snap/id418073146",
             "description": "Launch an app in a snap. Ridiculously easy shortcut management.",
             "tags": []
           },
@@ -53380,14 +53374,8 @@
             "tags": []
           },
           {
-            "name": "Monity",
-            "url": "https://www.monityapp.com/",
-            "description": "System monitoring widget for OS X.",
-            "tags": []
-          },
-          {
             "name": "Mounty",
-            "url": "https://enjoygineering.com/mounty/",
+            "url": "https://mounty.app",
             "description": "Tiny tool to re-mount write-protected NTFS volumes under Mac OS X 10.9+ in read-write mode.",
             "tags": []
           },
@@ -69064,6 +69052,12 @@
             "tags": []
           },
           {
+            "name": "Picodata",
+            "url": "https://github.com/picodata/picodata",
+            "description": "[ picodata-plugin ] - Distributed PostgreSQL-compatible database with a plugin model in Rust; Redis and Cassandra wire compatibility via commercial plugins.",
+            "tags": []
+          },
+          {
             "name": "PRQL",
             "url": "https://github.com/PRQL/prql",
             "description": "[ prqlc ] - A modern language for transforming data, compiling to readable SQL.",
@@ -69108,7 +69102,7 @@
           {
             "name": "sabiql",
             "url": "https://github.com/riii111/sabiql",
-            "description": "[ sabiql ] - A fast, driver-less TUI to browse, query, and edit PostgreSQL databases.",
+            "description": "[ sabiql ] - Fast, driverless, Vim-first database TUI with safe editing and ER diagrams.",
             "tags": []
           },
           {
@@ -69851,6 +69845,12 @@
       {
         "name": "MLOps",
         "resources": [
+          {
+            "name": "api7/aisix",
+            "url": "https://github.com/api7/aisix",
+            "description": "Open-source AI gateway for LLMs and AI agents: one OpenAI-compatible API plus a native Anthropic Messages API in front of OpenAI, Anthropic, Gemini, Bedrock, Azure OpenAI, and other OpenAI-compatible endpoints, with MCP and A2A gateways, semantic routing, guardrails, and semantic caching.",
+            "tags": []
+          },
           {
             "name": "cocoindex",
             "url": "https://github.com/cocoindex-io/cocoindex",
