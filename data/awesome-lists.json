@@ -11080,7 +11080,7 @@
           },
           {
             "name": "Plainpad",
-            "url": "https://alextselegidis.com/get/plainpad/",
+            "url": "https://plainpad.org",
             "description": "Modern note taking application for the cloud, utilizing the best features of progressive web apps technology. ( Demo , Source Code ) GPL-3.0 PHP",
             "tags": []
           },
@@ -11994,7 +11994,7 @@
           {
             "name": "Meme Search",
             "url": "https://github.com/neonwatty/meme-search",
-            "description": "AI-powered meme search engine. Automatically extracts descriptions from images using vision-language models, then indexes with vector embeddings for semantic and keyword search. Apache-2.0 Docker",
+            "description": "AI-powered meme search engine. Automatically extracts descriptions from images using vision-language models, then indexes with vector embeddings for semantic and keyword search. ( Source Code ) Apache-2.0 Docker",
             "tags": []
           },
           {
@@ -29803,6 +29803,12 @@
             "tags": []
           },
           {
+            "name": "clickhouse-sql-parser",
+            "url": "https://github.com/AfterShip/clickhouse-sql-parser",
+            "description": "Parser for ClickHouse-dialect SQL that produces a typed AST, with traversal helpers, round-trip formatting, and a CLI.",
+            "tags": []
+          },
+          {
             "name": "database-gateway",
             "url": "https://github.com/kazhuravlev/database-gateway",
             "description": "Running SQL in production with ACLs, logs, and shared links.",
@@ -31839,6 +31845,12 @@
             "name": "fpmoney",
             "url": "https://github.com/nikolaydubina/fpmoney",
             "description": "Fast and simple ISO4217 fixed-point decimal money.",
+            "tags": []
+          },
+          {
+            "name": "glassnode-go",
+            "url": "https://github.com/tigusigalpa/glassnode-go",
+            "description": "Go client for Glassnode Basic API with 25 metric categories, typed structs, bulk endpoints, Point-in-Time data, and zero dependencies.",
             "tags": []
           },
           {
@@ -36819,6 +36831,12 @@
             "tags": []
           },
           {
+            "name": "GoooQo",
+            "url": "https://github.com/doytowin/goooqo",
+            "description": "A database access framework based on declarative query model.",
+            "tags": []
+          },
+          {
             "name": "GORM",
             "url": "https://github.com/go-gorm/gorm",
             "description": "The fantastic ORM library for Golang, aims to be developer friendly.",
@@ -39542,6 +39560,12 @@
             "tags": []
           },
           {
+            "name": "birdeye-go",
+            "url": "https://github.com/tigusigalpa/birdeye-go",
+            "description": "Go client for Birdeye DeFi API with typed spot prices, OHLCV candles, historical data, and raw request escape hatch.",
+            "tags": []
+          },
+          {
             "name": "brewerydb",
             "url": "https://github.com/naegelejd/brewerydb",
             "description": "Go library for accessing the BreweryDB API.",
@@ -39995,6 +40019,12 @@
             "name": "mixpanel",
             "url": "https://github.com/dukex/mixpanel",
             "description": "Mixpanel is a library for tracking events and sending Mixpanel profile updates to Mixpanel from your go applications.",
+            "tags": []
+          },
+          {
+            "name": "nansen-go",
+            "url": "https://github.com/tigusigalpa/nansen-go",
+            "description": "Go client for Nansen AI API with Smart Money analytics, token screener, profiler, and zero dependencies.",
             "tags": []
           },
           {
@@ -51401,12 +51431,6 @@
             "name": "DayBar",
             "url": "https://wangchujiang.com/daybar/",
             "description": "An application that can display the local date and reminder events in the menu bar.",
-            "tags": []
-          },
-          {
-            "name": "Droppy",
-            "url": "https://iordv.github.io/Droppy/",
-            "description": "Turns your screen's notch (or Dynamic Island) into a multifunctional tool.",
             "tags": []
           },
           {
@@ -70291,6 +70315,12 @@
             "tags": []
           },
           {
+            "name": "Tuxedo",
+            "url": "https://github.com/webstonehq/tuxedo",
+            "description": "A fast, keyboard-driven terminal UI for todo.txt.",
+            "tags": []
+          },
+          {
             "name": "tw93/Pake",
             "url": "https://github.com/tw93/Pake",
             "description": "Turn any webpage into a desktop app with one command using Rust and Tauri. Lightweight, fast, and supports macOS, Windows, and Linux.",
@@ -72146,6 +72176,12 @@
             "name": "Feel-ix-343/markdown-oxide",
             "url": "https://github.com/Feel-ix-343/markdown-oxide",
             "description": "A PKM Markdown Language Server supporting Obsidian-style wikilinks, backlinks, and daily notes for Neovim, VSCode, Zed, Helix, and Kakoune",
+            "tags": []
+          },
+          {
+            "name": "FerrLabs/FerrFlow",
+            "url": "https://github.com/FerrLabs/FerrFlow",
+            "description": "[ ferrflow ] - Semantic versioning, changelog and tagged releases driven by Conventional Commits, with monorepo support and 16 version-file formats",
             "tags": []
           },
           {
@@ -74467,6 +74503,12 @@
             "name": "stainless-steel/lapack",
             "url": "https://github.com/blas-lapack-rs/lapack",
             "description": "LAPACK bindings",
+            "tags": []
+          },
+          {
+            "name": "ml-rust/numr",
+            "url": "https://github.com/ml-rust/numr",
+            "description": "[ numr ] - Numerical computing library for Rust inspired by NumPy, with tensors, linear algebra, FFT, statistics, automatic differentiation, and GPU acceleration.",
             "tags": []
           },
           {
