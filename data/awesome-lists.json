@@ -2247,7 +2247,7 @@
           {
             "name": "LibreDB Studio",
             "url": "https://libredb.org",
-            "description": "Browser-based SQL IDE for PostgreSQL, MySQL, Oracle, SQL Server, SQLite, MongoDB and Redis, with an optional AI assistant that writes SQL from natural language (alternative to DataGrip, DBeaver). ( Source Code ) MIT Docker/K8S",
+            "description": "Browser-based SQL IDE for PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis, ClickHouse, DuckDB and more, with SSO, audit trail, ER diagrams and optional AI assistance on your own model key (alternative to DataGrip, DBeaver, CloudBeaver). ( Source Code ) MIT Docker/K8S",
             "tags": []
           },
           {
@@ -24388,6 +24388,12 @@
             "tags": []
           },
           {
+            "name": "Jorji49/streamtop",
+            "url": "https://github.com/Jorji49/streamtop",
+            "description": "[ streamtop ] - Terminal HLS, DASH, and IPTV stream monitor with wire probes, TR 101 290, and SCTE-35 metrics.",
+            "tags": []
+          },
+          {
             "name": "Michael-A-Kuykendall/muxide",
             "url": "https://github.com/Michael-A-Kuykendall/muxide",
             "description": "[ muxide ] - Pure-Rust MP4 muxer with no external dependencies that writes standards-compliant MP4 from encoded frames.",
@@ -28968,6 +28974,12 @@
             "name": "slint-ui/slint",
             "url": "https://github.com/slint-ui/slint",
             "description": "slint - Slint is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications.",
+            "tags": []
+          },
+          {
+            "name": "smithay",
+            "url": "https://github.com/Smithay/smithay",
+            "description": "[ smithay ] is a safe and well-documented library directed to provide building blocks to create Wayland coptositors",
             "tags": []
           },
           {
@@ -64654,6 +64666,12 @@
             "tags": []
           },
           {
+            "name": "go-mssqldb",
+            "url": "https://github.com/microsoft/go-mssqldb",
+            "description": "Microsoft's official Go driver for SQL Server, Azure SQL, Azure Synapse, SQL database in Fabric, and Fabric Data Warehouse. Supports Azure AD, Always Encrypted, bulk operations.",
+            "tags": []
+          },
+          {
             "name": "go-oci8",
             "url": "https://github.com/mattn/go-oci8",
             "description": "Oracle driver for go that uses database/sql.",
@@ -78651,6 +78669,12 @@
             "name": "vFlow",
             "url": "https://github.com/VerizonDigital/vflow",
             "description": "High-performance, scalable and reliable IPFIX, sFlow and Netflow collector.",
+            "tags": []
+          },
+          {
+            "name": "untis-go",
+            "url": "https://github.com/benzjeremy/untis-go",
+            "description": "Fast, native WebUntis desktop client for students and teachers. Sidebar navigation, timetables, homework, absences & messages. AES-256-GCM encrypted credentials, SQLite cache-first, random port security.",
             "tags": []
           },
           {
