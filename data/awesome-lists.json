@@ -190,12 +190,6 @@
             "url": "https://umami.is/",
             "description": "Simple, fast, privacy-focused alternative to Google Analytics. ( Demo , Source Code ) MIT Nodejs/Docker",
             "tags": []
-          },
-          {
-            "name": "Vince",
-            "url": "https://www.vinceanalytics.com/",
-            "description": "Web analytics and dashboard (alternative to Google Analytics). ( Source Code ) AGPL-3.0 Go/Docker/K8S/deb",
-            "tags": []
           }
         ]
       },
@@ -355,12 +349,6 @@
             "name": "Dittofeed",
             "url": "https://www.dittofeed.com",
             "description": "Omni-channel customer engagement and messaging automation platform (alternative to Braze, Customer.io, Iterable). ( Demo , Source Code ) MIT Docker",
-            "tags": []
-          },
-          {
-            "name": "feedmixer",
-            "url": "https://github.com/cristoper/feedmixer",
-            "description": "Micro web service which takes a list of feed URLs and returns a new feed consisting of the most recent n entries from each given feed (returns Atom, RSS, or JSON). ( Demo ) WTFPL Python",
             "tags": []
           },
           {
@@ -4313,6 +4301,12 @@
             "tags": []
           },
           {
+            "name": "Houndarr",
+            "url": "https://av1155.github.io/houndarr/",
+            "description": "Scheduled backlog searches for Radarr, Sonarr, Lidarr, Readarr and Whisparr. Works through missing and cutoff-unmet items in small rate-limited batches with per-item cooldowns and hourly caps, to avoid overloading indexers. ( Source Code ) AGPL-3.0 Python/Docker",
+            "tags": []
+          },
+          {
             "name": "Lidarr",
             "url": "https://lidarr.audio/",
             "description": "Music collection manager for Usenet and BitTorrent users. ( Source Code ) GPL-3.0 C#/Docker",
@@ -6303,12 +6297,6 @@
             "tags": []
           },
           {
-            "name": "iodine",
-            "url": "https://code.kryo.se/iodine/",
-            "description": "IPv4 over DNS tunnel solution, enabling you to start up a socks5 proxy listener. ( Source Code ) ISC C/deb",
-            "tags": []
-          },
-          {
             "name": "Outline Server",
             "url": "https://getoutline.org/",
             "description": "A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. ( Source Code ) Apache-2.0 Docker/Nodejs",
@@ -7852,12 +7840,6 @@
             "name": "Mediawiki",
             "url": "https://www.mediawiki.org/wiki/MediaWiki",
             "description": "Wiki software package that powers Wikipedia and all other Wikimedia projects, serving hundreds of millions of users each month. ( Demo , Source Code ) GPL-2.0 PHP",
-            "tags": []
-          },
-          {
-            "name": "Mycorrhiza Wiki",
-            "url": "https://mycorrhiza.wiki/",
-            "description": "Filesystem and git-based wiki engine written in Go using Mycomarkup as its primary markup language. ( Source Code ) AGPL-3.0 Go",
             "tags": []
           },
           {
@@ -19411,6 +19393,12 @@
             "tags": []
           },
           {
+            "name": "OpenClip",
+            "url": "https://getopenclip.app",
+            "description": "Lightweight floating action bar for macOS that turns selected text into instant actions.",
+            "tags": []
+          },
+          {
             "name": "OpenIn",
             "url": "https://loshadki.app/openin4/",
             "description": "Take control of installed apps on your Mac",
@@ -21784,6 +21772,12 @@
             "tags": []
           },
           {
+            "name": "teaql/teaql-rs",
+            "url": "https://github.com/teaql/teaql-rs",
+            "description": "[ teaql-core ] - A model-driven runtime with typed queries, governed mutations, and SQL providers",
+            "tags": []
+          },
+          {
             "name": "TerminusDB",
             "url": "https://github.com/terminusdb/terminusdb-store",
             "description": "open source graph database and document store",
@@ -24140,6 +24134,12 @@
             "name": "IvanWng97/pixtuoid",
             "url": "https://github.com/IvanWng97/pixtuoid",
             "description": "[ pixtuoid ] - Terminal pixel-art office that visualizes Claude Code sessions as animated coworkers in real time.",
+            "tags": []
+          },
+          {
+            "name": "lamco-admin/lamco-rdp-server",
+            "url": "https://github.com/lamco-admin/lamco-rdp-server",
+            "description": "Wayland-native RDP server built on IronRDP, providing remote desktop access across Wayland Linux desktops (GNOME, KDE, COSMIC, wlroots compositors, and more) without X11.",
             "tags": []
           },
           {
@@ -62003,6 +62003,12 @@
             "tags": []
           },
           {
+            "name": "lazyteams",
+            "url": "https://github.com/agmonetti/lazyteams",
+            "description": "Keyboard-driven terminal user interface for Microsoft Teams.",
+            "tags": []
+          },
+          {
             "name": "lipgloss",
             "url": "https://github.com/charmbracelet/lipgloss",
             "description": "Declaratively define styles for color, format and layout in the terminal.",
@@ -66458,12 +66464,6 @@
             "name": "bind",
             "url": "https://github.com/robfig/bind",
             "description": "Bind form data to any Go values.",
-            "tags": []
-          },
-          {
-            "name": "checker",
-            "url": "https://github.com/cinar/checker",
-            "description": "Checker helps validating user input through rules defined in struct tags or directly through functions.",
             "tags": []
           },
           {
@@ -72468,6 +72468,12 @@
             "tags": []
           },
           {
+            "name": "Casdoor",
+            "url": "https://github.com/casdoor/casdoor",
+            "description": "Identity and access management (IAM) and single sign-on (SSO) server with a web UI, supporting OAuth 2.0, OIDC, SAML, CAS and LDAP.",
+            "tags": []
+          },
+          {
             "name": "consul",
             "url": "https://www.consul.io/",
             "description": "Consul is a tool for service discovery, monitoring and configuration.",
@@ -75929,6 +75935,12 @@
             "tags": []
           },
           {
+            "name": "checker",
+            "url": "https://github.com/cinar/checker",
+            "description": "Zero-dependency input validation and in-place normalization with struct tags, 23 locales, and JSON Schema generation.",
+            "tags": []
+          },
+          {
             "name": "go-validator",
             "url": "https://github.com/tiendc/go-validator",
             "description": "Validation library using Generics.",
@@ -77671,6 +77683,12 @@
             "tags": []
           },
           {
+            "name": "docklite",
+            "url": "https://github.com/benzjeremy/docklite",
+            "description": "Lightweight Portainer alternative for Docker container management with real-time SSE metrics.",
+            "tags": []
+          },
+          {
             "name": "dogo",
             "url": "https://github.com/liudng/dogo",
             "description": "Monitoring changes in the source file and automatically compile and run (restart).",
@@ -77992,6 +78010,12 @@
             "name": "Mora",
             "url": "https://github.com/emicklei/mora",
             "description": "REST server for accessing MongoDB documents and meta data.",
+            "tags": []
+          },
+          {
+            "name": "mq-studio",
+            "url": "https://github.com/amigoer/mq-studio",
+            "description": "Cross-platform desktop client for managing and monitoring RocketMQ, RabbitMQ, Kafka, Pulsar, Redis Stream, MQTT, NATS, and ActiveMQ clusters.",
             "tags": []
           },
           {
@@ -78552,6 +78576,12 @@
             "tags": []
           },
           {
+            "name": "Plakar",
+            "url": "https://github.com/PlakarKorp/plakar",
+            "description": "An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.",
+            "tags": []
+          },
+          {
             "name": "Plik",
             "url": "https://github.com/root-gg/plik",
             "description": "Plik is a temporary file upload system (Wetransfer like) in Go.",
@@ -78609,6 +78639,12 @@
             "name": "sonic",
             "url": "https://github.com/go-sonic/sonic",
             "description": "Sonic is a Go Blogging Platform. Simple and Powerful.",
+            "tags": []
+          },
+          {
+            "name": "spotify-screensaver",
+            "url": "https://github.com/benzjeremy/spotify-screensaver",
+            "description": "Desktop screensaver for Spotify with digital OLED clock, canvas audio visualizer, and MPRIS controls.",
             "tags": []
           },
           {
@@ -87769,7 +87805,7 @@
           },
           {
             "name": "KArchive",
-            "url": "https://api.kde.org/frameworks/karchive/html/index.html",
+            "url": "https://api.kde.org/karchive-index.html",
             "description": "A library for creating, reading, writing and manipulating file archives like zip and tar. It also provides transparent compression and decompression of data, using formats like gzip, via a subclass of QIODevice. [LGPL]",
             "tags": []
           },
@@ -87811,7 +87847,7 @@
           },
           {
             "name": "LZMAT",
-            "url": "https://www.matcode.com/lzmat.htm",
+            "url": "https://github.com/nemequ/lzmat",
             "description": "An extremely fast real-time lossless data compression library. [GPL]",
             "tags": []
           },
@@ -88182,7 +88218,7 @@
           },
           {
             "name": "Thrust",
-            "url": "https://thrust.github.io/",
+            "url": "https://developer.nvidia.com/thrust",
             "description": "A parallel algorithms library which resembles the C++ Standard Template Library (STL). [Apache2]",
             "tags": []
           },
@@ -88766,7 +88802,7 @@
           {
             "name": "Kuzu",
             "url": "https://github.com/kuzudb/kuzu",
-            "description": "Embeddable property graph database management system built for query speed and scalability. Implements Cypher. [MIT] website",
+            "description": "Embeddable property graph database management system built for query speed and scalability. Implements Cypher. [MIT]",
             "tags": []
           },
           {
@@ -89594,7 +89630,7 @@
           {
             "name": "Polycode",
             "url": "https://github.com/ivansafrin/Polycode",
-            "description": "A cross-platform framework for creative code in C++ (with Lua bindings). [MIT] website",
+            "description": "A cross-platform framework for creative code in C++ (with Lua bindings). [MIT]",
             "tags": []
           },
           {
@@ -93642,12 +93678,6 @@
             "tags": []
           },
           {
-            "name": "Remote Call Framework",
-            "url": "https://www.deltavsoft.com/",
-            "description": "Inter-process communication framework for C++. [GPL2/Proprietary]",
-            "tags": []
-          },
-          {
             "name": "reproc",
             "url": "https://github.com/DaanDeMeyer/reproc",
             "description": "A cross-platform (C99/C++11) process library. [MIT]",
@@ -95144,12 +95174,6 @@
             "tags": []
           },
           {
-            "name": "cppexpert.online",
-            "url": "https://cppexpert.online",
-            "description": "Learn the best C++ practices by improving code snippets with some problems or with bad practices.",
-            "tags": []
-          },
-          {
             "name": "C++ for yourself",
             "url": "https://github.com/cpp-for-yourself",
             "description": "A comprehensive tutorial on modern C++ covering everything from fundamentals to software design.",
@@ -95240,7 +95264,7 @@
           },
           {
             "name": "Kenny Kerr",
-            "url": "https://kennykerr.ca/articles/",
+            "url": "https://kennykerr.ca/",
             "description": "",
             "tags": []
           },
