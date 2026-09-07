@@ -182,7 +182,7 @@
           {
             "name": "Swetrix",
             "url": "https://swetrix.com/",
-            "description": "Ultimate, open-source web analytics to satisfy all your needs. ( Demo , Source Code ) AGPL-3.0 Docker",
+            "description": "Web analytics which track your site's traffic, monitor your site's speed, analyse user sessions and pageflows, see the user flows and more (alternative to Google Analytics). ( Demo , Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -621,7 +621,7 @@
           {
             "name": "Espial",
             "url": "https://github.com/jonschoning/espial",
-            "description": "An open-source, web-based bookmarking server. AGPL-3.0 Haskell",
+            "description": "Web-based bookmarking server that supports multiple user accounts. AGPL-3.0 Haskell",
             "tags": []
           },
           {
@@ -2015,7 +2015,7 @@
           {
             "name": "Plone",
             "url": "https://plone.org/",
-            "description": "Powerful open-source CMS system. ( Source Code ) ZPL-2.0 Python/Docker",
+            "description": "CMS system that is used to create, edit, and manage digital content, like websites, intranets, and custom solutions. ( Source Code ) ZPL-2.0 Python/Docker",
             "tags": []
           },
           {
@@ -2057,7 +2057,7 @@
           {
             "name": "Strapi",
             "url": "https://strapi.io/",
-            "description": "The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort. ( Source Code ) MIT Nodejs",
+            "description": "Headless CMS that lets developers build content APIs fast while giving content creators a friendly editing interface. ( Source Code ) MIT Nodejs",
             "tags": []
           },
           {
@@ -2401,7 +2401,7 @@
           {
             "name": "SimpleDMS",
             "url": "https://simpledms.eu",
-            "description": "Easy-to-use, metadata-driven, open-source document management system (DMS) for small businesses that sorts documents almost by itself. ( Source Code , Clients ) AGPL-3.0 Docker",
+            "description": "Easy-to-use, metadata-driven, document management system (DMS) for small businesses that sorts documents almost by itself. ( Source Code , Clients ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -2643,7 +2643,7 @@
           {
             "name": "Saleor",
             "url": "https://saleor.io",
-            "description": "Django based open-sourced e-commerce storefront. ( Demo , Source Code ) BSD-3-Clause Docker/Python",
+            "description": "GraphQL native, API-only platform for scalable composable e-commerce storefront. ( Demo , Source Code ) BSD-3-Clause Docker/Python",
             "tags": []
           },
           {
@@ -2655,7 +2655,7 @@
           {
             "name": "Solidus",
             "url": "https://solidus.io/",
-            "description": "A free, open-source ecommerce platform that gives you complete control over your store. ( Source Code ) BSD-3-Clause Ruby/Docker",
+            "description": "Ecommerce platform that gives you complete control over your store. ( Source Code ) BSD-3-Clause Ruby/Docker",
             "tags": []
           },
           {
@@ -2964,7 +2964,7 @@
           {
             "name": "Zenko CloudServer",
             "url": "https://www.zenko.io/cloudserver",
-            "description": "Zenko CloudServer, an open-source implementation of a server handling the Amazon S3 protocol. ( Source Code ) Apache-2.0 Docker/Nodejs",
+            "description": "Implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google. ( Source Code ) Apache-2.0 Docker/Nodejs",
             "tags": []
           },
           {
@@ -3190,7 +3190,7 @@
           {
             "name": "XBackBone",
             "url": "https://xbackbone.app/",
-            "description": "A simple, fast and lightweight file manager with instant sharing tools integration, like ShareX (a free and open-source screenshot utility for Windows). ( Source Code ) AGPL-3.0 PHP/Docker",
+            "description": "Simple, fast and lightweight file manager with instant sharing tools integration, like ShareX. ( Source Code ) AGPL-3.0 PHP/Docker",
             "tags": []
           },
           {
@@ -3392,7 +3392,7 @@
           {
             "name": "Suroi",
             "url": "https://suroi.io/",
-            "description": "An open-source 2D battle royale game inspired by surviv.io. ( Demo , Source Code ) GPL-3.0 Nodejs",
+            "description": "2D battle royale game inspired by surviv.io. ( Demo , Source Code ) GPL-3.0 Nodejs",
             "tags": []
           },
           {
@@ -3404,7 +3404,7 @@
           {
             "name": "Veloren",
             "url": "https://veloren.net/",
-            "description": "Multiplayer RPG. Open-source game inspired by Cube World, Legend of Zelda, Dwarf Fortress and Minecraft. ( Source Code ) GPL-3.0 Rust",
+            "description": "Multiplayer RPG. Inspired by Cube World, Legend of Zelda, Dwarf Fortress and Minecraft. ( Source Code ) GPL-3.0 Rust",
             "tags": []
           },
           {
@@ -3913,7 +3913,7 @@
           {
             "name": "Thingsboard",
             "url": "https://thingsboard.io/",
-            "description": "Open-source IoT Platform - Device management, data collection, processing and visualization. ( Demo , Source Code ) Apache-2.0 Java/Docker/K8S",
+            "description": "IoT Platform - Device management, data collection, processing and visualization. ( Demo , Source Code ) Apache-2.0 Java/Docker/K8S",
             "tags": []
           },
           {
@@ -4060,7 +4060,7 @@
           {
             "name": "edX",
             "url": "https://www.edx.org/",
-            "description": "The Open edX platform is open-source code that powers edX.org. ( Source Code ) AGPL-3.0 Python",
+            "description": "Online learning platform that powers the edX.org website. ( Source Code ) AGPL-3.0 Python",
             "tags": []
           },
           {
@@ -4470,7 +4470,7 @@
           {
             "name": "Audiobookshelf",
             "url": "https://www.audiobookshelf.org/",
-            "description": "Audiobook and podcast server. It streams all audio formats, keeps and syncs progress across devices. Comes with open-source apps for Android and iOS. ( Source Code , Clients ) GPL-3.0 Docker/deb/Nodejs",
+            "description": "Audiobook and podcast server. It streams all audio formats, keeps and syncs progress across devices. Comes with apps for Android and iOS. ( Source Code , Clients ) GPL-3.0 Docker/deb/Nodejs",
             "tags": []
           },
           {
@@ -5120,8 +5120,8 @@
           },
           {
             "name": "OpenReader",
-            "url": "https://openreader.richardr.dev/",
-            "description": "EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. ( Demo , Source Code ) MIT Docker",
+            "url": "https://docs.openreader.richardr.dev/",
+            "description": "EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. ( Source Code ) MIT Docker",
             "tags": []
           },
           {
@@ -5163,7 +5163,7 @@
           {
             "name": "Reactive Resume",
             "url": "https://rxresu.me/",
-            "description": "One-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. ( Demo , Source Code ) MIT Docker/Nodejs",
+            "description": "One-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable and portable. ( Demo , Source Code ) MIT Docker/Nodejs",
             "tags": []
           },
           {
@@ -5187,7 +5187,7 @@
           {
             "name": "string.is",
             "url": "https://string.is/",
-            "description": "An open-source, privacy-friendly online string toolkit for developers. ( Source Code ) AGPL-3.0 Nodejs",
+            "description": "Online string toolkit for developers. ( Source Code ) AGPL-3.0 Nodejs",
             "tags": []
           },
           {
@@ -5300,7 +5300,7 @@
           {
             "name": "DePay",
             "url": "https://depay.com",
-            "description": "Accept Web3 Payments directly into your wallet. Peer-to-peer, free, self-hosted & open-source. ( Demo , Source Code ) MIT Nodejs",
+            "description": "Accept Web3 Payments directly into your wallet peer-to-peer. ( Demo , Source Code ) MIT Nodejs",
             "tags": []
           },
           {
@@ -5533,7 +5533,7 @@
           {
             "name": "Speed Test by OpenSpeedTest\u2122",
             "url": "https://openspeedtest.com/",
-            "description": "Free & Open-Source HTML5 Network Performance Estimation Tool. ( Source Code ) MIT Docker",
+            "description": "HTML5 Network Performance Estimation Tool. ( Source Code ) MIT Docker",
             "tags": []
           },
           {
@@ -6151,7 +6151,7 @@
           {
             "name": "Zenphoto",
             "url": "https://www.zenphoto.org/",
-            "description": "Open-source gallery and CMS project. ( Source Code ) GPL-2.0 PHP",
+            "description": "Gallery and CMS project. ( Source Code ) GPL-2.0 PHP",
             "tags": []
           }
         ]
@@ -6192,7 +6192,7 @@
           {
             "name": "docassemble",
             "url": "https://docassemble.org/",
-            "description": "A free, open-source expert system for guided interviews and document assembly, based on Python, YAML, and Markdown. ( Demo , Source Code ) MIT Docker/Python",
+            "description": "System for guided interviews and document assembly, based on Python, YAML, and Markdown. ( Demo , Source Code ) MIT Docker/Python",
             "tags": []
           },
           {
@@ -6264,7 +6264,7 @@
           {
             "name": "OpnForm",
             "url": "https://opnform.com",
-            "description": "Beautiful open-source form builder. ( Demo , Source Code ) AGPL-3.0 PHP/Nodejs/Docker",
+            "description": "Beautiful form builder. ( Demo , Source Code ) AGPL-3.0 PHP/Nodejs/Docker",
             "tags": []
           },
           {
@@ -6523,7 +6523,7 @@
           {
             "name": "Amgix",
             "url": "https://amgix.io",
-            "description": "Open-source hybrid search engine built for flexible deployment and real-world messy data. ( Demo , Source Code , Clients ) AGPL-3.0 Docker/K8S",
+            "description": "Hybrid search engine built for flexible deployment and real-world messy data. ( Demo , Source Code , Clients ) AGPL-3.0 Docker/K8S",
             "tags": []
           },
           {
@@ -6755,7 +6755,7 @@
           {
             "name": "Fusio",
             "url": "https://www.fusio-project.org/",
-            "description": "Open-source API management platform which helps to build and manage REST APIs. ( Demo , Source Code ) AGPL-3.0 PHP/Docker",
+            "description": "API management platform which helps to build and manage REST APIs. ( Demo , Source Code ) AGPL-3.0 PHP/Docker",
             "tags": []
           },
           {
@@ -6803,7 +6803,7 @@
           {
             "name": "Svix",
             "url": "https://svix.com",
-            "description": "Open-source webhooks as a service that makes it super easy for API providers to send webhooks. ( Source Code ) MIT Docker/Rust",
+            "description": "Webhooks as a service that makes it super easy for API providers to send webhooks. ( Source Code ) MIT Docker/Rust",
             "tags": []
           },
           {
@@ -6903,7 +6903,7 @@
           {
             "name": "Lowdefy",
             "url": "https://www.lowdefy.com/",
-            "description": "Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON on an self-hosted, open-source platform. Connect to your data sources, host via Serverless, Netlify or Docker. ( Source Code ) Apache-2.0 Nodejs/Docker",
+            "description": "Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON. ( Source Code ) Apache-2.0 Nodejs/Docker",
             "tags": []
           },
           {
@@ -7384,7 +7384,7 @@
           {
             "name": "Wekan",
             "url": "https://wekan.github.io/",
-            "description": "Open-source Trello-like kanban. ( Source Code ) MIT Nodejs",
+            "description": "Trello-like kanban. ( Source Code ) MIT Nodejs",
             "tags": []
           },
           {
@@ -7467,7 +7467,7 @@
           {
             "name": "Zammad",
             "url": "https://zammad.org/",
-            "description": "Easy to use but powerful open-source support and ticketing system. ( Source Code ) AGPL-3.0 Ruby/deb",
+            "description": "Easy to use but powerful support and ticketing system. ( Source Code ) AGPL-3.0 Ruby/deb",
             "tags": []
           }
         ]
@@ -61190,6 +61190,12 @@
             "name": "Smeldr",
             "url": "https://github.com/Smeldr/core",
             "description": "AI-native content backend with typed lifecycle management, native MCP tools for every content type, and zero runtime dependencies.",
+            "tags": []
+          },
+          {
+            "name": "snip",
+            "url": "https://github.com/edouard-claude/snip",
+            "description": "CLI proxy that reduces LLM token usage by 60-90% with declarative YAML filters. Drop-in for Claude Code, Cursor, Copilot, and Gemini. rtk alternative in Go.",
             "tags": []
           },
           {
