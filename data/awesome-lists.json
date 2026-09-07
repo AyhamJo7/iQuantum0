@@ -16755,6 +16755,12 @@
             "tags": []
           },
           {
+            "name": "Lyrimuse",
+            "url": "https://github.com/Yudaotor/lyrimuse",
+            "description": "Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser.",
+            "tags": []
+          },
+          {
             "name": "MacMusicPlayer",
             "url": "https://github.com/samzong/macmusicplayer",
             "description": "A clean, lightweight music player for macOS users.",
