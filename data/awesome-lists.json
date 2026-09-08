@@ -18486,6 +18486,12 @@
             "tags": []
           },
           {
+            "name": "Pelmet",
+            "url": "https://pelmet.fif7y.com",
+            "description": "Menu bar manager built for macOS 27's rebuilt menu bar. Hides the icons you don't need until you do.",
+            "tags": []
+          },
+          {
             "name": "Peninsula",
             "url": "https://github.com/Celve/Peninsula",
             "description": "Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage.",
@@ -24143,6 +24149,12 @@
             "tags": []
           },
           {
+            "name": "ja7ad/hydra",
+            "url": "https://github.com/ja7ad/hydra",
+            "description": "An open-source, high-performance download manager and accelerator that splits every file across parallel connections and mirror sources. Featuring dynamic range stealing and real-time stall recovery for Windows, macOS, and Linux.",
+            "tags": []
+          },
+          {
             "name": "lamco-admin/lamco-rdp-server",
             "url": "https://github.com/lamco-admin/lamco-rdp-server",
             "description": "Wayland-native RDP server built on IronRDP, providing remote desktop access across Wayland Linux desktops (GNOME, KDE, COSMIC, wlroots compositors, and more) without X11.",
@@ -25443,6 +25455,12 @@
             "name": "Sean1708/rusty-cheddar",
             "url": "https://github.com/Sean1708/rusty-cheddar",
             "description": "generates C header files from Rust source files",
+            "tags": []
+          },
+          {
+            "name": "trevyn/librclone",
+            "url": "https://github.com/trevyn/librclone",
+            "description": "[ librclone ] - Rust bindings for the librclone C library.",
             "tags": []
           },
           {
@@ -29632,6 +29650,12 @@
       {
         "name": "Peripherals",
         "resources": [
+          {
+            "name": "AprilNEA/OpenLogi/crates/openlogi-hidpp",
+            "url": "https://github.com/AprilNEA/OpenLogi/tree/main/crates/openlogi-hidpp",
+            "description": "[ openlogi-hidpp ] - OpenLogi's vendored fork of the hidpp crate for Logitech HID++ protocol support.",
+            "tags": []
+          },
           {
             "name": "esp-rs/esp-hal",
             "url": "https://github.com/esp-rs/esp-hal",
@@ -67196,6 +67220,12 @@
             "name": "gollback",
             "url": "https://github.com/vardius/gollback",
             "description": "asynchronous simple function utilities, for managing execution of closures and callbacks.",
+            "tags": []
+          },
+          {
+            "name": "goscade",
+            "url": "https://github.com/ognick/goscade",
+            "description": "Minimalistic lifecycle orchestrator for Go components with dependency graphs, startup sequencing, readiness coordination, and graceful shutdown.",
             "tags": []
           },
           {
