@@ -18354,6 +18354,12 @@
             "tags": []
           },
           {
+            "name": "Keelhaven",
+            "url": "https://keelhaven.app",
+            "description": "Menu bar app that runs scheduled, encrypted restic backups to a local disk, S3, SFTP, or a REST server.",
+            "tags": []
+          },
+          {
             "name": "KeyStats",
             "url": "https://keystats.vercel.app",
             "description": "Menu bar tracker for daily keystrokes, clicks, movement, and scrolling.",
@@ -22526,6 +22532,12 @@
             "name": "esrlabs/chipmunk",
             "url": "https://github.com/esrlabs/chipmunk",
             "description": "Native egui desktop application for analyzing massive log files and streams. Features a WebAssembly plugin system and automotive formats support.",
+            "tags": []
+          },
+          {
+            "name": "madesroches/micromegas",
+            "url": "https://github.com/madesroches/micromegas",
+            "description": "[ micromegas ] - Observability backend for logs, metrics and traces, with low-overhead Rust instrumentation. Stores telemetry as Parquet on object storage and queries it with SQL.",
             "tags": []
           },
           {
@@ -72224,6 +72236,12 @@
             "tags": []
           },
           {
+            "name": "mist",
+            "url": "https://github.com/iSerganov/mist",
+            "description": "Asymmetric-key audio steganography library that hides encrypted messages inside compressed audio using X25519 and ChaCha20-Poly1305.",
+            "tags": []
+          },
+          {
             "name": "multikey",
             "url": "https://github.com/adrianosela/multikey",
             "description": "An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm.",
@@ -72359,6 +72377,12 @@
             "name": "veil",
             "url": "https://github.com/getveil/veil",
             "description": "Local HTTPS proxy that hides API credentials from AI coding agents. OS keychain integration, format-aware placeholders, SQLite audit log.",
+            "tags": []
+          },
+          {
+            "name": "y509",
+            "url": "https://github.com/kanywst/y509",
+            "description": "TUI for X.509 certificate chains that reports whether a chain verifies and, separately, whether a server served it correctly.",
             "tags": []
           }
         ]
