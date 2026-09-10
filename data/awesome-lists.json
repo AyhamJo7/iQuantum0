@@ -19201,6 +19201,12 @@
             "tags": []
           },
           {
+            "name": "CalmMouse",
+            "url": "https://calmmouse.malikzhang.com/",
+            "description": "Stop the Magic Mouse scrolling the page every time you click.",
+            "tags": []
+          },
+          {
             "name": "Cerebro",
             "url": "https://cerebroapp.com/",
             "description": "Open-source productivity booster with a brain.",
@@ -20953,6 +20959,12 @@
             "tags": []
           },
           {
+            "name": "runmat-org/runmat",
+            "url": "https://github.com/runmat-org/runmat",
+            "description": "[ runmat ] - A runtime for MATLAB-syntax numerical programs, with GPU acceleration through wgpu.",
+            "tags": []
+          },
+          {
             "name": "Rust Iot Platform",
             "url": "https://github.com/iot-ecology/rust-iot-platform",
             "description": "A high-performance IoT development platform built with Rust, designed for multi-protocol support and real-time data processing. This platform supports MQTT, WebSockets (WS), TCP, and CoAP protocols, making it highly flexible for diverse IoT applications.",
@@ -21034,6 +21046,12 @@
             "name": "topjohnwu/Magisk",
             "url": "https://github.com/topjohnwu/Magisk",
             "description": "A suite of open source tools for customizing Android, providing root access, boot image manipulation, and systemless modifications",
+            "tags": []
+          },
+          {
+            "name": "tunnetio/Tunnet",
+            "url": "https://github.com/tunnetio/Tunnet",
+            "description": "Private mesh networking with public tunnels, identity-based SSH, and P2P file transfer",
             "tags": []
           },
           {
@@ -27585,6 +27603,12 @@
             "name": "pola-rs/polars",
             "url": "https://github.com/pola-rs/polars",
             "description": "Fast feature complete DataFrame library",
+            "tags": []
+          },
+          {
+            "name": "PSU3D0/formualizer",
+            "url": "https://github.com/PSU3D0/formualizer",
+            "description": "[ formualizer ] - Embeddable spreadsheet engine that parses, evaluates and mutates Excel workbooks: 400+ functions, Arrow-backed storage, incremental recalculation, Python and WASM bindings",
             "tags": []
           },
           {
@@ -71547,6 +71571,12 @@
             "name": "dasel",
             "url": "https://github.com/tomwright/dasel",
             "description": "Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies.",
+            "tags": []
+          },
+          {
+            "name": "gnata",
+            "url": "https://github.com/RecoLabs/gnata",
+            "description": "Pure-Go implementation of the JSONata 2.x query and transformation language.",
             "tags": []
           },
           {
