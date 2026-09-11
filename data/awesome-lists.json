@@ -17628,6 +17628,12 @@
         "name": "Finance",
         "resources": [
           {
+            "name": "Posnic",
+            "url": "https://www.posnic.com/",
+            "description": "Offline-first open-source POS and billing software for retail shops and restaurants.",
+            "tags": []
+          },
+          {
             "name": "Pulse",
             "url": "https://www.pulseticker.app/",
             "description": "Native menu bar market tracker for US, Hong Kong and China stocks, crypto, indices, ETFs and portfolio P&L.",
@@ -18207,6 +18213,12 @@
             "name": "Bartender",
             "url": "https://www.macbartender.com",
             "description": "Organize or hide menu bar icons on your Mac.",
+            "tags": []
+          },
+          {
+            "name": "Candela",
+            "url": "https://candela.fyi",
+            "description": "Display care for external monitors: OLED burn-in protection, panel health history, and everyday brightness, volume, and contrast controls.",
             "tags": []
           },
           {
