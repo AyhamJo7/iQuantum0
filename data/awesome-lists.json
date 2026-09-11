@@ -5555,12 +5555,6 @@
             "tags": []
           },
           {
-            "name": "WatchYourLAN",
-            "url": "https://github.com/aceberg/WatchYourLAN",
-            "description": "Lightweight network IP scanner with notifications, history, export to Grafana. MIT Docker/Go/deb",
-            "tags": []
-          },
-          {
             "name": "whois",
             "url": "https://github.com/KincaidYang/whois",
             "description": "WHOIS/RDAP query API for domains, IP addresses, CIDR prefixes and ASNs, with unified JSON output, caching, API key authentication, batch queries and MCP support for AI assistants. ( Demo ) MIT Go/Docker",
@@ -19907,6 +19901,12 @@
             "tags": []
           },
           {
+            "name": "Mactokio",
+            "url": "https://github.com/dalirnet/mactokio",
+            "description": "Native TOTP/HOTP authenticator that imports accounts by webcam QR scan and keeps secrets AES-256 encrypted on device.",
+            "tags": []
+          },
+          {
             "name": "SafeInCloud",
             "url": "https://safe-in-cloud.com/en/",
             "description": "Cross Platform password management, low cost app!",
@@ -22765,6 +22765,12 @@
             "tags": []
           },
           {
+            "name": "Beetroot",
+            "url": "https://github.com/mnardit/beetroot-releases",
+            "description": "Clipboard manager for Windows with AI transforms, OCR, and fuzzy search.",
+            "tags": []
+          },
+          {
             "name": "bitrouter/bitrouter",
             "url": "https://github.com/bitrouter/bitrouter",
             "description": "[ bitrouter ] - Agent-native LLM router that optimizes your agent with every run with zero harness changes, making every model call reliable, traceable, secure, and cost-effective. Routes across OpenAI, Anthropic, Google, OpenRouter, Bedrock, GitHub Copilot, and more through a single local endpoint, with an MCP gateway, ACP integration, guardrails, observability, and multi-account failover.",
@@ -22948,6 +22954,12 @@
             "name": "thClaws/thClaws",
             "url": "https://github.com/thClaws/thClaws",
             "description": "Native Rust AI agent workspace with multi-provider LLM support, skills system, MCP servers, knowledge bases, and agent orchestration. Features desktop GUI, CLI REPL, and non-interactive modes.",
+            "tags": []
+          },
+          {
+            "name": "tinyhumansai/opencompany",
+            "url": "https://github.com/tinyhumansai/opencompany",
+            "description": "Open-source runtime that assembles AI agents into a working company: shared work board, handoffs between agents, human approvals, scheduled and DAG workflows. Runs on any model you bring, self-hosted with Docker.",
             "tags": []
           },
           {
@@ -69574,12 +69586,6 @@
             "tags": []
           },
           {
-            "name": "di",
-            "url": "https://github.com/goava/di",
-            "description": "A dependency injection container for go programming language.",
-            "tags": []
-          },
-          {
             "name": "dig",
             "url": "https://github.com/uber-go/dig",
             "description": "A reflection based dependency injection toolkit for Go.",
@@ -69595,6 +69601,12 @@
             "name": "do",
             "url": "https://github.com/samber/do",
             "description": "A dependency injection framework based on Generics.",
+            "tags": []
+          },
+          {
+            "name": "floatdrop/di",
+            "url": "https://github.com/floatdrop/di",
+            "description": "Dependency injection container built on generic methods, with child scopes, lifecycle hooks and graph validation before anything is built.",
             "tags": []
           },
           {
