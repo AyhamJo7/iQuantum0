@@ -2150,6 +2150,12 @@
             "tags": []
           },
           {
+            "name": "Relaticle",
+            "url": "https://relaticle.com",
+            "description": "CRM with a production-grade MCP server (32 tools) for AI agents, human-in-the-loop approvals, REST API, custom fields, and kanban boards. ( Source Code ) AGPL-3.0 PHP/Docker",
+            "tags": []
+          },
+          {
             "name": "SuiteCRM",
             "url": "https://suitecrm.com",
             "description": "The award-winning, enterprise-class open source CRM. ( Source Code ) AGPL-3.0 PHP",
@@ -3757,6 +3763,12 @@
             "tags": []
           },
           {
+            "name": "NutriTrace",
+            "url": "https://traceapps.github.io/docs/",
+            "description": "Nutrition and diet tracker with barcode scanning, wearable integrations (Fitbit, Withings, Garmin, Health Connect), adaptive calorie goals, multi-user sharing, and a built-in AI assistant (alternative to MyFitnessPal, Cronometer). ( Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "OpenELIS Global",
             "url": "https://openelis-global.org",
             "description": "Laboratory information system (LIS/LIMS) for clinical, public health, environmental and vector surveillance labs. FHIR-native, with analyzer integration (ASTM/HL7), quality control and national-scale reporting. ( Demo , Source Code ) MPL-2.0 Java/Docker",
@@ -5310,6 +5322,12 @@
             "tags": []
           },
           {
+            "name": "Expensave",
+            "url": "https://github.com/algirdasc/expensave",
+            "description": "Expense tracker for personal and family budget management. Track spending on a shared calendar, import bank statements and monitor finances with reports. GPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "ExpenseOwl",
             "url": "https://github.com/tanq16/expenseowl",
             "description": "Extremely simple expense tracker with a beautiful UI. MIT Go/Docker/K8S",
@@ -5909,6 +5927,12 @@
       {
         "name": "Personal Dashboards",
         "resources": [
+          {
+            "name": "Compass",
+            "url": "https://adinhodovic.github.io/compass/",
+            "description": "Landing page for services, dashboards, and documents, with automatic discovery from sources such as Docker, Kubernetes, and Tailscale. ( Source Code ) Apache-2.0 Go/Docker/K8S",
+            "tags": []
+          },
           {
             "name": "Dashy",
             "url": "https://dashy.to/",
@@ -6833,6 +6857,12 @@
             "name": "GO Feature Flag",
             "url": "https://gofeatureflag.org",
             "description": "Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly). ( Source Code ) MIT Go",
+            "tags": []
+          },
+          {
+            "name": "Nona",
+            "url": "https://nonaconfig.com",
+            "description": "Remote configuration and feature flag service with a single REST API, multiple environments, and official JavaScript and .NET clients (alternative to Firebase Remote Config). ( Source Code ) Apache-2.0 Docker",
             "tags": []
           }
         ]
@@ -19916,6 +19946,12 @@
             "name": "Mactokio",
             "url": "https://github.com/dalirnet/mactokio",
             "description": "Native TOTP/HOTP authenticator that imports accounts by webcam QR scan and keeps secrets AES-256 encrypted on device.",
+            "tags": []
+          },
+          {
+            "name": "NotchOTP",
+            "url": "https://github.com/Photon94/NotchOTP",
+            "description": "Native TOTP authenticator with a notch-sized panel, keyboard shortcuts, and local Keychain storage.",
             "tags": []
           },
           {
