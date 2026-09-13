@@ -12840,6 +12840,12 @@
             "tags": []
           },
           {
+            "name": "JustMD",
+            "url": "https://justmd.nuta.life/",
+            "description": "Open-source Markdown editor for local files that hides syntax outside the line being edited.",
+            "tags": []
+          },
+          {
             "name": "MacDown",
             "url": "https://macdown.uranusjr.com/",
             "description": "Open source Markdown editor for macOS with live preview and HTML/PDF export.",
@@ -20431,6 +20437,12 @@
             "tags": []
           },
           {
+            "name": "Highball",
+            "url": "https://gethighball.com",
+            "description": "Run Windows games on Apple Silicon through Wine, with the graphics layer (DXMT, DXVK or D3DMetal) chosen per game from an open compatibility database.",
+            "tags": []
+          },
+          {
             "name": "OpenEmu",
             "url": "https://openemu.org/",
             "description": "Retro game emulator frontend for multiple console systems.",
@@ -21249,6 +21261,12 @@
             "name": "Polaris",
             "url": "https://github.com/agersant/polaris",
             "description": "A music streaming application.",
+            "tags": []
+          },
+          {
+            "name": "rusty-amp",
+            "url": "https://github.com/danylokravchenko/rusty-amp",
+            "description": "A complete guitar amp and pedalboard rig with external plugins support that runs right in your terminal.",
             "tags": []
           },
           {
@@ -22798,6 +22816,12 @@
             "name": "AlexsJones/llmserve",
             "url": "https://github.com/AlexsJones/llmserve",
             "description": "[ llmserve ] - Interactive TUI to serve local LLM models with auto-detected backends (llama-server, KoboldCpp, LocalAI, MLX, Ollama, vLLM, LM Studio). Features source tree navigation, per-backend presets, live logs, and vision model support.",
+            "tags": []
+          },
+          {
+            "name": "alphaXiv/OpenResearch",
+            "url": "https://github.com/alphaXiv/OpenResearch",
+            "description": "A local-first workspace for running parallel research agents with Claude Code, Codex, OpenCode, or Cursor, with reproducible experiment tracking.",
             "tags": []
           },
           {
@@ -24917,6 +24941,12 @@
             "tags": []
           },
           {
+            "name": "firelock-ai/kin",
+            "url": "https://github.com/firelock-ai/kin",
+            "description": "A graph-native code repository for people and AI agents. Kin helps you and your AI agents understand what a code change might affect before you make it.",
+            "tags": []
+          },
+          {
             "name": "Flox",
             "url": "https://github.com/flox/flox",
             "description": "Flox is a virtual environment and package manager all in one.",
@@ -25076,6 +25106,12 @@
             "name": "sstraus/tuicommander",
             "url": "https://github.com/sstraus/tuicommander",
             "description": "Desktop workspace that runs many AI coding agents in parallel, each in its own git worktree, with agent state detection, diffs, PR management and an MCP proxy hub",
+            "tags": []
+          },
+          {
+            "name": "Terrain",
+            "url": "https://github.com/sopaco/terrain",
+            "description": "AI-native engineering environment management that makes your codebase agent-ready.",
             "tags": []
           },
           {
@@ -61411,6 +61447,12 @@
             "name": "GoAudio",
             "url": "https://github.com/DylanMeeus/GoAudio",
             "description": "Native Go Audio Processing Library.",
+            "tags": []
+          },
+          {
+            "name": "gocue",
+            "url": "https://github.com/iSerganov/gocue",
+            "description": "Audio analysis CLI that detects cue-in, cue-out, and overlay points and measures EBU R128 loudness, emitting JSON for Liquidsoap.",
             "tags": []
           },
           {
