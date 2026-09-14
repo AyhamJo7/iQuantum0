@@ -16230,6 +16230,12 @@
             "url": "https://karatsidhu.gumroad.com/l/warden",
             "description": "A Native Swift macOS app that lets you run multiple LLM models using your own API keys.",
             "tags": []
+          },
+          {
+            "name": "Wayfinder",
+            "url": "https://wayfinder-ai.pages.dev/",
+            "description": "Local-first visual voyage map for preserving Codex and Claude Code sessions, branches, failures, decisions, and file changes.",
+            "tags": []
           }
         ]
       },
@@ -16941,12 +16947,6 @@
             "tags": []
           },
           {
-            "name": "Sonora",
-            "url": "https://github.com/sonoramac/Sonora",
-            "description": "Minimal, beautifully designed music player.",
-            "tags": []
-          },
-          {
             "name": "Spotifly",
             "url": "https://github.com/ralph/Spotifly",
             "description": "Lightweight Spotify player focused on fast playback control.",
@@ -17057,7 +17057,7 @@
           {
             "name": "Musicer",
             "url": "https://apps.apple.com/app/musicer/6745227444?platform=mac",
-            "description": "A lightweight local music player that supports multiple formats for enjoying music anytime.",
+            "description": "A retro local music player that supports multiple formats and AI control.",
             "tags": []
           },
           {
@@ -26738,6 +26738,12 @@
             "tags": []
           },
           {
+            "name": "kunobi-ninja/kache",
+            "url": "https://github.com/kunobi-ninja/kache",
+            "description": "[ kache ] - Content-addressed compiler cache for Rust and C/C++ ( website )",
+            "tags": []
+          },
+          {
             "name": "moka-rs/moka",
             "url": "https://github.com/moka-rs/moka",
             "description": "A high performance concurrent caching library inspired by the Caffeine library for Java",
@@ -30144,6 +30150,12 @@
             "name": "lambda-fairy/maud",
             "url": "https://github.com/lambda-fairy/maud",
             "description": "compile-time HTML templates",
+            "tags": []
+          },
+          {
+            "name": "mitsuhiko/minijinja",
+            "url": "https://github.com/mitsuhiko/minijinja",
+            "description": "[ minijinja ] - minimal dependency template engine based on Jinja2.",
             "tags": []
           },
           {
@@ -43497,6 +43509,12 @@
             "name": "diffusers",
             "url": "https://github.com/huggingface/diffusers",
             "description": "A library that provides pre-trained diffusion models for generating and editing images, audio, and video.",
+            "tags": []
+          },
+          {
+            "name": "peft",
+            "url": "https://github.com/huggingface/peft",
+            "description": "A library for parameter-efficient fine-tuning of large pretrained models.",
             "tags": []
           },
           {
@@ -67325,6 +67343,12 @@
             "tags": []
           },
           {
+            "name": "go-future",
+            "url": "https://github.com/jizhuozhi/go-future",
+            "description": "A Future/Promise library with generic combinators and a DAG execution engine.",
+            "tags": []
+          },
+          {
             "name": "go-tools/multithreading",
             "url": "https://github.com/nikhilsaraf/go-tools",
             "description": "Manage a pool of goroutines using this lightweight library with a simple API.",
@@ -68617,6 +68641,12 @@
             "name": "gone/log",
             "url": "https://github.com/One-com/gone/tree/master/log",
             "description": "Fast, extendable, full-featured, std-lib source compatible log library.",
+            "tags": []
+          },
+          {
+            "name": "gslog",
+            "url": "https://github.com/maguro/gslog",
+            "description": "Google Cloud Logging handler for log/slog, with OpenTelemetry trace and baggage, and Kubernetes podinfo labels.",
             "tags": []
           },
           {
