@@ -16076,6 +16076,12 @@
             "tags": []
           },
           {
+            "name": "DeepDeck",
+            "url": "https://deepdeck.getmegaportal.com/",
+            "description": "Desktop AI workspace built on DeepSeek Harness for creating and reusing WebMCP tools for website tasks.",
+            "tags": []
+          },
+          {
             "name": "Desktop Control",
             "url": "https://github.com/yaroshevych/desktopctl",
             "description": "GPU-accelerated CLI for AI agents to control any macOS app via screen, mouse, and keyboard.",
@@ -17270,6 +17276,12 @@
             "name": "LangSwitcher",
             "url": "https://github.com/reg2005/langSwitcher",
             "description": "Keyboard layout converter for mistyped text.",
+            "tags": []
+          },
+          {
+            "name": "Qingjian \u9752\u7b80",
+            "url": "https://qingjian.app/",
+            "description": "Rust-based cross-platform Pinyin input method that displays translations in the language you are learning alongside candidate words.",
             "tags": []
           },
           {
@@ -18776,6 +18788,12 @@
             "name": "MacSift",
             "url": "https://lcharvol.github.io/MacSift/",
             "description": "Open-source disk cleaner that groups files by app and moves them to the Trash.",
+            "tags": []
+          },
+          {
+            "name": "MangoDisk",
+            "url": "https://mangodisk.app/",
+            "description": "Free, open-source disk cleaner and space analyzer that scans locally and shows paths and sizes before deletion.",
             "tags": []
           },
           {
@@ -22945,6 +22963,12 @@
             "tags": []
           },
           {
+            "name": "jchultarsky/mirador",
+            "url": "https://github.com/jchultarsky/mirador",
+            "description": "[ mirador ] - A calm personal dashboard for the terminal: clocks, calendar and agenda, weather, tasks, notes, markets and live system metrics in a configurable grid",
+            "tags": []
+          },
+          {
             "name": "kruseio/hygg",
             "url": "https://github.com/kruseio/hygg",
             "description": "[ hygg ] - \ud83d\udcda Simplifying the way you read. Minimalistic Vim-like TUI document reader.",
@@ -24535,6 +24559,12 @@
             "name": "Michael-A-Kuykendall/muxide",
             "url": "https://github.com/Michael-A-Kuykendall/muxide",
             "description": "[ muxide ] - Pure-Rust MP4 muxer with no external dependencies that writes standards-compliant MP4 from encoded frames.",
+            "tags": []
+          },
+          {
+            "name": "tonhowtf/omniget",
+            "url": "https://github.com/tonhowtf/omniget",
+            "description": "A desktop app to download videos, courses, music and books from 1,800+ sites, with a built-in player, reader and study library.",
             "tags": []
           },
           {
@@ -74372,6 +74402,12 @@
             "tags": []
           },
           {
+            "name": "featureflip-go",
+            "url": "https://github.com/canopy-labs/featureflip-go",
+            "description": "Go SDK for Featureflip feature flags, with local evaluation and streaming updates.",
+            "tags": []
+          },
+          {
             "name": "gads",
             "url": "https://github.com/emiddleton/gads",
             "description": "Google Adwords Unofficial API.",
@@ -77153,6 +77189,12 @@
             "name": "go-taskflow",
             "url": "https://github.com/noneback/go-taskflow",
             "description": "A taskflow-like General-purpose Task-parallel Programming Framework with integrated visualizer and profiler.",
+            "tags": []
+          },
+          {
+            "name": "GopherFlow",
+            "url": "https://github.com/RealZimboGuy/gopherflow",
+            "description": "Durable workflow engine with a built-in web console, backed by Postgres, MySQL or SQLite.",
             "tags": []
           },
           {
