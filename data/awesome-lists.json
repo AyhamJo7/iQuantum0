@@ -2152,7 +2152,7 @@
           {
             "name": "Relaticle",
             "url": "https://relaticle.com",
-            "description": "CRM with a production-grade MCP server (32 tools) for AI agents, human-in-the-loop approvals, REST API, custom fields, and kanban boards. ( Source Code ) AGPL-3.0 PHP/Docker",
+            "description": "CRM with an MCP server, an AI assistant with human-approved changes, a REST API, custom fields, and kanban boards. ( Source Code ) AGPL-3.0 PHP/Docker",
             "tags": []
           },
           {
@@ -2408,6 +2408,12 @@
             "name": "SimpleDMS",
             "url": "https://simpledms.eu",
             "description": "Easy-to-use, metadata-driven, document management system (DMS) for small businesses that sorts documents almost by itself. ( Source Code , Clients ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
+            "name": "SnapOtter",
+            "url": "https://snapotter.com",
+            "description": "Suite of 200+ web tools for converting and editing images, videos, audio and PDFs, including a layer-based image editor, OCR, transcription, background removal and batch processing pipelines (alternative to SmallPDF, iLovePDF, CloudConvert). ( Demo , Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -5647,6 +5653,12 @@
             "name": "Memos",
             "url": "https://usememos.com/",
             "description": "Knowledge base that works with a SQLite db file. ( Demo , Source Code ) MIT Docker/Go",
+            "tags": []
+          },
+          {
+            "name": "Neverkin",
+            "url": "https://neverkin.com/",
+            "description": "Collaborative writing, worldbuilding and D&D-session-planning app. Tools for organizing your notes and stories. ( Demo , Source Code ) GPL-3.0 Nodejs/Docker",
             "tags": []
           },
           {
@@ -15026,6 +15038,12 @@
             "tags": []
           },
           {
+            "name": "Calyx",
+            "url": "https://github.com/yuuichieguchi/Calyx",
+            "description": "Native macOS terminal for running and supervising coding agents in parallel.",
+            "tags": []
+          },
+          {
             "name": "Command Book",
             "url": "https://commandbookapp.com",
             "description": "A terminal companion for long-running terminal commands (freemium)",
@@ -21850,6 +21868,12 @@
             "tags": []
           },
           {
+            "name": "RyanCodrai/turbovec",
+            "url": "https://github.com/RyanCodrai/turbovec",
+            "description": "[ turbovec ] - A vector index built on TurboQuant, written in Rust with SIMD-accelerated search and Python bindings",
+            "tags": []
+          },
+          {
             "name": "sabiql",
             "url": "https://github.com/riii111/sabiql",
             "description": "[ sabiql ] - Fast, driverless, Vim-first database TUI with safe editing and ER diagrams.",
@@ -23020,6 +23044,12 @@
             "name": "pier-cli/pier",
             "url": "https://github.com/pier-cli/pier",
             "description": "A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs",
+            "tags": []
+          },
+          {
+            "name": "raine/workmux",
+            "url": "https://github.com/raine/workmux",
+            "description": "[ workmux ] - git worktrees + tmux windows for zero-friction parallel dev",
             "tags": []
           },
           {
@@ -44917,9 +44947,21 @@
         "name": "Code Analysis",
         "resources": [
           {
+            "name": "import-linter",
+            "url": "https://github.com/seddonym/import-linter",
+            "description": "A linter that enforces architectural constraints on imports between Python modules.",
+            "tags": []
+          },
+          {
             "name": "vulture",
             "url": "https://github.com/jendrikseipp/vulture",
             "description": "A tool for finding and analyzing dead Python code.",
+            "tags": []
+          },
+          {
+            "name": "complexipy",
+            "url": "https://github.com/rohaquinlop/complexipy",
+            "description": "Cognitive complexity analysis for Python code, written in Rust.",
             "tags": []
           },
           {
@@ -44932,12 +44974,6 @@
             "name": "repowise",
             "url": "https://github.com/repowise-dev/repowise",
             "description": "Codebase intelligence that indexes repos into dependency graphs, git history, and auto-generated docs with dead code detection.",
-            "tags": []
-          },
-          {
-            "name": "complexipy",
-            "url": "https://github.com/rohaquinlop/complexipy",
-            "description": "Cognitive complexity analysis for Python code, written in Rust.",
             "tags": []
           },
           {
