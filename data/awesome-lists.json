@@ -18270,6 +18270,12 @@
             "tags": []
           },
           {
+            "name": "AirPoise",
+            "url": "https://airpoise.vercel.app/",
+            "description": "Menu bar app that uses AirPods motion sensors for head-posture reminders and configurable head-gesture shortcuts.",
+            "tags": []
+          },
+          {
             "name": "Anvil",
             "url": "https://anvilformac.com/",
             "description": "Tool for serving local static sites and Rack apps with simple URLs.",
@@ -20547,6 +20553,12 @@
             "name": "AnyDesk",
             "url": "https://anydesk.com",
             "description": "Provides remote access across multiple machines.",
+            "tags": []
+          },
+          {
+            "name": "HopToDesk",
+            "url": "https://www.hoptodesk.com/",
+            "description": "Open-source remote desktop and remote support tool with end-to-end encrypted sessions.",
             "tags": []
           },
           {
