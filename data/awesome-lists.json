@@ -22270,6 +22270,12 @@
             "url": "https://github.com/tarkah/tickrs",
             "description": "Realtime ticker data in your terminal",
             "tags": []
+          },
+          {
+            "name": "wealthfolio/wealthfolio",
+            "url": "https://github.com/wealthfolio/wealthfolio",
+            "description": "A beautiful, private, local-first personal finance tracker: investments, net worth, spending, and simulations.",
+            "tags": []
           }
         ]
       },
@@ -22688,6 +22694,12 @@
             "name": "OpenTelemetry",
             "url": "https://crates.io/crates/opentelemetry",
             "description": "OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application. You can analyze them using Prometheus, Jaeger, and other observability tools.",
+            "tags": []
+          },
+          {
+            "name": "parseablehq/parseable",
+            "url": "https://github.com/parseablehq/parseable",
+            "description": "An AI-native unified observability platform for collecting and analyzing logs, metrics, traces and events.",
             "tags": []
           },
           {
@@ -62530,6 +62542,12 @@
             "tags": []
           },
           {
+            "name": "Fling-CLI",
+            "url": "https://github.com/SatyamKumarCS/Fling-CLI",
+            "description": "Terminal-based peer-to-peer file and message transfer tool over custom reliable UDP.",
+            "tags": []
+          },
+          {
             "name": "getopt",
             "url": "https://github.com/jon-codes/getopt",
             "description": "An accurate Go getopt , validated against the GNU libc implementation.",
@@ -69537,8 +69555,8 @@
           },
           {
             "name": "hypermatch",
-            "url": "https://github.com/SchwarzIT/hypermatch",
-            "description": "A very fast and efficient Go library for matching events to a large set of rules",
+            "url": "https://github.com/SchwarzDigits/hypermatch",
+            "description": "Matches events against large sets of rules, with rules written in Go or as JSON.",
             "tags": []
           },
           {
@@ -72425,6 +72443,12 @@
             "name": "gost-crypto",
             "url": "https://github.com/rekurt/gost-crypto",
             "description": "Go library for Russian GOST cryptographic standards (digital signatures, Streebog hash, Kuznechik cipher, MGM AEAD) backed by OpenSSL gost-engine.",
+            "tags": []
+          },
+          {
+            "name": "grim",
+            "url": "https://github.com/ijin82/grim",
+            "description": "Fast and secure CLI tool for managing encrypted Markdown note vaults in volatile memory.",
             "tags": []
           },
           {
