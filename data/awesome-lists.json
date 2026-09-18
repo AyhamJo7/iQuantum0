@@ -17321,6 +17321,12 @@
             "tags": []
           },
           {
+            "name": "vChewing \u552f\u97f3",
+            "url": "https://github.com/vChewing/vChewing-macOS",
+            "description": "Chinese input method supporting Pinyin and Zhuyin with purpose-built dictionaries.",
+            "tags": []
+          },
+          {
             "name": "betterglobekey",
             "url": "https://github.com/Serpentiel/betterglobekey",
             "description": "Make macOS Globe key great again!",
@@ -23937,6 +23943,12 @@
             "tags": []
           },
           {
+            "name": "timhartmann7/omnyssh",
+            "url": "https://github.com/timhartmann7/omnyssh",
+            "description": "A fast, keyboard-driven TUI for managing SSH connections",
+            "tags": []
+          },
+          {
             "name": "topheman/webassembly-component-model-experiments",
             "url": "https://github.com/topheman/webassembly-component-model-experiments",
             "description": "WebAssembly Component Model based REPL with sandboxed multi-language plugin system",
@@ -24365,6 +24377,12 @@
             "tags": []
           },
           {
+            "name": "matugen",
+            "url": "https://github.com/InioX/matugen",
+            "description": "Generates color palette from image or color using templates.",
+            "tags": []
+          },
+          {
             "name": "Mobslide",
             "url": "https://github.com/thewh1teagle/mobslide",
             "description": "Desktop application that turns your smartphone into presentation remote controller.",
@@ -24410,6 +24428,12 @@
             "name": "nomino",
             "url": "https://github.com/yaa110/nomino",
             "description": "Batch rename utility for developers",
+            "tags": []
+          },
+          {
+            "name": "pastel",
+            "url": "https://github.com/sharkdp/pastel",
+            "description": "Helps working with colors: generate, mix, random color.",
             "tags": []
           },
           {
