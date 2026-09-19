@@ -4005,12 +4005,6 @@
         "name": "Knowledge Management Tools",
         "resources": [
           {
-            "name": "AFFiNE Community Edition",
-            "url": "https://affine.pro/",
-            "description": "Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and ready to use (alternative to Notion and Miro). ( Demo , Source Code ) MIT/AGPL-3.0 Docker",
-            "tags": []
-          },
-          {
             "name": "Atomic Server",
             "url": "https://atomicserver.eu/",
             "description": "Knowledge graph database with documents (similar to Notion), tables, search, and a powerful linked data API. Lightweight, very fast and no runtime dependencies. ( Demo , Source Code ) MIT Docker/Rust",
@@ -25513,6 +25507,12 @@
             "name": "vercel/turborepo",
             "url": "https://github.com/vercel/turborepo",
             "description": "High-performance build system for JavaScript and TypeScript monorepos, written in Rust. Features incremental computation, remote caching, and parallel task execution.",
+            "tags": []
+          },
+          {
+            "name": "wislertt/zerv",
+            "url": "https://github.com/wislertt/zerv",
+            "description": "[ zerv ] - Dynamic versioning tool that generates a version for every build from any Git state, with SemVer, PEP 440, and CalVer output",
             "tags": []
           }
         ]
@@ -69956,6 +69956,12 @@
             "url": "https://github.com/Fs02/wire",
             "description": "Strict Runtime Dependency Injection for Golang.",
             "tags": []
+          },
+          {
+            "name": "yama",
+            "url": "https://github.com/livetribe/yama",
+            "description": "Compile-time dependency injection and lifecycle framework that generates start, quiesce, and stop code for Google Wire graphs.",
+            "tags": []
           }
         ]
       },
@@ -88054,6 +88060,12 @@
             "name": "Ncurses",
             "url": "https://invisible-island.net/ncurses/",
             "description": "A terminal user interface. [MIT]",
+            "tags": []
+          },
+          {
+            "name": "FINAL CUT",
+            "url": "https://github.com/gansm/finalcut",
+            "description": "A terminal user interface, a modern replacement for Ncurses. [LGPLv3+]",
             "tags": []
           },
           {
