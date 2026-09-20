@@ -7198,12 +7198,6 @@
             "tags": []
           },
           {
-            "name": "ShipShipShip",
-            "url": "https://shipshipship.io",
-            "description": "Changelog and roadmap platform that bridges project management and customer communication. ( Demo , Source Code ) Apache-2.0 Docker",
-            "tags": []
-          },
-          {
             "name": "Smederee",
             "url": "https://smeder.ee",
             "description": "A frugal platform which is dedicated to help people build great software together leveraging the power of the Darcs version control system. ( Source Code ) AGPL-3.0 Scala",
@@ -22575,6 +22569,12 @@
             "tags": []
           },
           {
+            "name": "sorairolake/favico",
+            "url": "https://github.com/sorairolake/favico",
+            "description": "[ favico ] - An utility for creating favicons",
+            "tags": []
+          },
+          {
             "name": "Sprite Fusion Pixel Snapper",
             "url": "https://github.com/Hugo-Dz/spritefusion-pixel-snapper",
             "description": "A CLI and WebAssembly tool that cleans up AI-generated pixel art to get pixel-perfect pixel art sprites (MIT).",
@@ -23925,6 +23925,12 @@
             "tags": []
           },
           {
+            "name": "sorairolake/rzopfli",
+            "url": "https://github.com/sorairolake/rzopfli",
+            "description": "[ rzopfli ] - A lossless data compression tool using Zopfli",
+            "tags": []
+          },
+          {
             "name": "supercilex/fuc",
             "url": "https://github.com/supercilex/fuc",
             "description": "Fast cp and rm commands",
@@ -24479,6 +24485,12 @@
             "tags": []
           },
           {
+            "name": "sorairolake/randgen",
+            "url": "https://github.com/sorairolake/randgen",
+            "description": "[ randgen ] - Generate pseudo-random bytes",
+            "tags": []
+          },
+          {
             "name": "splashboard",
             "url": "https://github.com/unhappychoice/splashboard",
             "description": "[ splashboard ] - A customizable terminal splash rendered on shell startup and on directory change, with per-directory dashboards",
@@ -24998,6 +25010,12 @@
             "name": "cloudflare/foundations",
             "url": "https://github.com/cloudflare/foundations",
             "description": "Foundations is a modular Rust library, designed to help scale programs for distributed, production-grade systems.",
+            "tags": []
+          },
+          {
+            "name": "cordx56/rustowl",
+            "url": "https://github.com/cordx56/rustowl",
+            "description": "[ rustowl ] - Visualize Ownership and Lifetimes in Rust",
             "tags": []
           },
           {
@@ -27251,9 +27269,9 @@
             "tags": []
           },
           {
-            "name": "sevenz-rust",
-            "url": "https://crates.io/crates/sevenz-rust",
-            "description": "[  ] - A 7z decompressor/compressor written in pure rust.",
+            "name": "hasenbanck/sevenz-rust2",
+            "url": "https://github.com/hasenbanck/sevenz-rust2",
+            "description": "[ sevenz-rust2 ] - A 7z decompressor/compressor written in pure Rust",
             "tags": []
           },
           {
@@ -27290,6 +27308,12 @@
             "name": "sstadick/gzp",
             "url": "https://github.com/sstadick/gzp/",
             "description": "multi-threaded encoding and decoding of deflate formats and snappy",
+            "tags": []
+          },
+          {
+            "name": "hasenbanck/lzma-rust2",
+            "url": "https://github.com/hasenbanck/lzma-rust2",
+            "description": "[ lzma-rust2 ] - LZMA / LZMA2 / LZIP / XZ compression ported from tukaani xz for java",
             "tags": []
           },
           {
@@ -28327,6 +28351,12 @@
             "tags": []
           },
           {
+            "name": "sorairolake/dos-date-time",
+            "url": "https://github.com/sorairolake/dos-date-time",
+            "description": "[ dos-date-time ] - An MS-DOS date and time library",
+            "tags": []
+          },
+          {
             "name": "sorairolake/nt-time",
             "url": "https://github.com/sorairolake/nt-time",
             "description": "[ nt-time ] - A Windows file time library.",
@@ -28592,6 +28622,12 @@
             "tags": []
           },
           {
+            "name": "jannschu/datamatrix-rs",
+            "url": "https://github.com/jannschu/datamatrix-rs",
+            "description": "[ datamatrix ] - Data Matrix (ECC 200) decoding and encoding with an optimizing encoder",
+            "tags": []
+          },
+          {
             "name": "edn-rs",
             "url": "https://github.com/naomijub/edn-rs",
             "description": "[ edn-rs ] - crate to parse and emit EDN format into Rust types.",
@@ -28685,6 +28721,24 @@
             "name": "tokio-rs/prost",
             "url": "https://github.com/tokio-rs/prost",
             "description": "",
+            "tags": []
+          },
+          {
+            "name": "magiclen/qrcode-generator",
+            "url": "https://github.com/magiclen/qrcode-generator",
+            "description": "[ qrcode-generator ] - Generates ISO/IEC 18004 QR Code and Micro QR Code symbols and ISO/IEC 23941 rMQR symbols in pure Rust, then renders them as grayscale, PNG and SVG images.",
+            "tags": []
+          },
+          {
+            "name": "sorairolake/qrcode-rust2",
+            "url": "https://github.com/sorairolake/qrcode-rust2",
+            "description": "[ qrcode2 ] - A QR code encoding library",
+            "tags": []
+          },
+          {
+            "name": "WanzenBug/rqrr",
+            "url": "https://github.com/WanzenBug/rqrr",
+            "description": "[ rqrr ] - Detect and read QR codes from any image source",
             "tags": []
           },
           {
@@ -28951,6 +29005,12 @@
             "name": "gastongouron/ironpress",
             "url": "https://github.com/gastongouron/ironpress",
             "description": "[ ironpress ] - Pure Rust HTML/CSS/Markdown-to-PDF converter with a built-in layout engine and no browser or system dependencies.",
+            "tags": []
+          },
+          {
+            "name": "hayro",
+            "url": "https://github.com/LaurenzV/hayro",
+            "description": "A PDF interpreter and renderer in pure Rust",
             "tags": []
           },
           {
@@ -29817,6 +29877,12 @@
             "name": "Marwes/combine",
             "url": "https://github.com/Marwes/combine",
             "description": "parser combinator library",
+            "tags": []
+          },
+          {
+            "name": "mazznoer/csscolorparser-rs",
+            "url": "https://github.com/mazznoer/csscolorparser-rs",
+            "description": "[ csscolorparser ] - CSS color parser library",
             "tags": []
           },
           {
@@ -67192,6 +67258,12 @@
             "name": "borders",
             "url": "https://github.com/kpfaulkner/borders",
             "description": "Detects image borders and converts to GeoJSON for GIS operations.",
+            "tags": []
+          },
+          {
+            "name": "geo-engine-go",
+            "url": "https://github.com/AlexG695/geo-engine-go",
+            "description": "Official Go SDK for GeoEngine, offering high-performance geospatial data ingestion with single-digit millisecond latency.",
             "tags": []
           },
           {
