@@ -15390,6 +15390,12 @@
             "tags": []
           },
           {
+            "name": "ExcalidrawZ",
+            "url": "https://excalidrawz.chocoford.com/",
+            "description": "Open-source native Excalidraw client with local file management and iCloud sync.",
+            "tags": []
+          },
+          {
             "name": "Flinto",
             "url": "https://www.flinto.com/",
             "description": "Quickly create interactive prototypes of mobile, desktop, or web apps.",
