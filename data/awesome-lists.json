@@ -14615,6 +14615,12 @@
             "tags": []
           },
           {
+            "name": "teebe",
+            "url": "https://teebe.io",
+            "description": "Native manager for Git worktrees, with live file change badges and inline diffs.",
+            "tags": []
+          },
+          {
             "name": "Tower2",
             "url": "https://www.git-tower.com/",
             "description": "The most powerful Git client for Mac and Windows.",
@@ -20941,12 +20947,6 @@
             "tags": []
           },
           {
-            "name": "Livediff",
-            "url": "https://github.com/SoCkEt7/Livediff",
-            "description": "[ livediff ] - Real-time terminal file diff monitoring TUI.",
-            "tags": []
-          },
-          {
             "name": "LWE",
             "url": "https://github.com/YangYuS8/lwe",
             "description": "Linux desktop app for browsing, managing, and applying Wallpaper Engine content, built with Rust and Tauri.",
@@ -25516,6 +25516,12 @@
             "tags": []
           },
           {
+            "name": "rui314/mold",
+            "url": "https://github.com/rui314/mold",
+            "description": "A modern, high-speed linker for Linux, macOS, and Windows (ELF, Mach-O, PE)",
+            "tags": []
+          },
+          {
             "name": "tracemachina/nativelink",
             "url": "https://github.com/TraceMachina/nativelink",
             "description": "NativeLink is a Backend Remote Execution platform written in rust for client build systems such as Buck2 , Bazel , Pants , etc..",
@@ -26292,12 +26298,6 @@
             "name": "ave-sergeev/tictonix",
             "url": "https://github.com/Ave-Sergeev/Tictonix",
             "description": "[ tictonix ] - A library that provides the ability to convert tokens into embeddings, as well as to encode their positions.",
-            "tags": []
-          },
-          {
-            "name": "avifenesh/memra",
-            "url": "https://github.com/avifenesh/memra",
-            "description": "[ memra-server ] - Inference engine for NVIDIA Blackwell cards with per-device tuned defaults, serving GGUF and safetensors over an OpenAI-compatible API; speculative, CUDA-graphed and batched decode are each gated byte-identical to plain decode.",
             "tags": []
           },
           {
@@ -30330,6 +30330,12 @@
             "name": "mitsuhiko/minijinja",
             "url": "https://github.com/mitsuhiko/minijinja",
             "description": "[ minijinja ] - minimal dependency template engine based on Jinja2.",
+            "tags": []
+          },
+          {
+            "name": "rshtml/rshtml",
+            "url": "https://github.com/rshtml/rshtml",
+            "description": "[ rshtml ] - RsHtml: Compile-time, type-safe, lightweight template engine that embeds Rust in HTML and HTML in Rust.",
             "tags": []
           },
           {
@@ -44555,6 +44561,12 @@
             "name": "zvec",
             "url": "https://github.com/alibaba/zvec",
             "description": "An embedded vector database for on-device RAG and edge AI, the SQLite of vector databases.",
+            "tags": []
+          },
+          {
+            "name": "pixeltable",
+            "url": "https://github.com/pixeltable/pixeltable",
+            "description": "Declarative multimodal AI data engine for tables, computed columns, and embedding search.",
             "tags": []
           },
           {
@@ -64741,6 +64753,12 @@
             "tags": []
           },
           {
+            "name": "pgwd",
+            "url": "https://github.com/hrodrig/pgwd",
+            "description": "CLI that monitors PostgreSQL connection counts (total, active, idle, stale) and notifies via Slack and/or Loki when thresholds are exceeded. Supports Kubernetes (kubectl port-forward) and optional run context in notifications.",
+            "tags": []
+          },
+          {
             "name": "pgweb",
             "url": "https://github.com/sosedoff/pgweb",
             "description": "Web-based PostgreSQL database browser.",
@@ -78568,6 +78586,12 @@
             "name": "skm",
             "url": "https://github.com/TimothyYe/skm",
             "description": "SKM is a simple and powerful SSH Keys Manager, it helps you to manage your multiple SSH keys easily!",
+            "tags": []
+          },
+          {
+            "name": "sortie",
+            "url": "https://github.com/sortie-ai/sortie",
+            "description": "Turn tracker tickets into autonomous coding agent sessions.",
             "tags": []
           },
           {
@@ -92514,6 +92538,12 @@
             "name": "PDF-Writer",
             "url": "https://github.com/galkahana/PDF-Writer",
             "description": "High performance library for creating, modiyfing and parsing PDF files in C++ [Apache-2.0] website",
+            "tags": []
+          },
+          {
+            "name": "PDF4QT",
+            "url": "https://github.com/JakubMelka/PDF4QT",
+            "description": "PDF toolkit with a rendering and editing library, a viewer and command line tools. [MIT] website",
             "tags": []
           },
           {
