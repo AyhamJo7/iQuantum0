@@ -3521,6 +3521,12 @@
             "tags": []
           },
           {
+            "name": "RetroArr",
+            "url": "https://retroarr.app",
+            "description": "\u26a0 - Game library manager for PC and retro consoles, with metadata scraping, indexer search, download automation and browser-based emulation (alternative to RomM). ( Source Code ) MIT Docker/.NET",
+            "tags": []
+          },
+          {
             "name": "Retrom",
             "url": "https://github.com/JMBeresford/retrom",
             "description": "Private cloud game library distribution server + frontend/launcher. GPL-3.0 Docker/Rust",
@@ -15732,7 +15738,7 @@
           {
             "name": "Screenpipe",
             "url": "https://github.com/screenpipe/screenpipe",
-            "description": "Local screen and microphone recorder with AI search.",
+            "description": "Source-available screen and audio recorder with searchable local history, optional cloud AI, and free and paid plans.",
             "tags": []
           },
           {
