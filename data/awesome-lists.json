@@ -23937,6 +23937,18 @@
             "tags": []
           },
           {
+            "name": "sorairolake/hf",
+            "url": "https://github.com/sorairolake/hf",
+            "description": "[ hf ] - Cross-platform hidden file library and utility",
+            "tags": []
+          },
+          {
+            "name": "sorairolake/ngrv",
+            "url": "https://github.com/sorairolake/ngrv",
+            "description": "[ ngrv ] - A terminal-based pipe viewer similar to pv(1)",
+            "tags": []
+          },
+          {
             "name": "sorairolake/rzopfli",
             "url": "https://github.com/sorairolake/rzopfli",
             "description": "[ rzopfli ] - A lossless data compression tool using Zopfli",
@@ -28009,6 +28021,12 @@
             "name": "rust-itertools/itertools",
             "url": "https://github.com/rust-itertools/itertools",
             "description": "Extra iterator adaptors, functions and macros",
+            "tags": []
+          },
+          {
+            "name": "sorairolake/bit-int",
+            "url": "https://github.com/sorairolake/bit-int",
+            "description": "[ bit-int ] - An arbitrary fixed bit-width integer library",
             "tags": []
           },
           {
@@ -44349,6 +44367,12 @@
             "name": "crawl4ai",
             "url": "https://github.com/unclecode/crawl4ai",
             "description": "An open-source, LLM-friendly web crawler that provides lightning-fast, structured data extraction specifically designed for AI agents.",
+            "tags": []
+          },
+          {
+            "name": "stagehand",
+            "url": "https://github.com/browserbase/stagehand",
+            "description": "A fast and token-efficient browser automation SDK to extract data and perform self-healing actions on web pages.",
             "tags": []
           },
           {
@@ -63287,6 +63311,12 @@
             "name": "CDS",
             "url": "https://github.com/ovh/cds",
             "description": "Enterprise-Grade CI/CD and DevOps Automation Open Source Platform.",
+            "tags": []
+          },
+          {
+            "name": "coverage",
+            "url": "https://github.com/jbunds/coverage",
+            "description": "A simple Web UI for Go test coverage, and the go-test-coverage-html-report reusable GitHub Action.",
             "tags": []
           },
           {
