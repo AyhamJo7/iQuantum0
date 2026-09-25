@@ -47957,6 +47957,12 @@
             "tags": []
           },
           {
+            "name": "Dusty",
+            "url": "https://toprak.sh/dusty",
+            "description": "Open-source menu bar disk cleaner that deletes only from a fixed allowlist, shows every path before removing it, and can undo a clean.",
+            "tags": []
+          },
+          {
             "name": "Harbofly",
             "url": "https://harbofly.app/",
             "description": "Menu bar app that auto-discovers and frees the disk space dev build artifacts and caches hog (DerivedData, node_modules, SPM/Homebrew caches). Zero telemetry, notarized.",
