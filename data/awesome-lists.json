@@ -89,6 +89,12 @@
             "tags": []
           },
           {
+            "name": "Cynative",
+            "url": "https://github.com/cynative/cynative",
+            "description": "Framework for building security engineering AI agents in Go. Read-only by construction, built-in sandbox, 45 agent blueprints for AWS, GCP, Azure, K8s, GitHub & GitLab deep research.",
+            "tags": []
+          },
+          {
             "name": "dakera-go",
             "url": "https://github.com/dakera-ai/dakera-go",
             "description": "Official Go client SDK for the Dakera self-hosted agent memory server, providing typed interfaces for memory store/recall, session management, namespace operations, and decay configuration.",
@@ -212,6 +218,12 @@
             "name": "snip",
             "url": "https://github.com/edouard-claude/snip",
             "description": "CLI proxy that reduces LLM token usage by 60-90% with declarative YAML filters. Drop-in for Claude Code, Cursor, Copilot, and Gemini. rtk alternative in Go.",
+            "tags": []
+          },
+          {
+            "name": "thermal",
+            "url": "https://github.com/jadmadi/thermal",
+            "description": "Terminal contribution heatmap, streak tracker, and token leaderboard for AI coding assistants.",
             "tags": []
           },
           {
@@ -61888,6 +61900,12 @@
             "tags": []
           },
           {
+            "name": "Fluxer",
+            "url": "https://fluxer.app",
+            "description": "Instant messaging and VoIP platform built for friends, groups, and communities (alternative to Discord). ( Demo , Source Code , Clients ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "GlobaLeaks",
             "url": "https://www.globaleaks.org/",
             "description": "Whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform. ( Demo , Source Code ) AGPL-3.0 Python/deb/Docker",
@@ -63303,6 +63321,12 @@
             "name": "Databunker",
             "url": "https://databunker.org/",
             "description": "Network-based, self-hosted, GDPR compliant, secure database for personal data or PII. ( Source Code ) MIT Docker",
+            "tags": []
+          },
+          {
+            "name": "datannur",
+            "url": "https://datannur.com",
+            "description": "Lightweight data catalog for documenting and exploring structured data files and databases. ( Demo , Source Code ) MIT Python",
             "tags": []
           },
           {
@@ -84407,6 +84431,12 @@
             "tags": []
           },
           {
+            "name": "akitaonrails/ai-usagebar",
+            "url": "https://github.com/akitaonrails/ai-usagebar",
+            "description": "[ ai-usagebar ] - Waybar widget, native Omarchy Quattro panel, and tabbed TUI for monitoring AI plan usage across Claude, Codex/ChatGPT, GitHub Copilot, Z.AI (GLM), OpenRouter, and more.",
+            "tags": []
+          },
+          {
             "name": "AlexsJones/llmfit",
             "url": "https://github.com/AlexsJones/llmfit",
             "description": "[ llmfit ] - Terminal tool that right-sizes LLM models to your system's RAM, CPU, and GPU. Interactive TUI with hardware detection, multi-dimensional scoring (quality/speed/fit/context), community leaderboard, and support for Ollama, llama.cpp, MLX, vLLM, and more.",
@@ -85613,6 +85643,12 @@
             "tags": []
           },
           {
+            "name": "jamii/focus",
+            "url": "https://github.com/jamii/focus",
+            "description": "A minimalist text editor with built-in jj (Jujutsu) version-control integration.",
+            "tags": []
+          },
+          {
             "name": "ki-editor/ki-editor",
             "url": "https://github.com/ki-editor/ki-editor",
             "description": "A multi-cursor combinatoric modal editor",
@@ -85783,6 +85819,12 @@
             "name": "sstadick/hck",
             "url": "https://github.com/sstadick/hck",
             "description": "A faster and more featureful drop in replacement for cut",
+            "tags": []
+          },
+          {
+            "name": "SylphxAI/anymd",
+            "url": "https://github.com/SylphxAI/anymd",
+            "description": "Convert any file (PDF, DOCX, PPTX, XLSX, EPUB, HTML/URLs, images, audio/video) to clean Markdown for AI agents; a CLI and MCP server",
             "tags": []
           },
           {
@@ -85980,6 +86022,12 @@
             "name": "pastel",
             "url": "https://github.com/sharkdp/pastel",
             "description": "Helps working with colors: generate, mix, random color.",
+            "tags": []
+          },
+          {
+            "name": "race604/clock-tui",
+            "url": "https://github.com/race604/clock-tui",
+            "description": "[ clock-tui ] - A terminal clock app with local clock, timer and stopwatch.",
             "tags": []
           },
           {
@@ -89303,6 +89351,12 @@
             "tags": []
           },
           {
+            "name": "suradet-ps/encryptman",
+            "url": "https://github.com/suradet-ps/encryptman",
+            "description": "[ encryptman ] - AES-256-GCM encryption for application settings with HKDF key derivation",
+            "tags": []
+          },
+          {
             "name": "verifyfetch",
             "url": "https://github.com/hamzaydia/verifyfetch",
             "description": "Streaming file integrity verification using Rust/WASM SHA-256 hashing with constant memory. Resumable downloads for large files in the browser.",
@@ -92196,6 +92250,12 @@
             "tags": []
           },
           {
+            "name": "ANSSI-FR/rust-guide",
+            "url": "https://github.com/ANSSI-FR/rust-guide",
+            "description": "French cybersecurity agency (ANSSI) recommendations for developing secure applications with Rust, with a generated checklist",
+            "tags": []
+          },
+          {
             "name": "\ud83e\udd80 Free Ferris Pack \ud83e\udd80",
             "url": "https://github.com/MariaLetta/free-ferris-pack",
             "description": "Pack of 50+ Free Ferris illustrations with different emotions, poses and situations in PNG and SVG licensed under CC0",
@@ -93337,6 +93397,12 @@
             "name": "stagehand",
             "url": "https://github.com/browserbase/stagehand",
             "description": "A fast and token-efficient browser automation SDK to extract data and perform self-healing actions on web pages.",
+            "tags": []
+          },
+          {
+            "name": "jev-ultrafast",
+            "url": "https://github.com/browser-use/jev-ultrafast",
+            "description": "A fast browser agent that picks actions from an indexed table of page elements, using a small LLM only to type text.",
             "tags": []
           },
           {
