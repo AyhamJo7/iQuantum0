@@ -46856,6 +46856,12 @@
             "tags": []
           },
           {
+            "name": "Translate Like Me",
+            "url": "https://github.com/wiltodelta/translate-like-me",
+            "description": "Open-source menu bar translator that replaces the selected text in any app, in your own writing style, via Claude, ChatGPT or Grok.",
+            "tags": []
+          },
+          {
             "name": "Translatium",
             "url": "https://translatium.app",
             "description": "Translation app for words, phrases, and images in 100+ languages.",
@@ -47990,6 +47996,12 @@
             "name": "DaisyDisk",
             "url": "https://daisydiskapp.com/",
             "description": "Disk usage analyzer and cleaner.",
+            "tags": []
+          },
+          {
+            "name": "DiskWise",
+            "url": "https://github.com/DreamOfXM/diskwise",
+            "description": "Open-source SwiftUI disk cleaner whose only deletion path is the Trash, with per-session undo and a knowledge base that explains each cache entry.",
             "tags": []
           },
           {
