@@ -46564,6 +46564,12 @@
             "tags": []
           },
           {
+            "name": "Google AI Edge Eloquent",
+            "url": "https://developers.google.com/edge/eloquent",
+            "description": "Free on-device AI dictation and voice editing from Google that works in any app, currently English only.",
+            "tags": []
+          },
+          {
             "name": "LocalScribe",
             "url": "https://github.com/maddylaneeee/ShengJi",
             "description": "Open-source local transcription and subtitle editor for microphones, media files, and Mac audio.",
@@ -47493,6 +47499,12 @@
             "name": "Bartender",
             "url": "https://www.macbartender.com",
             "description": "Organize or hide menu bar icons on your Mac.",
+            "tags": []
+          },
+          {
+            "name": "Belay",
+            "url": "https://perfectoweb.github.io/Belay/",
+            "description": "Keeps your Mac awake only while a local AI coding agent is working, and lets it sleep the moment the work stops.",
             "tags": []
           },
           {
@@ -48637,9 +48649,9 @@
             "tags": []
           },
           {
-            "name": "Karabiner",
-            "url": "https://pqrs.org/osx/karabiner/",
-            "description": "Powerful and stable keyboard customizer for OS X.",
+            "name": "Karabiner-Elements",
+            "url": "https://karabiner-elements.pqrs.org/",
+            "description": "Remap keys and customize keyboard behavior on macOS.",
             "tags": []
           },
           {
