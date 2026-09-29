@@ -83,6 +83,12 @@
             "tags": []
           },
           {
+            "name": "claude-code-go",
+            "url": "https://github.com/lancekrogers/claude-code-go",
+            "description": "Go library for driving the Claude Code CLI non-interactive prompt surface from Go programs.",
+            "tags": []
+          },
+          {
             "name": "crewai-go",
             "url": "https://github.com/rhgs/crewai-go",
             "description": "Idiomatic Go port of CrewAI (multi-agent orchestration). Zero dependencies, stdlib only.",
@@ -48069,6 +48075,12 @@
             "url": "https://getpurge.com",
             "description": "Open-source cache cleaner that moves files to the Trash instead of deleting them, using a fixed allowlist and no telemetry.",
             "tags": []
+          },
+          {
+            "name": "SquirrelDisk",
+            "url": "https://github.com/adileo/squirreldisk",
+            "description": "Open-source disk usage analyzer with sunburst and treemap views for disks and cloud storage.",
+            "tags": []
           }
         ]
       },
@@ -50090,7 +50102,7 @@
           {
             "name": "Coost",
             "url": "https://github.com/idealvin/coost",
-            "description": "A tiny boost library in C++11. [MIT]",
+            "description": "A lightweight, dependency-free C++ library with go-style coroutines, logging, config and other utilities. [MIT]",
             "tags": []
           },
           {
@@ -85075,6 +85087,12 @@
         "name": "System tools",
         "resources": [
           {
+            "name": "adileo/squirreldisk",
+            "url": "https://github.com/adileo/squirreldisk",
+            "description": "Disk usage analyzer GUI (egui) for macOS, Windows and Linux with sunburst and treemap views, which can also scan SSH servers and cloud storage via rclone",
+            "tags": []
+          },
+          {
             "name": "ajeetdsouza/zoxide",
             "url": "https://github.com/ajeetdsouza/zoxide/",
             "description": "A fast alternative to cd that learns your habits",
@@ -87588,6 +87606,12 @@
             "name": "rustfmt",
             "url": "https://github.com/rust-lang/rustfmt",
             "description": "Rust code formatter maintained by the Rust team and included in cargo",
+            "tags": []
+          },
+          {
+            "name": "rvben/rumdl",
+            "url": "https://github.com/rvben/rumdl",
+            "description": "[ rumdl ] - A fast Markdown linter and formatter written in Rust",
             "tags": []
           }
         ]
@@ -90210,6 +90234,12 @@
             "tags": []
           },
           {
+            "name": "rxing-core/rxing",
+            "url": "https://github.com/rxing-core/rxing",
+            "description": "[ rxing ] - A rust port of the zxing barcode library.",
+            "tags": []
+          },
+          {
             "name": "bincode",
             "url": "https://crates.io/crates/bincode",
             "description": "A binary encoder/decoder",
@@ -91543,6 +91573,12 @@
             "name": "mazznoer/csscolorparser-rs",
             "url": "https://github.com/mazznoer/csscolorparser-rs",
             "description": "[ csscolorparser ] - CSS color parser library",
+            "tags": []
+          },
+          {
+            "name": "mohamadzoh/phonelib",
+            "url": "https://github.com/mohamadzoh/phonelib",
+            "description": "[ phonelib ] - A dependency-free Rust library for parsing, validating, formatting, and normalizing international phone numbers.",
             "tags": []
           },
           {
@@ -94816,6 +94852,12 @@
             "name": "loguru",
             "url": "https://github.com/Delgan/loguru",
             "description": "Library which aims to bring enjoyable logging in Python.",
+            "tags": []
+          },
+          {
+            "name": "logfire",
+            "url": "https://github.com/pydantic/logfire",
+            "description": "The observability platform for Python, from the makers of Pydantic.",
             "tags": []
           }
         ]
