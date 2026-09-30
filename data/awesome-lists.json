@@ -47616,6 +47616,12 @@
             "tags": []
           },
           {
+            "name": "HeyMate",
+            "url": "https://getheymate.vercel.app",
+            "description": "AI assistant in the MacBook notch that answers questions about your screen out loud and runs Claude Code, Codex, or OpenCode agents after you approve their plan, with media, file shelf, and calendar widgets.",
+            "tags": []
+          },
+          {
             "name": "Hidden",
             "url": "https://github.com/dwarvesf/hidden",
             "description": "A ultra-light MacOS utility that helps hide menu bar icons.",
@@ -67895,7 +67901,7 @@
           {
             "name": "Syncloud",
             "url": "https://syncloud.org/",
-            "description": "Your own online file storage, social network or email server. ( Source Code ) GPL-3.0 Go/Shell",
+            "description": "OS with an app store and automatic updates for apps such as Nextcloud, Jellyfin, Bitwarden and Paperless, including HTTPS, a domain name and remote access without a public IP. ( Source Code ) GPL-3.0 Go/Shell",
             "tags": []
           },
           {
@@ -83866,6 +83872,12 @@
             "tags": []
           },
           {
+            "name": "makeev/alphai-tui",
+            "url": "https://github.com/makeev/alphai-tui",
+            "description": "[ alphai-tui ] - Terminal stock dashboard with keyless quotes and charts, news sentiment, SEC Form 4 insider trades and earnings reads.",
+            "tags": []
+          },
+          {
             "name": "nautechsystems/nautilus_trader",
             "url": "https://github.com/nautechsystems/nautilus_trader",
             "description": "A high-performance, production-grade algorithmic trading platform written in Rust and Python.",
@@ -88452,6 +88464,12 @@
             "name": "sgrust01/jwtvault",
             "url": "https://github.com/sgrust01/jwtvault",
             "description": "Async library to manage and orchestrate JWT workflow",
+            "tags": []
+          },
+          {
+            "name": "tenuo-ai/tenuo",
+            "url": "https://github.com/tenuo-ai/tenuo",
+            "description": "[ tenuo ] - Capability-based authorization for AI agents. Signed warrants scope tool calls and arguments, and only narrow when delegated",
             "tags": []
           },
           {
