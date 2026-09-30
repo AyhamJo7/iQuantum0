@@ -46785,6 +46785,12 @@
             "tags": []
           },
           {
+            "name": "Yalqen",
+            "url": "https://yalqen.com/",
+            "description": "Open-source, Chromium-based developer browser with vertical tabs and a keyboard-first command bar.",
+            "tags": []
+          },
+          {
             "name": "Yandex",
             "url": "https://browser.yandex.com/",
             "description": "The quick and secure browser from Yandex for computers.",
@@ -49601,6 +49607,12 @@
             "name": "KeepingYouAwake",
             "url": "https://github.com/newmarcel/KeepingYouAwake",
             "description": "Caffeine alternative with dark mode support.",
+            "tags": []
+          },
+          {
+            "name": "MacFanPro",
+            "url": "https://github.com/macfanpro/macfanpro",
+            "description": "Fan control for Apple Silicon Macs with a menu bar app, temperature-based profiles and a CLI.",
             "tags": []
           },
           {
