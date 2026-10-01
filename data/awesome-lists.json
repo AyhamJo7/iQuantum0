@@ -3510,6 +3510,12 @@
             "tags": []
           },
           {
+            "name": "dba",
+            "url": "https://github.com/kran/dba",
+            "description": "SQL query builder for hand-written SQL, adding dynamic conditions, dialect-aware placeholders, and immutable chaining.",
+            "tags": []
+          },
+          {
             "name": "dbq",
             "url": "https://github.com/rocketlaunchr/dbq",
             "description": "Zero boilerplate database operations for Go.",
@@ -20142,6 +20148,12 @@
             "tags": []
           },
           {
+            "name": "MvvmCross",
+            "url": "https://github.com/MvvmCross/MvvmCross",
+            "description": "(label: first-timers-only) The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.",
+            "tags": []
+          },
+          {
             "name": "osu!",
             "url": "https://github.com/ppy/osu",
             "description": "(label: good first issue) Music game. Rhythm is just a click away!",
@@ -20196,7 +20208,7 @@
           },
           {
             "name": "MoveIt",
-            "url": "https://github.com/ros-planning/moveit",
+            "url": "https://github.com/moveit/moveit",
             "description": "(label: good first issue) Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.",
             "tags": []
           },
@@ -20322,13 +20334,13 @@
           },
           {
             "name": "Dragonfly",
-            "url": "https://github.com/dragonflyoss/Dragonfly2",
+            "url": "https://github.com/dragonflyoss/dragonfly",
             "description": "(label: good first issue) Provide efficient, stable and secure file distribution and image acceleration based on p2p technology",
             "tags": []
           },
           {
             "name": "Helm",
-            "url": "https://github.com/kubernetes/helm",
+            "url": "https://github.com/helm/helm",
             "description": "(label: good first issue) The Kubernetes Package Manager",
             "tags": []
           },
@@ -20336,6 +20348,12 @@
             "name": "Hugo",
             "url": "https://github.com/gohugoio/hugo",
             "description": "(label: GoodFirstIssue) A Fast and Flexible Static Site Generator built with love in GoLang",
+            "tags": []
+          },
+          {
+            "name": "Incus",
+            "url": "https://github.com/lxc/incus",
+            "description": "(label: easy) System container and virtual machine manager.",
             "tags": []
           },
           {
@@ -20351,12 +20369,6 @@
             "tags": []
           },
           {
-            "name": "lxd",
-            "url": "https://github.com/lxc/lxd",
-            "description": "(label: easy) System container and virtual machine manager.",
-            "tags": []
-          },
-          {
             "name": "Mattermost",
             "url": "https://github.com/mattermost/mattermost",
             "description": "(label: Good First Issue, Difficulty/1:Easy) Open source Slack-alternative in Golang and React Look for issues labelled 'Up For Grabs'",
@@ -20364,7 +20376,7 @@
           },
           {
             "name": "Meshery",
-            "url": "https://github.com/layer5io/meshery",
+            "url": "https://github.com/meshery/meshery",
             "description": "(label: good first issue) Meshery, the service mesh management plane.",
             "tags": []
           },
@@ -20505,7 +20517,7 @@
         "resources": [
           {
             "name": "altair",
-            "url": "https://github.com/imolorhe/altair",
+            "url": "https://github.com/altair-graphql/altair",
             "description": "(label: good first issue) A beautiful feature-rich GraphQL Client for all platforms.",
             "tags": []
           },
@@ -20513,12 +20525,6 @@
             "name": "Ancient Beast",
             "url": "https://github.com/FreezingMoon/AncientBeast",
             "description": "(label: easy) Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.",
-            "tags": []
-          },
-          {
-            "name": "AVA",
-            "url": "https://github.com/sindresorhus/ava",
-            "description": "(label: good-for-beginner) Futuristic test runner.",
             "tags": []
           },
           {
@@ -20553,7 +20559,7 @@
           },
           {
             "name": "Create React App",
-            "url": "https://github.com/facebook/create-react-app",
+            "url": "https://github.com/react/create-react-app",
             "description": "(label: good first issue) Create React apps with no build configuration.",
             "tags": []
           },
@@ -20561,6 +20567,12 @@
             "name": "cypress",
             "url": "https://github.com/cypress-io/cypress",
             "description": "(label: good first issue) Fast, easy and reliable testing for anything that runs in a browser.",
+            "tags": []
+          },
+          {
+            "name": "Decap CMS",
+            "url": "https://github.com/decaporg/decap-cms",
+            "description": "(label: good first issue) Open source content management for your git workflow.",
             "tags": []
           },
           {
@@ -20573,12 +20585,6 @@
             "name": "Ember.js",
             "url": "https://github.com/emberjs/ember.js",
             "description": "(label: Good-for-New-Contributors) A JavaScript framework for creating ambitious web applications.",
-            "tags": []
-          },
-          {
-            "name": "Ember.js Data",
-            "url": "https://github.com/emberjs/data",
-            "description": "(label: Good-for-New-Contributors) A data persistence library for Ember.js.",
             "tags": []
           },
           {
@@ -20643,7 +20649,7 @@
           },
           {
             "name": "HueHive",
-            "url": "https://github.com/croma-app/croma",
+            "url": "https://github.com/croma-app/huehive-mobile-app",
             "description": "(label: good first issue) An open source react native app iOS and android for color palette management",
             "tags": []
           },
@@ -20667,7 +20673,7 @@
           },
           {
             "name": "Jest",
-            "url": "https://github.com/facebook/jest",
+            "url": "https://github.com/jestjs/jest",
             "description": "(label: good first issue) A complete and easy to set up JavaScript testing solution.",
             "tags": []
           },
@@ -20726,12 +20732,6 @@
             "tags": []
           },
           {
-            "name": "netlify-cms",
-            "url": "https://github.com/netlify/netlify-cms",
-            "description": "(label: good first issue) Open source content management for your git workflow.",
-            "tags": []
-          },
-          {
             "name": "Next.js",
             "url": "https://github.com/vercel/next.js",
             "description": "(label: good first issue) A minimalistic framework for universal server-rendered React applications",
@@ -20757,13 +20757,13 @@
           },
           {
             "name": "pixi.js",
-            "url": "https://github.com/pixijs/pixi.js",
+            "url": "https://github.com/pixijs/pixijs",
             "description": "(label: \ud83e\udd29 Good First PR) A 2D JavaScript Renderer",
             "tags": []
           },
           {
             "name": "PouchDB",
-            "url": "https://github.com/pouchdb/pouchdb",
+            "url": "https://github.com/apache/pouchdb",
             "description": "(label: help-wanted) PouchDB is a pocket-sized database.",
             "tags": []
           },
@@ -20781,13 +20781,13 @@
           },
           {
             "name": "React",
-            "url": "https://github.com/facebook/react",
+            "url": "https://github.com/react/react",
             "description": "(label: good first issue) A declarative, efficient, and flexible JavaScript library for building user interfaces.",
             "tags": []
           },
           {
             "name": "React Native",
-            "url": "https://github.com/facebook/react-native",
+            "url": "https://github.com/react/react-native",
             "description": "(label: Good-first-issue) A framework for building native apps with React.",
             "tags": []
           },
@@ -20817,7 +20817,7 @@
           },
           {
             "name": "stryker",
-            "url": "https://github.com/stryker-mutator/stryker",
+            "url": "https://github.com/stryker-mutator/stryker-js",
             "description": "(label: \ud83d\udc76 Good first issue) The JavaScript mutation testing framework",
             "tags": []
           },
@@ -20888,6 +20888,12 @@
             "tags": []
           },
           {
+            "name": "WarpDrive",
+            "url": "https://github.com/warp-drive-data/warp-drive",
+            "description": "(label: Good-for-New-Contributors) A data persistence library for Ember.js.",
+            "tags": []
+          },
+          {
             "name": "webdriver.io",
             "url": "https://github.com/webdriverio/webdriverio",
             "description": "(label: first-timers-only) Next-gen browser and mobile automation test framework for Node.js",
@@ -20938,21 +20944,9 @@
             "tags": []
           },
           {
-            "name": "Hexagon",
-            "url": "https://github.com/hexagonkt/hexagon",
-            "description": "(label: help-wanted) A microservices toolkit written in Kotlin",
-            "tags": []
-          },
-          {
             "name": "Non-Blocking SirixDB HTTP(S)-Server",
             "url": "https://github.com/sirixdb/sirix",
             "description": "(label: good first issue) A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON.",
-            "tags": []
-          },
-          {
-            "name": "OpenCalc",
-            "url": "https://github.com/Darkempire78/OpenCalc",
-            "description": "(label: good first issue) A simple and beautiful calculator for Android.",
             "tags": []
           },
           {
@@ -20976,17 +20970,6 @@
             "name": "tldr-pages",
             "url": "https://github.com/tldr-pages/tldr",
             "description": "(label: help-wanted) Collaborative cheatsheets for console commands.",
-            "tags": []
-          }
-        ]
-      },
-      {
-        "name": "MLOps",
-        "resources": [
-          {
-            "name": "SuperDuperDB",
-            "url": "https://github.com/SuperDuperDB/superduperdb",
-            "description": "(label: good first issue) \ud83d\udd2eSuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data",
             "tags": []
           }
         ]
@@ -21031,7 +21014,7 @@
           },
           {
             "name": "Flarum",
-            "url": "https://github.com/flarum/core",
+            "url": "https://github.com/flarum/framework",
             "description": "(label: Good-first-issue) Simple forum software for building great communities.",
             "tags": []
           },
@@ -21173,7 +21156,7 @@
           },
           {
             "name": "django cookiecutter",
-            "url": "https://github.com/pydanny/cookiecutter-django",
+            "url": "https://github.com/cookiecutter/cookiecutter-django",
             "description": "(label: hacktoberfest) An implementation of Python for backend web development.",
             "tags": []
           },
@@ -21191,7 +21174,7 @@
           },
           {
             "name": "FastAPI",
-            "url": "https://github.com/tiangolo/fastapi",
+            "url": "https://github.com/fastapi/fastapi",
             "description": "(label: good first issue) A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.",
             "tags": []
           },
@@ -21244,8 +21227,8 @@
             "tags": []
           },
           {
-            "name": "MindsDB",
-            "url": "https://github.com/mindsdb/mindsdb",
+            "name": "mindshub",
+            "url": "https://github.com/mindsdb/mindshub",
             "description": "(label: good first issue) MindsDB is an open source AI layer for existing databases.",
             "tags": []
           },
@@ -21337,12 +21320,6 @@
             "name": "scrapy",
             "url": "https://github.com/scrapy/scrapy",
             "description": "(label: good first issue) A fast high-level web crawling & scraping framework for Python.",
-            "tags": []
-          },
-          {
-            "name": "SuperDuperDB",
-            "url": "https://github.com/SuperDuperDB/superduperdb",
-            "description": "(label: good first issue) \ud83d\udd2eSuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data",
             "tags": []
           },
           {
@@ -21446,12 +21423,6 @@
         "name": "Rust",
         "resources": [
           {
-            "name": "dotenv-linter",
-            "url": "https://github.com/dotenv-linter/dotenv-linter",
-            "description": "(label: good first issue) Lightning-fast linter for .env files. Written in Rust",
-            "tags": []
-          },
-          {
             "name": "Hyper",
             "url": "https://github.com/hyperium/hyper",
             "description": "(label: E-easy) A fast, safe and correct low-level HTTP library for Rust.",
@@ -21465,7 +21436,7 @@
           },
           {
             "name": "Ockam",
-            "url": "https://github.com/ockam-network/ockam",
+            "url": "https://github.com/build-trust/ockam",
             "description": "(label: good first issue) End-to-end encryption and mutual authentication for distributed applications.",
             "tags": []
           },
@@ -21489,7 +21460,7 @@
           },
           {
             "name": "Rustfmt",
-            "url": "https://github.com/rust-lang-nursery/rustfmt",
+            "url": "https://github.com/rust-lang/rustfmt",
             "description": "(label: good first issue) A tool for formatting Rust code according to style guidelines.",
             "tags": []
           },
@@ -21506,12 +21477,6 @@
             "tags": []
           },
           {
-            "name": "TensorZero",
-            "url": "https://github.com/tensorzero/tensorzero",
-            "description": "(label: good-first-issue) TensorZero creates a feedback loop for optimizing LLM applications \u2014 turning production data into smarter, faster, and cheaper models.",
-            "tags": []
-          },
-          {
             "name": "TiKV",
             "url": "https://github.com/tikv/tikv",
             "description": "(label: difficulty/easy) A distributed transactional key-value database",
@@ -21524,8 +21489,8 @@
             "tags": []
           },
           {
-            "name": "zoom-rs",
-            "url": "https://github.com/security-union/zoom-rs",
+            "name": "videocall-rs",
+            "url": "https://github.com/security-union/videocall-rs",
             "description": "(label: good first issue) Teleconference system with a web based user interface written in Rust",
             "tags": []
           }
@@ -21677,7 +21642,7 @@
           },
           {
             "name": "reatom",
-            "url": "https://github.com/artalar/reatom",
+            "url": "https://github.com/reatom/reatom",
             "description": "(label: good first issue) Reatom is declarative and reactive state manager, designed for both simple and complex applications.",
             "tags": []
           },
@@ -21701,7 +21666,7 @@
           },
           {
             "name": "tinyhttp",
-            "url": "https://github.com/talentlessguy/tinyhttp",
+            "url": "https://github.com/tinyhttp/tinyhttp",
             "description": "(label: good first issue) A 0-legacy, tiny & fast web framework as a replacement of Express.",
             "tags": []
           },
@@ -90587,9 +90552,9 @@
             "tags": []
           },
           {
-            "name": "stochastic-rs",
+            "name": "rust-dd/stochastic-rs",
             "url": "https://github.com/rust-dd/stochastic-rs",
-            "description": "[ stochastic-rs ] - High-performance data generation library for stochastic process with quant finance tools.",
+            "description": "[ stochastic-rs ] - Quantitative finance: 130+ stochastic processes, option pricing and calibration, volatility surfaces and copulas, SIMD/GPU accelerated with Python bindings.",
             "tags": []
           },
           {
