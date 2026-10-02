@@ -9714,6 +9714,12 @@
             "tags": []
           },
           {
+            "name": "expose",
+            "url": "https://github.com/kernelshard/expose",
+            "description": "Lightweight, open-source secure tunneling tool to expose local servers to the internet.",
+            "tags": []
+          },
+          {
             "name": "fasthttp",
             "url": "https://github.com/valyala/fasthttp",
             "description": "Package fasthttp is a fast HTTP implementation for Go, up to 10 times faster than net/http.",
@@ -20284,6 +20290,17 @@
         ]
       },
       {
+        "name": "Electron",
+        "resources": [
+          {
+            "name": "Posnic",
+            "url": "https://github.com/Posnic/POS",
+            "description": "(label: good first issue) Offline-first open source POS and billing software for retail shops and restaurants, with online/offline workflows.",
+            "tags": []
+          }
+        ]
+      },
+      {
         "name": "Elixir",
         "resources": [
           {
@@ -20445,6 +20462,12 @@
             "tags": []
           },
           {
+            "name": "Checkstyle",
+            "url": "https://github.com/checkstyle/checkstyle",
+            "description": "(label: good first issue) A development tool to help programmers write Java code that adheres to a coding standard.",
+            "tags": []
+          },
+          {
             "name": "Codename One",
             "url": "https://github.com/codenameone/CodenameOne",
             "description": "(label: good first issue) Cross-platform mobile app development framework for Java developers",
@@ -20460,6 +20483,12 @@
             "name": "elasticsearch",
             "url": "https://github.com/elastic/elasticsearch",
             "description": "(label: good first issue) Open Source, Distributed, RESTful Search Engine.",
+            "tags": []
+          },
+          {
+            "name": "Hiero SDK Java",
+            "url": "https://github.com/hiero-ledger/hiero-sdk-java",
+            "description": "(label: Good First Issue) Java SDK for interacting with the Hiero network.",
             "tags": []
           },
           {
@@ -20528,6 +20557,12 @@
             "tags": []
           },
           {
+            "name": "appsmith",
+            "url": "https://github.com/appsmithorg/appsmith",
+            "description": "(label: good first issue) Drag & Drop internal tool builder",
+            "tags": []
+          },
+          {
             "name": "Babel",
             "url": "https://github.com/babel/babel",
             "description": "(label: good first issue) A compiler for writing next generation JavaScript.",
@@ -20573,6 +20608,12 @@
             "name": "Decap CMS",
             "url": "https://github.com/decaporg/decap-cms",
             "description": "(label: good first issue) Open source content management for your git workflow.",
+            "tags": []
+          },
+          {
+            "name": "DevShelf",
+            "url": "https://github.com/RitualDev-Lab/DevShelf",
+            "description": "(label: good first issue) A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring.",
             "tags": []
           },
           {
@@ -20762,6 +20803,12 @@
             "tags": []
           },
           {
+            "name": "Posnic",
+            "url": "https://github.com/Posnic/POS",
+            "description": "(label: good first issue) Offline-first open source POS and billing software for retail shops and restaurants, with online/offline workflows.",
+            "tags": []
+          },
+          {
             "name": "PouchDB",
             "url": "https://github.com/apache/pouchdb",
             "description": "(label: help-wanted) PouchDB is a pocket-sized database.",
@@ -20897,17 +20944,6 @@
             "name": "webdriver.io",
             "url": "https://github.com/webdriverio/webdriverio",
             "description": "(label: first-timers-only) Next-gen browser and mobile automation test framework for Node.js",
-            "tags": []
-          }
-        ]
-      },
-      {
-        "name": "Javascript",
-        "resources": [
-          {
-            "name": "appsmith",
-            "url": "https://github.com/appsmithorg/appsmith",
-            "description": "(label: good first issue) Drag & Drop internal tool builder",
             "tags": []
           }
         ]
@@ -21376,12 +21412,6 @@
             "tags": []
           },
           {
-            "name": "mapknitter",
-            "url": "https://github.com/publiclab/mapknitter",
-            "description": "(label: first-timers-only) Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print.",
-            "tags": []
-          },
-          {
             "name": "multiwoven",
             "url": "https://github.com/Multiwoven/multiwoven",
             "description": "(label: good first issue) The open-source reverse ETL, data activation platform for modern data teams.",
@@ -21438,6 +21468,12 @@
             "name": "Ockam",
             "url": "https://github.com/build-trust/ockam",
             "description": "(label: good first issue) End-to-end encryption and mutual authentication for distributed applications.",
+            "tags": []
+          },
+          {
+            "name": "OffPDF",
+            "url": "https://github.com/McanKul/offpdf",
+            "description": "(label: good first issue) An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally.",
             "tags": []
           },
           {
@@ -21504,12 +21540,6 @@
             "url": "https://github.com/playframework/playframework",
             "description": "(label: good first issue) The High Velocity Web Framework",
             "tags": []
-          },
-          {
-            "name": "Twitter Util",
-            "url": "https://github.com/twitter/util",
-            "description": "(label: good first issue) Wonderful reusable code from Twitter",
-            "tags": []
           }
         ]
       },
@@ -21551,6 +21581,12 @@
             "tags": []
           },
           {
+            "name": "appsmith",
+            "url": "https://github.com/appsmithorg/appsmith",
+            "description": "(label: good first issue) Drag & Drop internal tool builder",
+            "tags": []
+          },
+          {
             "name": "Berry - Active development trunk for Yarn",
             "url": "https://github.com/yarnpkg/berry",
             "description": "(label: good first issue) Fast, reliable, and secure dependency management.",
@@ -21566,6 +21602,12 @@
             "name": "Devopness",
             "url": "https://github.com/devopness/devopness",
             "description": "(label: good first issue) Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.",
+            "tags": []
+          },
+          {
+            "name": "DevShelf",
+            "url": "https://github.com/RitualDev-Lab/DevShelf",
+            "description": "(label: good first issue) A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring.",
             "tags": []
           },
           {
@@ -21620,6 +21662,12 @@
             "name": "Metabase",
             "url": "https://github.com/metabase/metabase",
             "description": "(label: good first issue) Open source business intelligence and analytics platform",
+            "tags": []
+          },
+          {
+            "name": "OffPDF",
+            "url": "https://github.com/McanKul/offpdf",
+            "description": "(label: good first issue) An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally.",
             "tags": []
           },
           {
@@ -21698,17 +21746,6 @@
             "name": "Vitest",
             "url": "https://github.com/vitest-dev/vitest",
             "description": "(label: good first issue) A blazing fast unit test framework powered by Vite.",
-            "tags": []
-          }
-        ]
-      },
-      {
-        "name": "Typescript",
-        "resources": [
-          {
-            "name": "appsmith",
-            "url": "https://github.com/appsmithorg/appsmith",
-            "description": "(label: good first issue) Drag & Drop internal tool builder",
             "tags": []
           }
         ]
@@ -42096,6 +42133,12 @@
             "tags": []
           },
           {
+            "name": "Amber Notes",
+            "url": "https://ambernotes.app/",
+            "description": "Open-source notes app that ChatGPT, Claude and other AI assistants can search and edit over MCP, with each AI edit highlighted and undoable.",
+            "tags": []
+          },
+          {
             "name": "Anytype",
             "url": "https://anytype.io/",
             "description": "Local-first note-taking and knowledge management app.",
@@ -44462,6 +44505,12 @@
             "tags": []
           },
           {
+            "name": "Screen Loupe",
+            "url": "https://ayenora.github.io/screen-loupe/",
+            "description": "Open-source live magnifier that shows any part of the screen zoomed, pixel-true, in a separate window.",
+            "tags": []
+          },
+          {
             "name": "ScreenToLayers",
             "url": "https://github.com/duyquoc/ScreenToLayers",
             "description": "Easily export your screen into a layered PSD file.",
@@ -46361,6 +46410,12 @@
             "name": "Swads",
             "url": "https://swads.app/",
             "description": "Synology Download Station Client, modern, native, and intuitively redesign.",
+            "tags": []
+          },
+          {
+            "name": "TBD",
+            "url": "https://tbd.yt/",
+            "description": "Open-source YouTube video and audio downloader built on yt-dlp, which a phone on the same Wi-Fi can also drive.",
             "tags": []
           },
           {
@@ -48399,6 +48454,12 @@
             "tags": []
           },
           {
+            "name": "Lotti",
+            "url": "https://matthiasn.github.io/lotti/",
+            "description": "Private logbook for tasks, time tracking, journaling and habits, with end-to-end encrypted sync and optional AI agents.",
+            "tags": []
+          },
+          {
             "name": "Microsoft To-Do",
             "url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-to-do-list-app",
             "description": "Microsoft's successor to Wunderlist.",
@@ -48509,6 +48570,12 @@
             "name": "BetterTouchTool",
             "url": "https://folivora.ai/",
             "description": "Customize gestures, shortcuts, and input actions across trackpads, mice, and keyboards.",
+            "tags": []
+          },
+          {
+            "name": "Brink",
+            "url": "https://brinknotch.site",
+            "description": "A notch on your screen edge that keeps your Notion pages and tasks one hover away.",
             "tags": []
           },
           {
@@ -62012,6 +62079,12 @@
             "name": "One Time Secret",
             "url": "https://docs.onetimesecret.com",
             "description": "Share sensitive information securely with self-destructing links that are only viewable once. ( Demo , Source Code ) MIT Docker/Ruby/Nodejs",
+            "tags": []
+          },
+          {
+            "name": "OpenWA",
+            "url": "https://www.open-wa.org",
+            "description": "\u26a0 - WhatsApp API gateway exposing messaging as REST endpoints, with a web dashboard, multi-account sessions, and webhook events (alternative to WhatsApp Business API providers). ( Source Code , Clients ) MIT Docker",
             "tags": []
           },
           {
@@ -84714,6 +84787,12 @@
             "tags": []
           },
           {
+            "name": "socai-io/socai",
+            "url": "https://github.com/socai-io/socai",
+            "description": "A social research agent that reuses signed-in Chrome to search and read posts, comments, profiles, and supported media across Instagram, TikTok, LinkedIn, X, Xiaohongshu, and Douyin.",
+            "tags": []
+          },
+          {
             "name": "tambourine-voice",
             "url": "https://github.com/kstonekuan/tambourine-voice",
             "description": "personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.",
@@ -86707,6 +86786,12 @@
             "name": "dotenv-linter",
             "url": "https://github.com/dotenv-linter/dotenv-linter",
             "description": "Linter for .env files",
+            "tags": []
+          },
+          {
+            "name": "enroute-sh/enroute",
+            "url": "https://github.com/enroute-sh/enroute",
+            "description": "Programmable git infrastructure on object storage",
             "tags": []
           },
           {
@@ -90696,6 +90781,12 @@
             "name": "fschutt/printpdf",
             "url": "https://github.com/fschutt/printpdf",
             "description": "PDF writing library",
+            "tags": []
+          },
+          {
+            "name": "fullbleed-engine/fullbleed-official",
+            "url": "https://github.com/fullbleed-engine/fullbleed-official",
+            "description": "[ fullbleed ] - Print-focused HTML/CSS-to-PDF engine with reusable templates, variable-data generation, and Python bindings.",
             "tags": []
           },
           {
