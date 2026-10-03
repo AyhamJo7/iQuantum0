@@ -43098,6 +43098,12 @@
             "tags": []
           },
           {
+            "name": "Frpc-Desktop",
+            "url": "https://github.com/luckjiawei/frpc-desktop",
+            "description": "Open-source desktop client for FRP reverse proxy and intranet penetration with a visual interface.",
+            "tags": []
+          },
+          {
             "name": "Gas Mask",
             "url": "https://github.com/2ndalpha/gasmask",
             "description": "Simple hosts file manager for Mac OS X.",
@@ -46130,6 +46136,12 @@
             "name": "Nuclear",
             "url": "https://nuclear.js.org/",
             "description": "Streaming music player that finds free music for you.",
+            "tags": []
+          },
+          {
+            "name": "OpenSpatial",
+            "url": "https://github.com/dortanes/openspatial",
+            "description": "Open-source spatial audio for any headphones, playing every app as 7.1 surround with head tracking.",
             "tags": []
           },
           {
