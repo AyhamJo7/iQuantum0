@@ -17550,6 +17550,12 @@
             "tags": []
           },
           {
+            "name": "claude-grep",
+            "url": "https://github.com/evoleinik/claude-grep",
+            "description": "Search Claude Code session history with regex and semantic (vector) search.",
+            "tags": []
+          },
+          {
             "name": "Comcast",
             "url": "https://github.com/tylertreat/Comcast",
             "description": "Simulate bad network connections.",
