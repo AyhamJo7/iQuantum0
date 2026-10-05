@@ -113,6 +113,12 @@
             "tags": []
           },
           {
+            "name": "Genkit",
+            "url": "https://github.com/firebase/genkit",
+            "description": "Framework created by Google for building AI-powered and agentic applications in idiomatic Go.",
+            "tags": []
+          },
+          {
             "name": "goai",
             "url": "https://github.com/zendev-sh/goai",
             "description": "Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK.",
@@ -4255,6 +4261,12 @@
             "tags": []
           },
           {
+            "name": "timex",
+            "url": "https://github.com/invzhi/timex",
+            "description": "A Go package that extends the standard library time with dedicated date and time-of-day types.",
+            "tags": []
+          },
+          {
             "name": "tuesday",
             "url": "https://github.com/osteele/tuesday",
             "description": "Ruby-compatible Strftime function.",
@@ -5099,6 +5111,12 @@
             "name": "Fault",
             "url": "https://github.com/Southclaws/fault",
             "description": "An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values.",
+            "tags": []
+          },
+          {
+            "name": "go-bruh",
+            "url": "https://github.com/aisbergg/go-bruh",
+            "description": "Error handling with stack traces, custom formatting, and observability integration.",
             "tags": []
           },
           {
@@ -11264,6 +11282,12 @@
             "tags": []
           },
           {
+            "name": "FCaptcha",
+            "url": "https://github.com/WebDecoy/FCaptcha",
+            "description": "Self-hosted CAPTCHA server and Go client that detects bots, AI agents, and headless browsers through behavioral analysis and proof of work.",
+            "tags": []
+          },
+          {
             "name": "firewalld-rest",
             "url": "https://github.com/prashantgupta24/firewalld-rest",
             "description": "A rest application to dynamically update firewalld rules on a linux server.",
@@ -12587,6 +12611,12 @@
             "name": "gomock",
             "url": "https://github.com/vibridi/gomock",
             "description": "CLI tool to generate typed and framework-agnostic interface mocks, with support for generics.",
+            "tags": []
+          },
+          {
+            "name": "gomocker",
+            "url": "https://github.com/zhongjie-cai/gomocker",
+            "description": "A live mocker library for functions and methods in Golang for unit testing with fluent syntax, no code-gen needed.",
             "tags": []
           },
           {
@@ -15721,6 +15751,12 @@
         "name": "Middlewares",
         "resources": [
           {
+            "name": "apitally",
+            "url": "https://github.com/apitally/apitally-go",
+            "description": "API monitoring and analytics middleware with metrics, logging, and alerts. Works with Chi, Echo, Fiber, and Gin.",
+            "tags": []
+          },
+          {
             "name": "client-timing",
             "url": "https://github.com/posener/client-timing",
             "description": "An HTTP client for Server-Timing header.",
@@ -17239,6 +17275,12 @@
             "tags": []
           },
           {
+            "name": "lima",
+            "url": "https://github.com/lima-vm/lima",
+            "description": "Linux virtual machines with a focus on running containers and local VM workloads.",
+            "tags": []
+          },
+          {
             "name": "lstags",
             "url": "https://github.com/ivanilves/lstags",
             "description": "Tool and API to sync Docker images across different registries.",
@@ -17260,6 +17302,12 @@
             "name": "Mantil",
             "url": "https://github.com/mantil-io/mantil",
             "description": "Go specific framework for building serverless applications on AWS that enables you to focus on pure Go code while Mantil takes care of the infrastructure.",
+            "tags": []
+          },
+          {
+            "name": "metricsd",
+            "url": "https://github.com/0x524A/metricsd",
+            "description": "Lightweight metrics collector with plugin system, shipping to Prometheus, Splunk HEC, and HTTP JSON endpoints.",
             "tags": []
           },
           {
@@ -17910,6 +17958,12 @@
             "tags": []
           },
           {
+            "name": "SiteBrush",
+            "url": "https://github.com/matveynator/sitebrush",
+            "description": "Keep the website. Retire WordPress. Turn an existing website into editable static HTML without rebuilding its design.",
+            "tags": []
+          },
+          {
             "name": "Snitch",
             "url": "https://github.com/lucasgomide/snitch",
             "description": "Simple way to notify your team and many tools when someone has deployed any application via Tsuru.",
@@ -18208,14 +18262,8 @@
             "tags": []
           },
           {
-            "name": "GopherCon Vietnam",
-            "url": "https://gophercon.vn/",
-            "description": "Ho Chi Minh City, Vietnam.",
-            "tags": []
-          },
-          {
             "name": "GoWest Conference",
-            "url": "https://www.gowestconf.com/",
+            "url": "https://gowestconf.com/",
             "description": "Lehi, USA.",
             "tags": []
           }
@@ -18327,7 +18375,7 @@
           },
           {
             "name": "An Introduction to Programming in Go",
-            "url": "http://www.golang-book.com/",
+            "url": "https://web.archive.org/web/20231228173204/https://www.golang-book.com/books/intro",
             "description": "",
             "tags": []
           },
@@ -19190,6 +19238,12 @@
             "tags": []
           },
           {
+            "name": "ReadyToTouch",
+            "url": "https://github.com/readytotouch/readytotouch",
+            "description": "Open-source list of companies and jobs using Go in production.",
+            "tags": []
+          },
+          {
             "name": "studygolang",
             "url": "https://studygolang.com",
             "description": "The community of studygolang in China.",
@@ -19316,7 +19370,7 @@
           },
           {
             "name": "Go Language Tutorial",
-            "url": "https://www.javatpoint.com/go-tutorial",
+            "url": "https://www.tpointtech.com/go-tutorial",
             "description": "Learn Go language Tutorial.",
             "tags": []
           },
@@ -19456,6 +19510,12 @@
             "name": "package main",
             "url": "https://www.youtube.com/packagemain",
             "description": "YouTube channel about Programming in Go.",
+            "tags": []
+          },
+          {
+            "name": "Programming for Lovers",
+            "url": "https://programmingforlovers.com",
+            "description": "Free introductory programming course with Go code-alongs built around scientific applications.",
             "tags": []
           },
           {
@@ -42574,6 +42634,12 @@
             "tags": []
           },
           {
+            "name": "Rapid Reader",
+            "url": "https://github.com/Zer0codestuff/Rapid-Reader",
+            "description": "Open-source RSVP speed reader for EPUB, PDF, and web articles with a full-text view.",
+            "tags": []
+          },
+          {
             "name": "Readest",
             "url": "https://github.com/readest/readest",
             "description": "Open-source ebook reader with a clean interface and powerful reading tools.",
@@ -45406,6 +45472,12 @@
             "tags": []
           },
           {
+            "name": "DataNexa",
+            "url": "https://mingozacwu.github.io/datanexa-site/",
+            "description": "Open-source desktop database MCP gateway that aggregates multiple databases into a single access point with read-only enforcement and auditing for AI agents.",
+            "tags": []
+          },
+          {
             "name": "DeepDeck",
             "url": "https://deepdeck.getmegaportal.com/",
             "description": "Desktop AI workspace built on DeepSeek Harness for creating and reusing WebMCP tools for website tasks.",
@@ -46782,6 +46854,12 @@
             "tags": []
           },
           {
+            "name": "WhisperDrop 2",
+            "url": "https://github.com/Zer0codestuff/whisperdrop-2",
+            "description": "Open-source local transcription for audio, video, YouTube, and meetings, with dictation into any app.",
+            "tags": []
+          },
+          {
             "name": "Whispering",
             "url": "https://epicenter.md/whispering/",
             "description": "Multi-provider speech-to-text with AI transformations and keyboard shortcuts.",
@@ -46927,7 +47005,7 @@
           {
             "name": "Yalqen",
             "url": "https://yalqen.com/",
-            "description": "Open-source, Chromium-based developer browser with vertical tabs and a keyboard-first command bar.",
+            "description": "Open-source Chromium browser for developers with vertical tabs, a keyboard-first command bar, built-in developer tools, and ad and tracker blocking.",
             "tags": []
           },
           {
@@ -48936,6 +49014,12 @@
             "name": "OpenIn",
             "url": "https://loshadki.app/openin4/",
             "description": "Take control of installed apps on your Mac",
+            "tags": []
+          },
+          {
+            "name": "OpenNaga",
+            "url": "https://github.com/Zer0codestuff/OpenNaga",
+            "description": "Open-source Razer Synapse alternative for the Naga V2 HyperSpeed that remaps the side buttons and sets DPI and polling rate.",
             "tags": []
           },
           {
@@ -65363,12 +65447,6 @@
             "tags": []
           },
           {
-            "name": "Shelf",
-            "url": "https://www.shelf.nu",
-            "description": "Asset and equipment tracking software used by teams who value clarity. Shelf is an asset database and QR asset label generator that lets you create, manage and overview your assets across locations. Unlimited assets, free forever. ( Source Code ) AGPL-3.0 Nodejs",
-            "tags": []
-          },
-          {
             "name": "Spoolman",
             "url": "https://github.com/Donkie/Spoolman",
             "description": "Keep track of your inventory of 3D-printer filament spools. MIT Docker/Python",
@@ -65395,6 +65473,12 @@
             "name": "LibreKB",
             "url": "https://librekb.com/",
             "description": "Web-based knowledge base solution. A simple web app, it runs on pretty much any web server or hosting provider with PHP and MySQL. ( Source Code ) GPL-3.0 PHP",
+            "tags": []
+          },
+          {
+            "name": "Marmot",
+            "url": "https://marmotdata.io",
+            "description": "Data catalog for discovering and organizing data assets across your stack, including databases, APIs, message queues, and pipelines. ( Demo , Source Code ) MIT Docker",
             "tags": []
           },
           {
@@ -67043,6 +67127,12 @@
             "tags": []
           },
           {
+            "name": "NoteDiscovery",
+            "url": "https://www.notediscovery.com/",
+            "description": "Markdown note-taking app with plain-file storage, graph view, and MCP integration (alternative to Obsidian, Notion). ( Demo , Source Code ) MIT Docker/Python",
+            "tags": []
+          },
+          {
             "name": "Overleaf",
             "url": "https://www.overleaf.com/",
             "description": "Web-based collaborative LaTeX editor. ( Source Code ) AGPL-3.0 Ruby",
@@ -67693,6 +67783,12 @@
             "name": "GitProxy",
             "url": "https://git-proxy.finos.org/",
             "description": "Proxy for Git that applies rules and workflows to all outgoing git push operations and ensures they are compliant. It supports both HTTP/HTTPS and SSH protocols with security scanning and validation. ( Source Code ) Apache-2.0 Nodejs/Docker",
+            "tags": []
+          },
+          {
+            "name": "imagor",
+            "url": "https://github.com/cshum/imagor",
+            "description": "Fast, secure image processing server and Go library built on libvips, with on-demand resizing, cropping, filtering, format conversion and image composition, signed URLs and streaming pipelines for high-concurrency throughput. Apache-2.0 Docker",
             "tags": []
           },
           {
@@ -68873,6 +68969,12 @@
             "name": "Roundup Issue Tracker",
             "url": "https://www.roundup-tracker.org/",
             "description": "Simple-to-use and -install issue tracking system with command-line, web, REST, XML-RPC, and e-mail interfaces. Designed with flexibility in mind - not just another bug tracker. ( Source Code ) MIT/ZPL-2.0 Python/Docker",
+            "tags": []
+          },
+          {
+            "name": "Rustrak",
+            "url": "https://rustrak.github.io/rustrak/",
+            "description": "Error tracking server compatible with Sentry SDKs, using 32 MB of memory at idle with SQLite storage. ( Source Code ) GPL-3.0 Rust/Docker",
             "tags": []
           },
           {
@@ -84645,6 +84747,12 @@
             "tags": []
           },
           {
+            "name": "pkgforge/soar",
+            "url": "https://github.com/pkgforge/soar",
+            "description": "[ soar-cli ] - A distro-independent package manager for portable packages, AppImages, and static binaries",
+            "tags": []
+          },
+          {
             "name": "pkgx",
             "url": "https://github.com/pkgxdev/pkgx",
             "description": "Run anything. A composable package manager that makes the entire open source ecosystem available to your scripts.",
@@ -84889,6 +84997,12 @@
             "tags": []
           },
           {
+            "name": "murray17/rovai-ai",
+            "url": "https://github.com/murray17/rovai-ai",
+            "description": "Desktop and web workspace for coding agent teams, with a Rust core for task coordination, execution tracking, and collaborative memory.",
+            "tags": []
+          },
+          {
             "name": "muvon/octomind",
             "url": "https://github.com/muvon/octomind",
             "description": "Open-source AI agent runtime CLI with 48+ specialist agents, MCP host with dynamic server registration, multi-provider support (13+ LLMs), and adaptive context compression for 4+ hour sessions.",
@@ -84955,6 +85069,12 @@
             "tags": []
           },
           {
+            "name": "ThinkWatchProject/ThinkWatch-Lite",
+            "url": "https://github.com/ThinkWatchProject/ThinkWatch-Lite",
+            "description": "Desktop app (Tauri) that runs a local gateway for Claude Code, Codex and other AI coding clients: switch upstreams without changing client config, convert between Anthropic, OpenAI and Gemini APIs, record the cost of each request, and redact API keys before requests leave.",
+            "tags": []
+          },
+          {
             "name": "tinyhumansai/opencompany",
             "url": "https://github.com/tinyhumansai/opencompany",
             "description": "Open-source runtime that assembles AI agents into a working company: shared work board, handoffs between agents, human approvals, scheduled and DAG workflows. Runs on any model you bring, self-hosted with Docker.",
@@ -85000,6 +85120,12 @@
             "name": "Xoshbin/asyar",
             "url": "https://github.com/Xoshbin/asyar",
             "description": "The power of Raycast. The speed of Alfred. Privacy by design.",
+            "tags": []
+          },
+          {
+            "name": "y0sif/whisrs",
+            "url": "https://github.com/y0sif/whisrs",
+            "description": "[ whisrs ] - Voice dictation for the Linux desktop: speak and the text appears at the cursor in any app on Wayland or X11, plus read-aloud and voice-driven LLM commands. Runs on cloud backends or fully offline via whisper.cpp",
             "tags": []
           },
           {
