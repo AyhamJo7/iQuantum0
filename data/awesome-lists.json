@@ -989,6 +989,12 @@
             "tags": []
           },
           {
+            "name": "glamour",
+            "url": "https://github.com/charmbracelet/glamour",
+            "description": "Stylesheet-based markdown rendering for terminal applications.",
+            "tags": []
+          },
+          {
             "name": "go-ataman",
             "url": "https://github.com/workanator/go-ataman",
             "description": "Go library for rendering ANSI colored text templates in terminals.",
@@ -1052,6 +1058,12 @@
             "name": "goscaf",
             "url": "https://github.com/iyashjayesh/goscaf",
             "description": "goscaf generates opinionated, production-quality Go project boilerplate via an interactive CLI. Stop copy-pasting skeleton code between projects.",
+            "tags": []
+          },
+          {
+            "name": "huh",
+            "url": "https://github.com/charmbracelet/huh",
+            "description": "Lightweight library for building interactive forms and prompts in the terminal.",
             "tags": []
           },
           {
@@ -8110,7 +8122,7 @@
           },
           {
             "name": "gorse",
-            "url": "https://github.com/zhenghaoz/gorse",
+            "url": "https://github.com/gorse-io/gorse",
             "description": "An offline recommender system backend based on collaborative filtering written in Go.",
             "tags": []
           },
@@ -12465,6 +12477,12 @@
             "tags": []
           },
           {
+            "name": "prettycov",
+            "url": "https://github.com/screwyprof/prettycov",
+            "description": "Draws a Go coverage profile as a package tree with a total on every row.",
+            "tags": []
+          },
+          {
             "name": "restit",
             "url": "https://github.com/yookoala/restit",
             "description": "Go micro framework to help writing RESTful API integration test.",
@@ -13793,6 +13811,12 @@
             "name": "openaigo",
             "url": "https://github.com/otiai10/openaigo",
             "description": "OpenAI GPT3/GPT3.5 ChatGPT API client library for Go.",
+            "tags": []
+          },
+          {
+            "name": "openapi",
+            "url": "https://github.com/speakeasy-api/openapi",
+            "description": "Parse, validate, and manipulate OpenAPI, Swagger, Arazzo, and OpenAPI Overlay documents.",
             "tags": []
           },
           {
@@ -45544,6 +45568,12 @@
             "tags": []
           },
           {
+            "name": "ThinkWatch Lite",
+            "url": "https://thinkwat.ch/lite/",
+            "description": "Local gateway for Claude Code, Codex, and other AI coding clients that switches upstreams without client changes, records the cost of each request, and redacts API keys before requests leave.",
+            "tags": []
+          },
+          {
             "name": "TokenMeter",
             "url": "https://priyans-hu.github.io/tokenmeter/",
             "description": "Track Claude Code usage, rate limits, costs, and activity heatmaps.",
@@ -48268,6 +48298,12 @@
             "name": "Mac Cache Cleaner",
             "url": "https://github.com/kaunteya/MacCacheCleaner",
             "description": "Cache cleaner for Mac",
+            "tags": []
+          },
+          {
+            "name": "MAC-LIMPO",
+            "url": "https://alexkads.github.io/MAC-LIMPO/",
+            "description": "Menu bar cleaner for developer caches (Xcode, Docker, simulators, node_modules) with a 2D/3D disk usage treemap.",
             "tags": []
           },
           {
@@ -88359,6 +88395,12 @@
             "tags": []
           },
           {
+            "name": "cmccomb/rust-automl",
+            "url": "https://github.com/cmccomb/rust-automl",
+            "description": "[ automl ] - Automated classification, regression, and clustering workflows built on SmartCore",
+            "tags": []
+          },
+          {
             "name": "EricLBuehler/mistral.rs",
             "url": "https://github.com/EricLBuehler/mistral.rs",
             "description": "[ mistralrs ] - Fast, flexible LLM inference engine supporting multimodal models, quantization (GGUF/GPTQ/ISQ), and OpenAI-compatible API",
@@ -89428,6 +89470,12 @@
             "tags": []
           },
           {
+            "name": "cmccomb/vote",
+            "url": "https://github.com/cmccomb/vote",
+            "description": "[ vote ] - Common preference aggregation and voting methods",
+            "tags": []
+          },
+          {
             "name": "dimforge/nalgebra",
             "url": "https://github.com/dimforge/nalgebra",
             "description": "low-dimensional linear algebra library",
@@ -89503,6 +89551,12 @@
             "name": "Axect/Peroxide",
             "url": "https://github.com/Axect/Peroxide",
             "description": "Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust",
+            "tags": []
+          },
+          {
+            "name": "cmccomb/structural-shapes",
+            "url": "https://github.com/cmccomb/structural-shapes",
+            "description": "[ structural-shapes ] - Section properties and AISC data for common structural shapes",
             "tags": []
           },
           {
@@ -92204,6 +92258,12 @@
             "tags": []
           },
           {
+            "name": "cmccomb/mocktave",
+            "url": "https://github.com/cmccomb/mocktave",
+            "description": "[ mocktave ] - Run Octave or MATLAB code from Rust with native and bundled modes",
+            "tags": []
+          },
+          {
             "name": "duckscript",
             "url": "https://crates.io/crates/duckscript",
             "description": "Simple, extendable and embeddable scripting language.",
@@ -92453,6 +92513,12 @@
             "name": "BurntSushi/tabwriter",
             "url": "https://github.com/BurntSushi/tabwriter",
             "description": "Elastic tab stops (i.e., text column alignment)",
+            "tags": []
+          },
+          {
+            "name": "cmccomb/rust-stop-words",
+            "url": "https://github.com/cmccomb/rust-stop-words",
+            "description": "[ stop-words ] - Common stop words in many languages",
             "tags": []
           },
           {
