@@ -125,6 +125,12 @@
             "tags": []
           },
           {
+            "name": "golem",
+            "url": "https://github.com/abubakarsiddik31/golem",
+            "description": "Framework for building dependable AI agents with typed dependencies, zero external dependencies, and native MCP support.",
+            "tags": []
+          },
+          {
             "name": "GoModel",
             "url": "https://github.com/ENTERPILOT/GoModel",
             "description": "AI gateway exposing a unified OpenAI-compatible API across OpenAI, Anthropic, Gemini, Groq, xAI, Ollama and other providers, with routing, usage tracking, rate limits, and guardrails.",
@@ -7370,6 +7376,12 @@
             "name": "jscan",
             "url": "https://github.com/romshark/jscan",
             "description": "High performance zero-allocation JSON iterator.",
+            "tags": []
+          },
+          {
+            "name": "jseq",
+            "url": "https://github.com/bobg/jseq",
+            "description": "Streaming JSON parser.",
             "tags": []
           },
           {
@@ -45634,6 +45646,12 @@
             "tags": []
           },
           {
+            "name": "mu",
+            "url": "https://github.com/qybaihe/mu",
+            "description": "Open-source coding agent with a CLI and a desktop app, in which a small judge model makes routine calls such as what enters the context and whether a flagged command was asked for.",
+            "tags": []
+          },
+          {
             "name": "Off Grid AI Desktop",
             "url": "https://getoffgridai.co/desktop",
             "description": "Private, local-first AI for your Mac: local LLM chat, image generation, voice dictation, and memory search, all on-device.",
@@ -46388,6 +46406,12 @@
             "name": "Shotcut",
             "url": "https://www.shotcut.org",
             "description": "Free open-source video editor.",
+            "tags": []
+          },
+          {
+            "name": "Sonar",
+            "url": "https://github.com/can4hou6joeng4/Sonar",
+            "description": "Native music player with synchronized lyrics and menu bar and notch playback controls.",
             "tags": []
           },
           {
@@ -66829,12 +66853,6 @@
             "tags": []
           },
           {
-            "name": "ExpenseOwl",
-            "url": "https://github.com/tanq16/expenseowl",
-            "description": "Extremely simple expense tracker with a beautiful UI. MIT Go/Docker/K8S",
-            "tags": []
-          },
-          {
             "name": "ezbookkeeping",
             "url": "https://ezbookkeeping.mayswind.net/",
             "description": "A lightweight personal bookkeeping app hosted by yourself. ( Demo , Source Code ) MIT Go/Docker",
@@ -68273,7 +68291,7 @@
         "resources": [
           {
             "name": "Aastro",
-            "url": "https://starwalkn.github.io/aastro-docs",
+            "url": "https://voidrunner3074.github.io/aastro-docs",
             "description": "Extensible API Gateway written in Go. ( Source Code ) Apache-2.0 Go/Docker",
             "tags": []
           },
@@ -68756,12 +68774,6 @@
             "name": "Tuleap",
             "url": "https://www.tuleap.org/",
             "description": "Tuleap is a libre suite to plan, track, code and collaborate on software projects. ( Source Code ) GPL-2.0 PHP",
-            "tags": []
-          },
-          {
-            "name": "UVDesk",
-            "url": "https://www.uvdesk.com/",
-            "description": "UVDesk community is a service oriented, event driven extensible opensource helpdesk system that can be used by your organization to provide efficient support to your clients effortlessly whichever way you imagine. ( Demo , Source Code ) MIT PHP",
             "tags": []
           },
           {
@@ -85462,6 +85474,12 @@
             "tags": []
           },
           {
+            "name": "poljar/weechat-matrix-rs",
+            "url": "https://github.com/poljar/weechat-matrix-rs",
+            "description": "Rust rewrite of the python weechat-matrix script.",
+            "tags": []
+          },
+          {
             "name": "tgt",
             "url": "https://github.com/FedericoBruzzone/tgt",
             "description": "A crossplatform TUI for Telegram",
@@ -88611,6 +88629,12 @@
             "tags": []
           },
           {
+            "name": "samvallad33/vestige",
+            "url": "https://github.com/samvallad33/vestige",
+            "description": "Causal proof engine and operating system for AI agents built on Strata, an append-only signed log. No vectors and no RAG. Every answer carries its proof as a memory id, an edge path or a receipt, and it traces a failure back to the commit that caused it",
+            "tags": []
+          },
+          {
             "name": "tenequm/pond",
             "url": "https://github.com/tenequm/pond",
             "description": "[ pond-db ] - Lossless storage and search for AI agent sessions across twelve coding-agent clients, built on Lance over a local directory or an S3 bucket, with BM25 and optional vector retrieval exposed over CLI, HTTP, MCP and read-only SQL",
@@ -89857,6 +89881,12 @@
             "tags": []
           },
           {
+            "name": "suradet-ps/encryptman-keyring",
+            "url": "https://github.com/suradet-ps/encryptman-keyring",
+            "description": "[ encryptman-keyring ] - OS keychain-backed master key storage for encryptman",
+            "tags": []
+          },
+          {
             "name": "verifyfetch",
             "url": "https://github.com/hamzaydia/verifyfetch",
             "description": "Streaming file integrity verification using Rust/WASM SHA-256 hashing with constant memory. Resumable downloads for large files in the browser.",
@@ -90263,6 +90293,12 @@
             "name": "LMDB",
             "url": "https://www.symas.com/lmdb.php",
             "description": "[ lmdb ] meilisearch/heed [ heed ] - Fully typed LMDB wrappers with minimum overhead vhbit/lmdb-rs [ lmdb-rs ] - Rust bindings for LMDB",
+            "tags": []
+          },
+          {
+            "name": "Minigraf",
+            "url": "https://github.com/project-minigraf/minigraf",
+            "description": "[ minigraf ] - Zero-config, single-file, embedded graph database with bi-temporal Datalog queries",
             "tags": []
           },
           {
