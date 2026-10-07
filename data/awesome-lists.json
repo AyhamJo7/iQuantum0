@@ -17479,6 +17479,12 @@
             "tags": []
           },
           {
+            "name": "Spinifex",
+            "url": "https://github.com/mulgadc/spinifex",
+            "description": "Self-hosted, AWS-compatible cloud platform providing EC2, EBS, S3, VPC and IAM APIs for bare-metal, edge and on-premises infrastructure.",
+            "tags": []
+          },
+          {
             "name": "StatusOK",
             "url": "https://github.com/sanathp/statusok",
             "description": "Monitor your Website and REST APIs.Get Notified through Slack, E-mail when your server is down or response time is more than expected.",
