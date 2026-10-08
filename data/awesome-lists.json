@@ -1534,6 +1534,12 @@
             "tags": []
           },
           {
+            "name": "vibecheck",
+            "url": "https://github.com/rshdhere/vibecheck",
+            "description": "Cross-platform CLI that generates Git commit messages automatically from code changes.",
+            "tags": []
+          },
+          {
             "name": "wlog",
             "url": "https://github.com/dixonwille/wlog",
             "description": "Simple logging interface that supports cross-platform color and concurrency.",
@@ -42429,7 +42435,7 @@
           {
             "name": "massCode",
             "url": "https://masscode.io/",
-            "description": "Cross-platform open-source code snippets manager with markdown and mermaid support.",
+            "description": "Open-source developer workspace for code snippets, Markdown notes and HTTP requests, stored as local Markdown files.",
             "tags": []
           },
           {
@@ -46208,6 +46214,12 @@
             "name": "IINA",
             "url": "https://iina.io/",
             "description": "The modern video player for macOS. Based on mpv, the powerful media player project.",
+            "tags": []
+          },
+          {
+            "name": "IPTVMac",
+            "url": "https://goelir.github.io/IPTVMac/",
+            "description": "Native IPTV player for Xtream Codes and M3U with instant search, mpv playback, Picture in Picture and downloads.",
             "tags": []
           },
           {
@@ -58220,6 +58232,12 @@
             "name": "Clang-Tidy",
             "url": "https://clang.llvm.org/extra/clang-tidy.html",
             "description": "Clang-based C++ linter tool.",
+            "tags": []
+          },
+          {
+            "name": "cpp-linter-hooks",
+            "url": "https://github.com/cpp-linter/cpp-linter-hooks",
+            "description": "Pre-commit hooks for C/C++ powered by clang-format and clang-tidy. [MIT]",
             "tags": []
           },
           {
@@ -83602,6 +83620,12 @@
         "name": "Database",
         "resources": [
           {
+            "name": "aimdb-dev/aimdb",
+            "url": "https://github.com/aimdb-dev/aimdb",
+            "description": "[ aimdb-core ] - Data ingestion layer for distributed systems with typed contracts, safe schema evolution and one place to see and manage every node, from microcontroller to cloud.",
+            "tags": []
+          },
+          {
             "name": "apecloud/ape-dts",
             "url": "https://github.com/apecloud/ape-dts",
             "description": "Data Transfer Suite. Provides data replication between MySQL, PostgreSQL, Redis, MongoDB, Kafka, ClickHouse, and more.",
@@ -85018,6 +85042,12 @@
             "name": "kruseio/hygg",
             "url": "https://github.com/kruseio/hygg",
             "description": "[ hygg ] - \ud83d\udcda Simplifying the way you read. Minimalistic Vim-like TUI document reader.",
+            "tags": []
+          },
+          {
+            "name": "leepokai/Codync",
+            "url": "https://github.com/leepokai/Codync",
+            "description": "A host that runs Claude Code, Codex, Gemini and other ACP coding agents as persistent bots you message from an iPhone, desktop app or terminal UI (ratatui)",
             "tags": []
           },
           {
@@ -93182,6 +93212,17 @@
   {
     "name": "Awesome Python",
     "categories": [
+      {
+        "name": "Sponsors",
+        "resources": [
+          {
+            "name": "iPulse AI",
+            "url": "https://ipulseai.com",
+            "description": "Open Agentic Investment Research Platform. Inspect deep multi-agent market forecasts and stock picks.",
+            "tags": []
+          }
+        ]
+      },
       {
         "name": "AI and Agents",
         "resources": [
