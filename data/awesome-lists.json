@@ -13466,6 +13466,12 @@
             "tags": []
           },
           {
+            "name": "gghstats",
+            "url": "https://github.com/hrodrig/gghstats",
+            "description": "Self-hosted GitHub traffic dashboard that stores clones and views in SQLite beyond the 14-day API window.",
+            "tags": []
+          },
+          {
             "name": "github",
             "url": "https://github.com/google/go-github",
             "description": "Go library for accessing the GitHub REST API v3.",
@@ -44470,6 +44476,12 @@
             "tags": []
           },
           {
+            "name": "Farol",
+            "url": "https://github.com/snowztech/farol",
+            "description": "Terminal built on libghostty that shows which coding agent is working, waiting or done.",
+            "tags": []
+          },
+          {
             "name": "Ghostty",
             "url": "https://github.com/ghostty-org/ghostty",
             "description": "Fast GPU-accelerated terminal emulator.",
@@ -46316,6 +46328,12 @@
             "name": "mpv",
             "url": "https://www.mpv.io/",
             "description": "Free, open-source, and cross-platform media player.",
+            "tags": []
+          },
+          {
+            "name": "Mooziac",
+            "url": "https://mooziac.pages.dev",
+            "description": "Lightweight native macOS menu bar player for YouTube Music & local audio.",
             "tags": []
           },
           {
