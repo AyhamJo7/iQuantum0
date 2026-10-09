@@ -44739,6 +44739,12 @@
             "tags": []
           },
           {
+            "name": "Redlamp",
+            "url": "https://redlamp.app",
+            "description": "Native, open-source raw photo editor that keeps Lightroom Classic's Develop workflow.",
+            "tags": []
+          },
+          {
             "name": "Screen Loupe",
             "url": "https://ayenora.github.io/screen-loupe/",
             "description": "Open-source live magnifier that shows any part of the screen zoomed, pixel-true, in a separate window.",
@@ -45598,6 +45604,12 @@
             "tags": []
           },
           {
+            "name": "Sesame",
+            "url": "https://github.com/qiwei66/sesame",
+            "description": "Open-source app that indexes the dashboards, reports, sites, PRs, and files Claude Code and Codex delivered, and reopens them when you type or say a few words.",
+            "tags": []
+          },
+          {
             "name": "SpotAsk",
             "url": "https://github.com/shiquda/SpotAsk",
             "description": "Native macOS menu bar AI assistant for quick questions: ask first, then use your own AI service for an in-app answer or send the question to another AI, app, or terminal command.",
@@ -45691,6 +45703,12 @@
             "name": "Prevail",
             "url": "https://prevail.sh",
             "description": "Local-first AI life OS: any model per life-domain over a plain-markdown vault on your Mac. Signed and notarized.",
+            "tags": []
+          },
+          {
+            "name": "Quail",
+            "url": "https://quail-ai.app",
+            "description": "Local model server for GGUF and MLX models on Apple silicon, with OpenAI- and Anthropic-compatible APIs for tools like Claude Code and Codex.",
             "tags": []
           },
           {
@@ -84538,6 +84556,12 @@
             "tags": []
           },
           {
+            "name": "storytold/cadcraft",
+            "url": "https://github.com/storytold/cadcraft",
+            "description": "An open-source, clean-room reimplementation of Autodesk AutoCAD, built in pure Rust.",
+            "tags": []
+          },
+          {
             "name": "turnage/valora",
             "url": "https://crates.io/crates/valora",
             "description": "A library for generative fine art",
@@ -84594,6 +84618,18 @@
             "name": "Sprite Fusion Pixel Snapper",
             "url": "https://github.com/Hugo-Dz/spritefusion-pixel-snapper",
             "description": "A CLI and WebAssembly tool that cleans up AI-generated pixel art to get pixel-perfect pixel art sprites (MIT).",
+            "tags": []
+          },
+          {
+            "name": "storytold/lightcraft",
+            "url": "https://github.com/storytold/lightcraft",
+            "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+            "tags": []
+          },
+          {
+            "name": "storytold/vectorcraft",
+            "url": "https://github.com/storytold/vectorcraft",
+            "description": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
             "tags": []
           },
           {
@@ -84958,6 +84994,12 @@
             "name": "bitrouter/bitrouter",
             "url": "https://github.com/bitrouter/bitrouter",
             "description": "[ bitrouter ] - Agent-native LLM router that optimizes your agent with every run with zero harness changes, making every model call reliable, traceable, secure, and cost-effective. Routes across OpenAI, Anthropic, Google, OpenRouter, Bedrock, GitHub Copilot, and more through a single local endpoint, with an MCP gateway, ACP integration, guardrails, observability, and multi-account failover.",
+            "tags": []
+          },
+          {
+            "name": "burakdede/aisw",
+            "url": "https://github.com/burakdede/aisw",
+            "description": "[ aisw ] - Switch Claude Code, Codex CLI, Gemini CLI and Antigravity CLI accounts with named profiles, cross-tool contexts and per-repository account guards",
             "tags": []
           },
           {
@@ -86767,6 +86809,12 @@
             "name": "Michael-A-Kuykendall/muxide",
             "url": "https://github.com/Michael-A-Kuykendall/muxide",
             "description": "[ muxide ] - Pure-Rust MP4 muxer with no external dependencies that writes standards-compliant MP4 from encoded frames.",
+            "tags": []
+          },
+          {
+            "name": "storytold/effectcraft",
+            "url": "https://github.com/storytold/effectcraft",
+            "description": "An open-source, clean-room reimplementation of Adobe After Effects for motion graphics and visual effects, built in pure Rust.",
             "tags": []
           },
           {
@@ -89979,6 +90027,12 @@
             "name": "datafusion",
             "url": "https://github.com/apache/datafusion",
             "description": "DataFusion is a very fast, extensible query engine for building high-quality data-centric systems in Rust, using the Apache Arrow in-memory format.",
+            "tags": []
+          },
+          {
+            "name": "faucet-hq/faucet-stream",
+            "url": "https://github.com/faucet-hq/faucet-stream",
+            "description": "[ faucet-core ] - ETL that governs your data while it moves: a config-driven data-movement platform with pluggable source and sink connectors, CDC, in-flight masking and quality checks, run from YAML by a single binary or embedded as a library",
             "tags": []
           },
           {
