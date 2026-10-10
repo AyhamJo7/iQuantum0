@@ -15537,6 +15537,12 @@
             "tags": []
           },
           {
+            "name": "rtspeek",
+            "url": "https://github.com/0x524a/rtspeek",
+            "description": "Library and CLI for probing RTSP streams and reporting reachability, latency, codecs, and resolutions.",
+            "tags": []
+          },
+          {
             "name": "v4l",
             "url": "https://github.com/korandiz/v4l",
             "description": "Video capture library for Linux, written in Go.",
@@ -43272,6 +43278,12 @@
             "tags": []
           },
           {
+            "name": "Device Hub Pro",
+            "url": "https://github.com/gitemre/device-hub-pro",
+            "description": "Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side.",
+            "tags": []
+          },
+          {
             "name": "DiffMerge",
             "url": "https://sourcegear.com/diffmerge/",
             "description": "Application to visually compare and merge files.",
@@ -48095,6 +48107,18 @@
             "name": "Mole Widget",
             "url": "https://github.com/bsnkhua/mole-widget",
             "description": "Lightweight system monitor with live CPU, memory, disk, network, battery, and process stats in a resizable desktop widget managed from the menu bar.",
+            "tags": []
+          },
+          {
+            "name": "FreeAudio",
+            "url": "https://github.com/hakanotal/FreeAudio",
+            "description": "Per-app volume and mute, output device switching, and volume control for HDMI/DisplayPort monitors.",
+            "tags": []
+          },
+          {
+            "name": "FreeDisplay",
+            "url": "https://github.com/hakanotal/FreeDisplay",
+            "description": "Control external display brightness, HiDPI modes, resolution, and arrangement from the menu bar.",
             "tags": []
           },
           {
