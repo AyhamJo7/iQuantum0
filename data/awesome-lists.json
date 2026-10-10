@@ -83,6 +83,12 @@
             "tags": []
           },
           {
+            "name": "clai",
+            "url": "https://github.com/baalimago/clai",
+            "description": "Agentic harness focused on terminal workflows, following UNIX principles. No external dependencies, ideal for scripting/prototyping agentic apps, engine is also exposed as a package.",
+            "tags": []
+          },
+          {
             "name": "claude-code-go",
             "url": "https://github.com/lancekrogers/claude-code-go",
             "description": "Go library for driving the Claude Code CLI non-interactive prompt surface from Go programs.",
@@ -104,12 +110,6 @@
             "name": "dakera-go",
             "url": "https://github.com/dakera-ai/dakera-go",
             "description": "Official Go client SDK for the Dakera self-hosted agent memory server, providing typed interfaces for memory store/recall, session management, namespace operations, and decay configuration.",
-            "tags": []
-          },
-          {
-            "name": "fun",
-            "url": "https://gitlab.com/tozd/go/fun",
-            "description": "The simplest but powerful way to use large language models (LLMs) in Go.",
             "tags": []
           },
           {
@@ -7236,6 +7236,12 @@
             "tags": []
           },
           {
+            "name": "RunWisp",
+            "url": "https://github.com/runwisp/runwisp",
+            "description": "Single-binary replacement for cron and supervisord that keeps the exit code and output of every run, with a web UI and a TUI.",
+            "tags": []
+          },
+          {
             "name": "sched",
             "url": "https://github.com/romshark/sched",
             "description": "A job scheduler with the ability to fast-forward time.",
@@ -11255,6 +11261,12 @@
             "name": "certificates",
             "url": "https://github.com/mvmaasakkers/certificates",
             "description": "An opinionated tool for generating tls certificates.",
+            "tags": []
+          },
+          {
+            "name": "certifier",
+            "url": "https://github.com/0x524a/certifier",
+            "description": "Library and CLI for generating and validating X.509 certificates, certificate authorities, CRLs, and OCSP responses.",
             "tags": []
           },
           {
@@ -15516,6 +15528,12 @@
             "name": "mpeg-ts-analyzer",
             "url": "https://github.com/small-teton/mpeg-ts-analyzer",
             "description": "Analyzer for MPEG-2 Transport Streams that checks PCR timing compliance and dumps low-level TS, PSI, and PES structures.",
+            "tags": []
+          },
+          {
+            "name": "onvif-go",
+            "url": "https://github.com/0x524a/onvif-go",
+            "description": "ONVIF client, WS-Discovery and virtual camera server for IP cameras.",
             "tags": []
           },
           {
@@ -49173,6 +49191,12 @@
             "tags": []
           },
           {
+            "name": "QDuo",
+            "url": "https://xueshi.dev/qduo/",
+            "description": "Popup at the cursor that runs your own actions on selected text in any app: AI prompts, search, text transforms, Shortcuts, and shell scripts.",
+            "tags": []
+          },
+          {
             "name": "Raycast",
             "url": "https://raycast.com?via=ae02",
             "description": "Launcher and command palette with extensions, snippets, notes, and AI.",
@@ -65531,6 +65555,12 @@
             "tags": []
           },
           {
+            "name": "CellarBoss",
+            "url": "https://cellarboss.org",
+            "description": "Wine inventory management system. ( Source Code ) GPL-3.0 Docker/Nodejs",
+            "tags": []
+          },
+          {
             "name": "DVinyl",
             "url": "https://github.com/Kyonew/DVinyl",
             "description": "\u26a0 - Modern collection manager for physical media (vinyls, CDs, cassettes, books, movies, and video games). MIT Nodejs/Docker",
@@ -66045,12 +66075,6 @@
             "name": "YoutubeDL-Server",
             "url": "https://github.com/nbr23/youtube-dl-server",
             "description": "Web and REST interface to Youtube-DL for downloading videos onto a server. MIT Python/Docker",
-            "tags": []
-          },
-          {
-            "name": "yt-dlp Web UI",
-            "url": "https://github.com/marcopiovanello/yt-dlp-web-ui",
-            "description": "Web GUI for yt-dlp. MPL-2.0 Docker/Go/Nodejs",
             "tags": []
           }
         ]
@@ -67418,12 +67442,6 @@
             "tags": []
           },
           {
-            "name": "Hemmelig",
-            "url": "https://hemmelig.app",
-            "description": "Share encrypted secrets cross organizations, or as private persons. ( Source Code ) MIT Docker/Nodejs",
-            "tags": []
-          },
-          {
             "name": "lesma",
             "url": "https://lesma.eu",
             "description": "Simple paste app friendly with browser and command line. ( Demo , Source Code ) GPL-3.0 Rust/Docker",
@@ -68264,6 +68282,12 @@
             "name": "LibreServer",
             "url": "https://libreserver.org/",
             "description": "Home server configuration based on Debian. ( Source Code ) AGPL-3.0 Shell",
+            "tags": []
+          },
+          {
+            "name": "Mother-of-All-Self-Hosting",
+            "url": "https://github.com/mother-of-all-self-hosting/mash-playbook",
+            "description": "Ansible playbook which helps you host services as Docker containers on your own server. AGPL-3.0 Ansible/Docker",
             "tags": []
           },
           {
@@ -93816,7 +93840,7 @@
           {
             "name": "django-modern-rest",
             "url": "https://github.com/wemake-services/django-modern-rest",
-            "description": "Modern REST with speed, types, async, msgspec , pydantic and other goodies!",
+            "description": "Modern REST with speed, types, async, msgspec , pydantic and other goodies.",
             "tags": []
           },
           {
