@@ -989,6 +989,12 @@
             "tags": []
           },
           {
+            "name": "eyez",
+            "url": "https://github.com/tech-thinker/eyez",
+            "description": "eyez is a handy CLI tool that lets you view images directly in your terminal, with support for most terminal emulators.",
+            "tags": []
+          },
+          {
             "name": "fx",
             "url": "https://github.com/antonmedv/fx",
             "description": "Terminal JSON viewer & processor.",
@@ -10194,6 +10200,12 @@
             "tags": []
           },
           {
+            "name": "telepath",
+            "url": "https://github.com/tech-thinker/telepath",
+            "description": "telepath is a powerful CLI tool for secure port forwarding with support for multiple jump hosts and flexible authentication.",
+            "tags": []
+          },
+          {
             "name": "tspool",
             "url": "https://github.com/two/tspool",
             "description": "A TCP Library use worker pool to improve performance and protect your server.",
@@ -16478,6 +16490,12 @@
             "name": "goast-viewer",
             "url": "https://github.com/yuroyoro/goast-viewer",
             "description": "Web based Golang AST visualizer.",
+            "tags": []
+          },
+          {
+            "name": "gocondense",
+            "url": "https://github.com/abemedia/gocondense",
+            "description": "A gofmt-compatible formatter that condenses multi-line constructs onto single lines where they fit.",
             "tags": []
           },
           {
@@ -45108,6 +45126,12 @@
             "tags": []
           },
           {
+            "name": "Caplo",
+            "url": "https://github.com/icloudza/caplo",
+            "description": "Screen recorder and editor with automatic camera moves, cursor effects, canvas, and captions.",
+            "tags": []
+          },
+          {
             "name": "Capso",
             "url": "https://github.com/lzhgus/Capso",
             "description": "Open-source screenshot and screen recording tool with annotations, OCR, and webcam overlays.",
@@ -46920,6 +46944,12 @@
             "tags": []
           },
           {
+            "name": "inlaut",
+            "url": "https://inlaut.de",
+            "description": "Fully local push-to-talk dictation for German and English, running a Parakeet model on-device and typing at the cursor.",
+            "tags": []
+          },
+          {
             "name": "LocalScribe",
             "url": "https://github.com/maddylaneeee/ShengJi",
             "description": "Open-source local transcription and subtitle editor for microphones, media files, and Mac audio.",
@@ -48074,6 +48104,12 @@
             "tags": []
           },
           {
+            "name": "MemStats",
+            "url": "https://memstats.chungxon.dev/",
+            "description": "Menu bar memory monitor that splits RAM usage by user account, groups helper processes into apps, and shows memory pressure and swap.",
+            "tags": []
+          },
+          {
             "name": "Menu Bar Calendar",
             "url": "https://sindresorhus.com/menu-bar-calendar",
             "description": "A monthly calendar right in your menu bar.",
@@ -48358,6 +48394,12 @@
             "name": "App Uninstaller",
             "url": "https://github.com/kamjin3086/AppUninstaller",
             "description": "Lightweight app uninstaller with drag-and-drop support. Built with Swift and SwiftUI.",
+            "tags": []
+          },
+          {
+            "name": "Boost",
+            "url": "https://github.com/Kernel-Hunter/boost",
+            "description": "Free memory without closing apps, freeze apps and restore them exactly as they were, and find disk space that's genuinely safe to reclaim.",
             "tags": []
           },
           {
@@ -49725,6 +49767,12 @@
             "name": "FinderFix",
             "url": "https://synappser.github.io/apps/finderfix/",
             "description": "Finally, a lasting solution for Finder windows size and position. .",
+            "tags": []
+          },
+          {
+            "name": "FinderRight",
+            "url": "https://github.com/funny-dog/FinderRight",
+            "description": "Open-source Finder extension that adds new file, open in terminal, copy path, and cut & paste to the right-click menu.",
             "tags": []
           },
           {
@@ -51803,6 +51851,12 @@
             "tags": []
           },
           {
+            "name": "Kaspar-HFT",
+            "url": "https://github.com/vincent212/kaspar-hft",
+            "description": "A C++20 actor framework and trading system with synchronous message delivery (fast_send), order-book reconstruction and a queue-exact replay simulator. [MIT]",
+            "tags": []
+          },
+          {
             "name": "Kokkos",
             "url": "https://github.com/kokkos/kokkos",
             "description": "A performance portable programming model for parallel execution and memory abstraction. [BSD]",
@@ -53867,6 +53921,12 @@
             "name": "FreeImage",
             "url": "https://freeimage.sourceforge.net/",
             "description": "An open source library that supports popular graphics image formats and others as needed by today's multimedia applications. [GPL2 or GPL3]",
+            "tags": []
+          },
+          {
+            "name": "FreeImageRe",
+            "url": "https://github.com/agruzdev/FreeImageRe",
+            "description": "A fork of FreeImage to support latest image codecs and adjust for modern compilers. All original formats and plugins are maintained. [GPLv2, GPLv3, FIPL]",
             "tags": []
           },
           {
@@ -61645,6 +61705,12 @@
             "tags": []
           },
           {
+            "name": "Dreeve",
+            "url": "https://dreeve.app/",
+            "description": "\u26a0 - Statistics dashboard generated from Strava data. ( Demo , Source Code ) AGPL-3.0 Docker/K8S",
+            "tags": []
+          },
+          {
             "name": "Druid",
             "url": "https://druid.apache.org",
             "description": "Distributed, column-oriented, real-time analytics data store. ( Source Code ) Apache-2.0 Java/Docker",
@@ -61768,12 +61834,6 @@
             "name": "Socioboard",
             "url": "https://github.com/Socioboard-developers/Socioboard-5.0",
             "description": "\u26a0 - Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. GPL-3.0 Nodejs",
-            "tags": []
-          },
-          {
-            "name": "Statistics for Strava",
-            "url": "https://github.com/robiningelbrecht/statistics-for-strava",
-            "description": "\u26a0 - Statistics dashboard generated from Strava data. ( Demo ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -83077,6 +83137,12 @@
             "tags": []
           },
           {
+            "name": "pelazas/p2pmux",
+            "url": "https://github.com/pelazas/p2pmux",
+            "description": "[ p2pmux ] - Peer-to-peer terminal multiplexer for macOS and Linux where multiple users and machines join the same session; every pane is a real shell on the machine of whoever opened it",
+            "tags": []
+          },
+          {
             "name": "Pijul",
             "url": "https://pijul.org",
             "description": "A patch-based distributed version control system",
@@ -85583,6 +85649,12 @@
             "tags": []
           },
           {
+            "name": "shleder/vetto",
+            "url": "https://github.com/shleder/vetto",
+            "description": "[ vetto ] - Daemon-less, sub-4ms cold start kernel sandbox for AI coding agents (Landlock, seccomp, namespaces)",
+            "tags": []
+          },
+          {
             "name": "ssh-vault",
             "url": "https://github.com/ssh-vault/ssh-vault",
             "description": "A simple tool to manage secrets using ssh keys for encryption and decryption.",
@@ -86290,6 +86362,12 @@
             "name": "mathall/rim",
             "url": "https://github.com/mathall/rim",
             "description": "Vim-like text editor.",
+            "tags": []
+          },
+          {
+            "name": "Oleafly/Oleafly",
+            "url": "https://github.com/Oleafly/Oleafly",
+            "description": "A desktop editor for writing papers and theses in LaTeX, Typst and Markdown, with a built-in Tectonic engine and live PDF preview. Built with Tauri.",
             "tags": []
           },
           {
@@ -87043,6 +87121,12 @@
             "tags": []
           },
           {
+            "name": "ferronweb/ferron",
+            "url": "https://github.com/ferronweb/ferron",
+            "description": "A fast, modern web server built for production debugging.",
+            "tags": []
+          },
+          {
             "name": "g3proxy",
             "url": "https://github.com/bytedance/g3",
             "description": "Forward proxy server, support Proxy Chaining, Protocol Inspection, MITM Interception, ICAP Adaptation, Transparent Proxy",
@@ -87703,6 +87787,12 @@
             "name": "SiegeLord/RustCMake",
             "url": "https://github.com/SiegeLord/RustCMake",
             "description": "an example project showing usage of CMake with Rust",
+            "tags": []
+          },
+          {
+            "name": "euv-cli",
+            "url": "https://github.com/euv-dev/euv",
+            "description": "[ euv-cli ] - The official CLI tool for the euv UI framework, providing dev/release profiles with run/build modes, hot reload, and wasm-pack integration.",
             "tags": []
           },
           {
@@ -88393,6 +88483,12 @@
             "tags": []
           },
           {
+            "name": "MykytaStel/repopilot",
+            "url": "https://github.com/MykytaStel/repopilot",
+            "description": "[ repopilot ] - Local, deterministic review of Git changes, including AI-agent edits: weakened tests and checks, callers broken by removed APIs, and risky boundary changes; CLI, MCP server and agent hooks",
+            "tags": []
+          },
+          {
             "name": "RAPx",
             "url": "https://github.com/safer-rust/RAPx",
             "description": "A platform that helps Rust programmers develop and use advanced static analysis tools beyond those provided by the rustc compiler.",
@@ -88764,6 +88860,12 @@
             "name": "juyterman1000/entroly",
             "url": "https://github.com/juyterman1000/entroly",
             "description": "Information-theoretic Context Engineering Engine that uses reinforcement learning to intelligently prune and select optimal RAG fragments.",
+            "tags": []
+          },
+          {
+            "name": "Mattbusel/tokio-prompt-orchestrator",
+            "url": "https://github.com/Mattbusel/tokio-prompt-orchestrator",
+            "description": "[ tokio-prompt-orchestrator ] - Tokio pipeline for serving LLM requests with dedup, circuit breakers, retries, rate limits and a dead-letter queue in front of Anthropic, OpenAI, llama.cpp or vLLM.",
             "tags": []
           },
           {
@@ -91410,6 +91512,12 @@
             "name": "euv-dev/euv",
             "url": "https://github.com/euv-dev/euv",
             "description": "[ euv ] - A declarative, cross-platform UI framework for Rust with virtual DOM, reactive signals, and HTML macros for WebAssembly.",
+            "tags": []
+          },
+          {
+            "name": "euv-ui",
+            "url": "https://github.com/euv-dev/euv",
+            "description": "[ euv-ui ] - Reusable UI component library for the euv framework, providing buttons, cards, modals, inputs, and more.",
             "tags": []
           },
           {
