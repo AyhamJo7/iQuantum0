@@ -45079,6 +45079,12 @@
             "tags": []
           },
           {
+            "name": "Sitch",
+            "url": "https://phalladar.github.io/Sitch/",
+            "description": "Skitch-style screenshot annotation with tapered arrows, blur, and pixelate, fully offline.",
+            "tags": []
+          },
+          {
             "name": "Skitch",
             "url": "https://evernote.com/skitch/",
             "description": "Screen capture application with a powerful annotation capabilities.",
@@ -46873,6 +46879,12 @@
             "tags": []
           },
           {
+            "name": "Keyameleon",
+            "url": "https://keyameleon.app/",
+            "description": "Open-source tool that gives each physical keyboard its own input source and switches to it automatically as you type.",
+            "tags": []
+          },
+          {
             "name": "LangSwitcher",
             "url": "https://github.com/reg2005/langSwitcher",
             "description": "Keyboard layout converter for mistyped text.",
@@ -47493,6 +47505,12 @@
             "name": "Santa",
             "url": "https://northpole.security/",
             "description": "Binary and file access authorization system.",
+            "tags": []
+          },
+          {
+            "name": "Sentinel",
+            "url": "https://sentinel-james-murphy.pages.dev/",
+            "description": "Plain-language Mac security-settings check with a Wi-Fi device list.",
             "tags": []
           },
           {
@@ -48472,6 +48490,12 @@
             "name": "Harbofly",
             "url": "https://harbofly.app/",
             "description": "Menu bar app that auto-discovers and frees the disk space dev build artifacts and caches hog (DerivedData, node_modules, SPM/Homebrew caches). Zero telemetry, notarized.",
+            "tags": []
+          },
+          {
+            "name": "Headroom",
+            "url": "https://headroom-app.org",
+            "description": "Fast disk space analyzer with a treemap and duplicate finder that labels caches and developer folders Safe, Caution or Never before you delete them.",
             "tags": []
           },
           {
@@ -95415,7 +95439,7 @@
         "resources": [
           {
             "name": "sphinx",
-            "url": "https://github.com/sphinx-doc/sphinx/",
+            "url": "https://github.com/sphinx-doc/sphinx",
             "description": "Python Documentation generator.",
             "tags": []
           },
@@ -95569,7 +95593,7 @@
           },
           {
             "name": "ray",
-            "url": "https://github.com/ray-project/ray/",
+            "url": "https://github.com/ray-project/ray",
             "description": "A unified framework for scaling AI and Python applications.",
             "tags": []
           },
@@ -95755,7 +95779,7 @@
           },
           {
             "name": "click",
-            "url": "https://github.com/pallets/click/",
+            "url": "https://github.com/pallets/click",
             "description": "A package for creating beautiful command line interfaces in a composable way.",
             "tags": []
           },
@@ -95874,7 +95898,7 @@
           },
           {
             "name": "xonsh",
-            "url": "https://github.com/xonsh/xonsh/",
+            "url": "https://github.com/xonsh/xonsh",
             "description": "A Python-powered shell. Full-featured and cross-platform.",
             "tags": []
           },
@@ -95945,7 +95969,7 @@
           },
           {
             "name": "pywebview",
-            "url": "https://github.com/r0x0r/pywebview/",
+            "url": "https://github.com/r0x0r/pywebview",
             "description": "A lightweight cross-platform native wrapper around a webview component.",
             "tags": []
           },
@@ -96087,7 +96111,7 @@
           },
           {
             "name": "justhtml",
-            "url": "https://github.com/EmilStenstrom/justhtml/",
+            "url": "https://github.com/EmilStenstrom/justhtml",
             "description": "A pure Python HTML5 parser that sanitizes untrusted HTML by default.",
             "tags": []
           }
@@ -96633,7 +96657,7 @@
           },
           {
             "name": "conda",
-            "url": "https://github.com/conda/conda/",
+            "url": "https://github.com/conda/conda",
             "description": "Cross-platform, Python-agnostic binary package manager.",
             "tags": []
           },
@@ -96680,7 +96704,7 @@
           },
           {
             "name": "bandersnatch",
-            "url": "https://github.com/pypa/bandersnatch/",
+            "url": "https://github.com/pypa/bandersnatch",
             "description": "PyPI mirroring tool provided by Python Packaging Authority (PyPA).",
             "tags": []
           }
