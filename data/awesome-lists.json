@@ -1408,6 +1408,12 @@
             "tags": []
           },
           {
+            "name": "gozen",
+            "url": "https://github.com/tech-thinker/gozen",
+            "description": "gozen is a simplified golang MVC framework to generate projects and components with Support of REST, gRPC etc. Higly customizable and easy to add any api layer or worker.",
+            "tags": []
+          },
+          {
             "name": "hashicorp/cli",
             "url": "https://github.com/hashicorp/cli",
             "description": "Go library for implementing command-line interfaces.",
@@ -43632,6 +43638,12 @@
             "tags": []
           },
           {
+            "name": "TunnelFlow",
+            "url": "https://github.com/XRSec/TunnelFlow",
+            "description": "Modern SSH tunnel and port forwarding manager supporting local, remote, and dynamic SOCKS5 forwards.",
+            "tags": []
+          },
+          {
             "name": "Visual Paradigm",
             "url": "https://www.visual-paradigm.com/",
             "description": "All-in-one UML, SysML, BPMN modeling platform.",
@@ -45070,6 +45082,12 @@
             "name": "Skitch",
             "url": "https://evernote.com/skitch/",
             "description": "Screen capture application with a powerful annotation capabilities.",
+            "tags": []
+          },
+          {
+            "name": "Snappy",
+            "url": "https://beqaabu.github.io/Snappy/",
+            "description": "Open-source, Ubuntu-style screenshot tool with an adjustable selection, window and full-screen capture, markup, blur, and text copying.",
             "tags": []
           },
           {
@@ -49773,6 +49791,12 @@
             "name": "FinderRight",
             "url": "https://github.com/funny-dog/FinderRight",
             "description": "Open-source Finder extension that adds new file, open in terminal, copy path, and cut & paste to the right-click menu.",
+            "tags": []
+          },
+          {
+            "name": "Findly",
+            "url": "https://findly.rocavence.com",
+            "description": "Finder-style file drawer that slides in from any screen edge with a hotkey and slides away when you switch apps.",
             "tags": []
           },
           {
@@ -93581,6 +93605,12 @@
             "tags": []
           },
           {
+            "name": "sentence-transformers",
+            "url": "https://github.com/huggingface/sentence-transformers",
+            "description": "Compute embeddings, run retrieval, and rerank results with pretrained and fine-tuned models.",
+            "tags": []
+          },
+          {
             "name": "sglang",
             "url": "https://github.com/sgl-project/sglang",
             "description": "A high-performance serving framework for large language models and multimodal models.",
@@ -95637,6 +95667,12 @@
             "tags": []
           },
           {
+            "name": "temporalio",
+            "url": "https://github.com/temporalio/sdk-python",
+            "description": "Temporal SDK for durable, fault-tolerant workflows that survive crashes and retries.",
+            "tags": []
+          },
+          {
             "name": "dagster",
             "url": "https://github.com/dagster-io/dagster",
             "description": "An orchestration platform for the development, production, and observation of data assets.",
@@ -95736,9 +95772,9 @@
             "tags": []
           },
           {
-            "name": "fire",
-            "url": "https://github.com/google/python-fire",
-            "description": "A library for creating command line interfaces from absolutely any Python object.",
+            "name": "cyclopts",
+            "url": "https://github.com/BrianPugh/cyclopts",
+            "description": "Build CLIs from type-hinted functions, with docstring-based help.",
             "tags": []
           },
           {
