@@ -83089,6 +83089,12 @@
             "tags": []
           },
           {
+            "name": "HaseebKhalid1507/SynapsCLI",
+            "url": "https://github.com/HaseebKhalid1507/SynapsCLI",
+            "description": "[ synaps ] - A terminal-native AI agent runtime with a ratatui TUI, parallel subagents, MCP servers, and plugins in any language",
+            "tags": []
+          },
+          {
             "name": "Herd",
             "url": "https://github.com/imjacobclark/Herd",
             "description": "an experimental HTTP load testing application",
