@@ -11522,6 +11522,12 @@
             "tags": []
           },
           {
+            "name": "PwnedCheck",
+            "url": "https://github.com/mohamedation/PwnedCheck",
+            "description": "Command-line tool to check passwords against Have I Been Pwned breaches, with Bitwarden export support.",
+            "tags": []
+          },
+          {
             "name": "qrand",
             "url": "https://github.com/bitfield/qrand",
             "description": "Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.",
@@ -17847,6 +17853,12 @@
             "name": "Gor",
             "url": "https://github.com/buger/gor",
             "description": "Http traffic replication tool, for replaying traffic from production to stage/dev environments in real-time.",
+            "tags": []
+          },
+          {
+            "name": "gotermfx",
+            "url": "https://github.com/mohamedation/gotermfx",
+            "description": "Zero-dependency terminal animation CLI with built-in effects and a small API for custom animations.",
             "tags": []
           },
           {
@@ -46672,6 +46684,12 @@
         "name": "Audio Record and Process",
         "resources": [
           {
+            "name": "akou",
+            "url": "https://geiserx.github.io/akou/",
+            "description": "Open-source call and meeting recorder that transcribes on-device with speaker labels and lets Claude Code or Codex question a call over MCP.",
+            "tags": []
+          },
+          {
             "name": "CapSoftware",
             "url": "https://github.com/CapSoftware/",
             "description": "An open-source alternative to Loom. Beautiful, shareable screen recording tool.",
@@ -46711,6 +46729,12 @@
             "name": "SystemEQ for Mac",
             "url": "https://denzam.github.io/SystemEQ-for-Mac/",
             "description": "Free, open-source system-wide parametric equalizer with AutoEQ presets, hearing calibration, and real-time visualization.",
+            "tags": []
+          },
+          {
+            "name": "yovoice",
+            "url": "https://yovoice.leemysw.com",
+            "description": "Local voice creation studio with text-to-speech, voice cloning, emotion control, song generation and MIDI scoring, all running on-device.",
             "tags": []
           }
         ]
@@ -65765,8 +65789,8 @@
           },
           {
             "name": "memEx",
-            "url": "https://gitlab.com/shibaobun/memex",
-            "description": "Structured personal knowledge base, inspired by zettlekasten and org-mode. AGPL-3.0 Docker",
+            "url": "https://memex-app.shibao.dev",
+            "description": "Structured personal knowledge base, inspired by zettlekasten and org-mode. ( Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -82963,6 +82987,12 @@
             "tags": []
           },
           {
+            "name": "Aster-Privacy/Aster-Mail",
+            "url": "https://github.com/Aster-Privacy/Aster-Mail",
+            "description": "Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains. Desktop app built with Tauri.",
+            "tags": []
+          },
+          {
             "name": "clash-verge-rev/clash-verge-rev",
             "url": "https://github.com/clash-verge-rev/clash-verge-rev",
             "description": "A cross-platform, modern Clash GUI based on tauri & rust, supporting Windows, macOS, and Linux.",
@@ -85327,6 +85357,12 @@
             "tags": []
           },
           {
+            "name": "raine/aven",
+            "url": "https://github.com/raine/aven",
+            "description": "[ aven ] - Local-first task manager for power users and agents, with a keyboard-driven TUI and agent-first CLI",
+            "tags": []
+          },
+          {
             "name": "raine/workmux",
             "url": "https://github.com/raine/workmux",
             "description": "[ workmux ] - git worktrees + tmux windows for zero-friction parallel dev",
@@ -86070,6 +86106,24 @@
             "name": "mdgaziur/findex",
             "url": "https://github.com/mdgaziur/findex",
             "description": "Findex is a highly customizable application finder using GTK3",
+            "tags": []
+          },
+          {
+            "name": "MenkeTechnologies/fusevm",
+            "url": "https://crates.io/crates/fusevm",
+            "description": "a polygot virtual machine and JIT",
+            "tags": []
+          },
+          {
+            "name": "MenkeTechnologies/temprs",
+            "url": "https://crates.io/crates/temprs",
+            "description": "a tempfile manager with stack mechanism",
+            "tags": []
+          },
+          {
+            "name": "MenkeTechnologies/zshrs",
+            "url": "https://crates.io/crates/zshrs",
+            "description": "A zsh superset with JIT UNIX shell",
             "tags": []
           },
           {
