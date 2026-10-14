@@ -43440,6 +43440,12 @@
             "tags": []
           },
           {
+            "name": "JET Pilot",
+            "url": "https://jet-pilot.app/",
+            "description": "Open-source Kubernetes desktop client for working across clusters, namespaces and cloud accounts.",
+            "tags": []
+          },
+          {
             "name": "JsonStudio",
             "url": "https://jsonstudio.js.org/",
             "description": "Local-first JSON workspace for formatting, editing, diffing, converting, validating, and extracting JSON from logs.",
@@ -44599,6 +44605,12 @@
             "name": "Termius",
             "url": "https://www.termius.com/",
             "description": "A beautiful SSH and SFTP client for Mac. It is also available for mobile.",
+            "tags": []
+          },
+          {
+            "name": "Termstead",
+            "url": "https://khorenyan.com/termstead/",
+            "description": "Native SSH client with a session tree, jump hosts and SFTP beside the terminal.",
             "tags": []
           },
           {
@@ -48404,12 +48416,6 @@
             "tags": []
           },
           {
-            "name": "Tomatino",
-            "url": "https://tomatino.app",
-            "description": "Menu bar Pomodoro timer that switches your Focus mode and your music with each session.",
-            "tags": []
-          },
-          {
             "name": "TomatoBar",
             "url": "https://github.com/ivoronin/TomatoBar",
             "description": "World's neatest Pomodoro timer for macOS menu bar.",
@@ -50125,6 +50131,12 @@
             "name": "ExtendFS",
             "url": "https://apps.kpchew.com/extendfs/",
             "description": "Read-only access to Linux ext2/3/4 in macOS Sequoia and later without a kernel extension.",
+            "tags": []
+          },
+          {
+            "name": "ftop",
+            "url": "https://github.com/Nongfsq/ftop",
+            "description": "Floating system monitor for Apple Silicon that adapts its layout to any window size, showing per-core usage and frequency, GPU, memory pressure, and network.",
             "tags": []
           },
           {
