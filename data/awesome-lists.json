@@ -42902,6 +42902,12 @@
             "tags": []
           },
           {
+            "name": "Lemma",
+            "url": "https://github.com/fus3r/lemma",
+            "description": "PDF reader for mathematics textbooks and papers that turns theorem and equation references into links, folds proofs and checks the derivations you write.",
+            "tags": []
+          },
+          {
             "name": "OffPDF",
             "url": "https://offpdf.com/",
             "description": "Open-source offline PDF toolbox for Apple silicon Macs that merges, splits, converts, compresses, and OCRs files locally.",
@@ -45796,6 +45802,12 @@
             "tags": []
           },
           {
+            "name": "Pulse",
+            "url": "https://github.com/qunqin24/Pulse",
+            "description": "Native app that shows how much Claude Code, Codex, Cursor, Copilot and 70+ other AI coding services you have left, as rings docked at the edge of your screen.",
+            "tags": []
+          },
+          {
             "name": "Quail",
             "url": "https://quail-ai.app",
             "description": "Local model server for GGUF and MLX models on Apple silicon, with OpenAI- and Anthropic-compatible APIs for tools like Claude Code and Codex.",
@@ -46319,6 +46331,12 @@
             "tags": []
           },
           {
+            "name": "Hongguo Drama",
+            "url": "https://github.com/jackotom/hongguo-drama",
+            "description": "Unofficial player and downloader for Chinese short dramas from Hongguo, Xifan, and Hema, for Apple Silicon and Intel Macs.",
+            "tags": []
+          },
+          {
             "name": "Hydrogen",
             "url": "https://hydrogen-music.org/",
             "description": "Professional yet simple and intuitive pattern-based drum programming for GNU/Linux.",
@@ -46559,6 +46577,12 @@
             "tags": []
           },
           {
+            "name": "Songtide",
+            "url": "https://songtide.dcoded.dev",
+            "description": "Native YouTube Music app with an equalizer, visualizer and synced lyrics.",
+            "tags": []
+          },
+          {
             "name": "Spotifly",
             "url": "https://github.com/ralph/Spotifly",
             "description": "Lightweight Spotify player focused on fast playback control.",
@@ -46729,6 +46753,12 @@
             "name": "SystemEQ for Mac",
             "url": "https://denzam.github.io/SystemEQ-for-Mac/",
             "description": "Free, open-source system-wide parametric equalizer with AutoEQ presets, hearing calibration, and real-time visualization.",
+            "tags": []
+          },
+          {
+            "name": "Utter",
+            "url": "https://github.com/h3x-levi/Utter",
+            "description": "On-device voice dictation and meeting transcription powered by whisper.cpp and Metal.",
             "tags": []
           },
           {
@@ -86199,6 +86229,12 @@
             "tags": []
           },
           {
+            "name": "orbit-tui",
+            "url": "https://github.com/ziuus/orbit-tui",
+            "description": "Keyboard-driven terminal system dashboard (~3MB, 0.5% CPU) with CPU, memory, disk, network, GPU, processes, clock, calendar, and audio visualizer",
+            "tags": []
+          },
+          {
             "name": "orhun/kmon",
             "url": "https://github.com/orhun/kmon",
             "description": "Linux Kernel Manager and Activity Monitor",
@@ -87043,6 +87079,12 @@
             "name": "Michael-A-Kuykendall/muxide",
             "url": "https://github.com/Michael-A-Kuykendall/muxide",
             "description": "[ muxide ] - Pure-Rust MP4 muxer with no external dependencies that writes standards-compliant MP4 from encoded frames.",
+            "tags": []
+          },
+          {
+            "name": "open-subs/opensubs",
+            "url": "https://github.com/open-subs/opensubs",
+            "description": "Subtitle generator that runs in the browser: on-device Whisper transcription, with a Rust engine compiled to WebAssembly for subtitle segmentation, line breaking and styling",
             "tags": []
           },
           {
