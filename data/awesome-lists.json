@@ -48607,6 +48607,12 @@
             "tags": []
           },
           {
+            "name": "OpenClean",
+            "url": "https://leoanimesh.github.io/OpenClean/",
+            "description": "Free, open-source Mac cleaner that explains every item before removal and quarantines anything not trivially rebuilt so you can restore it. Includes an app uninstaller, disk map and menu bar monitor.",
+            "tags": []
+          },
+          {
             "name": "Pearcleaner",
             "url": "https://itsalin.com/appInfo/?id=pearcleaner",
             "description": "A free, source-available and fair-code licensed mac app cleaner.",
@@ -83347,6 +83353,12 @@
             "tags": []
           },
           {
+            "name": "scarletkc/Hatoba",
+            "url": "https://github.com/scarletkc/Hatoba",
+            "description": "Desktop SSH client built with Tauri and russh, with an AI assistant beside each terminal and end-to-end encrypted sync through your own Cloudflare account",
+            "tags": []
+          },
+          {
             "name": "Servo",
             "url": "https://github.com/servo/servo",
             "description": "A prototype web browser engine",
@@ -83416,6 +83428,12 @@
             "name": "Typst",
             "url": "https://github.com/typst/typst",
             "description": "A markup-based typesetting system",
+            "tags": []
+          },
+          {
+            "name": "unxsist/jet-pilot",
+            "url": "https://github.com/unxsist/jet-pilot",
+            "description": "An open-source Kubernetes desktop client built with Tauri, with multi-cluster views, a resource graph, structured logs and a built-in kubectl terminal",
             "tags": []
           },
           {
@@ -83589,6 +83607,12 @@
             "name": "WhatBPM",
             "url": "https://github.com/sergree/whatbpm",
             "description": "A daily statically generated information resource for electronic dance music producers. Provides daily analytics on the most frequently used values for each EDM genre: tempos, keys, root notes, and so on, using publicly available data such as Beatport and Spotify.",
+            "tags": []
+          },
+          {
+            "name": "ZacharyL2/KeyEcho",
+            "url": "https://github.com/ZacharyL2/KeyEcho",
+            "description": "Desktop app that plays recorded mechanical keyboard sounds as you type, built with Tauri",
             "tags": []
           }
         ]
@@ -85781,12 +85805,6 @@
             "tags": []
           },
           {
-            "name": "shleder/vetto",
-            "url": "https://github.com/shleder/vetto",
-            "description": "[ vetto ] - Daemon-less, sub-4ms cold start kernel sandbox for AI coding agents (Landlock, seccomp, namespaces)",
-            "tags": []
-          },
-          {
             "name": "ssh-vault",
             "url": "https://github.com/ssh-vault/ssh-vault",
             "description": "A simple tool to manage secrets using ssh keys for encryption and decryption.",
@@ -86082,6 +86100,12 @@
             "name": "LACT",
             "url": "https://github.com/ilya-zlobintsev/LACT",
             "description": "Linux AMDGPU Controller",
+            "tags": []
+          },
+          {
+            "name": "LambdaBytes/sping",
+            "url": "https://github.com/LambdaBytes/sping",
+            "description": "[ sping ] - Cross-platform ICMP/TCP connectivity diagnostics with network context, multi-target monitoring, and structured JSON output.",
             "tags": []
           },
           {
@@ -87274,6 +87298,12 @@
             "name": "cloudflare/pingora",
             "url": "https://github.com/cloudflare/pingora",
             "description": "A library for building fast, reliable and evolvable network services.",
+            "tags": []
+          },
+          {
+            "name": "dorianverlaine/pingclair",
+            "url": "https://github.com/dorianverlaine/pingclair",
+            "description": "A web server and reverse proxy built on Cloudflare Pingora, providing a Caddyfile-compatible configuration language, automatic HTTPS, HTTP/1.1, HTTP/2 and HTTP/3, load balancing, and static file serving.",
             "tags": []
           },
           {
@@ -88660,6 +88690,12 @@
             "name": "static_assertions",
             "url": "https://crates.io/crates/static_assertions",
             "description": "Compile-time assertions to ensure that invariants are met",
+            "tags": []
+          },
+          {
+            "name": "tupe12334/linecheck",
+            "url": "https://github.com/tupe12334/linecheck",
+            "description": "[ linecheck ] - Enforces per-file line-count limits with per-glob warn/error thresholds and CI-friendly exit codes, so oversized files fail the build",
             "tags": []
           },
           {
@@ -93623,6 +93659,12 @@
             "tags": []
           },
           {
+            "name": "scientific-agent-skills",
+            "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+            "description": "Agent skills for scientific research and analysis with Python libraries like scikit-learn, polars, and biopython.",
+            "tags": []
+          },
+          {
             "name": "sentry-skills",
             "url": "https://github.com/getsentry/skills",
             "description": "Agent skills the Sentry team uses for code review, pull requests, and Django reviews.",
@@ -93632,6 +93674,12 @@
             "name": "trailofbits-skills",
             "url": "https://github.com/trailofbits/skills",
             "description": "Security skills for vulnerability detection, auditing, and testing.",
+            "tags": []
+          },
+          {
+            "name": "wshobson-agents",
+            "url": "https://github.com/wshobson/agents",
+            "description": "Plugins, agents, and skills for AI coding tools, including Python skills for testing, async, packaging, and uv.",
             "tags": []
           },
           {
@@ -93749,15 +93797,15 @@
             "tags": []
           },
           {
-            "name": "sglang",
-            "url": "https://github.com/sgl-project/sglang",
-            "description": "A high-performance serving framework for large language models and multimodal models.",
-            "tags": []
-          },
-          {
             "name": "vllm",
             "url": "https://github.com/vllm-project/vllm",
             "description": "A high-throughput and memory-efficient inference and serving engine for LLMs.",
+            "tags": []
+          },
+          {
+            "name": "sglang",
+            "url": "https://github.com/sgl-project/sglang",
+            "description": "A high-performance serving framework for large language models and multimodal models.",
             "tags": []
           },
           {
