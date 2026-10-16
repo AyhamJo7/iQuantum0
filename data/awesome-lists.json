@@ -46762,6 +46762,12 @@
             "tags": []
           },
           {
+            "name": "Local Transcriber",
+            "url": "https://transcriber.teconomix.net",
+            "description": "Menu bar app that records calls and meetings and transcribes them on-device with Whisper, with speaker recognition, call detection and dictation into any app.",
+            "tags": []
+          },
+          {
             "name": "Logic Pro X",
             "url": "https://www.apple.com/logic-pro/",
             "description": "Professional digital audio workstation for music and audio production.",
