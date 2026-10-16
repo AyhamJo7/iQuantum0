@@ -42487,6 +42487,12 @@
             "tags": []
           },
           {
+            "name": "LawPulse",
+            "url": "https://lttxzmj.github.io/lawpulse-site/",
+            "description": "Local-first legal research tool for Chinese lawyers: offline statute library with per-article notes; all data stays on your Mac.",
+            "tags": []
+          },
+          {
             "name": "Logseq",
             "url": "https://logseq.com/",
             "description": "Privacy-first, open-source knowledge base.",
@@ -45464,6 +45470,12 @@
             "name": "RightFont",
             "url": "https://rightfontapp.com/",
             "description": "Preview, sync, install and manage fonts on Mac, Dropbox or Google Drive.",
+            "tags": []
+          },
+          {
+            "name": "Siliconed",
+            "url": "https://gwenn-ha-dev.github.io/Siliconed/",
+            "description": "Open-source app for local AI image generation and instruction-based image editing on Apple silicon, written in Swift and Metal.",
             "tags": []
           },
           {
@@ -48625,6 +48637,12 @@
             "tags": []
           },
           {
+            "name": "Photo Review",
+            "url": "https://danielyaa5.github.io/photo-review/",
+            "description": "Open-source tool that lists an iCloud Photos library by size, then compresses large videos or deletes what you pick.",
+            "tags": []
+          },
+          {
             "name": "PureMac",
             "url": "https://github.com/momenbasel/PureMac",
             "description": "Free, open-source macOS cleaner with no telemetry. Cleans system and user caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning.",
@@ -49938,6 +49956,12 @@
             "tags": []
           },
           {
+            "name": "Strata Files",
+            "url": "https://stratafiles.app",
+            "description": "Open-source file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane.",
+            "tags": []
+          },
+          {
             "name": "SwiftyMenu",
             "url": "https://apps.apple.com/us/app/swiftymenu/id1567748223?platform=mac",
             "description": "Finder extension for opening selected files or folders with custom app shortcuts.",
@@ -50074,6 +50098,12 @@
             "tags": []
           },
           {
+            "name": "Aman Check",
+            "url": "https://github.com/MidZai/aman_check",
+            "description": "Dated, honest condition report for a used Mac: locks, battery, SSD and guided hardware tests.",
+            "tags": []
+          },
+          {
             "name": "Amphetamine",
             "url": "https://apps.apple.com/us/app/amphetamine/id937984704?platform=mac",
             "description": "Keep your Mac awake.",
@@ -50143,6 +50173,12 @@
             "name": "ExtendFS",
             "url": "https://apps.kpchew.com/extendfs/",
             "description": "Read-only access to Linux ext2/3/4 in macOS Sequoia and later without a kernel extension.",
+            "tags": []
+          },
+          {
+            "name": "FanPilot",
+            "url": "https://github.com/zyvren/FanPilot",
+            "description": "Fan control and temperature monitor for Apple Silicon Macs: menu bar temps, manual, max, Auto Boost rules or custom curves, with a fail-safe helper and a CLI.",
             "tags": []
           },
           {
@@ -61885,12 +61921,6 @@
             "tags": []
           },
           {
-            "name": "Medama Analytics",
-            "url": "https://oss.medama.io",
-            "description": "Privacy-first website analytics. Tiny, simple, and cookie-free. ( Demo , Source Code ) Apache-2.0/MIT Docker/Go",
-            "tags": []
-          },
-          {
             "name": "Metabase",
             "url": "https://metabase.com/",
             "description": "Easy way for everyone in your company to ask questions and learn from data. ( Source Code ) AGPL-3.0 Java/Docker",
@@ -64034,6 +64064,12 @@
             "tags": []
           },
           {
+            "name": "drawDB",
+            "url": "https://www.drawdb.app",
+            "description": "Browser-based visual and DBML database diagram editor and SQL generator for MySQL, PostgreSQL, SQLite, MariaDB, MSSQL and Oracle. ( Demo , Source Code ) AGPL-3.0 Nodejs/Docker",
+            "tags": []
+          },
+          {
             "name": "Evidence",
             "url": "https://evidence.dev",
             "description": "Code-based BI tool. Write reports using SQL and markdown and they render as a website. ( Source Code ) MIT Nodejs",
@@ -64119,6 +64155,12 @@
             "name": "BentoPDF",
             "url": "https://bentopdf.com",
             "description": "\u26a0 - Powerful, privacy-first, client-side PDF toolkit that allows you to manipulate, edit, merge, and process PDF files directly in your browser. ( Demo , Source Code ) AGPL-3.0 Nodejs/Docker",
+            "tags": []
+          },
+          {
+            "name": "Bottle Rocket",
+            "url": "https://bottle-rocket.app/",
+            "description": "Document scanning and management application, compatible with Rocketbook and Scribzee formats. ( Source Code ) MIT C#/Docker",
             "tags": []
           },
           {
@@ -64908,12 +64950,6 @@
             "name": "PicoShare",
             "url": "https://github.com/mtlynch/picoshare",
             "description": "Minimalist, easy-to-host service for sharing images and other files. ( Clients ) AGPL-3.0 Go/Docker",
-            "tags": []
-          },
-          {
-            "name": "Picsur",
-            "url": "https://github.com/CaramelFur/Picsur",
-            "description": "Simple imaging hosting platform that allows you to easily host, edit, and share images. AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -84876,6 +84912,12 @@
             "name": "oxipng",
             "url": "https://github.com/oxipng/oxipng",
             "description": "[ oxipng ] - Multithreaded PNG optimizer written in Rust.",
+            "tags": []
+          },
+          {
+            "name": "skymanbp/autoshade",
+            "url": "https://github.com/skymanbp/autoshade",
+            "description": "AI-assisted RAW photo developer: a vision model proposes an edit recipe, a deterministic engine renders it as a Lightroom-compatible XMP sidecar.",
             "tags": []
           },
           {
