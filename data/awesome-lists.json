@@ -64313,6 +64313,12 @@
             "tags": []
           },
           {
+            "name": "Grimmory",
+            "url": "https://grimmory.org/",
+            "description": "Library for ebooks, comics and audiobooks with a built-in reader, metadata lookup, multi-user support, OPDS, and Kobo/KOReader sync. ( Source Code ) AGPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Inkheart",
             "url": "https://gitlab.com/Nystik/inkheart",
             "description": "Lightweight PDF library and reader. Apache-2.0 Docker",
@@ -69441,6 +69447,12 @@
             "name": "Surmai",
             "url": "https://surmai.app/",
             "description": "Collaborative personal and family travel organizer. ( Demo , Source Code ) MIT Docker",
+            "tags": []
+          },
+          {
+            "name": "TREK",
+            "url": "https://github.com/liketrek/TREK",
+            "description": "Collaborative trip planner with interactive maps, day-by-day itineraries, budgets, packing lists, reservations, journey journaling, and PWA support. ( Demo ) AGPL-3.0 Docker/K8S",
             "tags": []
           }
         ]
@@ -87623,6 +87635,12 @@
             "tags": []
           },
           {
+            "name": "FerrLabs/LFSX",
+            "url": "https://github.com/FerrLabs/LFSX",
+            "description": "[ lfsx-server ] - Self-hosted Git LFS server that deduplicates objects across repositories, compresses and optionally encrypts them at rest, supports file locking, and delegates permissions to GitHub, GitLab, Gitea or Forgejo",
+            "tags": []
+          },
+          {
             "name": "firelock-ai/kin",
             "url": "https://github.com/firelock-ai/kin",
             "description": "A graph-native code repository for people and AI agents. Kin helps you and your AI agents understand what a code change might affect before you make it.",
@@ -89354,6 +89372,12 @@
             "name": "GunduLabs/gaze",
             "url": "https://github.com/GunduLabs/gaze",
             "description": "Facial authentication for Linux with on-device face recognition, PAM integration, and tools for login, lock screen, sudo, and desktop management.",
+            "tags": []
+          },
+          {
+            "name": "issuerd/issuerd",
+            "url": "https://github.com/issuerd/issuerd",
+            "description": "[ issuerd ] - Keycloak-compatible OIDC/OAuth2 IAM server with DPoP, CIBA and RFC 8693 token exchange, shipped as a single self-contained binary",
             "tags": []
           },
           {
@@ -91731,6 +91755,12 @@
         "name": "GUI",
         "resources": [
           {
+            "name": "artemtsitronov/glacex",
+            "url": "https://github.com/artemtsitronov/glacex",
+            "description": "[ glacex ] - GPU-rendered, immediate-mode UI library with SDF rendering and persistent widget state.",
+            "tags": []
+          },
+          {
             "name": "autopilot-rs/autopilot-rs",
             "url": "https://github.com/autopilot-rs/autopilot-rs",
             "description": "A simple, cross-platform GUI automation library.",
@@ -93068,6 +93098,12 @@
             "tags": []
           },
           {
+            "name": "cmccomb/human_regex",
+            "url": "https://github.com/cmccomb/human_regex",
+            "description": "[ human_regex ] - Compose readable regular expressions with a fluent API",
+            "tags": []
+          },
+          {
             "name": "cmccomb/rust-stop-words",
             "url": "https://github.com/cmccomb/rust-stop-words",
             "description": "[ stop-words ] - Common stop words in many languages",
@@ -93413,6 +93449,12 @@
             "name": "CIS 198: Rust Programming",
             "url": "http://cis198-2016s.github.io/schedule/",
             "description": "University of Pennsylvania's Comp Sci Rust Programming Course",
+            "tags": []
+          },
+          {
+            "name": "Coddy Rust Course",
+            "url": "https://coddy.tech/landing/rust",
+            "description": "Interactive Rust course in the browser with 200+ lessons and coding challenges, from the basics through traits and generics",
             "tags": []
           },
           {
@@ -93851,6 +93893,24 @@
             "tags": []
           },
           {
+            "name": "ollama",
+            "url": "https://github.com/ollama/ollama-python",
+            "description": "Python client for Ollama, which downloads and runs open-weight LLMs locally.",
+            "tags": []
+          },
+          {
+            "name": "llama-cpp-python",
+            "url": "https://github.com/abetlen/llama-cpp-python",
+            "description": "Python bindings for llama.cpp, for running GGUF models locally.",
+            "tags": []
+          },
+          {
+            "name": "mlx-lm",
+            "url": "https://github.com/ml-explore/mlx-lm",
+            "description": "Run and fine-tune large language models on Apple Silicon with MLX.",
+            "tags": []
+          },
+          {
             "name": "vllm",
             "url": "https://github.com/vllm-project/vllm",
             "description": "A high-throughput and memory-efficient inference and serving engine for LLMs.",
@@ -93860,12 +93920,6 @@
             "name": "sglang",
             "url": "https://github.com/sgl-project/sglang",
             "description": "A high-performance serving framework for large language models and multimodal models.",
-            "tags": []
-          },
-          {
-            "name": "mlx-lm",
-            "url": "https://github.com/ml-explore/mlx-lm",
-            "description": "Run and fine-tune large language models on Apple Silicon with MLX.",
             "tags": []
           },
           {
@@ -93987,6 +94041,12 @@
             "tags": []
           },
           {
+            "name": "imbalanced-learn",
+            "url": "https://github.com/scikit-learn-contrib/imbalanced-learn",
+            "description": "Resampling techniques for datasets with imbalanced classes, compatible with scikit-learn.",
+            "tags": []
+          },
+          {
             "name": "pgmpy",
             "url": "https://github.com/pgmpy/pgmpy",
             "description": "A Python library for causal and probabilistic reasoning with graphical models.",
@@ -94039,6 +94099,18 @@
             "url": "https://github.com/google-research/timesfm",
             "description": "A pretrained foundation model from Google Research for time-series forecasting, with non-commercial default weights.",
             "tags": []
+          },
+          {
+            "name": "optuna",
+            "url": "https://github.com/optuna/optuna",
+            "description": "A hyperparameter optimization framework with define-by-run search spaces and pruning of unpromising trials.",
+            "tags": []
+          },
+          {
+            "name": "hyperopt",
+            "url": "https://github.com/hyperopt/hyperopt",
+            "description": "Distributed asynchronous hyperparameter optimization with Tree-structured Parzen Estimators.",
+            "tags": []
           }
         ]
       },
@@ -94079,6 +94151,12 @@
             "name": "pypinyin",
             "url": "https://github.com/mozillazg/python-pinyin",
             "description": "Convert Chinese hanzi (\u6f22\u5b57) to pinyin (\u62fc\u97f3).",
+            "tags": []
+          },
+          {
+            "name": "OpenCC",
+            "url": "https://github.com/BYVoid/OpenCC",
+            "description": "Conversion between Traditional and Simplified Chinese, with regional variants and phrase-level rules.",
             "tags": []
           },
           {
@@ -94583,9 +94661,9 @@
             "tags": []
           },
           {
-            "name": "jev-ultrafast",
-            "url": "https://github.com/browser-use/jev-ultrafast",
-            "description": "A fast browser agent that picks actions from an indexed table of page elements through TypeSafe's hosted Jev API, using a small LLM only to type text.",
+            "name": "scrapling",
+            "url": "https://github.com/D4Vinci/Scrapling",
+            "description": "An adaptive scraping framework whose selectors relocate elements after page changes, with stealth fetchers and spiders.",
             "tags": []
           },
           {
@@ -94724,6 +94802,12 @@
             "tags": []
           },
           {
+            "name": "pgvector",
+            "url": "https://github.com/pgvector/pgvector-python",
+            "description": "pgvector support for Python, adding vector types and similarity search to psycopg, asyncpg, SQLAlchemy, and Django.",
+            "tags": []
+          },
+          {
             "name": "awesome-sqlite",
             "url": "https://github.com/planetopendata/awesome-sqlite",
             "description": "SQLite",
@@ -94733,6 +94817,12 @@
             "name": "sqlite3",
             "url": "https://docs.python.org/3/library/sqlite3.html",
             "description": "(Python standard library) SQLite interface compliant with DB-API 2.0.",
+            "tags": []
+          },
+          {
+            "name": "apsw",
+            "url": "https://github.com/rogerbinns/apsw",
+            "description": "Another Python SQLite Wrapper, exposing the complete SQLite C API.",
             "tags": []
           },
           {
@@ -94848,21 +94938,27 @@
             "tags": []
           },
           {
+            "name": "dogpile.cache",
+            "url": "https://github.com/sqlalchemy/dogpile.cache",
+            "description": "A caching API for Redis, Memcached, and other backends, with coordinated value regeneration.",
+            "tags": []
+          },
+          {
             "name": "hishel",
             "url": "https://github.com/karpetrosyan/hishel",
             "description": "RFC 9111 compliant HTTP caching for clients like httpx and requests and servers like FastAPI, with sync and async support.",
             "tags": []
           },
           {
-            "name": "django-cacheops",
-            "url": "https://github.com/Suor/django-cacheops",
-            "description": "A slick ORM cache with automatic granular event-driven invalidation.",
+            "name": "django-redis",
+            "url": "https://github.com/jazzband/django-redis",
+            "description": "Full-featured Redis cache backend for Django.",
             "tags": []
           },
           {
-            "name": "dogpile.cache",
-            "url": "https://github.com/sqlalchemy/dogpile.cache",
-            "description": "dogpile.cache is a next generation replacement for Beaker made by the same authors.",
+            "name": "django-cacheops",
+            "url": "https://github.com/Suor/django-cacheops",
+            "description": "A slick ORM cache with automatic granular event-driven invalidation.",
             "tags": []
           }
         ]
@@ -94893,6 +94989,12 @@
             "url": "https://github.com/django-haystack/django-haystack",
             "description": "Modular search for Django.",
             "tags": []
+          },
+          {
+            "name": "faiss-cpu",
+            "url": "https://github.com/facebookresearch/faiss",
+            "description": "A library for efficient similarity search and clustering of dense vectors.",
+            "tags": []
           }
         ]
       },
@@ -94921,6 +95023,18 @@
             "name": "msgspec",
             "url": "https://github.com/msgspec/msgspec",
             "description": "A fast serialization and validation library with built-in support for JSON, MessagePack, YAML, and TOML.",
+            "tags": []
+          },
+          {
+            "name": "cloudpickle",
+            "url": "https://github.com/cloudpipe/cloudpickle",
+            "description": "Extends pickle to functions, lambdas, and interactively defined classes, for shipping code to remote workers.",
+            "tags": []
+          },
+          {
+            "name": "dill",
+            "url": "https://github.com/uqfoundation/dill",
+            "description": "Extends pickle to serialize almost any Python object, including closures and whole interpreter sessions.",
             "tags": []
           }
         ]
@@ -95060,7 +95174,7 @@
           {
             "name": "cartopy",
             "url": "https://github.com/SciTools/cartopy",
-            "description": "A cartographic python library with matplotlib support.",
+            "description": "A cartographic Python library with matplotlib support.",
             "tags": []
           },
           {
@@ -95396,7 +95510,13 @@
           {
             "name": "rope",
             "url": "https://github.com/python-rope/rope",
-            "description": "Rope is a python refactoring library.",
+            "description": "Rope is a Python refactoring library.",
+            "tags": []
+          },
+          {
+            "name": "ast-grep-cli",
+            "url": "https://github.com/ast-grep/ast-grep",
+            "description": "A CLI tool for structural code search, linting, and rewriting based on syntax trees.",
             "tags": []
           },
           {
@@ -95605,6 +95725,12 @@
             "name": "django-debug-toolbar",
             "url": "https://github.com/django-commons/django-debug-toolbar",
             "description": "Display various debug information for Django.",
+            "tags": []
+          },
+          {
+            "name": "django-silk",
+            "url": "https://github.com/jazzband/django-silk",
+            "description": "Live profiling and inspection of HTTP requests and database queries for Django.",
             "tags": []
           },
           {
@@ -96180,7 +96306,7 @@
           {
             "name": "customtkinter",
             "url": "https://github.com/tomschimansky/customtkinter",
-            "description": "A modern and customizable python UI-library based on Tkinter.",
+            "description": "A modern and customizable Python UI-library based on Tkinter.",
             "tags": []
           },
           {
@@ -96355,6 +96481,12 @@
             "tags": []
           },
           {
+            "name": "pypandoc",
+            "url": "https://github.com/JessicaTegner/pypandoc",
+            "description": "A thin wrapper for pandoc, the universal document converter.",
+            "tags": []
+          },
+          {
             "name": "docling",
             "url": "https://github.com/docling-project/docling",
             "description": "Library for converting documents into structured data.",
@@ -96450,12 +96582,6 @@
         "name": "File Manipulation",
         "resources": [
           {
-            "name": "mimetypes",
-            "url": "https://docs.python.org/3/library/mimetypes.html",
-            "description": "(Python standard library) Map filenames to MIME types.",
-            "tags": []
-          },
-          {
             "name": "pathlib",
             "url": "https://docs.python.org/3/library/pathlib.html",
             "description": "(Python standard library) A cross-platform, object-oriented path library.",
@@ -96464,7 +96590,7 @@
           {
             "name": "watchfiles",
             "url": "https://github.com/samuelcolvin/watchfiles",
-            "description": "Simple, modern and fast file watching and code reload in python.",
+            "description": "Simple, modern and fast file watching and code reload in Python.",
             "tags": []
           },
           {
@@ -96474,9 +96600,21 @@
             "tags": []
           },
           {
+            "name": "mimetypes",
+            "url": "https://docs.python.org/3/library/mimetypes.html",
+            "description": "(Python standard library) Map filenames to MIME types.",
+            "tags": []
+          },
+          {
             "name": "python-magic",
             "url": "https://github.com/ahupp/python-magic",
             "description": "A Python interface to the libmagic file type identification library.",
+            "tags": []
+          },
+          {
+            "name": "magika",
+            "url": "https://github.com/google/magika",
+            "description": "Detects file content types with a deep-learning model.",
             "tags": []
           }
         ]
@@ -96835,6 +96973,12 @@
             "url": "https://github.com/pyenv/pyenv",
             "description": "Simple Python version management.",
             "tags": []
+          },
+          {
+            "name": "mise",
+            "url": "https://github.com/jdx/mise",
+            "description": "A polyglot tool version manager that installs Python versions and reads .python-version files.",
+            "tags": []
           }
         ]
       },
@@ -96893,6 +97037,12 @@
             "name": "poetry-core",
             "url": "https://github.com/python-poetry/poetry-core",
             "description": "Poetry's PEP 517 build backend, usable without Poetry itself.",
+            "tags": []
+          },
+          {
+            "name": "flit-core",
+            "url": "https://github.com/pypa/flit",
+            "description": "Minimal, dependency-free build backend for pure-Python packages.",
             "tags": []
           },
           {
@@ -96956,7 +97106,7 @@
           {
             "name": "pyarmor",
             "url": "https://github.com/dashingsoft/pyarmor",
-            "description": "A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.",
+            "description": "A tool used to obfuscate Python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.",
             "tags": []
           }
         ]
@@ -97073,6 +97223,12 @@
             "name": "uv-audit",
             "url": "https://github.com/astral-sh/uv",
             "description": "(part of uv) uv's dependency vulnerability scanning backed by OSV.",
+            "tags": []
+          },
+          {
+            "name": "betterleaks",
+            "url": "https://github.com/betterleaks/betterleaks",
+            "description": "Finds leaked secrets in git history, directories, and files, from the original author of gitleaks.",
             "tags": []
           }
         ]
