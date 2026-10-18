@@ -42368,6 +42368,12 @@
             "tags": []
           },
           {
+            "name": "Textus",
+            "url": "https://textus.catvinci.com",
+            "description": "WYSIWYG Markdown editor with math, tables, Mermaid and an optional AI writing assistant that works with cloud or local models.",
+            "tags": []
+          },
+          {
             "name": "Typora",
             "url": "https://www.typora.io/",
             "description": "Truly minimal Markdown editor featuring seamless live preview.",
@@ -45241,7 +45247,7 @@
           },
           {
             "name": "OpenScreen",
-            "url": "https://github.com/siddharthvaddem/openscreen",
+            "url": "https://github.com/getopenscreen/openscreen",
             "description": "Open-source tool for creating polished screen demos and walkthrough videos.",
             "tags": []
           },
@@ -45811,6 +45817,12 @@
             "name": "mu",
             "url": "https://github.com/qybaihe/mu",
             "description": "Open-source coding agent with a CLI and a desktop app, in which a small judge model makes routine calls such as what enters the context and whether a flagged command was asked for.",
+            "tags": []
+          },
+          {
+            "name": "Octuo",
+            "url": "https://www.tutuo.ai/en/octuo/",
+            "description": "Personal assistant for work across AI, tools and specialist services that coordinates connected, authorized tools and accounts, tracks progress and gathers results around your goal.",
             "tags": []
           },
           {
@@ -46514,6 +46526,12 @@
             "name": "Natron",
             "url": "https://natrongithub.github.io/",
             "description": "Open-source node-based compositing software.",
+            "tags": []
+          },
+          {
+            "name": "NotchMuse",
+            "url": "https://notchmuse.com/",
+            "description": "Open-source synced lyrics for Spotify, Apple Music, NetEase Cloud Music, QQ Music and Soda Music in the menu bar, beside the notch, or above the Dock.",
             "tags": []
           },
           {
@@ -48098,9 +48116,21 @@
             "tags": []
           },
           {
+            "name": "Dimble",
+            "url": "https://dimble.fif7y.com",
+            "description": "Menu bar manager built for macOS 27's rebuilt menu bar. Hides the icons you don't need until you do.",
+            "tags": []
+          },
+          {
             "name": "Dozer",
             "url": "https://github.com/Mortennn/Dozer",
             "description": "Hide MacOS menubar items.",
+            "tags": []
+          },
+          {
+            "name": "Dynamic Menu Bar",
+            "url": "https://dynamicmenubar.com",
+            "description": "Changes the color and shape of the macOS menu bar with live screen-matched colors, gradients, a music visualizer and per-app profiles.",
             "tags": []
           },
           {
@@ -48341,12 +48371,6 @@
             "name": "Pandan",
             "url": "https://sindresorhus.com/pandan",
             "description": "Time awareness in your menu bar.",
-            "tags": []
-          },
-          {
-            "name": "Pelmet",
-            "url": "https://pelmet.fif7y.com",
-            "description": "Menu bar manager built for macOS 27's rebuilt menu bar. Hides the icons you don't need until you do.",
             "tags": []
           },
           {
@@ -48893,9 +48917,21 @@
             "tags": []
           },
           {
+            "name": "Panoply",
+            "url": "https://github.com/anzal1/panoply",
+            "description": "Free file tools that run on your computer: PDF, images, video and audio, OCR, ID photos, instant file search and a disk map.",
+            "tags": []
+          },
+          {
             "name": "Phosphene",
             "url": "https://kagerou.glass/phosphene/",
             "description": "Use any video as your macOS wallpaper on the desktop and the lock screen, picked directly from System Settings.",
+            "tags": []
+          },
+          {
+            "name": "MagicWall",
+            "url": "https://github.com/davidullo/magicwall",
+            "description": "Set local videos as desktop wallpapers.",
             "tags": []
           },
           {
@@ -49673,6 +49709,12 @@
             "name": "MakeItHome",
             "url": "https://github.com/Geckos-Ink/MakeItHome",
             "description": "Pointer-driven launcher for screen-edge quick actions and app switching.",
+            "tags": []
+          },
+          {
+            "name": "mFix",
+            "url": "https://github.com/Zingzy/mFix",
+            "description": "Open-source window manager with keyboard and drag snapping, snap layouts, a Cmd+Tab window switcher with live previews, and Dock window previews.",
             "tags": []
           },
           {
@@ -85835,6 +85877,12 @@
             "tags": []
           },
           {
+            "name": "rbenaley/Vauban",
+            "url": "https://github.com/rbenaley/Vauban",
+            "description": "Privileged-access bastion for SSH, RDP, industrial protocols, and AI agent tool calls.",
+            "tags": []
+          },
+          {
             "name": "reaction",
             "url": "https://framagit.org/ppom/reaction",
             "description": "Scan logs and take action: an alternative to fail2ban",
@@ -86542,6 +86590,12 @@
             "name": "amp",
             "url": "https://amp.rs",
             "description": "Inspired by Vi/Vim.",
+            "tags": []
+          },
+          {
+            "name": "CatVinci-Studio/Textus",
+            "url": "https://github.com/CatVinci-Studio/Textus",
+            "description": "A WYSIWYG Markdown editor for macOS, Windows and Linux built with Tauri 2, with math, Mermaid and an optional AI writing assistant.",
             "tags": []
           },
           {
@@ -88765,6 +88819,12 @@
             "tags": []
           },
           {
+            "name": "tool-bunker/code-buster",
+            "url": "https://github.com/tool-bunker/code-buster",
+            "description": "A deterministic offline static analyzer for repository structure, dependencies, dead code, duplication, complexity, security, and maintainability across 18 languages.",
+            "tags": []
+          },
+          {
             "name": "tupe12334/linecheck",
             "url": "https://github.com/tupe12334/linecheck",
             "description": "[ linecheck ] - Enforces per-file line-count limits with per-glob warn/error thresholds and CI-friendly exit codes, so oversized files fail the build",
@@ -88941,6 +89001,12 @@
             "tags": []
           },
           {
+            "name": "Gilfeather/furnace",
+            "url": "https://github.com/Gilfeather/furnace",
+            "description": "[ furnace-server ] - Pure Rust inference server for ONNX models, built on Burn",
+            "tags": []
+          },
+          {
             "name": "guillaume-be/rust-bert",
             "url": "https://github.com/guillaume-be/rust-bert",
             "description": "[ rust_bert ] - Ready-to-use NLP pipelines and language models",
@@ -89046,6 +89112,12 @@
             "name": "smartcorelib/smartcore",
             "url": "https://github.com/smartcorelib/smartcore",
             "description": "Machine Learning Library [ ]",
+            "tags": []
+          },
+          {
+            "name": "SyntaxSpirits/rust-lstm",
+            "url": "https://github.com/SyntaxSpirits/rust-lstm",
+            "description": "[ rust-lstm ] - LSTM, BiLSTM, GRU and peephole LSTM networks with backpropagation through time, SGD/Adam/RMSprop optimizers, learning rate schedulers, dropout and zoneout.",
             "tags": []
           },
           {
