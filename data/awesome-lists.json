@@ -48338,12 +48338,6 @@
             "tags": []
           },
           {
-            "name": "NotchNook",
-            "url": "https://lo.cafe/notchnook",
-            "description": "Customizes your Mac's menu bar to seamlessly integrate with the notch design.",
-            "tags": []
-          },
-          {
             "name": "Notchly",
             "url": "https://notchly.xyz",
             "description": "Lightweight Dynamic Island for macOS with AI coding agent notifications.",
@@ -48664,6 +48658,12 @@
             "name": "Pearcleaner",
             "url": "https://itsalin.com/appInfo/?id=pearcleaner",
             "description": "A free, source-available and fair-code licensed mac app cleaner.",
+            "tags": []
+          },
+          {
+            "name": "Peel",
+            "url": "https://peel.tuguidragos.com/",
+            "description": "Free, open source uninstaller and cleaner that removes apps with every file they leave behind, shows you why each file belongs, and moves everything to the Trash, so you can put it back.",
             "tags": []
           },
           {
@@ -62326,6 +62326,12 @@
             "tags": []
           },
           {
+            "name": "bloglite",
+            "url": "https://github.com/rikhuijzer/bloglite",
+            "description": "Micro-blog tool offering built-in syntax highlighting, mobile publishing and more (alternative to Twitter, Bluesky). MIT Docker",
+            "tags": []
+          },
+          {
             "name": "Chyrp Lite",
             "url": "https://chyrplite.net",
             "description": "Extra-awesome, extra-lightweight blog engine. ( Source Code ) BSD-3-Clause PHP",
@@ -62347,12 +62353,6 @@
             "name": "FlatPress",
             "url": "https://flatpress.org/",
             "description": "A lightweight, easy-to-set-up flat-file blogging engine. ( Source Code ) GPL-2.0 PHP",
-            "tags": []
-          },
-          {
-            "name": "fx",
-            "url": "https://github.com/rikhuijzer/fx",
-            "description": "Micro-blog tool offering built-in syntax highlighting, mobile publishing and more (alternative to Twitter, Bluesky). MIT Docker",
             "tags": []
           },
           {
@@ -70124,7 +70124,7 @@
           {
             "name": "awweso.me",
             "url": "https://awweso.me/",
-            "description": "Alternative frontends/portals to discover/filter awesome-selfhosted apps:  , awesome-web.theravenhub , awesomehub.web.app",
+            "description": "Alternative frontends/portals to discover/filter awesome-selfhosted apps:  , awesome-web.theravenhub",
             "tags": []
           },
           {
@@ -83233,6 +83233,12 @@
             "tags": []
           },
           {
+            "name": "Graphicle-AI/graphicle",
+            "url": "https://github.com/Graphicle-AI/graphicle",
+            "description": "A Rust port of Graphify that adds project memory: code graph, docs, decisions and past agent sessions for coding agents (Claude Code, Codex, Cursor, any MCP client) in one local binary with a single SQLite file",
+            "tags": []
+          },
+          {
             "name": "habitat",
             "url": "https://github.com/habitat-sh/habitat",
             "description": "A tool created by Chef to build, deploy, and manage applications.",
@@ -84109,6 +84115,18 @@
             "name": "GreptimeDB",
             "url": "https://github.com/grepTimeTeam/greptimedb/",
             "description": "An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.",
+            "tags": []
+          },
+          {
+            "name": "HasteHealth/HasteHealth",
+            "url": "https://github.com/HasteHealth/HasteHealth",
+            "description": "High-performance FHIR R4 clinical data repository (healthcare data server) built on Postgres",
+            "tags": []
+          },
+          {
+            "name": "HeliosDatabase/HeliosDB-Nano",
+            "url": "https://github.com/HeliosDatabase/HeliosDB-Nano",
+            "description": "[ heliosdb-nano ] - Embedded database with PostgreSQL and MySQL wire protocols, git-like branching, time-travel queries and HNSW vector search",
             "tags": []
           },
           {
@@ -89154,6 +89172,12 @@
             "name": "bigduu/Bamboo-agent",
             "url": "https://github.com/bigduu/Bamboo-agent",
             "description": "[ bamboo-agent ] - Local-first AI agent harness & runtime \u2014 persistent memory, built-in tools, skills, MCP, sub-agents, workflows and schedules behind one HTTP + WebSocket API. Embeddable as a crate or runnable as a server.",
+            "tags": []
+          },
+          {
+            "name": "bigfish1913/pi-rust",
+            "url": "https://github.com/bigfish1913/pi-rust",
+            "description": "[ rpi-agent ] - Embeddable coding-agent runtime and terminal agent with composable providers, tools, durable sessions, and a native plugin ABI.",
             "tags": []
           },
           {
