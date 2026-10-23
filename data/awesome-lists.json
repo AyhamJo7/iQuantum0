@@ -45347,6 +45347,12 @@
         "name": "Other Tools",
         "resources": [
           {
+            "name": "AI Canvas Tauri",
+            "url": "https://github.com/Tenney95/AI-Canvas-tauri",
+            "description": "Free, lightweight, source-available AI canvas for storyboarding, image and video creation, editing, and asset management with ComfyUI workflows.",
+            "tags": []
+          },
+          {
             "name": "Amazing AI",
             "url": "https://sindresorhus.com/amazing-ai",
             "description": "Generate images from text using Stable Diffusion.",
@@ -47208,6 +47214,12 @@
             "tags": []
           },
           {
+            "name": "Voltip",
+            "url": "https://voltip.firlab.app/",
+            "description": "Open-source push-to-talk dictation with on-device or cloud recognition, AI polish, and a paired Android phone as an optional microphone.",
+            "tags": []
+          },
+          {
             "name": "VoxFlow",
             "url": "https://github.com/xingbofeng/VoxFlow",
             "description": "Open-source voice input workspace with local and cloud ASR, OCR, history, and coding-agent workflows.",
@@ -48131,6 +48143,12 @@
             "name": "CodexIsland",
             "url": "https://github.com/ericjypark/codex-island",
             "description": "Turns the MacBook notch into a Dynamic Island-style live activity for Claude Code and Codex CLI rate limits and spend, computed locally with no telemetry.",
+            "tags": []
+          },
+          {
+            "name": "Kumquat",
+            "url": "https://github.com/TheAlexRay/kumquat",
+            "description": "Menu bar file converter: drag files, tap Shift and drop them on a wheel to convert images, audio, video and documents, compress, OCR, trim and annotate.",
             "tags": []
           },
           {
@@ -49754,6 +49772,12 @@
             "tags": []
           },
           {
+            "name": "KiwiDesk",
+            "url": "https://kiwidesk.kiwicanopy.com/",
+            "description": "Tiling window manager that works out of the box with no config file, has a native Settings app, and updates itself from inside the app.",
+            "tags": []
+          },
+          {
             "name": "Loop",
             "url": "https://github.com/MrKai77/Loop",
             "description": "Window management made elegant. Freeware",
@@ -50680,6 +50704,12 @@
             "name": "markdown-quicklook",
             "url": "https://github.com/ruspg/markdown-quicklook",
             "description": "Quick Look plugin for rendered Markdown previews with syntax highlighting.",
+            "tags": []
+          },
+          {
+            "name": "MD QuickLook",
+            "url": "https://github.com/armamut/md-quicklook",
+            "description": "Native Quick Look extension for Markdown with syntax highlighting, math, and Mermaid diagrams, without a web engine.",
             "tags": []
           },
           {
@@ -62505,6 +62535,12 @@
             "tags": []
           },
           {
+            "name": "Chobble Tickets",
+            "url": "https://tickets.chobble.com",
+            "description": "Event ticketing with QR check-in and encrypted attendee records. The complete product is AGPL-3.0 with no open core and no branding requirement, and it runs as an edge script without an always-on server (alternative to Eventbrite). ( Demo , Source Code ) AGPL-3.0 Deno/Docker",
+            "tags": []
+          },
+          {
             "name": "Easy!Appointments",
             "url": "https://easyappointments.org/",
             "description": "Allows your customers to book appointments with you via the web. ( Demo , Source Code ) GPL-3.0 PHP",
@@ -66167,6 +66203,12 @@
             "name": "Octoprint",
             "url": "https://octoprint.org/",
             "description": "Snappy web interface for controlling consumer 3D printers. ( Source Code ) AGPL-3.0 Docker/Python",
+            "tags": []
+          },
+          {
+            "name": "Orkyo Community",
+            "url": "https://orkyo.com",
+            "description": "Production scheduling for manufacturing teams \u2014 one plan for the machines, people, and tools that run your jobs. ( Demo , Source Code ) AGPL-3.0 C#/Docker",
             "tags": []
           }
         ]
