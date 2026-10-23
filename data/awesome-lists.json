@@ -45760,6 +45760,12 @@
             "tags": []
           },
           {
+            "name": "Godmode Bot",
+            "url": "https://usegodmode.com",
+            "description": "Open-source AI coworker that turns your Claude subscription into persistent agents that do computer work in their own browser with your logins.",
+            "tags": []
+          },
+          {
             "name": "GroAsk",
             "url": "https://groask.com",
             "description": "Menu bar launcher that sends selected text to AI assistants and CLI agents.",
@@ -48775,6 +48781,12 @@
             "tags": []
           },
           {
+            "name": "SpaceMap",
+            "url": "https://github.com/renkagod/spacemap",
+            "description": "Disk usage analyzer that draws your disk as a nested treemap you can zoom into, filling in live while the scan runs.",
+            "tags": []
+          },
+          {
             "name": "SquirrelDisk",
             "url": "https://github.com/adileo/squirreldisk",
             "description": "Open-source disk usage analyzer with sunburst and treemap views for disks and cloud storage.",
@@ -50609,6 +50621,12 @@
             "name": "AnyDesk",
             "url": "https://anydesk.com",
             "description": "Provides remote access across multiple machines.",
+            "tags": []
+          },
+          {
+            "name": "ClawTank",
+            "url": "https://github.com/HMAKT99/ClawTank",
+            "description": "Open-source RDP server for connecting to a Mac from standard Remote Desktop clients like Windows App and mstsc.",
             "tags": []
           },
           {
