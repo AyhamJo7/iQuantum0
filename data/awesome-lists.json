@@ -46279,6 +46279,12 @@
             "tags": []
           },
           {
+            "name": "Nearby Drop",
+            "url": "https://arslanbasharat-o-o.github.io/NearByDrop/",
+            "description": "Independent macOS menu-bar app for two-way Google Quick Share transfers with compatible Android devices, plus USB MTP, Finder sharing, QR tools, and experimental Windows interoperability.",
+            "tags": []
+          },
+          {
             "name": "NearDrop",
             "url": "https://github.com/grishka/NearDrop",
             "description": "An unofficial Google Nearby Share/Quick Share app for macOS.",
@@ -50401,6 +50407,12 @@
             "name": "HandShaker",
             "url": "https://www.smartisan.com/apps/handshaker",
             "description": "Manage Android phone content on Mac.",
+            "tags": []
+          },
+          {
+            "name": "Healthy Battery",
+            "url": "https://github.com/berkinefeavci/healthy-battery",
+            "description": "Open-source charge limiter with live power flow and long-term battery health for Apple Silicon MacBooks.",
             "tags": []
           },
           {
