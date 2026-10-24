@@ -45700,6 +45700,12 @@
             "tags": []
           },
           {
+            "name": "CoWork OS",
+            "url": "https://coworkosapp.com",
+            "description": "Open-source desktop AI agent for files, browser, and chat-app tasks that works with your own API keys or local models.",
+            "tags": []
+          },
+          {
             "name": "Cursor Voice",
             "url": "https://cursorvoice.app",
             "description": "Voice assistant that lives by your cursor, sees your screen, and can control apps via the OpenAI Realtime API.",
@@ -45984,6 +45990,12 @@
             "name": "Ferdium",
             "url": "https://ferdium.org/",
             "description": "Messaging workspace that combines multiple web apps in one place.",
+            "tags": []
+          },
+          {
+            "name": "FinchGram",
+            "url": "https://www.finchgram.com/",
+            "description": "Unofficial open-source Telegram client built on TDLib, with a screenshot tool, WebDAV downloads and opt-in MCP access for AI assistants.",
             "tags": []
           },
           {
@@ -46858,6 +46870,12 @@
             "tags": []
           },
           {
+            "name": "PitchTap",
+            "url": "https://github.com/gkudva96/pitchtap",
+            "description": "Open-source menu bar app that changes the key of any app's audio live without changing the tempo.",
+            "tags": []
+          },
+          {
             "name": "Segue",
             "url": "https://segue.npearce.me/",
             "description": "Broadcast audio playout with crossfade, trim, ramp timers, and pause beds for live radio and podcasts.",
@@ -47260,12 +47278,6 @@
       {
         "name": "Browsers",
         "resources": [
-          {
-            "name": "Arc",
-            "url": "https://arc.net/",
-            "description": "Browser with a distinctive workspace-style interface.",
-            "tags": []
-          },
           {
             "name": "Brave",
             "url": "https://brave.com/",
@@ -47949,6 +47961,12 @@
             "tags": []
           },
           {
+            "name": "Clippo",
+            "url": "https://lorder19.github.io/clippo/",
+            "description": "Clipboard history with search, saved snippet lists and a paste queue that pastes copied items one by one. Skips passwords, history encrypted on disk.",
+            "tags": []
+          },
+          {
             "name": "Clippy",
             "url": "https://github.com/yarasaa/Clippy",
             "description": "Smart clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter.",
@@ -48149,6 +48167,12 @@
             "name": "CodexIsland",
             "url": "https://github.com/ericjypark/codex-island",
             "description": "Turns the MacBook notch into a Dynamic Island-style live activity for Claude Code and Codex CLI rate limits and spend, computed locally with no telemetry.",
+            "tags": []
+          },
+          {
+            "name": "Konverter",
+            "url": "https://github.com/davidpraznik/Konverter",
+            "description": "Menu bar file converter and image compressor operated by dragging files onto a radial wheel.",
             "tags": []
           },
           {
@@ -48801,6 +48825,12 @@
             "name": "AppPorts",
             "url": "https://github.com/wzh4869/AppPorts",
             "description": "Move apps to external storage while keeping working launch links in /Applications .",
+            "tags": []
+          },
+          {
+            "name": "Archivator",
+            "url": "https://github.com/davidpraznik/Archivator",
+            "description": "Menu bar archive tool that compresses and extracts files by dragging them onto a radial wheel.",
             "tags": []
           },
           {
@@ -49739,6 +49769,12 @@
             "name": "DockDoor",
             "url": "https://dockdoor.net",
             "description": "Free and open source window peeking & alt-tab for macOS.",
+            "tags": []
+          },
+          {
+            "name": "DockFlip",
+            "url": "https://geezery.github.io/DockFlip/",
+            "description": "Dock window lists with browser tabs, a Flip 3D \u2318Tab window switcher and Windows-style snapping in one app.",
             "tags": []
           },
           {
@@ -50716,6 +50752,12 @@
             "name": "FluxMarkdown",
             "url": "https://github.com/xykong/flux-markdown",
             "description": "Quick Look extension for Markdown previews with Mermaid, KaTeX, GFM, TOC, and charts.",
+            "tags": []
+          },
+          {
+            "name": "Folderglass",
+            "url": "https://dev.adityarajsingh.com/folderglass/",
+            "description": "Quick Look extension for folders: real size including subfolders, file-type breakdown, largest and newest files, git branch and status, and the README rendered inline. Also previews zip contents and Markdown.",
             "tags": []
           },
           {
@@ -73831,6 +73873,12 @@
             "url": "https://ossp-updates.beehiiv.com/",
             "description": "A bi-weekly newsletter to give you the latest updates on popular and unknown open source projects written or related to Swift.",
             "tags": []
+          },
+          {
+            "name": "The iOS Weekly Brief",
+            "url": "https://iosweeklybrief.com",
+            "description": "A weekly newsletter with Must/Quick Read picks, a Toolbox section, the iOS job market, and upcoming conferences, each with commentary on why it matters.",
+            "tags": []
           }
         ]
       },
@@ -73939,7 +73987,7 @@
           },
           {
             "name": "Swift & SwiftUI Tutorials",
-            "url": "http://ww1.janeshswift.com",
+            "url": "https://janeshsutharios.github.io/TechBlogs/",
             "description": "SwiftUI learning with Ease.",
             "tags": []
           },
@@ -73947,6 +73995,12 @@
             "name": "Swift Education",
             "url": "https://github.com/swifteducation",
             "description": "A community of educators sharing materials for teaching Swift and app development.",
+            "tags": []
+          },
+          {
+            "name": "Swift Learning Roadmap",
+            "url": "https://github.com/asimcanyagiz/Swift-Roadmap",
+            "description": "A learning path with Turkish resources covering Swift fundamentals and iOS development.",
             "tags": []
           },
           {
@@ -74002,12 +74056,6 @@
         "name": "REPL",
         "resources": [
           {
-            "name": "Online Swift Playground",
-            "url": "http://online.swiftplayground.run",
-            "description": "Online Swift Playground.",
-            "tags": []
-          },
-          {
             "name": "SwiftFiddle",
             "url": "https://swiftfiddle.com",
             "description": "Playground for making, sharing, and embedding Swift code.",
@@ -74048,7 +74096,7 @@
           },
           {
             "name": "vim-polyglot",
-            "url": "https://github.com/sheerun/vim-polyglot",
+            "url": "https://github.com/vim-polyglot/vim-polyglot",
             "description": "Language pack for vim that includes vim-swift.",
             "tags": []
           }
@@ -74199,8 +74247,14 @@
           },
           {
             "name": "Fazm",
-            "url": "https://github.com/m13v/fazm",
+            "url": "https://github.com/mediar-ai/fazm",
             "description": "A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.",
+            "tags": []
+          },
+          {
+            "name": "Grux",
+            "url": "https://github.com/dotcomjack/grux",
+            "description": "A local-first AI agent app for macOS with mail, calendar, meeting tools, and support for Ollama or your own API key.",
             "tags": []
           },
           {
@@ -74870,6 +74924,12 @@
             "tags": []
           },
           {
+            "name": "SwiftSunburstDiagram",
+            "url": "https://github.com/lludo/SwiftSunburstDiagram",
+            "description": "SwiftUI library to render sunburst diagrams (multilevel pie / ring charts) from a tree of objects.",
+            "tags": []
+          },
+          {
             "name": "SwiftUICharts",
             "url": "https://github.com/willdale/SwiftUICharts",
             "description": "A charts / plotting library for SwiftUI. Works on macOS, iOS, watchOS, and tvOS and has accessibility and Localization features built in.",
@@ -74961,6 +75021,12 @@
             "name": "Hue",
             "url": "https://github.com/zenangst/Hue",
             "description": "Hue is the all-in-one coloring utility that you'll ever need.",
+            "tags": []
+          },
+          {
+            "name": "PaletteKit",
+            "url": "https://github.com/2dubu/PaletteKit",
+            "description": "Extracts dominant colors and renders adaptive SwiftUI and UIKit graphics from any image.",
             "tags": []
           },
           {
@@ -76299,7 +76365,7 @@
           },
           {
             "name": "ATGMediaBrowser",
-            "url": "https://github.com/altayer-digital/ATGMediaBrowser",
+            "url": "https://github.com/ounass-tech/ATGMediaBrowser",
             "description": "Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.",
             "tags": []
           },
@@ -76469,6 +76535,12 @@
             "name": "Nuke",
             "url": "https://github.com/kean/Nuke",
             "description": "Advanced framework for loading, caching, processing, displaying and preheating images.",
+            "tags": []
+          },
+          {
+            "name": "PaintKit",
+            "url": "https://github.com/joshlin2201/itspaint",
+            "description": "Raster drawing engine with no UI and no dependencies.",
             "tags": []
           },
           {
@@ -76865,7 +76937,7 @@
           },
           {
             "name": "StringSwitch",
-            "url": "https://stringswitch.com",
+            "url": "https://fabdurso.com/en/stringswitch/",
             "description": "Easily convert iOS .strings files to Android strings.xml format and vice versa.",
             "tags": []
           },
@@ -77879,6 +77951,12 @@
             "url": "https://github.com/leoture/MockSwift",
             "description": "Mock Framework that uses the power of property wrappers.",
             "tags": []
+          },
+          {
+            "name": "swift-sourcery-templates",
+            "url": "https://github.com/modaal-agent/swift-sourcery-templates",
+            "description": "Sourcery templates for generating protocol mocks, type erasures, and dependency-forwarding classes.",
+            "tags": []
           }
         ]
       },
@@ -77925,6 +78003,12 @@
             "name": "MarkdownDisplayView",
             "url": "https://github.com/zjc19891106/MarkdownDisplayView",
             "description": "A Markdown rendering component built on TextKit 2, providing smooth performance, rich customization options, and support for streaming AI-driven conversational interactions.",
+            "tags": []
+          },
+          {
+            "name": "MarkdownEngine",
+            "url": "https://github.com/nodes-app/swift-markdown-engine",
+            "description": "A native AppKit Markdown editor for macOS with live styling, wiki-style links, and LaTeX rendering, built on TextKit 2.",
             "tags": []
           },
           {
@@ -78509,7 +78593,7 @@
           },
           {
             "name": "OverlayContainer",
-            "url": "https://github.com/applidium/OverlayContainer",
+            "url": "https://github.com/gaetanzanella/OverlayContainer",
             "description": "OverlayContainer makes it easier to develop overlay based interfaces, such as the one presented in the Apple Maps or Stocks apps.",
             "tags": []
           },
@@ -79175,7 +79259,7 @@
           },
           {
             "name": "ENSwiftSideMenu",
-            "url": "https://github.com/evnaz/ENSwiftSideMenu",
+            "url": "https://github.com/devgenios/ENSwiftSideMenu",
             "description": "Sliding side menu.",
             "tags": []
           },
@@ -79205,7 +79289,7 @@
           },
           {
             "name": "InteractiveSideMenu",
-            "url": "https://github.com/handsomecode/InteractiveSideMenu",
+            "url": "https://github.com/raw-materials/InteractiveSideMenu",
             "description": "Customizable iOS Interactive Side Menu.",
             "tags": []
           },
@@ -80050,7 +80134,7 @@
           },
           {
             "name": "Closures",
-            "url": "https://github.com/vhesener/Closures",
+            "url": "https://github.com/dusty-commits/Closures",
             "description": "Swifty closures for UIKit and Foundation.",
             "tags": []
           },
@@ -80094,12 +80178,6 @@
             "name": "DuctTape",
             "url": "https://github.com/marty-suzuki/DuctTape",
             "description": "\ud83d\udce6 KeyPath dynamicMemberLookup based syntax sugar for Swift.",
-            "tags": []
-          },
-          {
-            "name": "EtherWalletKit",
-            "url": "https://github.com/SteadyAction/EtherWalletKit",
-            "description": "Ethereum Wallet Toolkit for iOS - You can implement Ethereum wallet without a server and blockchain knowledge.",
             "tags": []
           },
           {
@@ -80433,7 +80511,7 @@
         "resources": [
           {
             "name": "ATGValidator",
-            "url": "https://github.com/altayer-digital/ATGValidator",
+            "url": "https://github.com/ounass-tech/ATGValidator",
             "description": "Rule based validation framework with form and card validation support for iOS.",
             "tags": []
           },
@@ -86854,6 +86932,12 @@
             "name": "ki-editor/ki-editor",
             "url": "https://github.com/ki-editor/ki-editor",
             "description": "A multi-cursor combinatoric modal editor",
+            "tags": []
+          },
+          {
+            "name": "l0ng-ai/openidea",
+            "url": "https://github.com/l0ng-ai/openidea",
+            "description": "A native IDE with IntelliJ IDEA's keymap, tool windows and search-everywhere: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages. Built with Tauri 2.",
             "tags": []
           },
           {
