@@ -45139,6 +45139,12 @@
             "tags": []
           },
           {
+            "name": "Screenshots",
+            "url": "https://ciromaciel.click/tools/screenshots",
+            "description": "Open-source menu bar tool for screenshots, scrolling capture, OCR, annotation, pinning, and MP4 or GIF screen recording, with no network code.",
+            "tags": []
+          },
+          {
             "name": "Shottr",
             "url": "https://shottr.cc/",
             "description": "Screen capture application with features like Scrolling capture, OCR and markup.",
@@ -45613,6 +45619,12 @@
             "name": "Atomic Chat",
             "url": "https://github.com/AtomicBot-ai/Atomic-Chat",
             "description": "Open-source AI chat client for local and cloud models with MCP support.",
+            "tags": []
+          },
+          {
+            "name": "Atticus",
+            "url": "https://saarthurr.github.io/atticus-mac/",
+            "description": "Open-source voice assistant that runs on your Claude plan, learns new tasks after doing them once, and handles dictation, screen help, and background agents.",
             "tags": []
           },
           {
@@ -46267,6 +46279,12 @@
             "tags": []
           },
           {
+            "name": "FileShipper",
+            "url": "https://getapps.cafe/app/fileshipper",
+            "description": "Peer-to-peer file transfer between computers and phones over local Wi-Fi.",
+            "tags": []
+          },
+          {
             "name": "Flow",
             "url": "https://fivedetails.com/flow/",
             "description": "Award-winning, beautiful, fast, and reliable FTP + SFTP client.",
@@ -46709,6 +46727,12 @@
             "tags": []
           },
           {
+            "name": "SoundCloud for macOS",
+            "url": "https://github.com/jettsba/SoundCloud-for-macOS",
+            "description": "Unofficial lightweight SoundCloud app for macOS.",
+            "tags": []
+          },
+          {
             "name": "Spotifly",
             "url": "https://github.com/ralph/Spotifly",
             "description": "Lightweight Spotify player focused on fast playback control.",
@@ -47148,12 +47172,6 @@
             "tags": []
           },
           {
-            "name": "Azex Speech",
-            "url": "https://github.com/azex-ai/speech",
-            "description": "Voice input tuned for mixed Chinese-English dictation in AI and crypto work.",
-            "tags": []
-          },
-          {
             "name": "buzz",
             "url": "https://github.com/chidiwilliams/buzz",
             "description": "Transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
@@ -47372,6 +47390,12 @@
             "name": "Safari",
             "url": "https://www.apple.com/safari/",
             "description": "Native browser for Macs.",
+            "tags": []
+          },
+          {
+            "name": "Stedding",
+            "url": "https://stedding.dev/",
+            "description": "Open-source Arc-style browser on Chromium with Spaces, vertical tabs, pinned folders, a command bar and Arc import.",
             "tags": []
           },
           {
@@ -47985,6 +48009,12 @@
             "tags": []
           },
           {
+            "name": "ClipRecallBar",
+            "url": "https://turhe123.github.io/clip-recall-bar/",
+            "description": "Keyboard-first clipboard history popup that filters as you type and pastes with one key.",
+            "tags": []
+          },
+          {
             "name": "ClipTools",
             "url": "https://macmost.com/cliptools",
             "description": "Clipboard utility set for quick copy, paste, and text cleanup tasks.",
@@ -48404,6 +48434,12 @@
             "tags": []
           },
           {
+            "name": "MenuBarMijia",
+            "url": "https://github.com/jryang1997/MenuBarMijia",
+            "description": "Control Xiaomi Mi Home devices from the menu bar by voice or keyboard, via Mi Cloud QR login or Home Assistant (macOS 26+).",
+            "tags": []
+          },
+          {
             "name": "MenubarX",
             "url": "https://menubarx.app/",
             "description": "A powerful Mac menu bar browser, pin webpage like an App.",
@@ -48581,6 +48617,12 @@
             "name": "Today",
             "url": "https://sindresorhus.com/today",
             "description": "View today\u2019s schedule and calendar events from the menu bar.",
+            "tags": []
+          },
+          {
+            "name": "Topnotchers",
+            "url": "https://github.com/joey-david/topnotchers",
+            "description": "Turns the MacBook notch into a home for Claude Code and Codex sessions as animated mascots, with questions and permission prompts answered from the notch.",
             "tags": []
           },
           {
@@ -49100,6 +49142,12 @@
             "name": "Speediness",
             "url": "https://sindresorhus.com/speediness",
             "description": "Check your internet speed.",
+            "tags": []
+          },
+          {
+            "name": "Swivel",
+            "url": "https://github.com/jonathanlotan/Swivel",
+            "description": "Tap a key mid-drag and drop files on a wheel to convert, crop, compress, strip metadata or share them, fully offline.",
             "tags": []
           },
           {
@@ -50569,6 +50617,12 @@
             "name": "Tuxera NTFS",
             "url": "https://www.tuxera.com/products/tuxera-ntfs-for-mac/",
             "description": "Full read-write compatibility with NTFS-formatted drives on a Mac.",
+            "tags": []
+          },
+          {
+            "name": "WattMate",
+            "url": "https://wattmateapp.com",
+            "description": "See which apps and AI coding agents are draining your MacBook battery, right from the menu bar, in real watts and the minutes you get back by quitting one.",
             "tags": []
           },
           {
