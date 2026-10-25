@@ -42332,6 +42332,12 @@
             "tags": []
           },
           {
+            "name": "MDViewer",
+            "url": "https://mmmikael.github.io/mdviewer/",
+            "description": "Fast Markdown viewer with live reload, Quick Look previews, Mermaid, math and optional AI summaries with your own or a local model.",
+            "tags": []
+          },
+          {
             "name": "MWeb",
             "url": "https://www.mweb.im/",
             "description": "Pro Markdown writing, and static blog generator App.",
@@ -47991,12 +47997,6 @@
             "tags": []
           },
           {
-            "name": "Clippo",
-            "url": "https://lorder19.github.io/clippo/",
-            "description": "Clipboard history with search, saved snippet lists and a paste queue that pastes copied items one by one. Skips passwords, history encrypted on disk.",
-            "tags": []
-          },
-          {
             "name": "Clippy",
             "url": "https://github.com/yarasaa/Clippy",
             "description": "Smart clipboard manager with content-aware previews, AI transformations, a built-in screenshot editor, and file converter.",
@@ -48012,6 +48012,12 @@
             "name": "ClipRecallBar",
             "url": "https://turhe123.github.io/clip-recall-bar/",
             "description": "Keyboard-first clipboard history popup that filters as you type and pastes with one key.",
+            "tags": []
+          },
+          {
+            "name": "Clipstack",
+            "url": "https://chiranjeebhub.github.io/clipstack-site/",
+            "description": "Native clipboard history with search, type filters, pins and optional iCloud sync.",
             "tags": []
           },
           {
@@ -48042,6 +48048,12 @@
             "name": "iPaste",
             "url": "https://en.toolinbox.net/iPaste",
             "description": "Lightweight and efficient clipboard tool.",
+            "tags": []
+          },
+          {
+            "name": "Kurenai",
+            "url": "https://lorder19.github.io/kurenai/",
+            "description": "Clipboard history with search, saved snippet lists and a paste queue that pastes copied items one by one. Skips passwords, history encrypted on disk.",
             "tags": []
           },
           {
@@ -48778,6 +48790,12 @@
             "name": "MAC-LIMPO",
             "url": "https://alexkads.github.io/MAC-LIMPO/",
             "description": "Menu bar cleaner for developer caches (Xcode, Docker, simulators, node_modules) with a 2D/3D disk usage treemap.",
+            "tags": []
+          },
+          {
+            "name": "MacClean",
+            "url": "https://thulem.com/en/",
+            "description": "Free local Mac disk cleaner that lets you review WeChat media, System Data, and Xcode or AI caches before deleting.",
             "tags": []
           },
           {
