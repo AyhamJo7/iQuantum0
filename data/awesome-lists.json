@@ -45419,6 +45419,12 @@
             "tags": []
           },
           {
+            "name": "Featherview",
+            "url": "https://featherview.mynetx.net",
+            "description": "Open-source, keyboard-driven image viewer for flipping through folders, with batch conversion.",
+            "tags": []
+          },
+          {
             "name": "Fotohaus",
             "url": "https://github.com/aelnagish/Fotohaus",
             "description": "Open-source photo organizer that works on your existing folders, with on-device face recognition, search and non-destructive editing.",
@@ -45476,6 +45482,12 @@
             "name": "JPEGmini",
             "url": "https://www.jpegmini.com/",
             "description": "Reduce image size by up to 80%, without compromising quality.",
+            "tags": []
+          },
+          {
+            "name": "Jutsu Studio",
+            "url": "https://jutsustudio.com/",
+            "description": "Open-source, unofficial Higgsfield client for creating AI videos and images with Seedance, Kling and Genjutsu, with every result kept on your disk.",
             "tags": []
           },
           {
@@ -45542,6 +45554,12 @@
             "name": "svgus",
             "url": "https://www.svgs.us/",
             "description": "Organize, clean and transform your SVGs.",
+            "tags": []
+          },
+          {
+            "name": "Swapjutsu",
+            "url": "https://jutsustudio.com/swapjutsu/",
+            "description": "Open-source character swap tool for videos with Seedance 2.5 or Wan 2.2 Animate, with on-device preparation on Apple silicon.",
             "tags": []
           },
           {
@@ -46959,6 +46977,12 @@
             "tags": []
           },
           {
+            "name": "Arroxy",
+            "url": "https://arroxy.com/",
+            "description": "Open-source yt-dlp GUI for downloading video, audio, playlists and subtitles from YouTube and other supported sites.",
+            "tags": []
+          },
+          {
             "name": "Downie",
             "url": "https://software.charliemonroe.net/downie.php",
             "description": "Video downloader for macOS with support for YouTube and other 1200 sites.",
@@ -47591,6 +47615,12 @@
             "name": "MRRDock",
             "url": "https://mrrdock.simoneruggiero.com",
             "description": "Menu bar app that adds up your MRR from Stripe, RevenueCat, Paddle, Lemon Squeezy, Polar, Dodo Payments and Gumroad into one total. Multi-currency, keys stay in the Keychain, no account.",
+            "tags": []
+          },
+          {
+            "name": "Moony",
+            "url": "https://moonyfinance.com",
+            "description": "Personal finance app for tracking accounts, investments, crypto, property and loans in an encrypted local database, with no account, no cloud and no telemetry.",
             "tags": []
           }
         ]
@@ -48395,6 +48425,12 @@
             "name": "Later",
             "url": "https://getlater.app/",
             "description": "Save all your Mac apps for later with one click.",
+            "tags": []
+          },
+          {
+            "name": "Ledge",
+            "url": "https://ledgeapp.dev",
+            "description": "Turns the MacBook notch into a Dynamic Island-style status area for now playing, timers, your next meeting, weather, notes, and Keep Awake (macOS 26+).",
             "tags": []
           },
           {
@@ -85228,6 +85264,12 @@
             "tags": []
           },
           {
+            "name": "jangtrinh/design-os-studio",
+            "url": "https://github.com/jangtrinh/design-os-studio",
+            "description": "GPU-accelerated interface design studio that opens and saves .fig files locally and exposes the open file to coding agents through an MCP server.",
+            "tags": []
+          },
+          {
             "name": "KaminariOS/rustracer",
             "url": "https://github.com/KaminariOS/rustracer",
             "description": "A PBR glTF 2.0 renderer based on Vulkan ray-tracing.",
@@ -85437,6 +85479,12 @@
             "name": "cocoindex",
             "url": "https://github.com/cocoindex-io/cocoindex",
             "description": "ETL framework to build fresh context for AI agents, with incremental processing",
+            "tags": []
+          },
+          {
+            "name": "respanai/respan-gateway",
+            "url": "https://github.com/respanai/respan-gateway",
+            "description": "[ respan-gateway ] - LLM gateway that lets OpenAI, Anthropic and Gemini SDKs call any model by translating between their APIs (chat, tools, media, realtime voice), with routing, fallback, an MCP tool loop and aggregator, and a web UI.",
             "tags": []
           },
           {
@@ -87792,6 +87840,12 @@
       {
         "name": "Web Servers",
         "resources": [
+          {
+            "name": "biandratti/huginn-proxy",
+            "url": "https://github.com/biandratti/huginn-proxy",
+            "description": "Reverse proxy that forwards open-standard fingerprints (JA4 TLS, Akamai HTTP/2, and p0f TCP via an XDP/TC eBPF program) to backends as headers",
+            "tags": []
+          },
           {
             "name": "cloudflare/pingora",
             "url": "https://github.com/cloudflare/pingora",
@@ -97023,7 +97077,7 @@
           {
             "name": "markdown",
             "url": "https://github.com/Python-Markdown/markdown",
-            "description": "A Python implementation of John Gruber\u2019s Markdown.",
+            "description": "A Python implementation of John Gruber's Markdown.",
             "tags": []
           },
           {
