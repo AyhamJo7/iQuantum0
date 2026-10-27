@@ -45145,6 +45145,12 @@
             "tags": []
           },
           {
+            "name": "Photon",
+            "url": "https://www.piedol.top/photon/",
+            "description": "Open-source screenshot, markup and screen recording tool for macOS and Windows, with no network code.",
+            "tags": []
+          },
+          {
             "name": "Scap",
             "url": "https://wangchujiang.com/scap/",
             "description": "Screenshot annotation and canvas tool with blur, mosaic, and watermark features.",
@@ -45374,6 +45380,12 @@
             "name": "Amazing AI",
             "url": "https://sindresorhus.com/amazing-ai",
             "description": "Generate images from text using Stable Diffusion.",
+            "tags": []
+          },
+          {
+            "name": "Anthora",
+            "url": "https://barryanders.github.io/anthora/",
+            "description": "Local photo and video library for browsing, searching, and reviewing duplicates across folders and mounted drives.",
             "tags": []
           },
           {
@@ -47298,6 +47310,12 @@
             "tags": []
           },
           {
+            "name": "Tamka",
+            "url": "https://www.piedol.top/tamka/",
+            "description": "Open-source on-device dictation that runs NVIDIA Parakeet models on the Neural Engine and types at the cursor in any app.",
+            "tags": []
+          },
+          {
             "name": "TypeWhisper",
             "url": "https://www.typewhisper.com",
             "description": "Local Whisper-based speech-to-text with a global hotkey.",
@@ -48844,6 +48862,12 @@
             "name": "Headroom",
             "url": "https://headroom-app.org",
             "description": "Fast disk space analyzer with a treemap and duplicate finder that labels caches and developer folders Safe, Caution or Never before you delete them.",
+            "tags": []
+          },
+          {
+            "name": "Kipimo",
+            "url": "https://www.piedol.top/kipimo/",
+            "description": "Open-source menu bar system monitor with tools to clear caches, uninstall apps with their leftovers, find what fills the disk and review startup items, moving everything to the Trash.",
             "tags": []
           },
           {
