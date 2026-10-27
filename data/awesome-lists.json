@@ -42730,6 +42730,12 @@
             "tags": []
           },
           {
+            "name": "Comic Commander",
+            "url": "https://krocon.de/products/comiccommander/",
+            "description": "Comic library browser and reader for CBZ, CBR, CB7, CBT, and PDF files.",
+            "tags": []
+          },
+          {
             "name": "iChm",
             "url": "https://github.com/NSGod/ichm",
             "description": "Ebook reader for CHM (Microsoft Compiled HTML help) files.",
@@ -43495,7 +43501,7 @@
           },
           {
             "name": "Loupe",
-            "url": "https://github.com/smughead/Loupe",
+            "url": "https://github.com/britchie4/Loupe",
             "description": "Accessibility inspector that generates AI-agent-ready output.",
             "tags": []
           },
@@ -46421,6 +46427,12 @@
             "tags": []
           },
           {
+            "name": "AudioSync",
+            "url": "https://github.com/yassersutojoyo/audiosync",
+            "description": "Play your Mac's audio on AirPlay, Google Cast and local speakers at once, in sync.",
+            "tags": []
+          },
+          {
             "name": "BeMyEars",
             "url": "https://www.bemyears.cn/",
             "description": "Live captioning tool with on-device transcription and multilingual support.",
@@ -46890,7 +46902,7 @@
           {
             "name": "akou",
             "url": "https://geiserx.github.io/akou/",
-            "description": "Open-source call and meeting recorder that transcribes on-device with speaker labels and lets Claude Code or Codex question a call over MCP.",
+            "description": "Open-source call and meeting recorder that transcribes on-device with speaker labels and lets Claude Code or Codex question a call over MCP. CamiTune - System-wide audio equalizer for macOS(13+) with parametric EQ, per-app audio control, Auto EQ, AU/VST3 plugin support, and advanced DSP.",
             "tags": []
           },
           {
@@ -47262,6 +47274,12 @@
             "tags": []
           },
           {
+            "name": "ParrotFlow",
+            "url": "https://parrotflow.io/",
+            "description": "Local dictation app that you can program with your rules, scripts, and vocabulary.",
+            "tags": []
+          },
+          {
             "name": "Presspeech",
             "url": "https://github.com/rcourtman/presspeech",
             "description": "Native push-to-talk local dictation app for Apple Silicon Macs using Parakeet TDT v3 (CoreML/ANE).",
@@ -47378,6 +47396,12 @@
             "name": "Helium",
             "url": "https://helium.computer/",
             "description": "Privacy-focused Chromium browser with built-in ad blocking.",
+            "tags": []
+          },
+          {
+            "name": "Lilo",
+            "url": "https://getlilo.app/",
+            "description": "Native WebKit browser with Arc-style spaces, Chrome extensions, terminal tabs in the sidebar, and a built-in MCP server for AI agents.",
             "tags": []
           },
           {
@@ -48638,6 +48662,12 @@
             "tags": []
           },
           {
+            "name": "StableBar",
+            "url": "https://stablebar.app",
+            "description": "Customizable menu bar replacement with themes, widgets, popups and AeroSpace, yabai or OmniWM workspaces.",
+            "tags": []
+          },
+          {
             "name": "Streaker",
             "url": "https://github.com/jamieweavis/streaker",
             "description": "GitHub contribution streak tracking menubar app.",
@@ -48916,6 +48946,12 @@
             "name": "SquirrelDisk",
             "url": "https://github.com/adileo/squirreldisk",
             "description": "Open-source disk usage analyzer with sunburst and treemap views for disks and cloud storage.",
+            "tags": []
+          },
+          {
+            "name": "Tidymint",
+            "url": "https://tidymint.app",
+            "description": "Open-source disk cleaner that only moves items to the Trash and checks whether your project scripts still reference a duplicate before removing it.",
             "tags": []
           }
         ]
@@ -86631,6 +86667,12 @@
             "tags": []
           },
           {
+            "name": "lacs-project/sysknife",
+            "url": "https://github.com/lacs-project/sysknife",
+            "description": "[ sysknife-cli ] - MCP server and CLI that let an AI agent administer Linux through typed, approval-gated actions; a policy-enforced daemon builds each command and keeps an Ed25519-signed audit log",
+            "tags": []
+          },
+          {
             "name": "LACT",
             "url": "https://github.com/ilya-zlobintsev/LACT",
             "description": "Linux AMDGPU Controller",
@@ -87827,6 +87869,12 @@
             "name": "Stoatchat",
             "url": "https://github.com/stoatchat/stoatchat",
             "description": "User-first chat platform built with modern web technologies.",
+            "tags": []
+          },
+          {
+            "name": "YOLOW92/pagesift",
+            "url": "https://github.com/YOLOW92/pagesift",
+            "description": "[ pagesift ] - Web content engine for AI agents and LLM pipelines: crawling and main-content extraction to clean Markdown and structured data in a single binary, with a Firecrawl-compatible API and an MCP server.",
             "tags": []
           },
           {
@@ -89966,6 +90014,12 @@
       {
         "name": "Bioinformatics",
         "resources": [
+          {
+            "name": "Ekin-Kahraman/rustscenic",
+            "url": "https://github.com/Ekin-Kahraman/rustscenic",
+            "description": "Core pySCENIC and SCENIC+ gene regulatory network analysis stages with a Rust backend and Python API.",
+            "tags": []
+          },
           {
             "name": "polars-bio",
             "url": "https://github.com/biodatageeks/polars-bio",
