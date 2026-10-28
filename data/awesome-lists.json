@@ -45133,6 +45133,12 @@
             "tags": []
           },
           {
+            "name": "Glint",
+            "url": "https://github.com/brentc22/glint",
+            "description": "Open-source screenshot tool that finds and pixelates emails, IBANs, card numbers, and API keys on-device before you share.",
+            "tags": []
+          },
+          {
             "name": "Lightshot",
             "url": "https://app.prntscr.com/",
             "description": "The fastest way to take a customizable screenshot.",
@@ -45997,6 +46003,12 @@
             "name": "Wayfinder",
             "url": "https://wayfinder-ai.pages.dev/",
             "description": "Local-first visual voyage map for preserving Codex and Claude Code sessions, branches, failures, decisions, and file changes.",
+            "tags": []
+          },
+          {
+            "name": "Yardlet",
+            "url": "https://yardlet.app",
+            "description": "Open-source app for running Codex, Claude Code and other coding agent CLIs side by side in one window, using each agent's own sign-in and session history.",
             "tags": []
           }
         ]
@@ -47590,6 +47602,18 @@
             "tags": []
           },
           {
+            "name": "SwaprTrans",
+            "url": "https://linrol.github.io/swapr-trans/",
+            "description": "Lightweight (<2MB) native menu bar tool for select-and-space translation and in-place Enter rewrite, powered by Apple's on-device model.",
+            "tags": []
+          },
+          {
+            "name": "Tercana",
+            "url": "https://rumpony.github.io/Tercana/",
+            "description": "Menu bar companion for PS5 Remote Play: live on-device subtitle translation into any language, plus a PSN trophy tracker.",
+            "tags": []
+          },
+          {
             "name": "Translate Like Me",
             "url": "https://github.com/wiltodelta/translate-like-me",
             "description": "Open-source menu bar translator that replaces the selected text in any app, in your own writing style, via Claude, ChatGPT or Grok.",
@@ -47623,6 +47647,12 @@
       {
         "name": "Finance",
         "resources": [
+          {
+            "name": "HTS for Mac",
+            "url": "https://github.com/duct-tape2/hts-for-mac",
+            "description": "Read-only Korean and US stock workspace in the style of Windows HTS apps, with a 10-level order book, four-chart layouts, watchlists and saved workspaces; live quotes need your own Kiwoom REST API key.",
+            "tags": []
+          },
           {
             "name": "Posnic",
             "url": "https://www.posnic.com/",
@@ -47715,6 +47745,12 @@
             "name": "fob",
             "url": "https://getfob.app",
             "description": "Menu bar SSH agent that keeps keys in the Secure Enclave and gates every use behind Touch ID.",
+            "tags": []
+          },
+          {
+            "name": "Hey Mac",
+            "url": "https://heymacapp.com/",
+            "description": "On-device face unlock for the lock screen and privacy shields for selected apps.",
             "tags": []
           },
           {
@@ -48659,6 +48695,12 @@
             "name": "Second Clock",
             "url": "https://sindresorhus.com/second-clock",
             "description": "Show a second clock for a different time zone in your menu bar.",
+            "tags": []
+          },
+          {
+            "name": "Stash",
+            "url": "https://github.com/brentc22/stash",
+            "description": "Open-source menu bar icon hider for macOS 27 that collapses status items behind a single arrow.",
             "tags": []
           },
           {
@@ -84126,6 +84168,12 @@
             "tags": []
           },
           {
+            "name": "tsirysndr/music-player",
+            "url": "https://github.com/tsirysndr/music-player",
+            "description": "Music player with Rockbox -powered audio playback, multiple interfaces, and streaming support",
+            "tags": []
+          },
+          {
             "name": "tunein-cli",
             "url": "https://github.com/tsirysndr/tunein-cli",
             "description": "Browse and listen to thousands of radio stations across the globe right from your terminal",
@@ -85419,6 +85467,12 @@
             "tags": []
           },
           {
+            "name": "heydeer/pngdeer",
+            "url": "https://github.com/heydeer/pngdeer",
+            "description": "A lossy PNG compressor with automatic perceptual quality selection, available as a Rust CLI and WebAssembly app.",
+            "tags": []
+          },
+          {
             "name": "Hugo-Dz/spritefusion-sprite-normals",
             "url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
             "description": "A CLI and WebAssembly tool that generates normal maps from pixel art sprites and animations (MIT).",
@@ -85846,6 +85900,12 @@
             "name": "CookCLI",
             "url": "https://github.com/cooklang/CookCLI",
             "description": "Command-line recipe manager with web server, shopping lists, and meal planning capabilities.",
+            "tags": []
+          },
+          {
+            "name": "emanuele-em/kanzo",
+            "url": "https://github.com/emanuele-em/kanzo",
+            "description": "[ kanzo ] - Self-hosted kanban board for humans and coding agents: a web board and an MCP server in one binary, with data in a local SQLite folder",
             "tags": []
           },
           {
@@ -89529,6 +89589,12 @@
             "tags": []
           },
           {
+            "name": "infosave2007/cmf",
+            "url": "https://github.com/infosave2007/cmf",
+            "description": "[ cortiq-engine ] - Single-file quantized LLM format (CMF) and inference runtime with no ML framework underneath: CPU, GPU via Vulkan/DX12/Metal, OpenAI-compatible server.",
+            "tags": []
+          },
+          {
             "name": "katanemo/plano",
             "url": "https://github.com/katanemo/plano",
             "description": "The AI-native proxy server and data plane for agentic apps.",
@@ -90573,6 +90639,12 @@
             "url": "https://github.com/gyscos/zstd-rs",
             "description": "rust binding for the zstd compression library",
             "tags": []
+          },
+          {
+            "name": "structured-world/structured-zstd",
+            "url": "https://github.com/structured-world/structured-zstd",
+            "description": "[ structured-zstd ] - Pure-Rust Zstandard compression and decompression",
+            "tags": []
           }
         ]
       },
@@ -90667,6 +90739,12 @@
             "name": "ml-rust/numr",
             "url": "https://github.com/ml-rust/numr",
             "description": "[ numr ] - Numerical computing library for Rust inspired by NumPy, with tensors, linear algebra, FFT, statistics, automatic differentiation, and GPU acceleration.",
+            "tags": []
+          },
+          {
+            "name": "oximo-rs/oximo",
+            "url": "https://github.com/oximo-rs/oximo",
+            "description": "[ oximo ] - Algebraic modeling library for linear, nonlinear, and mixed-integer optimization with multiple solver backends",
             "tags": []
           },
           {
@@ -90868,6 +90946,12 @@
             "name": "debris/tiny-keccak",
             "url": "https://github.com/debris/tiny-keccak",
             "description": "Keccak family (SHA3)",
+            "tags": []
+          },
+          {
+            "name": "dsse",
+            "url": "https://github.com/probityai/agent-evidence/tree/main/crates/dsse",
+            "description": "[ dsse ] - DSSE (Dead Simple Signing Envelope) envelopes with PAE pre-authentication encoding: construction, signing and threshold verification, as used by in-toto and Sigstore attestations.",
             "tags": []
           },
           {
@@ -91961,6 +92045,12 @@
             "name": "importcjj/rust-ajson",
             "url": "https://github.com/importcjj/rust-ajson",
             "description": "[ ajson ] - Get JSON values quickly",
+            "tags": []
+          },
+          {
+            "name": "jcs-admit",
+            "url": "https://github.com/probityai/agent-evidence/tree/main/crates/jcs-admit",
+            "description": "[ jcs-admit ] - Refuses JSON that canonicalizes ambiguously (duplicate members, unsafe integers, excess nesting) before RFC 8785 canonicalization, for bytes that will be signed or hashed.",
             "tags": []
           },
           {
@@ -94590,7 +94680,7 @@
           {
             "name": "pytorch",
             "url": "https://github.com/pytorch/pytorch",
-            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration.",
+            "description": "Tensors and dynamic neural networks in Python with strong GPU acceleration.",
             "tags": []
           },
           {
@@ -94637,7 +94727,7 @@
           {
             "name": "scikit-learn",
             "url": "https://github.com/scikit-learn/scikit-learn",
-            "description": "The most popular Python library for Machine Learning with extensive documentation and community support.",
+            "description": "The most popular Python library for machine learning with extensive documentation and community support.",
             "tags": []
           },
           {
@@ -94655,7 +94745,7 @@
           {
             "name": "feature-engine",
             "url": "https://github.com/feature-engine/feature_engine",
-            "description": "sklearn compatible API with the widest toolset for feature engineering and selection.",
+            "description": "sklearn-compatible API with the widest toolset for feature engineering and selection.",
             "tags": []
           },
           {
@@ -94667,13 +94757,13 @@
           {
             "name": "lightgbm",
             "url": "https://github.com/lightgbm-org/LightGBM",
-            "description": "A fast, distributed, high performance gradient boosting framework.",
+            "description": "A fast, distributed, high-performance gradient boosting framework.",
             "tags": []
           },
           {
             "name": "catboost",
             "url": "https://github.com/catboost/catboost",
-            "description": "A fast, scalable, high performance gradient boosting on decision trees library.",
+            "description": "A fast, scalable, high-performance gradient boosting on decision trees library.",
             "tags": []
           },
           {
@@ -94785,7 +94875,7 @@
           {
             "name": "kornia",
             "url": "https://github.com/kornia/kornia",
-            "description": "Open Source Differentiable Computer Vision Library for PyTorch.",
+            "description": "Open-source differentiable computer vision library for PyTorch.",
             "tags": []
           },
           {
@@ -94885,7 +94975,7 @@
           {
             "name": "litestar",
             "url": "https://github.com/litestar-org/litestar",
-            "description": "Production-ready, capable and extensible ASGI Web framework.",
+            "description": "Production-ready, capable and extensible ASGI web framework.",
             "tags": []
           },
           {
@@ -94944,7 +95034,7 @@
           {
             "name": "fastapi",
             "url": "https://github.com/fastapi/fastapi",
-            "description": "A modern, fast, web framework for building APIs with standard Python type hints.",
+            "description": "A modern, fast web framework for building APIs with standard Python type hints.",
             "tags": []
           },
           {
@@ -94985,7 +95075,7 @@
           {
             "name": "hypercorn",
             "url": "https://github.com/pgjones/hypercorn",
-            "description": "An ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.",
+            "description": "An ASGI and WSGI server based on Hyper libraries and inspired by Gunicorn.",
             "tags": []
           },
           {
@@ -95037,7 +95127,7 @@
           {
             "name": "jinja",
             "url": "https://github.com/pallets/jinja",
-            "description": "A modern and designer friendly templating language.",
+            "description": "A modern and designer-friendly templating language.",
             "tags": []
           },
           {
@@ -95222,7 +95312,7 @@
           {
             "name": "httpx",
             "url": "https://github.com/encode/httpx",
-            "description": "A next generation HTTP client for Python.",
+            "description": "A next-generation HTTP client for Python.",
             "tags": []
           },
           {
@@ -95345,7 +95435,7 @@
           {
             "name": "mongoengine",
             "url": "https://github.com/MongoEngine/mongoengine",
-            "description": "A Python Object-Document-Mapper for working with MongoDB.",
+            "description": "A Python object-document mapper for working with MongoDB.",
             "tags": []
           },
           {
@@ -95398,7 +95488,7 @@
           {
             "name": "asyncpg",
             "url": "https://github.com/MagicStack/asyncpg",
-            "description": "A fast PostgreSQL Database Client Library for Python/asyncio.",
+            "description": "A fast PostgreSQL database client library for Python/asyncio.",
             "tags": []
           },
           {
@@ -95476,7 +95566,7 @@
           {
             "name": "cassandra-driver",
             "url": "https://github.com/apache/cassandra-python-driver",
-            "description": "The Python Driver for Apache Cassandra.",
+            "description": "The Python driver for Apache Cassandra.",
             "tags": []
           }
         ]
@@ -95487,7 +95577,7 @@
           {
             "name": "duckdb",
             "url": "https://github.com/duckdb/duckdb",
-            "description": "An in-process SQL OLAP database management system; optimized for analytics and fast queries, similar to SQLite but for analytical workloads.",
+            "description": "An in-process SQL OLAP database management system, optimized for analytics and fast queries, similar to SQLite but for analytical workloads.",
             "tags": []
           },
           {
@@ -95534,7 +95624,7 @@
           {
             "name": "diskcache",
             "url": "https://github.com/grantjenks/python-diskcache",
-            "description": "SQLite and file backed cache backend, compatible with Django.",
+            "description": "SQLite and file-backed cache backend, compatible with Django.",
             "tags": []
           },
           {
@@ -95546,7 +95636,7 @@
           {
             "name": "hishel",
             "url": "https://github.com/karpetrosyan/hishel",
-            "description": "RFC 9111 compliant HTTP caching for clients like httpx and requests and servers like FastAPI, with sync and async support.",
+            "description": "RFC 9111-compliant HTTP caching for clients like httpx and requests and servers like FastAPI, with sync and async support.",
             "tags": []
           },
           {
@@ -95762,7 +95852,7 @@
           {
             "name": "bokeh",
             "url": "https://github.com/bokeh/bokeh",
-            "description": "Interactive Web Plotting for Python.",
+            "description": "Interactive web plotting for Python.",
             "tags": []
           },
           {
@@ -95868,7 +95958,7 @@
           {
             "name": "rdkit",
             "url": "https://github.com/rdkit/rdkit",
-            "description": "Cheminformatics and Machine Learning Software.",
+            "description": "Cheminformatics and machine learning software.",
             "tags": []
           },
           {
@@ -95886,7 +95976,7 @@
           {
             "name": "astropy",
             "url": "https://github.com/astropy/astropy",
-            "description": "A community Python library for Astronomy.",
+            "description": "A community Python library for astronomy.",
             "tags": []
           },
           {
@@ -95916,7 +96006,7 @@
           {
             "name": "networkx",
             "url": "https://github.com/networkx/networkx",
-            "description": "A high-productivity software for complex networks.",
+            "description": "High-productivity software for complex networks.",
             "tags": []
           },
           {
@@ -95986,7 +96076,7 @@
           {
             "name": "thealgorithms",
             "url": "https://github.com/TheAlgorithms/Python",
-            "description": "All Algorithms implemented in Python.",
+            "description": "All algorithms implemented in Python.",
             "tags": []
           },
           {
@@ -96163,7 +96253,7 @@
           {
             "name": "hypothesis",
             "url": "https://github.com/HypothesisWorks/hypothesis",
-            "description": "Hypothesis is an advanced Quickcheck style property based testing library.",
+            "description": "Hypothesis is an advanced QuickCheck-style property-based testing library.",
             "tags": []
           },
           {
@@ -96175,7 +96265,7 @@
           {
             "name": "tox",
             "url": "https://github.com/tox-dev/tox",
-            "description": "Auto builds and tests distributions in multiple Python versions.",
+            "description": "Automatically builds and tests distributions in multiple Python versions.",
             "tags": []
           },
           {
@@ -96229,7 +96319,7 @@
           {
             "name": "vcrpy",
             "url": "https://github.com/kevin1024/vcrpy",
-            "description": "Record and replay HTTP interactions on your tests.",
+            "description": "Record and replay HTTP interactions in your tests.",
             "tags": []
           },
           {
@@ -96342,7 +96432,7 @@
           {
             "name": "flask-debugtoolbar",
             "url": "https://github.com/pallets-eco/flask-debugtoolbar",
-            "description": "A port of the django-debug-toolbar to flask.",
+            "description": "A port of the django-debug-toolbar to Flask.",
             "tags": []
           }
         ]
@@ -96382,7 +96472,7 @@
           {
             "name": "sphinx",
             "url": "https://github.com/sphinx-doc/sphinx",
-            "description": "Python Documentation generator.",
+            "description": "Python documentation generator.",
             "tags": []
           },
           {
@@ -96676,7 +96766,7 @@
           {
             "name": "loguru",
             "url": "https://github.com/Delgan/loguru",
-            "description": "Library which aims to bring enjoyable logging in Python.",
+            "description": "A library that aims to bring enjoyable logging to Python.",
             "tags": []
           },
           {
@@ -96722,7 +96812,7 @@
           {
             "name": "click",
             "url": "https://github.com/pallets/click",
-            "description": "A package for creating beautiful command line interfaces in a composable way.",
+            "description": "A package for creating beautiful command-line interfaces in a composable way.",
             "tags": []
           },
           {
@@ -96764,7 +96854,7 @@
           {
             "name": "alive-progress",
             "url": "https://github.com/rsalmei/alive-progress",
-            "description": "A new kind of Progress Bar, with real-time throughput, eta and very cool animations.",
+            "description": "A new kind of progress bar, with real-time throughput, ETA and very cool animations.",
             "tags": []
           },
           {
@@ -96823,7 +96913,7 @@
           {
             "name": "httpie",
             "url": "https://github.com/httpie/cli",
-            "description": "A command line HTTP client, a user-friendly cURL replacement.",
+            "description": "A command-line HTTP client, a user-friendly cURL replacement.",
             "tags": []
           },
           {
@@ -96858,7 +96948,7 @@
           {
             "name": "PyGObject",
             "url": "https://github.com/GNOME/pygobject",
-            "description": "Python Bindings for GLib/GObject/GIO/GTK.",
+            "description": "Python bindings for GLib/GObject/GIO/GTK.",
             "tags": []
           },
           {
@@ -96882,7 +96972,7 @@
           {
             "name": "toga",
             "url": "https://github.com/beeware/toga",
-            "description": "A Python native, OS native GUI toolkit.",
+            "description": "A Python-native, OS-native GUI toolkit.",
             "tags": []
           },
           {
@@ -96906,7 +96996,7 @@
           {
             "name": "customtkinter",
             "url": "https://github.com/tomschimansky/customtkinter",
-            "description": "A modern and customizable Python UI-library based on Tkinter.",
+            "description": "A modern and customizable Python UI library based on Tkinter.",
             "tags": []
           },
           {
@@ -97042,7 +97132,7 @@
           {
             "name": "xmltodict",
             "url": "https://github.com/martinblech/xmltodict",
-            "description": "Working with XML feel like you are working with JSON.",
+            "description": "Makes working with XML feel like working with JSON.",
             "tags": []
           },
           {
@@ -97071,7 +97161,7 @@
           {
             "name": "tablib",
             "url": "https://github.com/jazzband/tablib",
-            "description": "A module for Tabular Datasets in XLS, CSV, JSON, YAML.",
+            "description": "A module for tabular datasets in XLS, CSV, JSON, YAML.",
             "tags": []
           },
           {
@@ -97267,7 +97357,7 @@
           {
             "name": "thumbor",
             "url": "https://github.com/thumbor/thumbor",
-            "description": "A smart imaging service. It enables on-demand crop, re-sizing and flipping of images.",
+            "description": "A smart imaging service. It enables on-demand crop, resizing and flipping of images.",
             "tags": []
           }
         ]
@@ -97290,7 +97380,7 @@
           {
             "name": "pydub",
             "url": "https://github.com/jiaaro/pydub",
-            "description": "Manipulate audio with a simple and easy high level interface.",
+            "description": "Manipulate audio with a simple and easy, high-level interface.",
             "tags": []
           },
           {
@@ -97361,7 +97451,7 @@
           {
             "name": "renpy",
             "url": "https://github.com/renpy/renpy",
-            "description": "A Visual Novel engine.",
+            "description": "A visual novel engine.",
             "tags": []
           }
         ]
@@ -97390,7 +97480,7 @@
           {
             "name": "Cython",
             "url": "https://github.com/cython/cython",
-            "description": "Optimizing Static Compiler for Python.",
+            "description": "Optimizing static compiler for Python.",
             "tags": []
           },
           {
@@ -97454,7 +97544,7 @@
           {
             "name": "funcy",
             "url": "https://github.com/Suor/funcy",
-            "description": "A fancy and practical functional tools.",
+            "description": "Fancy and practical functional tools.",
             "tags": []
           },
           {
@@ -97483,7 +97573,7 @@
           {
             "name": "uvloop",
             "url": "https://github.com/MagicStack/uvloop",
-            "description": "Ultra fast asyncio event loop.",
+            "description": "Ultra-fast asyncio event loop.",
             "tags": []
           },
           {
@@ -97612,7 +97702,7 @@
           {
             "name": "pipx",
             "url": "https://github.com/pypa/pipx",
-            "description": "Install and Run Python Applications in Isolated Environments. Like npx in Node.js.",
+            "description": "Install and run Python applications in isolated environments. Like npx in Node.js.",
             "tags": []
           },
           {
@@ -97671,7 +97761,7 @@
           {
             "name": "bandersnatch",
             "url": "https://github.com/pypa/bandersnatch",
-            "description": "PyPI mirroring tool provided by Python Packaging Authority (PyPA).",
+            "description": "PyPI mirroring tool provided by the Python Packaging Authority (PyPA).",
             "tags": []
           }
         ]
@@ -97682,7 +97772,7 @@
           {
             "name": "pyinstaller",
             "url": "https://github.com/pyinstaller/pyinstaller",
-            "description": "Converts Python programs into stand-alone executables (cross-platform).",
+            "description": "Converts Python programs into standalone executables (cross-platform).",
             "tags": []
           },
           {
@@ -97706,7 +97796,7 @@
           {
             "name": "pyarmor",
             "url": "https://github.com/dashingsoft/pyarmor",
-            "description": "A tool used to obfuscate Python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.",
+            "description": "A tool used to obfuscate Python scripts, bind obfuscated scripts to a fixed machine or expire obfuscated scripts.",
             "tags": []
           }
         ]
@@ -97868,7 +97958,7 @@
           {
             "name": "bleak",
             "url": "https://github.com/hbldh/bleak",
-            "description": "A cross platform Bluetooth Low Energy Client for Python using asyncio.",
+            "description": "A cross-platform Bluetooth Low Energy client for Python using asyncio.",
             "tags": []
           },
           {
@@ -97885,13 +97975,13 @@
           {
             "name": "pywin32",
             "url": "https://github.com/mhammond/pywin32",
-            "description": "Python Extensions for Windows.",
+            "description": "Python extensions for Windows.",
             "tags": []
           },
           {
             "name": "pythonnet",
             "url": "https://github.com/pythonnet/pythonnet",
-            "description": "Python Integration with the .NET Common Language Runtime (CLR).",
+            "description": "Python integration with the .NET Common Language Runtime (CLR).",
             "tags": []
           },
           {
