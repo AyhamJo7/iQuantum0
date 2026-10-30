@@ -26381,6 +26381,12 @@
             "tags": []
           },
           {
+            "name": "DeepClone",
+            "url": "https://github.com/symfony/php-ext-deepclone",
+            "description": "A PHP extension to export serializable values as plain arrays and reconstruct them.",
+            "tags": []
+          },
+          {
             "name": "Fractal",
             "url": "https://github.com/thephpleague/fractal",
             "description": "A library for converting complex data structures to JSON output.",
@@ -56852,6 +56858,12 @@
             "tags": []
           },
           {
+            "name": "Splat",
+            "url": "https://github.com/sventmueller/splat",
+            "description": "Native macOS Markdown editor in Rust where both the source and the live preview are editable.",
+            "tags": []
+          },
+          {
             "name": "Textus",
             "url": "https://textus.catvinci.com",
             "description": "WYSIWYG Markdown editor with math, tables, Mermaid and an optional AI writing assistant that works with cloud or local models.",
@@ -58612,6 +58624,12 @@
             "name": "Hub",
             "url": "https://hub.github.com/",
             "description": "Command-line wrapper for Git that makes you better at GitHub.",
+            "tags": []
+          },
+          {
+            "name": "PullBull",
+            "url": "https://github.com/rustycamper/pullbull",
+            "description": "GitHub pull requests, issues and Projects boards in the menu bar.",
             "tags": []
           },
           {
@@ -60424,6 +60442,12 @@
             "tags": []
           },
           {
+            "name": "Lumilo",
+            "url": "https://github.com/kotuke/lumilo",
+            "description": "Open-source menu bar app that runs Splash or llama.cpp servers, shows memory and token speed, and downloads models from Hugging Face.",
+            "tags": []
+          },
+          {
             "name": "Maestro",
             "url": "https://runmaestro.ai",
             "description": "Multi-agent AI coding tool with spec-driven workflows.",
@@ -61575,6 +61599,12 @@
             "tags": []
           },
           {
+            "name": "Shandian",
+            "url": "https://github.com/chenmozhe008/shandian-download",
+            "description": "Native download manager that handles magnet links, torrents, HTTP files and videos from YouTube, Bilibili, Douyin and Xiaohongshu in one window, with browser download takeover and stream-while-downloading (Chinese UI).",
+            "tags": []
+          },
+          {
             "name": "Shuttle",
             "url": "https://fiplab.com/apps/download-shuttle-for-mac",
             "description": "Easy Download Manager for any links.",
@@ -61737,6 +61767,12 @@
             "name": "Aiko",
             "url": "https://sindresorhus.com/aiko",
             "description": "High-quality on-device transcription.",
+            "tags": []
+          },
+          {
+            "name": "Amical",
+            "url": "https://amical.ai",
+            "description": "Open-source AI dictation and note-taking app that types into any app and formats the text for the app you are in, using local Whisper or Parakeet models.",
             "tags": []
           },
           {
@@ -62816,6 +62852,12 @@
             "tags": []
           },
           {
+            "name": "\u00c7entik",
+            "url": "https://github.com/YusufEmreYazici/Centik",
+            "description": "Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history and meeting alerts.",
+            "tags": []
+          },
+          {
             "name": "ChargeMonitor",
             "url": "https://github.com/CrashSystemZ/ChargeMonitor",
             "description": "Menu bar battery monitor with real-time charging stats and energy impact insights.",
@@ -63511,6 +63553,12 @@
             "tags": []
           },
           {
+            "name": "Qingo",
+            "url": "https://github.com/chenmozhe008/qingo",
+            "description": "Cache cleaner that recognizes 60+ video, design and AI tools (CapCut, DaVinci Resolve, Adobe apps, Cursor, Claude Code and more), clears only caches that rebuild automatically, and moves them to the Trash with undo, leaving projects and conversations untouched (Chinese UI).",
+            "tags": []
+          },
+          {
             "name": "SpaceMap",
             "url": "https://github.com/renkagod/spacemap",
             "description": "Disk usage analyzer that draws your disk as a nested treemap you can zoom into, filling in live while the scan runs.",
@@ -63806,6 +63854,12 @@
             "name": "Speediness",
             "url": "https://sindresorhus.com/speediness",
             "description": "Check your internet speed.",
+            "tags": []
+          },
+          {
+            "name": "SATF",
+            "url": "https://github.com/tran-minh-khoi/SATF",
+            "description": "Shake a file while dragging it to convert, merge into a PDF, zip, or extract it from a radial menu under your cursor.",
             "tags": []
           },
           {
@@ -64125,6 +64179,12 @@
             "tags": []
           },
           {
+            "name": "JUMP",
+            "url": "https://alvaldes.github.io/jump/",
+            "description": "Open-source tool that labels every clickable element so you can click, scroll and search any app from the keyboard.",
+            "tags": []
+          },
+          {
             "name": "Karabiner-Elements",
             "url": "https://karabiner-elements.pqrs.org/",
             "description": "Remap keys and customize keyboard behavior on macOS.",
@@ -64413,6 +64473,12 @@
             "tags": []
           },
           {
+            "name": "UMST",
+            "url": "https://nicoleyangcoding.github.io/UMST-UltimateMacSchedulingTool/",
+            "description": "Desktop calendar widget that brings together Google, iCloud, Outlook, Apple Reminders, Canvas and other LMS deadlines, Todoist, Asana and Trello, with menu bar quick add.",
+            "tags": []
+          },
+          {
             "name": "Velja",
             "url": "https://sindresorhus.com/velja",
             "description": "Browser picker that lets you open links in a specific browser or a desktop app.",
@@ -64595,6 +64661,12 @@
             "name": "Omni",
             "url": "https://github.com/BarutSRB/OmniWM",
             "description": "Notorized Niri and Hyprland inspired tiling window manager with animations.",
+            "tags": []
+          },
+          {
+            "name": "Open Contexts",
+            "url": "https://opencontexts.app/",
+            "description": "Open-source window switcher with a persistent app bar and saved window groups.",
             "tags": []
           },
           {
@@ -65158,6 +65230,12 @@
             "tags": []
           },
           {
+            "name": "Mac Monitor",
+            "url": "https://github.com/Ahmadjondev/MacMonitor",
+            "description": "Lightweight menu bar monitor for RAM, CPU, network and disk, focused on memory pressure.",
+            "tags": []
+          },
+          {
             "name": "MacFanPro",
             "url": "https://github.com/macfanpro/macfanpro",
             "description": "Fan control for Apple Silicon Macs with a menu bar app, temperature-based profiles and a CLI.",
@@ -65179,6 +65257,12 @@
             "name": "MiddleDrag",
             "url": "https://github.com/NullPointerDepressiveDisorder/MiddleDrag",
             "description": "Three-finger trackpad gestures for middle-click and middle-drag on macOS.",
+            "tags": []
+          },
+          {
+            "name": "Monny",
+            "url": "https://monny.moduix.dev",
+            "description": "Open-source menu bar system monitor with process lookup and a battery charge limit.",
             "tags": []
           },
           {
@@ -68187,6 +68271,12 @@
             "tags": []
           },
           {
+            "name": "sunerpy/voltip",
+            "url": "https://github.com/sunerpy/voltip",
+            "description": "Push-to-talk dictation for Windows, macOS, Linux and Android with on-device speech recognition (Qwen3-ASR, SenseVoice) or cloud providers, built with Tauri",
+            "tags": []
+          },
+          {
             "name": "tambourine-voice",
             "url": "https://github.com/kstonekuan/tambourine-voice",
             "description": "personal AI voice interface for any app - customizable dictation that lets you choose your own models and prompts, built using Rust.",
@@ -68280,6 +68370,12 @@
             "name": "Zackriya-Solutions/meetily",
             "url": "https://github.com/Zackriya-Solutions/meetily",
             "description": "Privacy-first AI meeting assistant that captures, transcribes, and summarizes meetings entirely on your local machine. Features real-time transcription with Whisper/Parakeet models, AI-powered summaries, and support for multiple AI providers (Ollama, Claude, Groq, OpenAI)",
+            "tags": []
+          },
+          {
+            "name": "zhixuli0406/DuDuClaw",
+            "url": "https://github.com/zhixuli0406/DuDuClaw",
+            "description": "Self-hosted platform that runs AI coding CLIs (Claude Code, Codex, Antigravity) as AI employees on LINE, Telegram, Discord, Slack and 7 more chat apps, with result review, cost logging, local memory and a standalone MCP memory server",
             "tags": []
           }
         ]
