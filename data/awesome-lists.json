@@ -62655,6 +62655,12 @@
             "tags": []
           },
           {
+            "name": "Clipivo",
+            "url": "https://clipivo.jishnumahanta.in",
+            "description": "Local-first native clipboard manager that keeps your clipboard history searchable, organized, and private.",
+            "tags": []
+          },
+          {
             "name": "ClipRecallBar",
             "url": "https://turhe123.github.io/clip-recall-bar/",
             "description": "Keyboard-first clipboard history popup that filters as you type and pastes with one key.",
@@ -63689,6 +63695,12 @@
         "name": "General Tools",
         "resources": [
           {
+            "name": "AerialSwap",
+            "url": "https://github.com/mxpalm/AerialSwap",
+            "description": "Turn any video into a native Aerial wallpaper for the lock screen and desktop, in its own group in System Settings.",
+            "tags": []
+          },
+          {
             "name": "AirServer",
             "url": "https://www.airserver.com/Download",
             "description": "Most advanced screen mirroring software receiver for Mac, PC and Xbox One.",
@@ -64697,6 +64709,12 @@
             "name": "ShortcutCycle",
             "url": "https://shortcutcycle.vercel.app/",
             "description": "Switch between context-based app groups with a single hotkey.",
+            "tags": []
+          },
+          {
+            "name": "Show Desktop",
+            "url": "https://stanczykwyatt.github.io/show-desktop/",
+            "description": "Menu bar app that hides every window with one click or a shortcut, then brings them all back exactly as they were.",
             "tags": []
           },
           {
