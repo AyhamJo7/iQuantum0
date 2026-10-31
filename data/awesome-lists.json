@@ -23593,12 +23593,6 @@
             "tags": []
           },
           {
-            "name": "Pickle",
-            "url": "https://github.com/FriendsOfPHP/pickle",
-            "description": "A PHP extension installer.",
-            "tags": []
-          },
-          {
             "name": "Pie",
             "url": "https://github.com/php/pie",
             "description": "The official PHP installer for extensions.",
@@ -23700,7 +23694,7 @@
           },
           {
             "name": "Phalcon",
-            "url": "https://phalcon.io/en-us",
+            "url": "https://phalcon.io/",
             "description": "A framework implemented as a C extension.",
             "tags": []
           },
@@ -23818,7 +23812,7 @@
           },
           {
             "name": "Moodle",
-            "url": "https://moodle.org/",
+            "url": "https://github.com/moodle/moodle",
             "description": "An open-source learning platform.",
             "tags": []
           },
@@ -24271,12 +24265,6 @@
             "name": "PHPMailer",
             "url": "https://github.com/PHPMailer/PHPMailer",
             "description": "Another mailer solution.",
-            "tags": []
-          },
-          {
-            "name": "Stampie",
-            "url": "https://github.com/Stampie/Stampie",
-            "description": "A library for email services such as SendGrid , PostMark , MailGun and MailChimp .",
             "tags": []
           },
           {
@@ -25119,7 +25107,7 @@
           },
           {
             "name": "XHProf",
-            "url": "https://github.com/phacility/xhprof",
+            "url": "https://github.com/longxinH/xhprof",
             "description": "A profiling tool originally developed by Facebook.",
             "tags": []
           },
@@ -25359,12 +25347,6 @@
             "name": "Amp",
             "url": "https://github.com/amphp/amp",
             "description": "An event-driven non-blocking I/O library.",
-            "tags": []
-          },
-          {
-            "name": "Broadway",
-            "url": "https://github.com/broadway/broadway",
-            "description": "An event source and CQRS library.",
             "tags": []
           },
           {
@@ -25821,7 +25803,7 @@
           },
           {
             "name": "Cron Expression",
-            "url": "https://github.com/mtdowling/cron-expression",
+            "url": "https://github.com/dragonmantank/cron-expression",
             "description": "A library to calculate cron run dates.",
             "tags": []
           },
@@ -26099,7 +26081,7 @@
           },
           {
             "name": "SQL Formatter",
-            "url": "https://github.com/jdorn/sql-formatter/",
+            "url": "https://github.com/doctrine/sql-formatter",
             "description": "A library for formatting SQL statements.",
             "tags": []
           },
@@ -26509,7 +26491,7 @@
         "resources": [
           {
             "name": "PHP Dotenv",
-            "url": "https://github.com/vlucas/phpdotenv",
+            "url": "https://github.com/phpdotenv/phpdotenv",
             "description": "Parse and load environment variables from .env files.",
             "tags": []
           },
@@ -26685,7 +26667,7 @@
           },
           {
             "name": "Pagerfanta",
-            "url": "https://github.com/whiteoctober/Pagerfanta",
+            "url": "https://github.com/BabDev/Pagerfanta",
             "description": "A pagination library.",
             "tags": []
           },
@@ -26773,13 +26755,13 @@
           },
           {
             "name": "Lando",
-            "url": "https://lando.dev/",
+            "url": "https://www.lando.dev/",
             "description": "Push-button development environments.",
             "tags": []
           },
           {
             "name": "Laravel Homestead",
-            "url": "https://laravel.com/docs/master/homestead",
+            "url": "https://laravel.com/framework/docs/master/homestead",
             "description": "A local development environment for Laravel.",
             "tags": []
           },
@@ -26838,7 +26820,7 @@
           },
           {
             "name": "HHVM",
-            "url": "https://github.com/facebook/hhvm",
+            "url": "https://github.com/meta/hhvm",
             "description": "A Virtual Machine, Runtime and JIT for PHP by Facebook.",
             "tags": []
           },
@@ -26908,7 +26890,7 @@
           },
           {
             "name": "Lychee",
-            "url": "https://github.com/electerious/Lychee",
+            "url": "https://github.com/LycheeOrg/Lychee",
             "description": "An easy to use and great looking photo-management-system.",
             "tags": []
           },
@@ -58170,6 +58152,12 @@
             "tags": []
           },
           {
+            "name": "tapflow",
+            "url": "https://tapflow.dev",
+            "description": "Self-hosted tool for testing iOS simulators and Android emulators from the browser, on Macs your team already owns.",
+            "tags": []
+          },
+          {
             "name": "Testpiler",
             "url": "https://furnacecreek.org/testpiler/",
             "description": "Tool for converting XCTest test suites to Swift Testing.",
@@ -58713,6 +58701,12 @@
             "name": "Cocoa-Way",
             "url": "https://github.com/J-x-Z/cocoa-way",
             "description": "Wayland compositor for running Linux GUI apps without a virtual machine.",
+            "tags": []
+          },
+          {
+            "name": "ContainerDesk",
+            "url": "https://github.com/MacHatter1/ContainerDesk",
+            "description": "Native SwiftUI workspace for Apple's container runtime, with live resource monitoring and an integrated terminal.",
             "tags": []
           },
           {
@@ -59915,6 +59909,12 @@
             "tags": []
           },
           {
+            "name": "Apolo",
+            "url": "https://apolo.webcafeina.com/en/",
+            "description": "Open-source image optimizer that compresses and converts to WebP, AVIF, JPEG XL, JPEG and PNG, showing the loss and its SSIMULACRA 2 score before saving.",
+            "tags": []
+          },
+          {
             "name": "Aspect",
             "url": "https://aspect.bildhuus.com",
             "description": "Photo organization app with peer-to-peer sync.",
@@ -60463,6 +60463,12 @@
             "name": "mu",
             "url": "https://github.com/qybaihe/mu",
             "description": "Open-source coding agent with a CLI and a desktop app, in which a small judge model makes routine calls such as what enters the context and whether a flagged command was asked for.",
+            "tags": []
+          },
+          {
+            "name": "Mudroom",
+            "url": "https://github.com/Kernel-Hunter/mudroom",
+            "description": "Open-source app and CLI that runs coding agents like Claude Code and Codex in a Linux micro-VM on a copy-on-write clone of your project, then lets you review and apply their changes like a pull request.",
             "tags": []
           },
           {
@@ -61277,6 +61283,12 @@
             "tags": []
           },
           {
+            "name": "RAVE LIVE",
+            "url": "https://github.com/jedbrnth-eng/rave-live",
+            "description": "Festival light show that locks to the beat of whatever your Mac is playing, with stage lights, lasers and MilkDrop presets.",
+            "tags": []
+          },
+          {
             "name": "Sangeet",
             "url": "https://github.com/YashvardhanATRgithub/Sangeet",
             "description": "A beautiful audiophile music player with 10-band EQ, karaoke mode, and time-synced lyrics.",
@@ -61513,6 +61525,12 @@
             "name": "Utter",
             "url": "https://github.com/h3x-levi/Utter",
             "description": "On-device voice dictation and meeting transcription powered by whisper.cpp and Metal.",
+            "tags": []
+          },
+          {
+            "name": "Vauta",
+            "url": "https://vauta.vercel.app/",
+            "description": "Open-source meeting notes app that transcribes any call on device, tells speakers apart and writes cited minutes with Apple Intelligence or your own local model server.",
             "tags": []
           },
           {
@@ -62816,6 +62834,12 @@
             "tags": []
           },
           {
+            "name": "AI Meter",
+            "url": "https://github.com/getguruhat/ai-meter",
+            "description": "Shows your remaining Claude Code or Codex usage and reset time in the menu bar.",
+            "tags": []
+          },
+          {
             "name": "AirPoise",
             "url": "https://airpoise.vercel.app/",
             "description": "Menu bar app that uses AirPods motion sensors for head-posture reminders and configurable head-gesture shortcuts.",
@@ -63230,6 +63254,12 @@
             "tags": []
           },
           {
+            "name": "Pulse",
+            "url": "https://github.com/emgeorrk/pulse",
+            "description": "Menu bar system monitor with live CPU, memory, temperature, fan, network, disk, power, and battery stats.",
+            "tags": []
+          },
+          {
             "name": "Quickgif",
             "url": "https://quickgif.app/",
             "description": "Quickly Find and Share GIFs.",
@@ -63287,6 +63317,12 @@
             "name": "Streaker",
             "url": "https://github.com/jamieweavis/streaker",
             "description": "GitHub contribution streak tracking menubar app.",
+            "tags": []
+          },
+          {
+            "name": "Swamp Converter",
+            "url": "https://github.com/aansonsa/swamp-converter",
+            "description": "Menu bar file converter: drag a file, tap a key and drop it on a wheel to convert video, audio, images and PDFs.",
             "tags": []
           },
           {
@@ -63400,6 +63436,12 @@
             "name": "Boost",
             "url": "https://github.com/Kernel-Hunter/boost",
             "description": "Free memory without closing apps, freeze apps and restore them exactly as they were, and find disk space that's genuinely safe to reclaim.",
+            "tags": []
+          },
+          {
+            "name": "Burrow",
+            "url": "https://github.com/khan-umirzakoff/Mole-GUI",
+            "description": "Free, open-source native app for the Mole cleaner: clean caches, uninstall apps and the leftovers of deleted ones, map the disk and watch system health, all through Mole's safety checks.",
             "tags": []
           },
           {
@@ -63773,6 +63815,12 @@
             "tags": []
           },
           {
+            "name": "Lucid",
+            "url": "https://lucid-wallpaper.vercel.app",
+            "description": "Live 4K wallpapers with moving space, nature and ocean loops on every display, plus Apple Aerials.",
+            "tags": []
+          },
+          {
             "name": "Lungo",
             "url": "https://sindresorhus.com/lungo",
             "description": "Prevent your Mac from going to sleep.",
@@ -63890,6 +63938,12 @@
             "name": "Upscayl",
             "url": "https://github.com/upscayl/upscayl",
             "description": "Free and open-source AI image upscaling tool.",
+            "tags": []
+          },
+          {
+            "name": "Uptick",
+            "url": "https://chengffei.github.io/uptick/",
+            "description": "Open-source app updater that finds updates from the App Store, Sparkle, Electron feeds and Homebrew, and verifies each download before installing.",
             "tags": []
           },
           {
@@ -64365,6 +64419,12 @@
             "tags": []
           },
           {
+            "name": "Rebind",
+            "url": "https://rebind.moduix.dev",
+            "description": "Open-source tool for remapping keys, mouse buttons and trackpad gestures to shortcuts and system actions.",
+            "tags": []
+          },
+          {
             "name": "SuperCmd",
             "url": "https://github.com/SuperCmdLabs/SuperCmd",
             "description": "Open-source launcher with Raycast-compatible extensions, voice workflows, text-to-speech, memory, and AI actions.",
@@ -64595,6 +64655,12 @@
             "name": "Divvy",
             "url": "https://mizage.com/divvy/",
             "description": "Window management at its finest with its amazing Divvy Grid system.",
+            "tags": []
+          },
+          {
+            "name": "Flickbar",
+            "url": "https://flickbar.github.io/",
+            "description": "Open-source window manager driven by trackpad gestures on window title bars.",
             "tags": []
           },
           {
@@ -65057,6 +65123,12 @@
             "tags": []
           },
           {
+            "name": "Safelight",
+            "url": "https://github.com/mopfaff/Safelight",
+            "description": "Open-source menu bar app that schedules the color filter, brightness, and Light/Dark appearance, fading the screen to deep red at night.",
+            "tags": []
+          },
+          {
             "name": "Shifty",
             "url": "https://shifty.natethompson.io",
             "description": "A macOS menu bar app that gives you more control over Night Shift.",
@@ -65272,6 +65344,12 @@
             "tags": []
           },
           {
+            "name": "Matcha",
+            "url": "https://github.com/jakeantelis/Matcha",
+            "description": "Keep your Mac awake with a visual timer, a floating badge, and detection of AI coding agents.",
+            "tags": []
+          },
+          {
             "name": "MiddleDrag",
             "url": "https://github.com/NullPointerDepressiveDisorder/MiddleDrag",
             "description": "Three-finger trackpad gestures for middle-click and middle-drag on macOS.",
@@ -65403,6 +65481,12 @@
         "name": "Gaming Software",
         "resources": [
           {
+            "name": "Bedrock Launcher",
+            "url": "https://github.com/pragyaangaur/Minecraft-Bedrock-macOS",
+            "description": "Play your own copy of Minecraft Bedrock Edition for Windows on Apple Silicon, fully offline, through a locally built WineGDK with DXMT.",
+            "tags": []
+          },
+          {
             "name": "Borne",
             "url": "https://borne.pasahome.org",
             "description": "Native front end for MAME and classic PC games (Doom, Quake, Duke Nukem 3D), in the spirit of MAMEUI, with the emulator and engines included.",
@@ -65495,6 +65579,12 @@
             "name": "ClawTank",
             "url": "https://github.com/HMAKT99/ClawTank",
             "description": "Open-source RDP server for connecting to a Mac from standard Remote Desktop clients like Windows App and mstsc.",
+            "tags": []
+          },
+          {
+            "name": "Glass",
+            "url": "https://glassdesk.dev",
+            "description": "Low-latency remote desktop for Mac and Linux that you view from any browser, with nothing to install on the viewing device.",
             "tags": []
           },
           {
@@ -67328,6 +67418,12 @@
             "tags": []
           },
           {
+            "name": "rsalianto/tradoor",
+            "url": "https://github.com/rsalianto/tradoor",
+            "description": "Crypto trading terminal in the browser: candlestick, TPO and footprint charts, DOM, liquidations and a trading journal, drawn by a Rust engine in WebAssembly",
+            "tags": []
+          },
+          {
             "name": "tackler",
             "url": "https://github.com/tackler-ng/tackler",
             "description": "[ tackler ] - Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting",
@@ -68500,6 +68596,12 @@
             "name": "Cherrybomb",
             "url": "https://github.com/blst-security/cherrybomb",
             "description": "Stop half-done API specifications with a CLI tool that helps you avoid undefined user behaviour by validating your API specifications.",
+            "tags": []
+          },
+          {
+            "name": "clickswave/crossfyre-toolchain",
+            "url": "https://github.com/clickswave/crossfyre-toolchain",
+            "description": "Recon and vulnerability scanning engines for subdomains, ports, content discovery, fingerprinting and nuclei-compatible templates",
             "tags": []
           },
           {
