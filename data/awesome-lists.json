@@ -63260,6 +63260,12 @@
             "tags": []
           },
           {
+            "name": "Netty",
+            "url": "https://alvaldes.github.io/netty/",
+            "description": "Open-source menu bar dot that shows whether the internet really answers, with latency, jitter, packet loss and speed tests.",
+            "tags": []
+          },
+          {
             "name": "Notchly",
             "url": "https://notchly.xyz",
             "description": "Lightweight Dynamic Island for macOS with AI coding agent notifications.",
