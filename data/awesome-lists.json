@@ -43373,6 +43373,12 @@
             "tags": []
           },
           {
+            "name": "TA-Lib",
+            "url": "https://github.com/TA-Lib/ta-lib",
+            "description": "A C library of 200+ technical analysis functions for financial market data, with batch and streaming APIs. [BSD 3-clause] website",
+            "tags": []
+          },
+          {
             "name": "tgbotxx",
             "url": "https://github.com/baderouaich/tgbotxx",
             "description": "Telegram Bot C++ Library. [MIT]",
@@ -45593,7 +45599,7 @@
           {
             "name": "ANALOG",
             "url": "https://github.com/orangecoloured/analog",
-            "description": "A minimal analytics tool. Tracks events in a span of 10-30 days. MIT Nodejs/Docker",
+            "description": "Minimal analytics tool. Tracks events in a span of 10-30 days. MIT Nodejs/Docker",
             "tags": []
           },
           {
@@ -45617,7 +45623,7 @@
           {
             "name": "d8a.tech",
             "url": "https://d8a.tech",
-            "description": "A data collection service that works with your existing Google Analytics setup to capture user activity and send it straight to your own private database. ( Demo , Source Code ) MIT Go/Docker",
+            "description": "Data collection service that works with your existing Google Analytics setup to capture user activity and send it straight to your own private database. ( Demo , Source Code ) MIT Go/Docker",
             "tags": []
           },
           {
@@ -45713,13 +45719,13 @@
           {
             "name": "PostHog",
             "url": "https://posthog.com",
-            "description": "Product analytics, session recording, feature flagging and a/b testing that you can self-host (alternative to Mixpanel, Amplitude, Heap, HotJar, Optimizely). ( Source Code ) MIT Python",
+            "description": "Product analytics, session recording, feature flagging and a/b testing that you can self-host (alternative to Mixpanel, Amplitude, Heap). ( Source Code ) MIT Python",
             "tags": []
           },
           {
             "name": "Postiz",
             "url": "https://postiz.com",
-            "description": "\u26a0 - Schedule posts, track the performance of your content, and manage all your social media accounts in one place (Alternative to Buffer, Hootsuite, Sprout Social). ( Source Code ) AGPL-3.0 Docker",
+            "description": "\u26a0 - Schedule posts, track the performance of your content, and manage all your social media accounts in one place (alternative to Buffer, Hootsuite, Sprout Social). ( Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -45767,7 +45773,7 @@
           {
             "name": "Umami",
             "url": "https://umami.is/",
-            "description": "Simple, fast, privacy-focused alternative to Google Analytics. ( Demo , Source Code ) MIT Nodejs/Docker",
+            "description": "Simple, fast, privacy-focused (alternative to Google Analytics). ( Demo , Source Code ) MIT Nodejs/Docker",
             "tags": []
           }
         ]
@@ -45850,13 +45856,13 @@
           {
             "name": "Wallabag",
             "url": "https://www.wallabag.org",
-            "description": "Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ( Source Code ) MIT PHP",
+            "description": "Web application, formerly Poche, allowing you to save articles to read them later with improved readability. ( Source Code ) MIT PHP",
             "tags": []
           },
           {
             "name": "Wayback",
             "url": "https://github.com/wabarc/wayback",
-            "description": "A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems. GPL-3.0 Go",
+            "description": "Toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems. GPL-3.0 Go",
             "tags": []
           }
         ]
@@ -46017,7 +46023,7 @@
           {
             "name": "StackStorm",
             "url": "https://stackstorm.com",
-            "description": "StackStorm (aka IFTTT for Ops ) is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions and ChatOps. ( Source Code ) Apache-2.0 Python",
+            "description": "StackStorm (aka IFTTT for Ops) is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions and ChatOps. ( Source Code ) Apache-2.0 Python",
             "tags": []
           },
           {
@@ -46034,7 +46040,7 @@
           {
             "name": "Antville",
             "url": "https://antville.org",
-            "description": "Free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ( Source Code ) Apache-2.0 Javascript",
+            "description": "Feature-rich blog hosting software which can host tens of thousands of blogs. ( Source Code ) Apache-2.0 Javascript",
             "tags": []
           },
           {
@@ -46064,7 +46070,7 @@
           {
             "name": "FlatPress",
             "url": "https://flatpress.org/",
-            "description": "A lightweight, easy-to-set-up flat-file blogging engine. ( Source Code ) GPL-2.0 PHP",
+            "description": "Lightweight, easy-to-set-up flat-file blogging engine. ( Source Code ) GPL-2.0 PHP",
             "tags": []
           },
           {
@@ -46106,7 +46112,7 @@
           {
             "name": "Serendipity",
             "url": "https://docs.s9y.org/",
-            "description": "Serendipity (s9y) is a highly extensible and customizable PHP blog engine using Smarty templating. ( Source Code ) BSD-3-Clause PHP",
+            "description": "Highly extensible and customizable PHP blog engine using Smarty templating (s9y). ( Source Code ) BSD-3-Clause PHP",
             "tags": []
           },
           {
@@ -46254,7 +46260,7 @@
           {
             "name": "Servas",
             "url": "https://github.com/beromir/Servas",
-            "description": "A self-hosted bookmark management tool. It allows organization with tags, groups, and a list specifically for later access. It supports multiple users with 2FA. Companion browser extensions are available for Firefox and Chrome. ( Clients ) GPL-3.0 Docker/Nodejs/PHP",
+            "description": "Bookmark management tool. It allows organization with tags, groups, and a list specifically for later access. It supports multiple users with 2FA. Companion browser extensions are available for Firefox and Chrome. ( Clients ) GPL-3.0 Docker/Nodejs/PHP",
             "tags": []
           },
           {
@@ -46272,7 +46278,7 @@
           {
             "name": "Slash",
             "url": "https://github.com/yourselfhosted/slash",
-            "description": "An open source, self-hosted bookmarks and link sharing platform. GPL-3.0 Docker",
+            "description": "Bookmarks and link sharing platform. GPL-3.0 Docker",
             "tags": []
           },
           {
@@ -46301,7 +46307,7 @@
           {
             "name": "Davis",
             "url": "https://github.com/tchapi/davis",
-            "description": "A simple, dockerizable and fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 4, largely inspired by Ba\u00efkal. MIT PHP",
+            "description": "Simple, dockerizable and fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 4, largely inspired by Ba\u00efkal. MIT PHP",
             "tags": []
           },
           {
@@ -46313,7 +46319,7 @@
           {
             "name": "Manage My Damn Life",
             "url": "https://intri.in/manage-my-damn-life/",
-            "description": "Manage my Damn Life (MMDL) is a self-hosted front end for managing your CalDAV tasks and calendars. ( Source Code ) GPL-3.0 Nodejs/Docker",
+            "description": "Manage my Damn Life (MMDL) is a front end for managing your CalDAV tasks and calendars. ( Source Code ) GPL-3.0 Nodejs/Docker",
             "tags": []
           },
           {
@@ -46325,13 +46331,13 @@
           {
             "name": "SabreDAV",
             "url": "https://sabre.io/",
-            "description": "Open source CardDAV, CalDAV, and WebDAV framework and server. ( Source Code ) MIT PHP",
+            "description": "CardDAV, CalDAV, and WebDAV framework and server. ( Source Code ) MIT PHP",
             "tags": []
           },
           {
             "name": "Xandikos",
             "url": "https://github.com/jelmer/xandikos",
-            "description": "Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. GPL-3.0 Python/deb",
+            "description": "CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. GPL-3.0 Python/deb",
             "tags": []
           }
         ]
@@ -46366,7 +46372,7 @@
           {
             "name": "Conduit",
             "url": "https://conduit.rs/",
-            "description": "A simple, fast, and reliable chat server powered by Matrix. ( Source Code ) Apache-2.0 Rust",
+            "description": "Simple, fast, and reliable chat server powered by Matrix. ( Source Code ) Apache-2.0 Rust",
             "tags": []
           },
           {
@@ -46498,7 +46504,7 @@
           {
             "name": "Screego",
             "url": "https://screego.net",
-            "description": "Screego is a simple tool to quickly share your screen to one or multiple people via web browser. ( Demo , Source Code ) GPL-3.0 Docker/Go",
+            "description": "Simple tool to quickly share your screen to one or multiple people via web browser. ( Demo , Source Code ) GPL-3.0 Docker/Go",
             "tags": []
           },
           {
@@ -46510,31 +46516,31 @@
           {
             "name": "SimpleX Chat",
             "url": "https://github.com/simplex-chat/simplex-chat",
-            "description": "The most private and secure chat and applications platform - now with double ratchet E2E encryption. AGPL-3.0 Haskell",
+            "description": "Most private and secure chat and applications platform - now with double ratchet E2E encryption. AGPL-3.0 Haskell",
             "tags": []
           },
           {
             "name": "Spectrum 2",
             "url": "https://spectrum.im/",
-            "description": "Spectrum 2 is an open source instant messaging transport.  It allows users to chat together even when they are using different IM networks. ( Source Code ) GPL-3.0 C++",
+            "description": "Instant messaging transport. It allows users to chat together even when they are using different IM networks. ( Source Code ) GPL-3.0 C++",
             "tags": []
           },
           {
             "name": "Stoat",
             "url": "https://stoat.chat/",
-            "description": "Stoat is a user-first chat platform built with modern web technologies. ( Source Code ) AGPL-3.0/MIT Rust",
+            "description": "User-first chat platform built with modern web technologies. ( Source Code ) AGPL-3.0/MIT Rust",
             "tags": []
           },
           {
             "name": "Synapse",
             "url": "https://element-hq.github.io/synapse/latest/index.html",
-            "description": "Server for Matrix , an open standard for decentralized persistent communication. ( Source Code ) Apache-2.0 Python/deb",
+            "description": "Server for Matrix, an open standard for decentralized persistent communication. ( Source Code ) Apache-2.0 Python/deb",
             "tags": []
           },
           {
             "name": "Tiledesk",
             "url": "https://tiledesk.com",
-            "description": "All-in-one customer engagement platform from lead-gen to post-sales, from WhatsApp to your website. With omni-channel live agents and AI-powered chatbots (alternative to Intercom, Zendesk, Tawk.to and Tidio). ( Source Code ) MIT Docker/K8S",
+            "description": "All-in-one customer engagement platform from lead-gen to post-sales, from WhatsApp to your website. With omni-channel live agents and AI-powered chatbots (alternative to Intercom, Zendesk, Tawk.to). ( Source Code ) MIT Docker/K8S",
             "tags": []
           },
           {
@@ -46570,7 +46576,7 @@
           {
             "name": "Zulip",
             "url": "https://zulip.org",
-            "description": "Zulip is a powerful, open source group chat application. ( Source Code ) Apache-2.0 Python",
+            "description": "Powerful group chat application. ( Source Code ) Apache-2.0 Python",
             "tags": []
           }
         ]
@@ -46629,7 +46635,7 @@
           {
             "name": "Mailcow",
             "url": "https://mailcow.email/",
-            "description": "Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. ( Source Code ) GPL-3.0 Docker/PHP",
+            "description": "Mail server suite based on Dovecot, Postfix and other software, that provides a modern Web UI for administration. ( Source Code ) GPL-3.0 Docker/PHP",
             "tags": []
           },
           {
@@ -46665,7 +46671,7 @@
           {
             "name": "SimpleLogin",
             "url": "https://simplelogin.io",
-            "description": "Open source email alias solution to protect your email address. Comes with browser extensions and mobile apps. ( Source Code ) MIT Docker/Python",
+            "description": "Email alias solution to protect your email address. Comes with browser extensions and mobile apps. ( Source Code ) MIT Docker/Python",
             "tags": []
           },
           {
@@ -46723,13 +46729,13 @@
           {
             "name": "DragonFly",
             "url": "https://github.com/corecode/dma",
-            "description": "A small MTA for home and office use. Works on Linux and FreeBSD. BSD-3-Clause C",
+            "description": "Small MTA for home and office use. Works on Linux and FreeBSD. BSD-3-Clause C",
             "tags": []
           },
           {
             "name": "EmailRelay",
             "url": "https://emailrelay.sourceforge.net/",
-            "description": "A small and easy to configure SMTP and POP3 server for Windows and Linux. ( Source Code ) GPL-3.0 C++",
+            "description": "Small and easy to configure SMTP and POP3 server for Windows and Linux. ( Source Code ) GPL-3.0 C++",
             "tags": []
           },
           {
@@ -46782,7 +46788,7 @@
           {
             "name": "Listmonk",
             "url": "https://listmonk.app/",
-            "description": "High performance, self-hosted newsletter and mailing list manager with a modern dashboard. ( Demo , Source Code ) AGPL-3.0 Go/Docker",
+            "description": "High performance newsletter and mailing list manager with a modern dashboard. ( Demo , Source Code ) AGPL-3.0 Go/Docker",
             "tags": []
           },
           {
@@ -46870,7 +46876,7 @@
           {
             "name": "Glowing Bear",
             "url": "https://github.com/glowing-bear/glowing-bear",
-            "description": "A web frontend for WeeChat. ( Demo ) GPL-3.0 Nodejs",
+            "description": "Web frontend for WeeChat. ( Demo ) GPL-3.0 Nodejs",
             "tags": []
           },
           {
@@ -46906,7 +46912,7 @@
           {
             "name": "The Lounge",
             "url": "https://thelounge.chat/",
-            "description": "Self-hosted web IRC client. ( Demo , Source Code ) MIT Nodejs/Docker",
+            "description": "Web IRC client. ( Demo , Source Code ) MIT Nodejs/Docker",
             "tags": []
           },
           {
@@ -46947,13 +46953,13 @@
           {
             "name": "Freepbx",
             "url": "https://www.freepbx.org",
-            "description": "Web-based open source GUI that controls and manages Asterisk. ( Source Code ) GPL-2.0 PHP",
+            "description": "Web-based GUI that controls and manages Asterisk. ( Source Code ) GPL-2.0 PHP",
             "tags": []
           },
           {
             "name": "FreeSWITCH",
             "url": "https://freeswitch.org/",
-            "description": "Scalable open source cross-platform telephony platform. ( Source Code ) MPL-2.0 C",
+            "description": "Scalable cross-platform telephony platform. ( Source Code ) MPL-2.0 C",
             "tags": []
           },
           {
@@ -47042,7 +47048,7 @@
           {
             "name": "Coral",
             "url": "https://coralproject.net/",
-            "description": "A better commenting experience from Vox Media. ( Source Code ) Apache-2.0 Docker/Nodejs",
+            "description": "Better commenting experience from Vox Media. ( Source Code ) Apache-2.0 Docker/Nodejs",
             "tags": []
           },
           {
@@ -47060,19 +47066,19 @@
           {
             "name": "Elgg",
             "url": "https://elgg.org/",
-            "description": "Powerful open source social networking engine. ( Source Code ) GPL-2.0 PHP",
+            "description": "Powerful social networking engine. ( Source Code ) GPL-2.0 PHP",
             "tags": []
           },
           {
             "name": "Enigma 1/2 BBS",
             "url": "https://nuskooler.github.io/enigma-bbs/",
-            "description": "Enigma 1/2 is a modern, multi-platform BBS engine with unlimited \"callers\" and legacy DOS door game support. ( Source Code ) BSD-2-Clause Shell/Docker/Nodejs",
+            "description": "Modern, multi-platform BBS engine with unlimited \"callers\" and legacy DOS door game support. ( Source Code ) BSD-2-Clause Shell/Docker/Nodejs",
             "tags": []
           },
           {
             "name": "Flarum",
             "url": "https://flarum.org",
-            "description": "Delightfully simple forums. Flarum is the next-generation forum software that makes online discussion fun again. ( Source Code ) MIT PHP",
+            "description": "Delightfully simple forums. Next-generation forum software that makes online discussion fun again. ( Source Code ) MIT PHP",
             "tags": []
           },
           {
@@ -47090,7 +47096,7 @@
           {
             "name": "Habitat",
             "url": "https://gethabitat.org/",
-            "description": "A Platform for Local Communities. ( Source Code ) AGPL-3.0 Docker",
+            "description": "Platform for Local Communities. ( Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -47186,7 +47192,7 @@
           {
             "name": "PieFed",
             "url": "https://join.piefed.social",
-            "description": "A link aggregator / reddit clone for the fediverse (alternative to Reddit). ( Demo , Source Code ) AGPL-3.0 Python/Docker",
+            "description": "Link aggregator / reddit clone for the fediverse (alternative to Reddit). ( Demo , Source Code ) AGPL-3.0 Python/Docker",
             "tags": []
           },
           {
@@ -47210,7 +47216,7 @@
           {
             "name": "Redlib",
             "url": "https://github.com/redlib-org/redlib",
-            "description": "\u26a0 - An alternative private front-end to Reddit, with its origins in Libreddit. AGPL-3.0 Rust",
+            "description": "\u26a0 - Private alternative front-end to Reddit, with its origins in Libreddit. AGPL-3.0 Rust",
             "tags": []
           },
           {
@@ -47246,7 +47252,7 @@
           {
             "name": "yarn.social",
             "url": "https://yarn.social",
-            "description": "Self-Hosted, Twitter\u2122-like Decentralised micro-logging platform. No ads, no tracking, your content, your data. ( Source Code ) MIT Go",
+            "description": "Twitter\u2122-like Decentralised micro-logging platform. No ads, no tracking, your content, your data. ( Source Code ) MIT Go",
             "tags": []
           }
         ]
@@ -47422,7 +47428,7 @@
           {
             "name": "teikei",
             "url": "https://github.com/teikei/teikei",
-            "description": "A web application that maps out community-supported agriculture based on crowdsourced data. ( Demo ) AGPL-3.0 Nodejs",
+            "description": "Web application that maps out community-supported agriculture based on crowdsourced data. ( Demo ) AGPL-3.0 Nodejs",
             "tags": []
           }
         ]
@@ -47468,7 +47474,7 @@
           {
             "name": "Alfresco Community Edition",
             "url": "https://www.alfresco.com/products/community/download",
-            "description": "The open source Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content. ( Source Code ) LGPL-3.0 Java",
+            "description": "Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content. ( Source Code ) LGPL-3.0 Java",
             "tags": []
           },
           {
@@ -47534,7 +47540,7 @@
           {
             "name": "Drupal",
             "url": "https://www.drupal.org/",
-            "description": "Advanced open source content management platform. ( Source Code ) GPL-2.0 PHP",
+            "description": "Advanced content management platform. ( Source Code ) GPL-2.0 PHP",
             "tags": []
           },
           {
@@ -47576,7 +47582,7 @@
           {
             "name": "Neos",
             "url": "https://www.neos.io",
-            "description": "Neos or TYPO3 Neos (for version 1) is a modern, open source CMS. ( Source Code ) GPL-3.0 PHP",
+            "description": "Modern CMS. Neos or TYPO3 Neos (for version 1). ( Source Code ) GPL-3.0 PHP",
             "tags": []
           },
           {
@@ -47678,7 +47684,7 @@
           {
             "name": "Umbraco",
             "url": "https://umbraco.com/",
-            "description": "The friendly CMS. Free and open source with an amazing community. ( Source Code ) MIT .NET",
+            "description": "Friendly CMS with an amazing community. ( Source Code ) MIT .NET",
             "tags": []
           },
           {
@@ -47702,7 +47708,7 @@
           {
             "name": "WonderCMS",
             "url": "https://www.wondercms.com",
-            "description": "WonderCMS is the smallest flat file CMS since 2008. ( Demo , Source Code ) MIT PHP",
+            "description": "Smallest flat file CMS since 2008. ( Demo , Source Code ) MIT PHP",
             "tags": []
           },
           {
@@ -47749,13 +47755,13 @@
           {
             "name": "SuiteCRM",
             "url": "https://suitecrm.com",
-            "description": "The award-winning, enterprise-class open source CRM. ( Source Code ) AGPL-3.0 PHP",
+            "description": "Award-winning, enterprise-class CRM. ( Source Code ) AGPL-3.0 PHP",
             "tags": []
           },
           {
             "name": "Twenty",
             "url": "https://twenty.com",
-            "description": "A modern CRM offering the flexibility of open source, advanced features, and a sleek design. ( Source Code ) AGPL-3.0 Docker",
+            "description": "Modern CRM offering flexibility, advanced features, and a sleek design. ( Source Code ) AGPL-3.0 Docker",
             "tags": []
           }
         ]
@@ -47814,7 +47820,7 @@
           {
             "name": "Databunker",
             "url": "https://databunker.org/",
-            "description": "Network-based, self-hosted, GDPR compliant, secure database for personal data or PII. ( Source Code ) MIT Docker",
+            "description": "Network-based, GDPR compliant, secure database for personal data or PII. ( Source Code ) MIT Docker",
             "tags": []
           },
           {
@@ -48117,7 +48123,7 @@
           {
             "name": "Stump",
             "url": "https://www.stumpapp.dev",
-            "description": "A fast, free and open source comics, manga and digital book server with OPDS support. ( Source Code ) MIT Rust",
+            "description": "Fast comics, manga and digital book server with OPDS support. ( Source Code ) MIT Rust",
             "tags": []
           }
         ]
@@ -48198,7 +48204,7 @@
           {
             "name": "Bagisto",
             "url": "https://bagisto.com/en/",
-            "description": "Leading Laravel open source e-commerce framework with multi-inventory sources, taxation, localization, dropshipping and more exciting features. ( Demo , Source Code ) MIT PHP",
+            "description": "Leading Laravel e-commerce framework with multi-inventory sources, taxation, localization, dropshipping and more exciting features. ( Demo , Source Code ) MIT PHP",
             "tags": []
           },
           {
@@ -48240,7 +48246,7 @@
           {
             "name": "Open Source POS",
             "url": "https://github.com/opensourcepos/opensourcepos",
-            "description": "Open Source Point of Sale is a web based point of sale system. MIT PHP",
+            "description": "Web-based point of sale system. MIT PHP",
             "tags": []
           },
           {
@@ -48288,25 +48294,25 @@
           {
             "name": "Spree Commerce",
             "url": "https://spreecommerce.org",
-            "description": "Spree is a complete, modular & API-driven open source e-commerce solution for Ruby on Rails. ( Demo , Source Code ) BSD-3-Clause Ruby",
+            "description": "Complete, modular & API-driven e-commerce solution for Ruby on Rails. ( Demo , Source Code ) BSD-3-Clause Ruby",
             "tags": []
           },
           {
             "name": "Sylius",
             "url": "https://sylius.com",
-            "description": "Symfony2 powered open source full-stack platform for eCommerce. ( Demo , Source Code ) MIT PHP",
+            "description": "Symfony2 powered full-stack platform for eCommerce. ( Demo , Source Code ) MIT PHP",
             "tags": []
           },
           {
             "name": "Thelia",
             "url": "https://thelia.net/",
-            "description": "Thelia is an open source and flexible e-commerce solution. ( Demo , Source Code ) LGPL-3.0 PHP",
+            "description": "Flexible e-commerce solution. ( Demo , Source Code ) LGPL-3.0 PHP",
             "tags": []
           },
           {
             "name": "Vendure",
             "url": "https://www.vendure.io",
-            "description": "A headless commerce framework. ( Demo , Source Code ) MIT Nodejs",
+            "description": "Headless commerce framework. ( Demo , Source Code ) MIT Nodejs",
             "tags": []
           },
           {
@@ -48329,7 +48335,7 @@
           {
             "name": "CommaFeed",
             "url": "https://www.commafeed.com/",
-            "description": "Google Reader inspired self-hosted RSS reader. ( Demo , Source Code ) Apache-2.0 Java/Docker",
+            "description": "Google Reader inspired RSS reader. ( Demo , Source Code ) Apache-2.0 Java/Docker",
             "tags": []
           },
           {
@@ -48371,7 +48377,7 @@
           {
             "name": "Leed",
             "url": "https://github.com/LeedRSS/Leed",
-            "description": "Leed (for Light Feed) is a Free and minimalist RSS aggregator. AGPL-3.0 PHP",
+            "description": "Minimalist RSS aggregator (Leed stands for Light Feed). AGPL-3.0 PHP",
             "tags": []
           },
           {
@@ -48437,7 +48443,7 @@
           {
             "name": "Stringer",
             "url": "https://github.com/stringer-rss/stringer",
-            "description": "Work-in-progress self-hosted, anti-social RSS reader. MIT Ruby",
+            "description": "Work-in-progress, anti-social RSS reader that. MIT Ruby",
             "tags": []
           },
           {
@@ -48461,7 +48467,7 @@
           {
             "name": "Yarr",
             "url": "https://github.com/nkanaev/yarr",
-            "description": "Yarr (yet another rss reader) is a web-based feed aggregator which can be used both as a desktop application and a personal self-hosted server. MIT Go",
+            "description": "Yarr (yet another rss reader) is a web-based feed aggregator which can be used both as a desktop application and as a personal server. MIT Go",
             "tags": []
           }
         ]
@@ -48496,7 +48502,7 @@
           {
             "name": "Nextcloud",
             "url": "https://nextcloud.com/",
-            "description": "Access and share your files, calendars, contacts, mail and more from any device, on your terms. ( Demo , Source Code ) AGPL-3.0 PHP/deb",
+            "description": "Access and share your files, calendars, contacts, mail and more from any device, on your terms. ( Demo , Source Code , Clients ) AGPL-3.0 PHP/deb",
             "tags": []
           },
           {
@@ -48538,7 +48544,7 @@
           {
             "name": "Samba",
             "url": "https://www.samba.org/",
-            "description": "Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services for all clients using the SMB/CIFS protocol. ( Source Code ) GPL-3.0 C",
+            "description": "Standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services for all clients using the SMB/CIFS protocol. ( Source Code ) GPL-3.0 C",
             "tags": []
           },
           {
@@ -48556,13 +48562,13 @@
           {
             "name": "Syncthing",
             "url": "https://syncthing.net/",
-            "description": "Syncthing is an open source peer-to-peer file synchronisation tool. ( Source Code ) MPL-2.0 Go/Docker/deb",
+            "description": "Peer-to-peer file synchronisation tool. ( Source Code ) MPL-2.0 Go/Docker/deb",
             "tags": []
           },
           {
             "name": "Unison",
             "url": "https://www.cis.upenn.edu/~bcpierce/unison/",
-            "description": "Unison is a file-synchronization tool for OSX, Unix, and Windows. ( Source Code ) GPL-3.0 deb/OCaml",
+            "description": "File-synchronization tool for OSX, Unix, and Windows. ( Source Code ) GPL-3.0 deb/OCaml",
             "tags": []
           }
         ]
@@ -48585,7 +48591,7 @@
           {
             "name": "SeaweedFS",
             "url": "https://github.com/seaweedfs/seaweedfs",
-            "description": "SeaweedFS is an open source distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity. Apache-2.0 Go",
+            "description": "Distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity. Apache-2.0 Go",
             "tags": []
           },
           {
@@ -48597,7 +48603,7 @@
           {
             "name": "ZOT OCI Registry",
             "url": "https://zotregistry.dev",
-            "description": "A production-ready vendor-neutral OCI-native container image registry. ( Demo , Source Code ) Apache-2.0 Go/Docker",
+            "description": "Production-ready vendor-neutral OCI-native container image registry. ( Demo , Source Code ) Apache-2.0 Go/Docker",
             "tags": []
           }
         ]
@@ -48632,7 +48638,7 @@
           {
             "name": "slskd",
             "url": "https://github.com/slskd/slskd",
-            "description": "\u26a0 - A modern client-server application for the Soulseek file sharing network. AGPL-3.0 Docker/C#",
+            "description": "\u26a0 - Modern client-server application for the Soulseek file sharing network. AGPL-3.0 Docker/C#",
             "tags": []
           },
           {
@@ -48655,7 +48661,7 @@
           {
             "name": "015",
             "url": "https://send.fudaoyuan.icu",
-            "description": "A temporary file sharing platform. Focused on providing one-time, temporary file and text upload, processing, and sharing services. ( Source Code ) AGPL-3.0 Docker",
+            "description": "Temporary file sharing platform. Focused on providing one-time, temporary file and text upload, processing, and sharing services. ( Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -48685,7 +48691,7 @@
           {
             "name": "Flare",
             "url": "https://github.com/FlintSH/Flare",
-            "description": "A nonbloated, modern, and highly configurable file/screenshot vault server with support for ShareX, Flameshot, and Spectacle. Offers OCR search and more. MIT Docker/Nodejs",
+            "description": "Nonbloated, modern, and highly configurable file/screenshot vault server with support for ShareX, Flameshot, and Spectacle. Offers OCR search and more. MIT Docker/Nodejs",
             "tags": []
           },
           {
@@ -48781,7 +48787,7 @@
           {
             "name": "Shifter",
             "url": "https://github.com/TobySuch/Shifter",
-            "description": "A simple, self-hosted file-sharing web app, powered by Django. MIT Docker",
+            "description": "Simple file-sharing web app. MIT Docker",
             "tags": []
           },
           {
@@ -48817,7 +48823,7 @@
           {
             "name": "Zipline",
             "url": "https://github.com/diced/zipline",
-            "description": "A lightweight, fast and reliable file sharing server that is commonly used with ShareX, offering a react-based Web UI and fast API. MIT Docker/Nodejs",
+            "description": "Lightweight, fast and reliable file sharing server that is commonly used with ShareX, offering a react-based Web UI and fast API. MIT Docker/Nodejs",
             "tags": []
           }
         ]
@@ -48834,7 +48840,7 @@
           {
             "name": "ClyoCloud",
             "url": "https://clyo.cloud/",
-            "description": "A personal, self-hosted cloud storage and media management application built for privacy, efficiency, and aesthetics. ( Source Code ) AGPL-3.0 Nodejs",
+            "description": "Personal cloud storage and media management application built for privacy, efficiency, and aesthetics. ( Source Code ) AGPL-3.0 Nodejs",
             "tags": []
           },
           {
@@ -48852,7 +48858,7 @@
           {
             "name": "FileGator",
             "url": "https://filegator.io/",
-            "description": "FileGator is a powerful multi-user file manager with a single page front-end. ( Demo , Source Code ) MIT PHP/Docker",
+            "description": "Powerful multi-user file manager with a single page front-end. ( Demo , Source Code ) MIT PHP/Docker",
             "tags": []
           },
           {
@@ -48906,7 +48912,7 @@
           {
             "name": "TagSpaces",
             "url": "https://www.tagspaces.org/",
-            "description": "TagSpaces is an offline, cross-platform file manager and organiser that also can function as a note taking app. The WebDAV version of the application can be installed on top of a WebDAV servers such as Nextcloud or ownCloud. ( Demo , Source Code ) AGPL-3.0 Nodejs",
+            "description": "Offline, cross-platform file manager and organiser that also can function as a note taking app. The WebDAV version of the application can be installed on top of a WebDAV servers such as Nextcloud or ownCloud. ( Demo , Source Code ) AGPL-3.0 Nodejs",
             "tags": []
           },
           {
@@ -48995,7 +49001,7 @@
           {
             "name": "Razzia",
             "url": "https://github.com/Ralex91/Razzia",
-            "description": "Quiz game platform, designed for smaller self-hosted events (alternative to Kahoot!). MIT Nodejs/Docker",
+            "description": "Quiz game platform, designed for smaller events (alternative to Kahoot!). MIT Nodejs/Docker",
             "tags": []
           },
           {
@@ -49007,7 +49013,7 @@
           {
             "name": "Scribble.rs",
             "url": "https://github.com/scribble-rs/scribble.rs",
-            "description": "A web-based pictionary game. ( Demo ) BSD-3-Clause Go/Docker",
+            "description": "Web-based pictionary game. ( Demo ) BSD-3-Clause Go/Docker",
             "tags": []
           },
           {
@@ -49019,7 +49025,7 @@
           {
             "name": "The Battle for Wesnoth",
             "url": "https://github.com/wesnoth/wesnoth",
-            "description": "The Battle for Wesnoth is an Open Source, turn-based tactical strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat. GPL-2.0 C++/deb",
+            "description": "Turn-based tactical strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat. GPL-2.0 C++/deb",
             "tags": []
           },
           {
@@ -49031,7 +49037,7 @@
           {
             "name": "Zero-K",
             "url": "https://zero-k.info/",
-            "description": "Open Source on Springrts engine. Zero-K is a traditional real time strategy game with a focus on player creativity through terrain manipulation, physics, and a large roster of unique units - all while being balanced to support competitive play. ( Source Code ) GPL-2.0 Lua",
+            "description": "Traditional real time strategy game on the Springrts engine, with a focus on player creativity through terrain manipulation, physics, and a large roster of unique units - all while being balanced to support competitive play. ( Source Code ) GPL-2.0 Lua",
             "tags": []
           }
         ]
@@ -49066,7 +49072,7 @@
           {
             "name": "EasyWI",
             "url": "https://easy-wi.com",
-            "description": "Easy-Wi is a Web-interface that allows you to manage server daemons like gameservers. In addition it provides you with a CMS which includes a fully automated game- and voiceserver lending service. ( Source Code ) GPL-3.0 PHP/Shell",
+            "description": "Web-interface that allows you to manage server daemons like gameservers. In addition it provides you with a CMS which includes a fully automated game- and voiceserver lending service. ( Source Code ) GPL-3.0 PHP/Shell",
             "tags": []
           },
           {
@@ -49191,13 +49197,13 @@
           {
             "name": "Gramps Web",
             "url": "https://www.grampsweb.org/",
-            "description": "Web app for collaborative genealogy, based on and interoperable with Gramps, the open source genealogy desktop application. ( Demo , Source Code ) AGPL-3.0 Docker",
+            "description": "Web app for collaborative genealogy, based on and interoperable with Gramps, the genealogy desktop application. ( Demo , Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
             "name": "webtrees",
             "url": "https://www.webtrees.net",
-            "description": "Webtrees is the web's leading online collaborative genealogy application. ( Demo , Source Code ) GPL-3.0 PHP",
+            "description": "Leading online collaborative genealogy application on the web. ( Demo , Source Code ) GPL-3.0 PHP",
             "tags": []
           }
         ]
@@ -49244,7 +49250,7 @@
           {
             "name": "LLMKube",
             "url": "https://llmkube.com",
-            "description": "Kubernetes operator for self-hosted LLM inference with pluggable runtimes (llama.cpp, vLLM, TGI, Ollama, vllm-swift), multi-GPU sharding, NVIDIA CUDA + Apple Silicon Metal support, and OpenAI-compatible API. ( Source Code ) Apache-2.0 Go/Docker/K8S",
+            "description": "Kubernetes operator for LLM inference with pluggable runtimes (llama.cpp, vLLM, TGI, Ollama, vllm-swift), multi-GPU sharding, NVIDIA CUDA + Apple Silicon Metal support, and OpenAI-compatible API. ( Source Code ) Apache-2.0 Go/Docker/K8S",
             "tags": []
           },
           {
@@ -49309,7 +49315,7 @@
           {
             "name": "Digipad",
             "url": "https://digipad.app/",
-            "description": "An online self-hosted application for creating collaborative digital notepads (Documentation in french). ( Source Code ) AGPL-3.0 Nodejs",
+            "description": "Online application for creating collaborative digital notepads (documentation in French). ( Source Code ) AGPL-3.0 Nodejs",
             "tags": []
           },
           {
@@ -49386,7 +49392,7 @@
           {
             "name": "Mere Medical",
             "url": "https://meremedical.co/",
-            "description": "\u26a0 - Manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused, self-hosted, and offline-first. ( Demo , Source Code ) GPL-3.0 Docker/Nodejs",
+            "description": "\u26a0 - Manage all of your medical records from Epic MyChart, Cerner, and OnPatient patient portals in one place. Privacy-focused and offline-first. ( Demo , Source Code ) GPL-3.0 Docker/Nodejs",
             "tags": []
           },
           {
@@ -49474,7 +49480,7 @@
           {
             "name": "FMD Server",
             "url": "https://fmd-foss.org",
-            "description": "A server to communicate with the FMD (Find My Device) Android app, to locate and control your devices. ( Source Code , Clients ) GPL-3.0 Docker/Go",
+            "description": "Server to communicate with the FMD (Find My Device) Android app, to locate and control your devices. ( Source Code , Clients ) GPL-3.0 Docker/Go",
             "tags": []
           },
           {
@@ -49516,7 +49522,7 @@
           {
             "name": "openHAB",
             "url": "https://www.openhab.org",
-            "description": "Vendor and technology agnostic open source software for home automation. ( Source Code ) EPL-2.0 Java",
+            "description": "Vendor and technology agnostic software for home automation. ( Source Code ) EPL-2.0 Java",
             "tags": []
           },
           {
@@ -49534,7 +49540,7 @@
           {
             "name": "SIP Irrigation Control",
             "url": "https://dan-in-ca.github.io/SIP/",
-            "description": "Open source software for sprinkler/irrigation control. ( Source Code ) GPL-3.0 Python",
+            "description": "Software for sprinkler/irrigation control. ( Source Code ) GPL-3.0 Python",
             "tags": []
           },
           {
@@ -49546,7 +49552,7 @@
           {
             "name": "Tasmota",
             "url": "https://tasmota.com",
-            "description": "Open source firmware for ESP devices. Total local control with quick setup and updates. Control using MQTT, Web UI, HTTP or serial. Automate using timers, rules or scripts. Integration with home automation solutions. ( Source Code ) GPL-3.0 C/C++",
+            "description": "Firmware for ESP devices. Total local control with quick setup and updates. Control using MQTT, Web UI, HTTP or serial. Automate using timers, rules or scripts. Integration with home automation solutions. ( Source Code ) GPL-3.0 C/C++",
             "tags": []
           },
           {
@@ -49558,7 +49564,7 @@
           {
             "name": "WebThings Gateway",
             "url": "https://webthings.io/gateway/",
-            "description": "WebThings is an open source implementation of the Web of Things, including the WebThings Gateway and the WebThings Framework. ( Source Code ) MPL-2.0 Nodejs",
+            "description": "Implementation of the Web of Things, including the WebThings Gateway and the WebThings Framework. ( Source Code ) MPL-2.0 Nodejs",
             "tags": []
           }
         ]
@@ -49658,7 +49664,7 @@
           {
             "name": "SiYuan",
             "url": "https://b3log.org/siyuan/",
-            "description": "A privacy-first personal knowledge management software, written in typescript and golang. ( Source Code ) AGPL-3.0 Docker/Go",
+            "description": "Privacy-first personal knowledge management software, written in typescript and golang. ( Source Code ) AGPL-3.0 Docker/Go",
             "tags": []
           },
           {
@@ -49693,7 +49699,7 @@
           {
             "name": "Digitools",
             "url": "https://ladigitale.dev/digitools",
-            "description": "A set of simple tools to accompany the animation of courses in person or remotely. (documentation in French). ( Demo , Source Code ) AGPL-3.0 PHP",
+            "description": "Set of simple tools to accompany the animation of courses in person or remotely (documentation in French). ( Demo , Source Code ) AGPL-3.0 PHP",
             "tags": []
           },
           {
@@ -49729,13 +49735,13 @@
           {
             "name": "Moodle",
             "url": "https://moodle.org/",
-            "description": "Learning and courses platform with one of the largest open source communities worldwide. ( Demo , Source Code ) GPL-3.0 PHP",
+            "description": "Learning and courses platform with one of the largest communities worldwide. ( Demo , Source Code ) GPL-3.0 PHP",
             "tags": []
           },
           {
             "name": "Open eClass",
             "url": "https://www.openeclass.org/",
-            "description": "Open eClass is an advanced e-learning solution that can enhance the teaching and learning process. ( Demo , Source Code ) GPL-2.0 PHP",
+            "description": "Advanced e-learning solution that can enhance the teaching and learning process. ( Demo , Source Code ) GPL-2.0 PHP",
             "tags": []
           },
           {
@@ -50169,13 +50175,13 @@
           {
             "name": "LibreTime",
             "url": "https://libretime.org",
-            "description": "Broadcast streaming radio on the web (fork of Airtime ). ( Source Code ) AGPL-3.0 Docker/PHP",
+            "description": "Broadcast streaming radio on the web (fork of Airtime). ( Source Code ) AGPL-3.0 Docker/PHP",
             "tags": []
           },
           {
             "name": "LMS",
             "url": "https://github.com/epoupon/lms",
-            "description": "Access your self-hosted music using a web interface. GPL-3.0 Docker/deb/C++",
+            "description": "Access your own music using a web interface. GPL-3.0 Docker/deb/C++",
             "tags": []
           },
           {
@@ -50259,7 +50265,7 @@
           {
             "name": "SwingMusic",
             "url": "https://swingmusic.vercel.app/",
-            "description": "Swing Music is a beautiful, self-hosted music player and streaming server for your local audio files. Like a cooler Spotify ... but bring your own music. ( Source Code ) MIT Python/Docker",
+            "description": "Beautiful music player and streaming server for your local audio files. Like a cooler Spotify ... but bring your own music. ( Source Code ) MIT Python/Docker",
             "tags": []
           },
           {
@@ -50354,7 +50360,7 @@
           {
             "name": "Stash",
             "url": "https://stashapp.cc",
-            "description": "A web-based library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. ( Source Code ) AGPL-3.0 Docker/Go",
+            "description": "Web-based library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. ( Source Code ) AGPL-3.0 Docker/Go",
             "tags": []
           },
           {
@@ -50366,7 +50372,7 @@
           {
             "name": "\u00fcWave",
             "url": "https://u-wave.net/",
-            "description": "\u26a0 - Self-hosted collaborative listening platform. Users take turns playing media\u2014songs, talks, gameplay videos, or anything else\u2014from a variety of media sources like YouTube and SoundCloud. ( Demo , Source Code ) MIT Nodejs",
+            "description": "\u26a0 - Collaborative listening platform. Users take turns playing media\u2014songs, talks, gameplay videos, or anything else\u2014from a variety of media sources like YouTube and SoundCloud. ( Demo , Source Code ) MIT Nodejs",
             "tags": []
           }
         ]
@@ -50389,7 +50395,7 @@
           {
             "name": "MediaCMS",
             "url": "https://mediacms.io",
-            "description": "Modern, fully featured open source video and media CMS, written in Python/Django/React, featuring a REST API. ( Source Code ) AGPL-3.0 Python/Docker",
+            "description": "Modern, fully featured video and media CMS, written in Python/Django/React, featuring a REST API. ( Source Code ) AGPL-3.0 Python/Docker",
             "tags": []
           },
           {
@@ -50425,7 +50431,7 @@
           {
             "name": "SRS",
             "url": "https://ossrs.io/",
-            "description": "A simple, high efficiency and real-time video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT. ( Source Code ) MIT Docker/C++",
+            "description": "Simple, high efficiency and real-time video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT. ( Source Code ) MIT Docker/C++",
             "tags": []
           },
           {
@@ -50449,7 +50455,7 @@
           {
             "name": "Tube",
             "url": "https://git.mills.io/prologic/tube",
-            "description": "Youtube-like ( without censorship and features you don't need! ) video sharing app written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and RSS feed. MIT Go",
+            "description": "Youtube-like (without censorship and features you don't need!) video sharing app written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and RSS feed. MIT Go",
             "tags": []
           },
           {
@@ -50514,7 +50520,7 @@
           {
             "name": "CUPS",
             "url": "https://www.cups.org/",
-            "description": "The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ( Source Code ) GPL-2.0 C",
+            "description": "Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ( Source Code ) GPL-2.0 C",
             "tags": []
           },
           {
@@ -50550,7 +50556,7 @@
           {
             "name": "Digiflashcards",
             "url": "https://ladigitale.dev/digiflashcards/",
-            "description": "An online application to create flashcards (documentation in French). ( Source Code ) AGPL-3.0 Nodejs/PHP",
+            "description": "Online application to create flashcards (documentation in French). ( Source Code ) AGPL-3.0 Nodejs/PHP",
             "tags": []
           },
           {
@@ -50562,7 +50568,7 @@
           {
             "name": "Digiquiz",
             "url": "https://ladigitale.dev/digiquiz/",
-            "description": "An online application to publish content created with H5P (documentation in French). ( Source Code ) AGPL-3.0 Nodejs",
+            "description": "Online application to publish content created with H5P (documentation in French). ( Source Code ) AGPL-3.0 Nodejs",
             "tags": []
           },
           {
@@ -50574,7 +50580,7 @@
           {
             "name": "Digisteps",
             "url": "https://ladigitale.dev/digisteps/",
-            "description": "A simple application for creating online educational paths (documentation in French). ( Source Code ) AGPL-3.0 Nodejs/PHP",
+            "description": "Simple application for creating online educational paths (documentation in French). ( Source Code ) AGPL-3.0 Nodejs/PHP",
             "tags": []
           },
           {
@@ -50592,7 +50598,7 @@
           {
             "name": "Digiwords",
             "url": "https://ladigitale.dev/digiwords/",
-            "description": "A simple online application for creating word clouds (documentation in French). ( Source Code ) AGPL-3.0 Nodejs/PHP",
+            "description": "Simple online application for creating word clouds (documentation in French). ( Source Code ) AGPL-3.0 Nodejs/PHP",
             "tags": []
           },
           {
@@ -50682,7 +50688,7 @@
           {
             "name": "IT-Tools by sharevb",
             "url": "https://github.com/sharevb/it-tools",
-            "description": "Collection of handy online tools for developers (fork of it-tools ). ( Demo ) GPL-3.0 Docker",
+            "description": "Collection of handy online tools for developers (fork of it-tools). ( Demo ) GPL-3.0 Docker",
             "tags": []
           },
           {
@@ -50706,7 +50712,7 @@
           {
             "name": "Koillection",
             "url": "https://koillection.github.io/",
-            "description": "Koillection is a service allowing users to manage any kind of collections. ( Source Code ) MIT Docker/PHP",
+            "description": "Service allowing users to manage any kind of collections. ( Source Code ) MIT Docker/PHP",
             "tags": []
           },
           {
@@ -50736,7 +50742,7 @@
           {
             "name": "mosparo",
             "url": "https://mosparo.io/",
-            "description": "The modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. ( Source Code ) MIT PHP",
+            "description": "Modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. ( Source Code ) MIT PHP",
             "tags": []
           },
           {
@@ -50844,7 +50850,7 @@
           {
             "name": "TeslaMate",
             "url": "https://github.com/teslamate-org/teslamate",
-            "description": "A powerful data logger for Tesla vehicles. MIT Elixir/Docker",
+            "description": "Powerful data logger for Tesla vehicles. MIT Elixir/Docker",
             "tags": []
           },
           {
@@ -50880,7 +50886,7 @@
           {
             "name": "WeeWX",
             "url": "https://weewx.com/",
-            "description": "Open source software for your weather station. ( Demo , Source Code ) GPL-3.0 Python/deb",
+            "description": "Software for your weather station. ( Demo , Source Code ) GPL-3.0 Python/deb",
             "tags": []
           },
           {
@@ -50963,7 +50969,7 @@
           {
             "name": "ezbookkeeping",
             "url": "https://ezbookkeeping.mayswind.net/",
-            "description": "A lightweight personal bookkeeping app hosted by yourself. ( Demo , Source Code ) MIT Go/Docker",
+            "description": "Lightweight personal bookkeeping app hosted by yourself. ( Demo , Source Code ) MIT Go/Docker",
             "tags": []
           },
           {
@@ -50981,7 +50987,7 @@
           {
             "name": "Firefly III",
             "url": "https://firefly-iii.org/",
-            "description": "Firefly III is a modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, has an advanced rule engine and can import data from many banks. ( Demo , Source Code ) AGPL-3.0 PHP/Docker",
+            "description": "Modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, has an advanced rule engine and can import data from many banks. ( Demo , Source Code ) AGPL-3.0 PHP/Docker",
             "tags": []
           },
           {
@@ -51101,7 +51107,7 @@
           {
             "name": "SolidInvoice",
             "url": "https://solidinvoice.co",
-            "description": "Open source invoicing and quote application. ( Source Code ) MIT PHP",
+            "description": "Invoicing and quote application. ( Source Code ) MIT PHP",
             "tags": []
           },
           {
@@ -51190,7 +51196,7 @@
           {
             "name": "Upsnap",
             "url": "https://github.com/seriousm4x/UpSnap",
-            "description": "A simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. MIT Go/Docker",
+            "description": "Simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. MIT Go/Docker",
             "tags": []
           },
           {
@@ -51213,7 +51219,7 @@
           {
             "name": "Blinko",
             "url": "https://blinko.space/",
-            "description": "A personal note tool with AI features. ( Source Code ) AGPL-3.0 Docker",
+            "description": "Personal note tool with AI features. ( Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -51249,7 +51255,7 @@
           {
             "name": "Joplin",
             "url": "https://joplinapp.org/",
-            "description": "Note taking application with markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through a self hosted Nextcloud instance or similar (alternative to Evernote). ( Source Code ) MIT Nodejs",
+            "description": "Note taking application with markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through your own Nextcloud instance or similar (alternative to Evernote). ( Source Code ) MIT Nodejs",
             "tags": []
           },
           {
@@ -51362,7 +51368,7 @@
           {
             "name": "Digislides",
             "url": "https://ladigitale.dev/digislides/",
-            "description": "Create multimedia presentations in a quick and easy way. (documentation in French). ( Demo , Source Code ) AGPL-3.0 Nodejs/PHP",
+            "description": "Create multimedia presentations in a quick and easy way (documentation in French). ( Demo , Source Code ) AGPL-3.0 Nodejs/PHP",
             "tags": []
           },
           {
@@ -51534,7 +51540,7 @@
           {
             "name": "SnyPy",
             "url": "https://snypy.com",
-            "description": "Open source on-prem code snippet manager. ( Demo , Source Code ) MIT Docker",
+            "description": "On-prem code snippet manager. ( Demo , Source Code ) MIT Docker",
             "tags": []
           },
           {
@@ -51605,7 +51611,7 @@
           {
             "name": "Homepage by tomershvueli",
             "url": "https://github.com/tomershvueli/homepage",
-            "description": "Simple, standalone, self-hosted PHP page that is your window to your server and the web. MIT PHP",
+            "description": "Simple, standalone PHP page that is your window to your server and the web. MIT PHP",
             "tags": []
           },
           {
@@ -51665,7 +51671,7 @@
           {
             "name": "Starbase 80",
             "url": "https://github.com/notclickable-jordan/starbase-80",
-            "description": "A simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. MIT Docker",
+            "description": "Simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. MIT Docker",
             "tags": []
           },
           {
@@ -51700,7 +51706,7 @@
           {
             "name": "Ente",
             "url": "https://ente.com/",
-            "description": "An end-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ( Source Code ) AGPL-3.0 Docker/Nodejs/Go",
+            "description": "End-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). ( Source Code ) AGPL-3.0 Docker/Nodejs/Go",
             "tags": []
           },
           {
@@ -51760,7 +51766,7 @@
           {
             "name": "PhotoPrism",
             "url": "https://photoprism.org",
-            "description": "Personal photo management powered by Go and Google TensorFlow.  Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures. ( Demo , Source Code ) AGPL-3.0 Go/Docker",
+            "description": "Personal photo management powered by Go and Google TensorFlow. Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures. ( Demo , Source Code ) AGPL-3.0 Go/Docker",
             "tags": []
           },
           {
@@ -51784,7 +51790,7 @@
           {
             "name": "SPIS",
             "url": "https://github.com/gbbirkisson/spis",
-            "description": "A simple, lightweight and fast media server with decent mobile support. GPL-3.0 Docker/Rust",
+            "description": "Simple, lightweight and fast media server with decent mobile support. GPL-3.0 Docker/Rust",
             "tags": []
           },
           {
@@ -51796,7 +51802,7 @@
           {
             "name": "Thumbor",
             "url": "http://thumbor.org/",
-            "description": "A smart imaging service and enables on-demand cropping, resizing, applying filters and optimizing images. ( Source Code ) MIT Python/Docker",
+            "description": "Smart imaging service and enables on-demand cropping, resizing, applying filters and optimizing images. ( Source Code ) MIT Python/Docker",
             "tags": []
           },
           {
@@ -51831,7 +51837,7 @@
           {
             "name": "Claper",
             "url": "https://claper.co/",
-            "description": "The ultimate tool to interact with your audience (alternative to Slido, AhaSlides and Mentimeter). ( Source Code ) GPL-3.0 Elixir/Docker",
+            "description": "Add Q&A, polls, quizzes, forms, live captions and reactions to your slides (alternative to Slido, AhaSlides and Mentimeter). ( Source Code ) GPL-3.0 Elixir/Docker",
             "tags": []
           },
           {
@@ -51861,7 +51867,7 @@
           {
             "name": "Formbricks",
             "url": "https://formbricks.com",
-            "description": "Experience Management Suite built on the largest open source survey stack worldwide. Gracefully gather feedback at every step of the customer journey to know what your customers need. ( Demo , Source Code ) AGPL-3.0 Nodejs/Docker",
+            "description": "Experience Management Suite built on the largest survey stack worldwide. Gracefully gather feedback at every step of the customer journey to know what your customers need. ( Demo , Source Code ) AGPL-3.0 Nodejs/Docker",
             "tags": []
           },
           {
@@ -51956,7 +51962,7 @@
           {
             "name": "Outline Server",
             "url": "https://getoutline.org/",
-            "description": "A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. ( Source Code ) Apache-2.0 Docker/Nodejs",
+            "description": "Proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. ( Source Code ) Apache-2.0 Docker/Nodejs",
             "tags": []
           },
           {
@@ -52027,7 +52033,7 @@
           {
             "name": "RecipeSage",
             "url": "https://github.com/julianpoy/recipesage",
-            "description": "A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL. ( Demo ) AGPL-3.0 Nodejs",
+            "description": "Recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL. ( Demo ) AGPL-3.0 Nodejs",
             "tags": []
           },
           {
@@ -52098,7 +52104,7 @@
           {
             "name": "Sshwifty",
             "url": "https://github.com/nirui/sshwifty",
-            "description": "Sshwifty is a SSH and Telnet connector made for the Web. ( Demo ) AGPL-3.0 Go/Docker",
+            "description": "SSH and Telnet connector made for the Web. ( Demo ) AGPL-3.0 Go/Docker",
             "tags": []
           },
           {
@@ -52151,7 +52157,7 @@
           {
             "name": "Odoo",
             "url": "https://www.odoo.com",
-            "description": "Free open source ERP system. ( Demo , Source Code ) LGPL-3.0 Python/deb/Docker",
+            "description": "Suite of web based business apps for ERP. ( Demo , Source Code ) LGPL-3.0 Python/deb/Docker",
             "tags": []
           },
           {
@@ -52163,7 +52169,7 @@
           {
             "name": "Tryton",
             "url": "https://www.tryton.org/",
-            "description": "Free open source business solution. ( Demo , Source Code ) GPL-3.0 Python",
+            "description": "Business solution. ( Demo , Source Code ) GPL-3.0 Python",
             "tags": []
           }
         ]
@@ -52228,7 +52234,7 @@
           {
             "name": "SearXNG",
             "url": "https://docs.searxng.org/",
-            "description": "\u26a0 - Internet metasearch engine which aggregates results from various search services and databases (Fork of Searx). ( Source Code ) AGPL-3.0 Python/Docker",
+            "description": "\u26a0 - Internet metasearch engine which aggregates results from various search services and databases (fork of Searx). ( Source Code ) AGPL-3.0 Python/Docker",
             "tags": []
           },
           {
@@ -52240,7 +52246,7 @@
           {
             "name": "Typesense",
             "url": "https://typesense.org",
-            "description": "Blazing fast, typo-tolerant open source search engine optimized for developer happiness and ease of use. ( Source Code ) GPL-3.0 C++/Docker/K8S/deb",
+            "description": "Blazing fast, typo-tolerant search engine optimized for developer happiness and ease of use. ( Source Code ) GPL-3.0 C++/Docker/K8S/deb",
             "tags": []
           },
           {
@@ -52275,7 +52281,7 @@
           {
             "name": "Dropserver",
             "url": "https://dropserver.org",
-            "description": "An application platform for your personal web services. ( Source Code ) Apache-2.0 Go/Deno",
+            "description": "Application platform for your personal web services. ( Source Code ) Apache-2.0 Go/Deno",
             "tags": []
           },
           {
@@ -52323,7 +52329,7 @@
           {
             "name": "Nirvati",
             "url": "https://nirvati.org",
-            "description": "Easily 1-click spin up popular self-hosted apps from a convenient web interface. ( Source Code ) AGPL-3.0 Rust/K8S",
+            "description": "Easily 1-click spin up popular apps from a convenient web interface. ( Source Code ) AGPL-3.0 Rust/K8S",
             "tags": []
           },
           {
@@ -52335,7 +52341,7 @@
           {
             "name": "Sandstorm",
             "url": "https://sandstorm.io/",
-            "description": "Personal server for running self-hosted apps easily and securely. ( Demo , Source Code ) Apache-2.0 C++/Shell",
+            "description": "Personal server for running apps on your own hardware easily and securely. ( Demo , Source Code ) Apache-2.0 C++/Shell",
             "tags": []
           },
           {
@@ -52359,7 +52365,7 @@
           {
             "name": "Tipi",
             "url": "https://runtipi.io/",
-            "description": "Homeserver manager. One command setup, one click installs for your favorites self-hosted apps. ( Source Code ) GPL-3.0 Shell",
+            "description": "Homeserver manager. One command setup, one click installs for your favorite home server apps. ( Source Code ) GPL-3.0 Shell",
             "tags": []
           },
           {
@@ -52371,19 +52377,19 @@
           {
             "name": "Websoft9",
             "url": "https://www.websoft9.com",
-            "description": "\u26a0 - GitOps-driven, multi-application hosting for cloud servers and home servers, one-click deployment of 200+ open source apps. ( Demo , Source Code , Clients ) LGPL-3.0 Shell/Python",
+            "description": "\u26a0 - GitOps-driven, multi-application hosting for cloud servers and home servers, one-click deployment of 200+ apps. ( Demo , Source Code , Clients ) LGPL-3.0 Shell/Python",
             "tags": []
           },
           {
             "name": "WikiSuite",
             "url": "https://wikisuite.org",
-            "description": "The most comprehensive and integrated Free / Libre / Open Source enterprise software suite. ( Source Code ) GPL-3.0/LGPL-2.1/Apache-2.0/MPL-2.0/MPL-1.1/MIT/AGPL-3.0 Shell/Perl/deb",
+            "description": "Most comprehensive and integrated Free / Libre enterprise software suite. ( Source Code ) GPL-3.0/LGPL-2.1/Apache-2.0/MPL-2.0/MPL-1.1/MIT/AGPL-3.0 Shell/Perl/deb",
             "tags": []
           },
           {
             "name": "xsrv",
             "url": "https://xsrv.readthedocs.io/",
-            "description": "Install and manage self-hosted services/applications, on your own server(s). ( Source Code ) GPL-3.0 Ansible/Shell",
+            "description": "Install and manage services/applications on your own server(s). ( Source Code ) GPL-3.0 Ansible/Shell",
             "tags": []
           },
           {
@@ -52407,12 +52413,6 @@
             "name": "DreamFactory",
             "url": "https://www.dreamfactory.com/",
             "description": "Turns any SQL/NoSQL/Structured data into Restful API. ( Source Code ) Apache-2.0 PHP/Docker/K8S",
-            "tags": []
-          },
-          {
-            "name": "form.io",
-            "url": "https://form.io",
-            "description": "A REST API building platform that utilizes a drag & drop form builder, and is application framework agnostic. Contains open source and enterprise version. ( Demo , Source Code ) MIT Nodejs/Docker",
             "tags": []
           },
           {
@@ -52472,7 +52472,7 @@
           {
             "name": "Tyk",
             "url": "https://tyk.io",
-            "description": "Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ( Source Code ) MPL-2.0 Go/Docker/K8S",
+            "description": "Fast and scalable API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ( Source Code ) MPL-2.0 Go/Docker/K8S",
             "tags": []
           }
         ]
@@ -52536,13 +52536,13 @@
           {
             "name": "Eclipse Che",
             "url": "https://www.eclipse.org/che/",
-            "description": "Open source workspace server and cloud IDE. ( Source Code ) EPL-1.0 Docker/Java",
+            "description": "Workspace server and cloud IDE. ( Source Code ) EPL-1.0 Docker/Java",
             "tags": []
           },
           {
             "name": "Hopp",
             "url": "https://gethopp.app",
-            "description": "Remote pair programming app with low-latency 4K screen sharing, drawing, and remote control, with clients for macOS and Windows (alternative to Tuple, Pop, Drovio, Coscreen). ( Source Code ) AGPL-3.0 Docker",
+            "description": "Remote pair programming app with low-latency 4K screen sharing, drawing, and remote control, with clients for macOS and Windows (alternative to Tuple, Pop, Drovio). ( Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -52636,7 +52636,7 @@
           {
             "name": "Halo",
             "url": "https://www.halo.run",
-            "description": "A powerful and easy-to-use website building tool (documentation in Chinese). ( Demo , Source Code , Clients ) GPL-3.0 Java/Docker",
+            "description": "Powerful and easy-to-use website building tool (documentation in Chinese). ( Demo , Source Code , Clients ) GPL-3.0 Java/Docker",
             "tags": []
           },
           {
@@ -52689,7 +52689,7 @@
           {
             "name": "Forgejo",
             "url": "https://forgejo.org",
-            "description": "A lightweight software forge focused on scaling, federation, and privacy (fork of Gitea). ( Demo , Source Code , Clients ) MIT Docker/Go",
+            "description": "Lightweight software forge focused on scaling, federation, and privacy (fork of Gitea). ( Demo , Source Code , Clients ) MIT Docker/Go",
             "tags": []
           },
           {
@@ -52713,25 +52713,25 @@
           {
             "name": "Gitea",
             "url": "https://gitea.com",
-            "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD. ( Demo , Source Code ) MIT Go/Docker/K8S",
+            "description": "Git with a cup of tea! Painless all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD. ( Demo , Source Code ) MIT Go/Docker/K8S",
             "tags": []
           },
           {
             "name": "GitLab",
             "url": "https://about.gitlab.com",
-            "description": "Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis. ( Demo , Source Code ) MIT Ruby/deb/Docker/K8S",
+            "description": "Git repository management, code reviews, issue tracking, activity feeds and wikis. ( Demo , Source Code ) MIT Ruby/deb/Docker/K8S",
             "tags": []
           },
           {
             "name": "Gogs",
             "url": "https://gogs.io/",
-            "description": "Painless self-hosted Git Service written in Go. ( Source Code ) MIT Go",
+            "description": "Painless Git Service written in Go. ( Source Code ) MIT Go",
             "tags": []
           },
           {
             "name": "Huly",
             "url": "https://huly.io",
-            "description": "All-in-one project management platform (alternative to Linear, Jira, Slack, Notion, Motion). ( Demo , Source Code ) EPL-2.0 Docker/K8S/Nodejs",
+            "description": "All-in-one project management platform (alternative to Linear, Jira, Slack). ( Demo , Source Code ) EPL-2.0 Docker/K8S/Nodejs",
             "tags": []
           },
           {
@@ -52785,7 +52785,7 @@
           {
             "name": "Paca",
             "url": "https://paca-ai.org",
-            "description": "AI-native project management platform where AI agents and humans collaborate as Scrum teammates on the same board and sprints. Configurable via config files and WASM plugins (alternative to Jira, Trello, ClickUp and Monday). ( Source Code ) Apache-2.0 Docker/K8S",
+            "description": "AI-native project management platform where AI agents and humans collaborate as Scrum teammates on the same board and sprints. Configurable via config files and WASM plugins (alternative to Jira, Trello, ClickUp). ( Source Code ) Apache-2.0 Docker/K8S",
             "tags": []
           },
           {
@@ -52833,25 +52833,25 @@
           {
             "name": "Rukovoditel",
             "url": "https://www.rukovoditel.net/",
-            "description": "Configurable open source project management, web-based application. ( Source Code ) GPL-2.0 PHP",
+            "description": "Configurable project management, web-based application. ( Source Code ) GPL-2.0 PHP",
             "tags": []
           },
           {
             "name": "SCM Manager",
             "url": "https://www.scm-manager.org/",
-            "description": "The easiest way to share and manage your Git, Mercurial and Subversion repositories over http. ( Source Code ) BSD-3-Clause Java/deb/Docker/K8S",
+            "description": "Easiest way to share and manage your Git, Mercurial and Subversion repositories over http. ( Source Code ) BSD-3-Clause Java/deb/Docker/K8S",
             "tags": []
           },
           {
             "name": "Smederee",
             "url": "https://smeder.ee",
-            "description": "A frugal platform which is dedicated to help people build great software together leveraging the power of the Darcs version control system. ( Source Code ) AGPL-3.0 Scala",
+            "description": "Frugal platform which is dedicated to help people build great software together leveraging the power of the Darcs version control system. ( Source Code ) AGPL-3.0 Scala",
             "tags": []
           },
           {
             "name": "Sourcehut",
             "url": "https://sourcehut.org/",
-            "description": "A full web git interface with no javascript. ( Demo , Source Code ) GPL-2.0 Go",
+            "description": "Full web git interface with no javascript. ( Demo , Source Code ) GPL-2.0 Go",
             "tags": []
           },
           {
@@ -52869,7 +52869,7 @@
           {
             "name": "Trac",
             "url": "https://trac.edgewall.org/",
-            "description": "Trac is an enhanced wiki and issue tracking system for software development projects. BSD-3-Clause Python/deb",
+            "description": "Enhanced wiki and issue tracking system for software development projects. BSD-3-Clause Python/deb",
             "tags": []
           },
           {
@@ -52881,13 +52881,13 @@
           {
             "name": "Tuleap",
             "url": "https://www.tuleap.org/",
-            "description": "Tuleap is a libre suite to plan, track, code and collaborate on software projects. ( Source Code ) GPL-2.0 PHP",
+            "description": "Libre suite to plan, track, code and collaborate on software projects. ( Source Code ) GPL-2.0 PHP",
             "tags": []
           },
           {
             "name": "ZenTao",
             "url": "https://www.zentao.pm/",
-            "description": "An agile(scrum) project management system/tool. ( Source Code ) AGPL-3.0 PHP",
+            "description": "Agile(scrum) project management system/tool. ( Source Code ) AGPL-3.0 PHP",
             "tags": []
           }
         ]
@@ -52927,7 +52927,7 @@
           {
             "name": "AppFlowy",
             "url": "https://appflowy.io/",
-            "description": "Build detailed lists of to-do\u2019s for different projects while tracking the status of each one. Open Source Notion Alternative. ( Source Code ) AGPL-3.0 Rust/Dart/Docker",
+            "description": "Build detailed lists of to-do\u2019s for different projects while tracking the status of each one (alternative to Notion). ( Source Code ) AGPL-3.0 Rust/Dart/Docker",
             "tags": []
           },
           {
@@ -52951,7 +52951,7 @@
           {
             "name": "HamsterBase Tasks",
             "url": "https://tasks.hamsterbase.com",
-            "description": "A tool to help organize ideas and build great things. Plan, organize, build and ship. ( Demo , Source Code ) AGPL-3.0 Docker",
+            "description": "Tool to help organize ideas and build great things. Plan, organize, build and ship. ( Demo , Source Code ) AGPL-3.0 Docker",
             "tags": []
           },
           {
@@ -53005,19 +53005,19 @@
           {
             "name": "Task Keeper",
             "url": "https://github.com/nymanjens/piga",
-            "description": "List editor for power users, backed by a self-hosted server. Apache-2.0 Scala",
+            "description": "List editor for power users, backed by a server. Apache-2.0 Scala",
             "tags": []
           },
           {
             "name": "Tasks.md",
             "url": "https://github.com/BaldissaraMatheus/Tasks.md",
-            "description": "A self-hosted, file based task management board that supports Markdown syntax. MIT Docker",
+            "description": "File based task management board that and that supports Markdown syntax. MIT Docker",
             "tags": []
           },
           {
             "name": "Taskwarrior",
             "url": "https://taskwarrior.org/",
-            "description": "Taskwarrior is Free and Open Source Software that manages your TODO list from your command line. It is flexible, fast, efficient, and unobtrusive. It does its job then gets out of your way. ( Source Code ) MIT C++",
+            "description": "Command line tool that manages your TODO list. It is flexible, fast, efficient, and unobtrusive. It does its job then gets out of your way. ( Source Code ) MIT C++",
             "tags": []
           },
           {
@@ -53041,7 +53041,7 @@
           {
             "name": "Vikunja",
             "url": "https://vikunja.io/",
-            "description": "The to-do app to organize your life. ( Demo , Source Code ) AGPL-3.0/GPL-3.0 Go",
+            "description": "To-do app to organize your life. ( Demo , Source Code ) AGPL-3.0/GPL-3.0 Go",
             "tags": []
           },
           {
@@ -53177,7 +53177,7 @@
           {
             "name": "TimeTagger",
             "url": "https://timetagger.app",
-            "description": "An open source time-tracker based on an interactive timeline and powerful reporting. ( Demo , Source Code ) GPL-3.0 Python",
+            "description": "Time-tracker based on an interactive timeline and powerful reporting. ( Demo , Source Code ) GPL-3.0 Python",
             "tags": []
           },
           {
@@ -53189,7 +53189,7 @@
           {
             "name": "Traggo",
             "url": "https://traggo.net/",
-            "description": "Traggo is a tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ( Source Code ) GPL-3.0 Docker/Go",
+            "description": "Tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ( Source Code ) GPL-3.0 Docker/Go",
             "tags": []
           },
           {
@@ -53201,7 +53201,7 @@
           {
             "name": "Ziit",
             "url": "https://ziit.app",
-            "description": "The Swiss army knife of code time tracking (alternative to WakaTime). ( Source Code ) AGPL-3.0 Docker",
+            "description": "Swiss army knife of code time tracking (alternative to WakaTime). ( Source Code ) AGPL-3.0 Docker",
             "tags": []
           }
         ]
@@ -53241,7 +53241,7 @@
           {
             "name": "clink",
             "url": "https://git.crueter.xyz/crueter/clink",
-            "description": "A super-minimal link shortening service written in pure C, focusing on small executable size, portability, and ease of configuration. ( Demo ) AGPL-3.0 C",
+            "description": "Super-minimal link shortening service written in pure C, focusing on small executable size, portability, and ease of configuration. ( Demo ) AGPL-3.0 C",
             "tags": []
           },
           {
@@ -53277,7 +53277,7 @@
           {
             "name": "YOURLS",
             "url": "https://yourls.org/",
-            "description": "YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp. ( Source Code ) MIT PHP",
+            "description": "Set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp. ( Source Code ) MIT PHP",
             "tags": []
           }
         ]
@@ -53324,7 +53324,7 @@
           {
             "name": "Viseron",
             "url": "https://viseron.netlify.app/",
-            "description": "Self-hosted, local-only NVR and AI Computer Vision software. With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor. ( Source Code ) MIT Docker",
+            "description": "Local-only NVR and AI Computer Vision software. With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor. ( Source Code ) MIT Docker",
             "tags": []
           },
           {
@@ -53359,7 +53359,7 @@
           {
             "name": "Caddy",
             "url": "https://caddyserver.com/",
-            "description": "Powerful, enterprise-ready, open source web server with automatic HTTPS. ( Source Code ) Apache-2.0 Go/deb/Docker",
+            "description": "Powerful, enterprise-ready web server with automatic HTTPS. ( Source Code ) Apache-2.0 Go/deb/Docker",
             "tags": []
           },
           {
@@ -53371,7 +53371,7 @@
           {
             "name": "go-doxy",
             "url": "https://github.com/yusing/godoxy",
-            "description": "Lightweight, simple, and  performant reverse proxy with WebUI, Docker integration, automatic shutdown/startup for container based on traffic. MIT Docker/Go",
+            "description": "Lightweight, simple, and performant reverse proxy with WebUI, Docker integration, automatic shutdown/startup for container based on traffic. MIT Docker/Go",
             "tags": []
           },
           {
@@ -53407,7 +53407,7 @@
           {
             "name": "Pomerium",
             "url": "https://www.pomerium.io",
-            "description": "Identity-aware reverse proxy, successor to now obsolete oauth_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet. ( Source Code ) Apache-2.0 Go/Docker",
+            "description": "Identity-aware reverse proxy, successor to now obsolete oauth_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your own websites to public Internet. ( Source Code ) Apache-2.0 Go/Docker",
             "tags": []
           },
           {
@@ -53496,7 +53496,7 @@
           {
             "name": "Feather Wiki",
             "url": "https://feather.wiki",
-            "description": "A lightning fast and infinitely extensible tool for creating personal non-linear notebooks, databases, and wikis that is entirely self-contained, runs in your browser, and is only 58 kilobytes in size. ( Demo , Source Code , Clients ) AGPL-3.0 Javascript",
+            "description": "Lightning fast and infinitely extensible tool for creating personal non-linear notebooks, databases, and wikis that is entirely self-contained, runs in your browser, and is only 58 kilobytes in size. ( Demo , Source Code , Clients ) AGPL-3.0 Javascript",
             "tags": []
           },
           {
@@ -53508,7 +53508,7 @@
           {
             "name": "LeafWiki",
             "url": "https://github.com/perber/leafwiki",
-            "description": "A fast wiki for people who think in folders, not feeds. Fast editing. Tree navigation. Markdown on disk. ( Demo ) MIT Docker/Go",
+            "description": "Fast wiki for people who think in folders, not feeds. Fast editing. Tree navigation. Markdown on disk. ( Demo ) MIT Docker/Go",
             "tags": []
           },
           {
@@ -53556,13 +53556,13 @@
           {
             "name": "WackoWiki",
             "url": "https://wackowiki.org/",
-            "description": "WackoWiki is a light and easy to install multilingual Wiki-engine. ( Source Code ) BSD-3-Clause PHP",
+            "description": "Light and easy to install multilingual Wiki-engine. ( Source Code ) BSD-3-Clause PHP",
             "tags": []
           },
           {
             "name": "Wiki-Go",
             "url": "https://leomoon.com/downloads/web-apps/wiki-go/",
-            "description": "A modern, feature-rich, databaseless flat-file wiki platform. ( Demo , Source Code ) GPL-3.0 Go/Docker",
+            "description": "Modern, feature-rich, databaseless flat-file wiki platform. ( Demo , Source Code ) GPL-3.0 Go/Docker",
             "tags": []
           },
           {
@@ -53574,7 +53574,7 @@
           {
             "name": "WikiDocs",
             "url": "https://www.wikidocs.app/",
-            "description": "A databaseless markdown flat-file wiki engine. ( Source Code ) MIT PHP/Docker",
+            "description": "Databaseless markdown flat-file wiki engine. ( Source Code ) MIT PHP/Docker",
             "tags": []
           },
           {
@@ -56620,6 +56620,12 @@
             "tags": []
           },
           {
+            "name": "NeatEditor",
+            "url": "https://github.com/NeatMacApps/NeatEditor",
+            "description": "Fast, native macOS plain-text editor for distraction-free writing.",
+            "tags": []
+          },
+          {
             "name": "Nova",
             "url": "https://nova.app/",
             "description": "The beautiful, fast, flexible, native Mac code editor from Panic.",
@@ -57697,6 +57703,12 @@
             "tags": []
           },
           {
+            "name": "Wavefunction",
+            "url": "https://www.wavefunction.si",
+            "description": "Open-source desktop coding agent that runs parallel chats on local models, your own API keys, or a ChatGPT sign-in.",
+            "tags": []
+          },
+          {
             "name": "Windsurf",
             "url": "https://windsurf.com/",
             "description": "The first agentic IDE where developers and AI flow together for a magical coding experience.",
@@ -58101,6 +58113,12 @@
             "name": "Solarized",
             "url": "https://ethanschoonover.com/solarized",
             "description": "Clean and beautiful color theme. Works well with iTerm, JetBrains products, Vim etc.",
+            "tags": []
+          },
+          {
+            "name": "SpawnSweep",
+            "url": "https://github.com/samirmaikap/spawnsweep",
+            "description": "Menu bar app that shows the dev servers, simulators and build data AI coding agents leave running, and cleans up with a preview first.",
             "tags": []
           },
           {
@@ -60268,6 +60286,12 @@
             "tags": []
           },
           {
+            "name": "Corral",
+            "url": "https://github.com/corral-dev/corral-apple",
+            "description": "Native macOS and iPhone client to follow and reply to Claude Code, Codex, OpenCode, and Cursor sessions with split panes.",
+            "tags": []
+          },
+          {
             "name": "Cove",
             "url": "https://huyanxius.github.io/Cove/",
             "description": "Open-source native composer, session sidebar and diff viewer for Claude Code and Codex, currently available as an Apple Silicon preview.",
@@ -61055,6 +61079,12 @@
             "tags": []
           },
           {
+            "name": "Hertzwise",
+            "url": "https://zeetabit.github.io/Hertzwise/",
+            "description": "Menu bar app that switches the DAC's sample rate to match each Apple Music or Tidal track, so lossless plays bit-perfect, with a per-device AutoEq headphone EQ.",
+            "tags": []
+          },
+          {
             "name": "Hongguo Drama",
             "url": "https://github.com/jackotom/hongguo-drama",
             "description": "Unofficial player and downloader for Chinese short dramas from Hongguo, Xifan, and Hema, for Apple Silicon and Intel Macs.",
@@ -61130,6 +61160,12 @@
             "name": "Lyrimuse",
             "url": "https://github.com/Yudaotor/lyrimuse",
             "description": "Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser.",
+            "tags": []
+          },
+          {
+            "name": "Mac TV",
+            "url": "https://arunprakaash.github.io/mac-tv/",
+            "description": "Open-source Apple TV-style home screen for streaming apps, with a phone remote and a local movie player.",
             "tags": []
           },
           {
@@ -62781,6 +62817,12 @@
             "tags": []
           },
           {
+            "name": "NeatPaste",
+            "url": "https://github.com/NeatMacApps/NeatPaste",
+            "description": "Clean, lightweight native clipboard manager for macOS.",
+            "tags": []
+          },
+          {
             "name": "Nimclip",
             "url": "https://hukdoesn.github.io/Nimclip/",
             "description": "Local-first clipboard history manager with search, tags, and image support.",
@@ -62900,6 +62942,12 @@
             "tags": []
           },
           {
+            "name": "HandySwitch",
+            "url": "https://github.com/x0c/HandySwitch",
+            "description": "Lightweight menu bar toggles for dark mode, prevent sleep, and scroll direction.",
+            "tags": []
+          },
+          {
             "name": "Konverter",
             "url": "https://github.com/davidpraznik/Konverter",
             "description": "Menu bar file converter and image compressor operated by dragging files onto a radial wheel.",
@@ -62909,6 +62957,12 @@
             "name": "Kumquat",
             "url": "https://github.com/TheAlexRay/kumquat",
             "description": "Menu bar file converter: drag files, tap Shift and drop them on a wheel to convert images, audio, video and documents, compress, OCR, trim and annotate.",
+            "tags": []
+          },
+          {
+            "name": "MacResourceMonitor",
+            "url": "https://github.com/x0c/MacResourceMonitor",
+            "description": "Menu bar CPU monitor to see which process is eating CPU and terminate it directly.",
             "tags": []
           },
           {
@@ -63335,6 +63389,12 @@
             "name": "Tactile",
             "url": "https://tactile.masn.studio/",
             "description": "Adds subtle trackpad haptic taps over clickable elements, with optional visual cues for accessibility.",
+            "tags": []
+          },
+          {
+            "name": "Tarn",
+            "url": "https://github.com/jakeantelis/Tarn",
+            "description": "A calm menu bar app for focused work rounds and slow breathing, with optional ambient sounds.",
             "tags": []
           },
           {
@@ -67549,6 +67609,12 @@
             "tags": []
           },
           {
+            "name": "RafaelGoulartB/Heronite",
+            "url": "https://github.com/RafaelGoulartB/Heronite",
+            "description": "A native game launcher for Linux and Windows built with GPUI: Steam, Epic Games, GOG, Amazon Games, emulators and more in one library, with play time stats and a console mode",
+            "tags": []
+          },
+          {
             "name": "rhex",
             "url": "https://github.com/dpc/rhex",
             "description": "hexagonal ascii roguelike",
@@ -70092,6 +70158,12 @@
             "tags": []
           },
           {
+            "name": "mlm-games/Miniter",
+            "url": "https://github.com/mlm-games/Miniter",
+            "description": "Non-linear video editor (trim, join, masks, keyframes, export) for Linux, Android and web, with the backend crates being usable from crates.io",
+            "tags": []
+          },
+          {
             "name": "open-subs/opensubs",
             "url": "https://github.com/open-subs/opensubs",
             "description": "Subtitle generator that runs in the browser: on-device Whisper transcription, with a Rust engine compiled to WebAssembly for subtitle segmentation, line breaking and styling",
@@ -70558,12 +70630,6 @@
             "name": "FerrLabs/LFSX",
             "url": "https://github.com/FerrLabs/LFSX",
             "description": "[ lfsx-server ] - Self-hosted Git LFS server that deduplicates objects across repositories, compresses and optionally encrypts them at rest, supports file locking, and delegates permissions to GitHub, GitLab, Gitea or Forgejo",
-            "tags": []
-          },
-          {
-            "name": "firelock-ai/kin",
-            "url": "https://github.com/firelock-ai/kin",
-            "description": "A graph-native code repository for people and AI agents. Kin helps you and your AI agents understand what a code change might affect before you make it.",
             "tags": []
           },
           {
@@ -74553,6 +74619,12 @@
             "tags": []
           },
           {
+            "name": "TA-Lib/ta-lib",
+            "url": "https://github.com/TA-Lib/ta-lib",
+            "description": "[ ta-lib ] - Technical analysis library in pure Rust: 200+ functions, including candlestick patterns, with batch and streaming APIs",
+            "tags": []
+          },
+          {
             "name": "wickra-lib/wickra",
             "url": "https://github.com/wickra-lib/wickra",
             "description": "[ wickra ] - Streaming-first technical analysis: 514 indicators with O(1) per-tick updates, from a Rust core with native Python, Node.js and WASM bindings plus a C ABI hub for C, C++, C#, Go, Java and R.",
@@ -74930,6 +75002,12 @@
             "name": "makepad/makepad",
             "url": "https://github.com/makepad/makepad",
             "description": "[ makepad-widgets ] - Makepad is a creative software development platform that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl.",
+            "tags": []
+          },
+          {
+            "name": "mlm-games/repose",
+            "url": "https://github.com/mlm-games/repose",
+            "description": "[ repose-core ] - Jetpack Compose-style declarative UI for desktop, Android and web (wgpu-rendered, no WebView)",
             "tags": []
           },
           {
@@ -77979,7 +78057,7 @@
           },
           {
             "name": "prophet",
-            "url": "https://github.com/facebook/prophet",
+            "url": "https://github.com/meta/prophet",
             "description": "A tool for producing forecasts for time series with multiple seasonality and trend changes.",
             "tags": []
           },
@@ -79446,7 +79524,7 @@
           },
           {
             "name": "pyrefly",
-            "url": "https://github.com/facebook/pyrefly",
+            "url": "https://github.com/meta/pyrefly",
             "description": "A fast type checker and language server for Python.",
             "tags": []
           }
