@@ -54141,6 +54141,12 @@
             "tags": []
           },
           {
+            "name": "nginx-lua",
+            "url": "https://github.com/fabiocicerchia/nginx-lua",
+            "description": "Latest Nginx with LuaJIT on six base distros (Alma, Alpine, Amazon, Debian, Fedora, Ubuntu).",
+            "tags": []
+          },
+          {
             "name": "pglayers",
             "url": "https://github.com/pglayers/pglayers",
             "description": "Pre-built PostgreSQL extensions as composable Docker layers. 50+ extensions, ready-to-use combined images (full, Azure-compatible).",
@@ -55015,6 +55021,12 @@
             "tags": []
           },
           {
+            "name": "groundcover",
+            "url": "https://www.groundcover.com/",
+            "description": ":yen: Monitor Docker containers via an eBPF host sensor \u2014 logs, metrics, traces, and APM, deployed inside the user's own cloud (BYOC).",
+            "tags": []
+          },
+          {
             "name": "InfraCanvas",
             "url": "https://github.com/bytestrix/InfraCanvas",
             "description": "Live visual map of containers, pods, volumes, and networks on any Linux server. Single binary, WebSocket-powered live updates.",
@@ -55024,6 +55036,12 @@
             "name": "Maintenant",
             "url": "https://github.com/kolapsis/maintenant",
             "description": "Self-discovering infrastructure monitoring for Docker and Kubernetes. Auto-detects containers via labels, with endpoint monitoring, heartbeats, TLS certificates, resource metrics, update intelligence, and a built-in status page. Single binary with embedded SPA.",
+            "tags": []
+          },
+          {
+            "name": "metriclens",
+            "url": "https://github.com/tyshkovskii/metriclens",
+            "description": "Auto-discovers Prometheus metrics endpoints across Docker Compose services and visualizes them in a local web UI.",
             "tags": []
           },
           {
@@ -55947,6 +55965,12 @@
             "name": "Docker simplified in 55 seconds",
             "url": "https://www.youtube.com/watch?v=vP_4DlOH1G4",
             "description": ": An animated high-level introduction to Docker. Think of it as a visual tl;dr that makes it easier to dive into more complex learning materials.",
+            "tags": []
+          },
+          {
+            "name": "Docker Terminal Simulator",
+            "url": "https://devops-daily.com/games/docker-terminal-simulator",
+            "description": ": Guided Docker lessons in a simulated terminal in the browser. Free and open source, no signup.",
             "tags": []
           },
           {
@@ -57544,6 +57568,12 @@
             "name": "CodeRunner",
             "url": "https://coderunnerapp.com",
             "description": "Lightweight, multi-language programming text editor and IDE.",
+            "tags": []
+          },
+          {
+            "name": "Coincide",
+            "url": "https://coincide.dev",
+            "description": "Open-source native workspace for coding agents (Claude Code, Codex, Cursor, Grok Build, OpenCode, Antigravity), where one thread can switch agents mid-conversation.",
             "tags": []
           },
           {
@@ -59701,6 +59731,12 @@
             "tags": []
           },
           {
+            "name": "Shutterbar",
+            "url": "https://github.com/mucahitimre/Shutterbar",
+            "description": "ShareX-style screenshots with \u2318C-to-clipboard, after-capture tasks, last-region recapture and scrolling capture.",
+            "tags": []
+          },
+          {
             "name": "Sitch",
             "url": "https://phalladar.github.io/Sitch/",
             "description": "Skitch-style screenshot annotation with tapered arrows, blur, and pixelate, fully offline.",
@@ -60044,6 +60080,12 @@
             "name": "Jutsu Studio",
             "url": "https://jutsustudio.com/",
             "description": "Open-source, unofficial Higgsfield client for creating AI videos and images with Seedance, Kling and Genjutsu, with every result kept on your disk.",
+            "tags": []
+          },
+          {
+            "name": "LumaView",
+            "url": "https://ixiehao.github.io/LumaView/en/",
+            "description": "Minimal native image viewer for browsing folders, inspecting EXIF metadata, and reading multipage PDFs.",
             "tags": []
           },
           {
@@ -61343,6 +61385,12 @@
             "tags": []
           },
           {
+            "name": "ShotMap",
+            "url": "https://ixiehao.github.io/ShotMap/",
+            "description": "Turn videos into storyboard images with smart frame selection, manual refinement, and local PNG/JPG export.",
+            "tags": []
+          },
+          {
             "name": "Sonar",
             "url": "https://github.com/can4hou6joeng4/Sonar",
             "description": "Native music player with synchronized lyrics and menu bar and notch playback controls.",
@@ -61513,6 +61561,12 @@
             "name": "GarageBand",
             "url": "https://www.apple.com/mac/garageband/",
             "description": "Digital audio workstation for recording and music production.",
+            "tags": []
+          },
+          {
+            "name": "jdsp4mac",
+            "url": "https://github.com/Tekkiech/jdsp4mac",
+            "description": "Menu bar app that runs JamesDSP audio effects, including EQ, AutoEQ, convolver, crossfeed and ViPER-DDC, on all system audio.",
             "tags": []
           },
           {
@@ -63673,6 +63727,12 @@
             "tags": []
           },
           {
+            "name": "ShinyMac",
+            "url": "https://github.com/pballada/shinyMac",
+            "description": "Open-source SwiftUI Mac cleaner with one-scan Smart Care, an app uninstaller that finds leftovers, Xcode cleanup, a Space Lens disk map and hidden settings.",
+            "tags": []
+          },
+          {
             "name": "SpaceMap",
             "url": "https://github.com/renkagod/spacemap",
             "description": "Disk usage analyzer that draws your disk as a nested treemap you can zoom into, filling in live while the scan runs.",
@@ -65437,6 +65497,12 @@
             "name": "NitroShare",
             "url": "https://nitroshare.net/",
             "description": "Cross-platform network file transfer utility.",
+            "tags": []
+          },
+          {
+            "name": "NTFSTool",
+            "url": "https://ntfstool.com",
+            "description": "Free, open-source NTFS read and write for Mac, with no kernel extension.",
             "tags": []
           },
           {
@@ -67956,6 +68022,12 @@
             "url": "https://github.com/codecoradev/uteke",
             "description": "Offline-first semantic memory engine for AI agents. Single binary, zero dependencies, MCP-native.",
             "tags": []
+          },
+          {
+            "name": "vayungodara/cliproxy-rs",
+            "url": "https://github.com/vayungodara/cliproxy-rs",
+            "description": "Local proxy that puts DeepSeek, GLM, Kimi, OpenRouter and other OpenAI-compatible providers behind one endpoint for Codex CLI and Claude Code, translating between the Responses, Chat Completions and Anthropic Messages APIs, with failover across keys. A Rust port of CLIProxyAPI.",
+            "tags": []
           }
         ]
       },
@@ -68862,6 +68934,12 @@
             "tags": []
           },
           {
+            "name": "harababurel/faro",
+            "url": "https://github.com/harababurel/faro",
+            "description": "A terminal client for Signal, built for SSH and tmux.",
+            "tags": []
+          },
+          {
             "name": "tgt",
             "url": "https://github.com/FedericoBruzzone/tgt",
             "description": "A crossplatform TUI for Telegram",
@@ -69290,6 +69368,12 @@
             "name": "nwiizo/tfocus",
             "url": "https://github.com/nwiizo/tfocus",
             "description": "Interactive tool for selecting and executing Terraform plan/apply operations",
+            "tags": []
+          },
+          {
+            "name": "o2sh/onefetch",
+            "url": "https://github.com/o2sh/onefetch",
+            "description": "[ onefetch ] - Command-line Git information tool",
             "tags": []
           },
           {
@@ -70027,12 +70111,6 @@
             "tags": []
           },
           {
-            "name": "sundegan/JsonStudio",
-            "url": "https://github.com/sundegan/JsonStudio",
-            "description": "Local-first desktop JSON workspace built with Rust and Tauri for formatting, editing, diffing, converting, validating, and log extraction.",
-            "tags": []
-          },
-          {
             "name": "Tabiew",
             "url": "https://github.com/shshemi/tabiew",
             "description": "A lightweight TUI app to view and query CSV files.",
@@ -70179,12 +70257,6 @@
             "name": "storytold/effectcraft",
             "url": "https://github.com/storytold/effectcraft",
             "description": "An open-source, clean-room reimplementation of Adobe After Effects for motion graphics and visual effects, built in pure Rust.",
-            "tags": []
-          },
-          {
-            "name": "tonhowtf/omniget",
-            "url": "https://github.com/tonhowtf/omniget",
-            "description": "A desktop app to download videos, courses, music and books from 1,800+ sites, with a built-in player, reader and study library.",
             "tags": []
           },
           {
