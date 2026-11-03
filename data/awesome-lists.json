@@ -57804,6 +57804,12 @@
             "tags": []
           },
           {
+            "name": "Breaker",
+            "url": "https://github.com/wata/Breaker",
+            "description": "Watches the launchd jobs, cron jobs, Folder Actions, and SwiftBar plugins you set up yourself and notifies you when one breaks.",
+            "tags": []
+          },
+          {
             "name": "Cacher",
             "url": "https://www.cacher.io/",
             "description": "Cloud-based code snippet manager with Gist sync and multi-platform support.",
@@ -58053,6 +58059,12 @@
             "name": "Medio",
             "url": "https://github.com/nuance-dev/medio",
             "description": "A native, lightweight text diff tool with a clean UI and real-time highlighting.",
+            "tags": []
+          },
+          {
+            "name": "mirroir-mcp",
+            "url": "https://mirroir.dev",
+            "description": "Open-source MCP server and CLI that lets AI agents see, tap, swipe and type on a real iPhone through iPhone Mirroring, without Developer Mode or Xcode.",
             "tags": []
           },
           {
@@ -61265,6 +61277,12 @@
             "tags": []
           },
           {
+            "name": "MP4Flow",
+            "url": "https://ixiehao.github.io/MP4Flow/en/",
+            "description": "Native FFmpeg front end for batch video-to-MP4 conversion, trimming, cropping, rotating, and merging.",
+            "tags": []
+          },
+          {
             "name": "mpv",
             "url": "https://www.mpv.io/",
             "description": "Free, open-source, and cross-platform media player.",
@@ -61561,6 +61579,12 @@
             "name": "CapSoftware",
             "url": "https://github.com/CapSoftware/",
             "description": "An open-source alternative to Loom. Beautiful, shareable screen recording tool.",
+            "tags": []
+          },
+          {
+            "name": "Carbon",
+            "url": "https://carbon.alexandrejoly.me",
+            "description": "Menu bar app that transcribes meetings on device and saves each one as a Markdown file, with no bot and no cloud.",
             "tags": []
           },
           {
@@ -62948,6 +62972,12 @@
             "tags": []
           },
           {
+            "name": "AI Footprint",
+            "url": "https://stanczykwyatt.github.io/ai-footprint/",
+            "description": "Read-only menu bar app that shows the disk space, background processes, MCP servers and login items AI coding tools leave on your Mac, with a receipt for every update.",
+            "tags": []
+          },
+          {
             "name": "AI Meter",
             "url": "https://github.com/getguruhat/ai-meter",
             "description": "Shows your remaining Claude Code or Codex usage and reset time in the menu bar.",
@@ -63268,7 +63298,7 @@
           {
             "name": "MenuBarMijia",
             "url": "https://github.com/jryang1997/MenuBarMijia",
-            "description": "Control Xiaomi Mi Home devices from the menu bar by voice or keyboard, via Mi Cloud QR login or Home Assistant (macOS 26+).",
+            "description": "Control Xiaomi Mi Home devices from the menu bar by voice or keyboard, via Mi Cloud QR login or Home Assistant (macOS 14+).",
             "tags": []
           },
           {
@@ -63521,6 +63551,12 @@
             "name": "Vorssaint",
             "url": "https://vorssaint.com",
             "description": "Open-source menu bar toolkit for per-app volume, system monitoring, window control, clipboard history, keeping awake, and app cleanup.",
+            "tags": []
+          },
+          {
+            "name": "Vortex",
+            "url": "https://vortex-notch.web.app",
+            "description": "MacBook notch app with a focus timer, clipboard history, a file shelf that catches new builds, screen-to-task capture with OCR, and keys Claude Code can use without seeing them.",
             "tags": []
           },
           {
@@ -64964,6 +65000,12 @@
             "tags": []
           },
           {
+            "name": "Switch",
+            "url": "https://switch-dev.sanyamgarg.com",
+            "description": "Keyboard window switcher that lists every open window across Spaces and filters as you type.",
+            "tags": []
+          },
+          {
             "name": "Tiles",
             "url": "https://freemacsoft.net/tiles/",
             "description": "Snap and rearrange windows with screen edges, shortcuts, or the menu bar.",
@@ -65605,6 +65647,12 @@
             "name": "Time Machine Inspector",
             "url": "https://github.com/probablykasper/time-machine-inspector",
             "description": "Find out what's hogging up your Time Machine backups.",
+            "tags": []
+          },
+          {
+            "name": "TimeMachineEjector",
+            "url": "https://github.com/wata/TimeMachineEjector",
+            "description": "Menu bar app that ejects your Time Machine backup disk when a backup finishes and mounts it again when a scheduled backup is due.",
             "tags": []
           },
           {
