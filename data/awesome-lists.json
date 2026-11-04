@@ -14923,12 +14923,6 @@
             "tags": []
           },
           {
-            "name": "matrix",
-            "url": "https://github.com/Arceus-7/matrix",
-            "description": "A clean, generic, zero-dependency matrix math package for Go with support for arithmetic, decompositions, and linear system solving.",
-            "tags": []
-          },
-          {
             "name": "ode",
             "url": "https://github.com/ChristopherRabotin/ode",
             "description": "Ordinary differential equation (ODE) solver which supports extended states and channel-based iteration stop conditions.",
@@ -20882,12 +20876,6 @@
             "name": "decompose",
             "url": "https://github.com/s0rg/decompose",
             "description": "tool to generate and process Docker containers connections graphs.",
-            "tags": []
-          },
-          {
-            "name": "Den",
-            "url": "https://github.com/us/den",
-            "description": "Self-hosted sandbox runtime for AI agents. Open-source E2B alternative.",
             "tags": []
           },
           {
@@ -43647,6 +43635,12 @@
             "tags": []
           },
           {
+            "name": "Devtoolry",
+            "url": "https://devtoolry.com/compilers/cpp",
+            "description": "An online C/C++ compiler that runs Clang in the browser via WebAssembly.",
+            "tags": []
+          },
+          {
             "name": "Ideone",
             "url": "https://ideone.com/",
             "description": "An online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.",
@@ -59224,6 +59218,12 @@
             "tags": []
           },
           {
+            "name": "SSHTermaq",
+            "url": "https://f1resh.github.io/sshtermaq/",
+            "description": "PuTTY-compatible SSH, Telnet and serial terminal with tabs, split panes, an SFTP/SCP file manager and one-click PuTTY session import.",
+            "tags": []
+          },
+          {
             "name": "Tabby (formerly Terminus)",
             "url": "https://github.com/Eugeny/tabby",
             "description": "Free terminal tool, built with TypeScript, heavily inspired by Hyper.",
@@ -60562,6 +60562,12 @@
             "tags": []
           },
           {
+            "name": "Murmury",
+            "url": "https://github.com/GianlucaBave/murmury",
+            "description": "Floating window that answers questions from your own documents during video calls, hidden from screen sharing, with on-device speech recognition.",
+            "tags": []
+          },
+          {
             "name": "Octuo",
             "url": "https://www.tutuo.ai/en/octuo/",
             "description": "Personal assistant for work across AI, tools and specialist services that coordinates connected, authorized tools and accounts, tracks progress and gathers results around your goal.",
@@ -61645,6 +61651,12 @@
             "name": "SystemEQ for Mac",
             "url": "https://denzam.github.io/SystemEQ-for-Mac/",
             "description": "Free, open-source system-wide parametric equalizer with AutoEQ presets, hearing calibration, and real-time visualization.",
+            "tags": []
+          },
+          {
+            "name": "Tingo",
+            "url": "https://github.com/tancheng33/tingo",
+            "description": "Open-source meeting notes app that records any call, transcribes it and tells speakers apart on device, and writes minutes whose every point links back to the original audio, using the LLM you choose.",
             "tags": []
           },
           {
@@ -63778,6 +63790,12 @@
             "name": "Qingo",
             "url": "https://github.com/chenmozhe008/qingo",
             "description": "Cache cleaner that recognizes 60+ video, design and AI tools (CapCut, DaVinci Resolve, Adobe apps, Cursor, Claude Code and more), clears only caches that rebuild automatically, and moves them to the Trash with undo, leaving projects and conversations untouched (Chinese UI).",
+            "tags": []
+          },
+          {
+            "name": "RefreshYourMac",
+            "url": "https://refreshyourmac.com/",
+            "description": "Mac cleaner that rates every category Safe to Remove, Review, Move to Backup or Protected, and shows what left it behind before anything is deleted.",
             "tags": []
           },
           {
@@ -66293,7 +66311,7 @@
           {
             "name": "OxideTerm",
             "url": "https://github.com/AnalyseDeCircuit/oxideterm",
-            "description": "A cross-platform SSH terminal client and local terminal emulator built with Tauri 2.0 and pure-Rust SSH (russh). Features multiplexed connections, SFTP file manager, built-in IDE (CodeMirror 6), port forwarding (-L/-R/-D), Grace Period auto-reconnect, plugin system, AI assistant, encrypted export (.oxide), and 11 languages.",
+            "description": "A GPU-rendered SSH client and terminal app for Windows, macOS, and Linux, built with Rust and GPUI. Supports local shells, SSH, Mosh, Telnet, serial connections, RDP and VNC. Includes SFTP, port forwarding, a built-in remote editor and an optional AI assistant. The interface is available in 11 languages.",
             "tags": []
           },
           {
@@ -68092,7 +68110,7 @@
           {
             "name": "vayungodara/cliproxy-rs",
             "url": "https://github.com/vayungodara/cliproxy-rs",
-            "description": "Local proxy that puts DeepSeek, GLM, Kimi, OpenRouter and other OpenAI-compatible providers behind one endpoint for Codex CLI and Claude Code, translating between the Responses, Chat Completions and Anthropic Messages APIs, with failover across keys. A Rust port of CLIProxyAPI.",
+            "description": "[ cliproxy ] - Local proxy that puts DeepSeek, GLM, Kimi, OpenRouter and other OpenAI-compatible providers behind one endpoint for Codex CLI and Claude Code, translating between the Responses, Chat Completions and Anthropic Messages APIs, with failover across keys. A Rust port of CLIProxyAPI.",
             "tags": []
           }
         ]
@@ -68436,6 +68454,12 @@
             "name": "futuregene/future-os",
             "url": "https://github.com/futuregene/future-os",
             "description": "One AI agent everywhere: a single Rust gRPC backend drives a terminal UI, desktop app, mobile apps, CLI, and IM bots with the same sessions, memory, and skills. Trust-first approval-gated tools, 3,800+ models, and a loop control plane for 24h+ runs.",
+            "tags": []
+          },
+          {
+            "name": "gal064/muxflow",
+            "url": "https://github.com/gal064/muxflow",
+            "description": "Remote-first tmux IDE for coding agents (Claude Code, Codex, pi), with sessions that stay in tmux on local or SSH hosts, agent notifications on desktop and Android, screenshot paste over SSH, and files, Git and ports panels",
             "tags": []
           },
           {
@@ -69756,6 +69780,12 @@
             "name": "SoloMD",
             "url": "https://github.com/zhitongblog/solomd",
             "description": "A lightweight, cross-platform Markdown editor with live preview, built with Tauri 2.",
+            "tags": []
+          },
+          {
+            "name": "sventmueller/splat",
+            "url": "https://github.com/sventmueller/splat",
+            "description": "An ultrafast native Markdown editor for macOS on AppKit, no Electron. Edits in the preview leave untouched lines byte-for-byte identical, so Git diffs stay clean. LaTeX and Mermaid offline, 35 languages.",
             "tags": []
           },
           {
@@ -75564,6 +75594,12 @@
             "name": "candrew/netsim",
             "url": "https://github.com/canndrew/netsim",
             "description": "A library for network simulation and testing",
+            "tags": []
+          },
+          {
+            "name": "yanet-platform/netip",
+            "url": "https://github.com/yanet-platform/netip",
+            "description": "[ netip ] - Fast IPv4/IPv6 network set operations supporting arbitrary masks, with zero dependencies and no allocator.",
             "tags": []
           },
           {
