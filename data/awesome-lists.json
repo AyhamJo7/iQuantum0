@@ -64377,6 +64377,12 @@
             "tags": []
           },
           {
+            "name": "Ferrocast",
+            "url": "https://ferrocast.app",
+            "description": "Fast keyboard launcher written in Rust, with clipboard history, snippets, window management and 275 local file conversions.",
+            "tags": []
+          },
+          {
             "name": "Focalboard",
             "url": "https://www.focalboard.com/",
             "description": "Open source, self-hosted alternative to Trello, Notion, and Asana.",
@@ -64889,6 +64895,12 @@
             "name": "Loop",
             "url": "https://github.com/MrKai77/Loop",
             "description": "Window management made elegant. Freeware",
+            "tags": []
+          },
+          {
+            "name": "LumaRing",
+            "url": "https://github.com/potatoQi/LumaRing",
+            "description": "Radial menu for switching apps, windows, and browser tabs.",
             "tags": []
           },
           {
