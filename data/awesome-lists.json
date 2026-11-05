@@ -57215,6 +57215,12 @@
             "tags": []
           },
           {
+            "name": "Drifting",
+            "url": "https://drifting.cc/",
+            "description": "Open-source, local-first novel writing app with chapters, outline, characters and storylines, and an AI agent that can read and edit the whole project.",
+            "tags": []
+          },
+          {
             "name": "Retrotype",
             "url": "https://retrotype.ink/",
             "description": "A fun and minimalist writing app that feels like a real typewriter.",
@@ -57485,6 +57491,12 @@
             "name": "PDF Reader Pro",
             "url": "https://www.pdfreaderpro.com",
             "description": "You Can view, create, sign, convert and compress any PDF documents.",
+            "tags": []
+          },
+          {
+            "name": "Saywing",
+            "url": "https://www.christopherboebel.com/en/saywing",
+            "description": "Open-source tool that reads selected screen regions aloud using local OCR and neural speech, with offline English and German dictation.",
             "tags": []
           },
           {
@@ -60059,6 +60071,12 @@
             "tags": []
           },
           {
+            "name": "Flipic",
+            "url": "https://github.com/xmasdong/flipic",
+            "description": "Photo culling viewer: arrow-key paging through a folder, 100% focus check, XMP ratings that Lightroom and Capture One read, on-device cleanup mode.",
+            "tags": []
+          },
+          {
             "name": "HEIC Converter",
             "url": "https://sindresorhus.com/heic-converter",
             "description": "Convert HEIC images to JPEG or PNG.",
@@ -62344,7 +62362,7 @@
         "resources": [
           {
             "name": "Leafy",
-            "url": "https://leafyapp.uk/",
+            "url": "https://getleafyapp.com/",
             "description": "Look up any word on screen with \u2325A, including in PDFs and images, and save it to a searchable local library.",
             "tags": []
           },
