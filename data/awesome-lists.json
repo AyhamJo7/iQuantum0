@@ -56022,6 +56022,12 @@
             "tags": []
           },
           {
+            "name": "prepare.sh Docker Course",
+            "url": "https://prepare.sh/course/docker-course",
+            "description": ":yen: Learn Docker in nine hands-on chapters that each run in a live Linux VM in the browser, from a first container to multi-stage builds, registries, volumes, networking, and image CVE scanning.",
+            "tags": []
+          },
+          {
             "name": "Setting Python Development Environment with VScode and Docker",
             "url": "https://github.com/RamiKrispin/vscode-python",
             "description": ": A step-by-step tutorial for setting up a dockerized Python development environment with VScode, Docker, and the Dev Container extension.",
@@ -56342,6 +56348,12 @@
             "name": "Lynis is an open source security auditing tool including Docker auditing",
             "url": "https://cisofy.com/lynis/",
             "description": "",
+            "tags": []
+          },
+          {
+            "name": "Privileged Containers Exercise",
+            "url": "https://ransomleak.com/exercises/privileged-containers/",
+            "description": "Escape a privileged Docker container to the host in the browser, then fix it with a non-root user, dropped capabilities, and a read-only rootfs.",
             "tags": []
           },
           {
