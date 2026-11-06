@@ -76796,6 +76796,12 @@
             "tags": []
           },
           {
+            "name": "lmux",
+            "url": "https://github.com/sooftware/lmux",
+            "description": "Lightweight terminal built on libghostty for running Claude Code and Codex sessions, with agent status in the sidebar.",
+            "tags": []
+          },
+          {
             "name": "SSHFire",
             "url": "https://github.com/aralozaltin/sshfire",
             "description": "Cross-platform SSH client with a terminal, a session manager and an SFTP browser that follows the current directory.",
@@ -77536,6 +77542,12 @@
             "tags": []
           },
           {
+            "name": "TinyRecorder",
+            "url": "https://www.tinyrecorder.app/en/",
+            "description": "Lightweight screen recorder for screens, windows, apps, system audio and a connected iPhone or iPad; a maintained fork of QuickRecorder.",
+            "tags": []
+          },
+          {
             "name": "Zappy",
             "url": "https://zapier.com/zappy",
             "description": "Zappy is a screenshot and screen recording app all in one. Has some simple editing tools built in.",
@@ -77634,6 +77646,12 @@
             "name": "Flipic",
             "url": "https://github.com/xmasdong/flipic",
             "description": "Photo culling viewer: arrow-key paging through a folder, 100% focus check, XMP ratings that Lightroom and Capture One read, on-device cleanup mode.",
+            "tags": []
+          },
+          {
+            "name": "Graphis",
+            "url": "https://github.com/Campfire7/graphis",
+            "description": "Open-source app that generates images from text with the MOSS-Image model, locally on Apple silicon.",
             "tags": []
           },
           {
@@ -79451,6 +79469,12 @@
         "name": "Input Methods",
         "resources": [
           {
+            "name": "AllInOneIME",
+            "url": "https://allinoneime.com",
+            "description": "Input method that adds AI commands such as @improve, @translate and @question to every text field, with built-in pinyin input.",
+            "tags": []
+          },
+          {
             "name": "Kawa",
             "url": "https://github.com/utatti/kawa",
             "description": "Better input source switcher for OS X.",
@@ -79939,8 +79963,14 @@
         "name": "Education",
         "resources": [
           {
+            "name": "Buddy",
+            "url": "https://github.com/projects-hacks/buddy",
+            "description": "Study helper in the notch that explains what is on your screen out loud while drawing on it.",
+            "tags": []
+          },
+          {
             "name": "Leafy",
-            "url": "https://getleafyapp.com/",
+            "url": "https://leafyapp.uk/",
             "description": "Look up any word on screen with \u2325A, including in PDFs and images, and save it to a searchable local library.",
             "tags": []
           },
@@ -80985,6 +81015,12 @@
             "name": "Notchly",
             "url": "https://notchly.xyz",
             "description": "Lightweight Dynamic Island for macOS with AI coding agent notifications.",
+            "tags": []
+          },
+          {
+            "name": "NVBeacon",
+            "url": "https://jaein4722.github.io/NVBeacon/",
+            "description": "Open-source menu bar app for monitoring remote NVIDIA GPU servers over SSH.",
             "tags": []
           },
           {
