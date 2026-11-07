@@ -40628,6 +40628,12 @@
         "name": "Industrial automation",
         "resources": [
           {
+            "name": "cerulion-inc/cerulion",
+            "url": "https://github.com/cerulion-inc/cerulion",
+            "description": "[ cerulion_cli ] - Robot runtime with zero-copy shared memory and a graph-aware scheduler. Records a run and re-executes supported native recordings against new code, with an exit code for CI.",
+            "tags": []
+          },
+          {
             "name": "dora-rs/dora",
             "url": "https://github.com/dora-rs/dora",
             "description": "[ dora-cli ] - A fast and simple dataflow-oriented framework for building robotic and multi-AI applications, with Python, Rust, and C/C++ APIs",
@@ -45082,6 +45088,12 @@
             "name": "TeaEntityLab/fpRust",
             "url": "https://github.com/TeaEntityLab/fpRust",
             "description": "Monad/MonadIO, Handler, Coroutine/doNotation, Functional Programming features for Rust",
+            "tags": []
+          },
+          {
+            "name": "tellus-rs/tellus",
+            "url": "https://github.com/tellus-rs/tellus",
+            "description": "[ tellus ] - Actors for Rust with synchronous handlers, ordered death watch, supervision, event sourcing and clustering",
             "tags": []
           },
           {
@@ -73189,6 +73201,12 @@
             "tags": []
           },
           {
+            "name": "Kept Notes",
+            "url": "https://keepitkept.xyz",
+            "description": "A notes app built for quick capture: text notes, checklists, images, drawings, links, attachments, labels, colors, and reminders (alternative to Google Keep). ( Source Code ) AGPL-3.0/MIT Nodejs/Docker",
+            "tags": []
+          },
+          {
             "name": "Listaway",
             "url": "https://github.com/jeffrpowell/listaway/",
             "description": "List management app for creating and publicly sharing lists of items. Supports auth, admin tools, item notes and priorities, and opt-in public read-only links with randomized URLs (alternative to Amazon Lists). ( Source Code ) MIT Docker",
@@ -79309,6 +79327,12 @@
             "tags": []
           },
           {
+            "name": "Convoy",
+            "url": "https://thedynamicpunk.github.io",
+            "description": "Open-source download manager with segmented downloads, browser integration, and HLS and DASH stream support.",
+            "tags": []
+          },
+          {
             "name": "Downie",
             "url": "https://software.charliemonroe.net/downie.php",
             "description": "Video downloader for macOS with support for YouTube and other 1200 sites.",
@@ -79710,6 +79734,12 @@
             "name": "Brave",
             "url": "https://brave.com/",
             "description": "Web browser with an emphasis on privacy and speed.",
+            "tags": []
+          },
+          {
+            "name": "camber",
+            "url": "https://www.yuvrajangadsingh.com/camber",
+            "description": "Open-source Arc-style browser on Chromium (Electron) with spaces, pinned tabs, folders, a command bar and Arc import.",
             "tags": []
           },
           {
@@ -82653,6 +82683,12 @@
             "name": "Snapback",
             "url": "https://snapbackapp.com",
             "description": "Save and restore entire window layouts with one keystroke.",
+            "tags": []
+          },
+          {
+            "name": "Stage Manager",
+            "url": "https://eugene-tea.github.io/stage-manager/",
+            "description": "Replacement for Apple's Stage Manager written in Rust, with stages that survive restart and Ctrl-Option-1..9 switching.",
             "tags": []
           },
           {
