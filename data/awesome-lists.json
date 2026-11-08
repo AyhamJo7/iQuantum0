@@ -74448,6 +74448,12 @@
             "tags": []
           },
           {
+            "name": "Quill",
+            "url": "https://quill.hridya.tech",
+            "description": "Markdown editor where Claude Code, Codex or Cursor edits your draft in place, and you keep or revert each change.",
+            "tags": []
+          },
+          {
             "name": "Scratch",
             "url": "https://www.ericli.io/scratch",
             "description": "Lightweight, offline-first markdown notes app with WYSIWYG editing and local AI agent support.",
