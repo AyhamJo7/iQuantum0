@@ -73177,12 +73177,6 @@
             "tags": []
           },
           {
-            "name": "Focus Flow",
-            "url": "https://github.com/francesco-gaglione/focus_flow_cloud",
-            "description": "Complete ecosystem for time management using the Pomodoro technique. MIT Docker/K8S",
-            "tags": []
-          },
-          {
             "name": "HamsterBase Tasks",
             "url": "https://tasks.hamsterbase.com",
             "description": "Tool to help organize ideas and build great things. Plan, organize, build and ship. ( Demo , Source Code ) AGPL-3.0 Docker",
@@ -74588,6 +74582,12 @@
             "name": "Knopo",
             "url": "https://github.com/alkalim/Knopo",
             "description": "Native macOS outliner for local-first notes stored as plain Markdown files.",
+            "tags": []
+          },
+          {
+            "name": "Knovum",
+            "url": "https://github.com/madebyzan/knovum",
+            "description": "Local-first 2D spatial AI knowledge space with embedded LanceDB vector search, infinite canvas, and on-device Whisper transcription.",
             "tags": []
           },
           {
