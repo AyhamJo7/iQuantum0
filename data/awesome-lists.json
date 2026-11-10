@@ -41071,6 +41071,12 @@
             "tags": []
           },
           {
+            "name": "glimpse-hq/Glimpse",
+            "url": "https://github.com/glimpse-hq/Glimpse",
+            "description": "Local voice dictation and meeting transcription for macOS and Windows, built with Tauri. Speech recognition and speaker labels run on your computer.",
+            "tags": []
+          },
+          {
             "name": "graves/awful_aj",
             "url": "https://github.com/graves/awful_aj",
             "description": "[ awful_aj ] - A CLI for working with OpenAI-compatible APIs, YAML templates for prompt engineering and a built in Vector Database for persistent memories.",
@@ -47776,7 +47782,7 @@
           },
           {
             "name": "IUP",
-            "url": "http://webserver2.tecgraf.puc-rio.br/iup/",
+            "url": "https://webserver2.tecgraf.puc-rio.br/iup/",
             "description": "",
             "tags": []
           },
@@ -76832,6 +76838,12 @@
             "tags": []
           },
           {
+            "name": "Cue",
+            "url": "https://cue.8starlabs.com",
+            "description": "IDE-style autocomplete for commands, options, Git branches, and files in zsh on Apple Terminal and VS Code\u2019s integrated terminal.",
+            "tags": []
+          },
+          {
             "name": "electerm",
             "url": "https://electerm.github.io/electerm/",
             "description": "Terminal, SSH, and SFTP client.",
@@ -77551,6 +77563,12 @@
             "name": "Monosnap",
             "url": "https://monosnap.com/",
             "description": "Make screenshots. Draw on it. Shoot video and share your files. It's fast, easy and free.",
+            "tags": []
+          },
+          {
+            "name": "Native Screen",
+            "url": "https://nativescreen.app/",
+            "description": "Open-source screen recorder and editor with a multi-track timeline, auto-zoom, and on-device captions.",
             "tags": []
           },
           {
@@ -79017,6 +79035,12 @@
             "tags": []
           },
           {
+            "name": "Nimbus",
+            "url": "https://github.com/Dearonski/Nimbus",
+            "description": "Native SoundCloud client with gapless playback, a drag-and-drop queue, Chromecast and a full-screen vinyl player.",
+            "tags": []
+          },
+          {
             "name": "NotchMuse",
             "url": "https://notchmuse.com/",
             "description": "Open-source synced lyrics for Spotify, Apple Music, NetEase Cloud Music, QQ Music and Soda Music in the menu bar, beside the notch, or above the Dock.",
@@ -79681,6 +79705,12 @@
             "name": "LocalScribe",
             "url": "https://github.com/maddylaneeee/ShengJi",
             "description": "Open-source local transcription and subtitle editor for microphones, media files, and Mac audio.",
+            "tags": []
+          },
+          {
+            "name": "Lowspeak",
+            "url": "https://github.com/sventmueller/lowspeak",
+            "description": "Native, ultrafast AI dictation written in Rust: hold fn to talk into any app in 35 languages, free online with your own Groq key or offline with Whisper and Parakeet.",
             "tags": []
           },
           {
@@ -80790,6 +80820,12 @@
             "tags": []
           },
           {
+            "name": "Claude Accounts",
+            "url": "https://github.com/jomonkj/claude-accounts",
+            "description": "Switches the Claude desktop app between your accounts with one click, without losing sessions.",
+            "tags": []
+          },
+          {
             "name": "CodexIsland",
             "url": "https://github.com/ericjypark/codex-island",
             "description": "Turns the MacBook notch into a Dynamic Island-style live activity for Claude Code and Codex CLI rate limits and spend, computed locally with no telemetry.",
@@ -81006,6 +81042,12 @@
             "tags": []
           },
           {
+            "name": "LogoLight",
+            "url": "https://logolight.app",
+            "description": "Menu bar app that turns off, dims, or animates the illuminated Apple logo on the MacBook Pro with PROLED XDR Display.",
+            "tags": []
+          },
+          {
             "name": "Lunavect",
             "url": "https://github.com/lovach/Lunavect",
             "description": "Menu bar app and desktop widgets showing which Claude Code or Codex session is working, waiting for input, or done, with usage limits and activity.",
@@ -81123,6 +81165,12 @@
             "name": "Notchly",
             "url": "https://notchly.xyz",
             "description": "Lightweight Dynamic Island for macOS with AI coding agent notifications.",
+            "tags": []
+          },
+          {
+            "name": "N\u00d8TH",
+            "url": "https://github.com/manugowda19/noth",
+            "description": "Turns the MacBook notch into live activities and a command center for music, files, clipboard, calendar, notes and tools.",
             "tags": []
           },
           {
@@ -83055,6 +83103,12 @@
             "tags": []
           },
           {
+            "name": "Dimmerly",
+            "url": "https://dimmerly.olujic.in.rs/",
+            "description": "Open-source menu bar app for per-display brightness, warmth, and contrast, with presets, schedules, and DDC/CI monitor control.",
+            "tags": []
+          },
+          {
             "name": "f.lux",
             "url": "https://justgetflux.com/",
             "description": "Makes the color of your computer's display adapt to the time of day.",
@@ -83225,6 +83279,12 @@
             "name": "FanPilot",
             "url": "https://github.com/zyvren/FanPilot",
             "description": "Fan control and temperature monitor for Apple Silicon Macs: menu bar temps, manual, max, Auto Boost rules or custom curves, with a fail-safe helper and a CLI.",
+            "tags": []
+          },
+          {
+            "name": "FixStat",
+            "url": "https://github.com/BurakFixLab/fixstat",
+            "description": "Menu bar monitor and diagnostics for Mac repair: per-model sensor names, battery cell data, SSD SMART including USB drives, panic history and guided hardware tests.",
             "tags": []
           },
           {
