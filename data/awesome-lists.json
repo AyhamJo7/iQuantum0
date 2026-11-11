@@ -77978,6 +77978,12 @@
             "tags": []
           },
           {
+            "name": "Airbag",
+            "url": "https://github.com/a1murt/airbag",
+            "description": "Open-source menu bar app that snapshots a project before each shell command an AI coding agent runs that can change files, so deleted files and a wiped .env can be restored in one click.",
+            "tags": []
+          },
+          {
             "name": "AppleAi",
             "url": "https://www.macbunny.co/appleai",
             "description": "Access multiple AI assistants from your menu bar with one shortcut.",
@@ -81837,6 +81843,12 @@
             "tags": []
           },
           {
+            "name": "LocalSR",
+            "url": "https://herrei.github.io/localsr/",
+            "description": "Open-source app for upscaling, denoising and restoring photos and videos with local AI models.",
+            "tags": []
+          },
+          {
             "name": "Lucid",
             "url": "https://lucid-wallpaper.vercel.app",
             "description": "Live 4K wallpapers with moving space, nature and ocean loops on every display, plus Apple Aerials.",
@@ -81888,6 +81900,12 @@
             "name": "OpenDisplay",
             "url": "https://opendisplay.app",
             "description": "Use a spare iPhone or iPad as a second display for your Mac, wired (USB) or over WiFi, with touch input.",
+            "tags": []
+          },
+          {
+            "name": "Pake",
+            "url": "https://pake.run/",
+            "description": "Turn any website into a lightweight desktop app with its own icon, window and Dock entry.",
             "tags": []
           },
           {
@@ -83309,6 +83327,12 @@
             "name": "ExtendFS",
             "url": "https://apps.kpchew.com/extendfs/",
             "description": "Read-only access to Linux ext2/3/4 in macOS Sequoia and later without a kernel extension.",
+            "tags": []
+          },
+          {
+            "name": "Fan Curve",
+            "url": "https://github.com/8thlyr/fan-curve",
+            "description": "Open-source fan curve controller for Apple Silicon Macs that sets fan speed from CPU temperature.",
             "tags": []
           },
           {
@@ -85200,6 +85224,12 @@
             "name": "cuda-api-wrappers",
             "url": "https://github.com/eyalroz/cuda-api-wrappers",
             "description": "Lightweight, Modern-C++ wrappers for the CUDA GPU programming runtime API. [BSD]",
+            "tags": []
+          },
+          {
+            "name": "cuda4cpu",
+            "url": "https://github.com/javier-cabezas/cuda4cpu",
+            "description": "Run CUDA and HIP programs on the CPU, unmodified, with GCC or Clang. [Apache2]",
             "tags": []
           },
           {
