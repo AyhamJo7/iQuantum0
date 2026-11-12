@@ -14202,7 +14202,13 @@
           {
             "name": "kingpin",
             "url": "https://github.com/alecthomas/kingpin",
-            "description": "Command line and flag parser supporting sub commands (superseded by kong ; see below).",
+            "description": "Command line and flag parser supporting sub commands (superseded by kong ).",
+            "tags": []
+          },
+          {
+            "name": "kong",
+            "url": "https://github.com/alecthomas/kong",
+            "description": "Command-line parser with support for arbitrarily complex command-line structures (successor to kingpin ).",
             "tags": []
           },
           {
@@ -14658,12 +14664,6 @@
             "name": "konfig",
             "url": "https://github.com/lalamove/konfig",
             "description": "Composable, observable and performant config handling for Go for the distributed processing era.",
-            "tags": []
-          },
-          {
-            "name": "kong",
-            "url": "https://github.com/alecthomas/kong",
-            "description": "Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to kingpin ).",
             "tags": []
           },
           {
@@ -15341,6 +15341,12 @@
             "name": "goset",
             "url": "https://github.com/zoumo/goset",
             "description": "A useful Set collection implementation for Go.",
+            "tags": []
+          },
+          {
+            "name": "readyset",
+            "url": "https://github.com/kastolars/readyset",
+            "description": "Generic sets, including sets of records identified by a key, with an opt-in thread-safe variant.",
             "tags": []
           },
           {
@@ -18010,6 +18016,12 @@
             "name": "gdu",
             "url": "https://github.com/dundee/gdu",
             "description": "Disk usage analyzer with console interface.",
+            "tags": []
+          },
+          {
+            "name": "go-cabinet",
+            "url": "https://github.com/abemedia/go-cabinet",
+            "description": "Read, write and extract Microsoft Cabinet (.cab) files, with MSZIP and LZX compression and io/fs support.",
             "tags": []
           },
           {
@@ -21047,6 +21059,12 @@
             "name": "broker",
             "url": "https://github.com/qvcloud/broker",
             "description": "Production-grade messaging abstraction with a unified API for various brokers and built-in OpenTelemetry integration.",
+            "tags": []
+          },
+          {
+            "name": "bus",
+            "url": "https://github.com/korableg/bus",
+            "description": "Kafka event bus framework with protobuf-typed producer and consumer groups, retries, batch handlers and automatic offset commits.",
             "tags": []
           },
           {
@@ -25387,6 +25405,12 @@
       {
         "name": "Mock",
         "resources": [
+          {
+            "name": "auth0-mock",
+            "url": "https://github.com/sergiught/auth0-mock",
+            "description": "Mock Auth0 server for tests and local development, with signed JWTs, OIDC login flows and the Management API.",
+            "tags": []
+          },
           {
             "name": "counterfeiter",
             "url": "https://github.com/maxbrunsfeld/counterfeiter",
@@ -40811,6 +40835,12 @@
             "tags": []
           },
           {
+            "name": "uptimepage/uptimepage",
+            "url": "https://github.com/uptimepage/uptimepage",
+            "description": "Uptime monitoring with public status pages and automatic incidents, with a REST API and a Terraform provider.",
+            "tags": []
+          },
+          {
             "name": "vectordotdev/vector",
             "url": "https://github.com/vectordotdev/vector",
             "description": "A High-Performance, Logs, Metrics, & Events Router.",
@@ -48220,6 +48250,12 @@
             "name": "hyperium/tonic",
             "url": "https://github.com/hyperium/tonic",
             "description": "A native gRPC client & server implementation with async/await support",
+            "tags": []
+          },
+          {
+            "name": "pygrpc/pygrpc-native",
+            "url": "https://github.com/pygrpc/pygrpc-native",
+            "description": "Drop-in grpcio server for Python that runs HTTP/2 and gRPC in Rust, outside the GIL",
             "tags": []
           },
           {
@@ -74719,7 +74755,7 @@
           {
             "name": "MiaoYan",
             "url": "https://miaoyan.app/",
-            "description": "Lightweight Markdown app to help you write great sentences.",
+            "description": "Native Markdown notes app that keeps notes as plain files in a folder you choose, with split preview, LaTeX, Mermaid and a presentation mode, also on iPhone and iPad.",
             "tags": []
           },
           {
@@ -74756,6 +74792,12 @@
             "name": "NotePlus",
             "url": "https://noteplus.com/",
             "description": "True Native Note and LLM Client",
+            "tags": []
+          },
+          {
+            "name": "Noteriv",
+            "url": "https://www.noteriv.com/",
+            "description": "Open-source Markdown note-taking app with wiki-links, graph view, plugins, Git/WebDAV sync and a built-in MCP server for AI assistants.",
             "tags": []
           },
           {
@@ -77441,6 +77483,12 @@
             "tags": []
           },
           {
+            "name": "Lumela",
+            "url": "https://github.com/tw4/lumela",
+            "description": "Cross-platform screenshot tool that blurs emails, card numbers, IPs and API keys with on-device OCR, then beautifies the shot.",
+            "tags": []
+          },
+          {
             "name": "macshot",
             "url": "https://github.com/sw33tlie/macshot",
             "description": "Screenshot and annotation tool with screen recording, scrolling capture, and OCR.",
@@ -77535,6 +77583,12 @@
       {
         "name": "Screen Recording",
         "resources": [
+          {
+            "name": "Back to Bug",
+            "url": "https://github.com/skarpovdev/backtobug",
+            "description": "Menu bar replay recorder that saves recent screen activity as video for bug reports.",
+            "tags": []
+          },
           {
             "name": "BetterCapture",
             "url": "https://jsattler.github.io/BetterCapture/",
@@ -78242,6 +78296,12 @@
             "tags": []
           },
           {
+            "name": "TurboFieldfare",
+            "url": "https://github.com/drumih/turbo-fieldfare",
+            "description": "Native ChatGPT-like Mac app running Google\u2019s Gemma AI (26B-A4B MoE) privately on your device, even on low-end 8 GB M-series Macs.",
+            "tags": []
+          },
+          {
             "name": "Usage4Claude",
             "url": "https://github.com/f-is-h/Usage4Claude",
             "description": "Real-time monitoring of Claude usage quotas across time windows and plans.",
@@ -78293,6 +78353,12 @@
             "name": "MiniClaw",
             "url": "https://miniclaw.bot",
             "description": "Local-first personal AI agent with memory and automation tools.",
+            "tags": []
+          },
+          {
+            "name": "MoMo Agent",
+            "url": "https://github.com/Miri-Labs/MoMo-Agent",
+            "description": "Open-source, self-hosted 24/7 personal agent for Apple Watch, iPhone, and Mac with on-device CoreML ASR, embedded Tailscale, and an Obsidian-style Markdown memory vault.",
             "tags": []
           },
           {
@@ -79869,6 +79935,12 @@
             "tags": []
           },
           {
+            "name": "Brk",
+            "url": "https://github.com/cyang2020/brk",
+            "description": "Native Swift and AppKit rebuild of Arc on Chromium, with a Raycast-style command bar and AI that runs on your own Claude Code or Codex plan and local models.",
+            "tags": []
+          },
+          {
             "name": "camber",
             "url": "https://www.yuvrajangadsingh.com/camber",
             "description": "Open-source Arc-style browser on Chromium (Electron) with spaces, pinned tabs, folders, a command bar and Arc import.",
@@ -80218,6 +80290,12 @@
         "name": "Security Tools",
         "resources": [
           {
+            "name": "AI Access Auditor",
+            "url": "https://dirmedmr-alt.github.io/ai-access-auditor/",
+            "description": "See and revoke what AI coding agents like Claude Code, Codex and Cursor can access on your Mac.",
+            "tags": []
+          },
+          {
             "name": "Antivirus One",
             "url": "https://cleanerone.trendmicro.com/antivirus-one-for-mac/?utm_source=github&utm_medium=referral&utm_campaign=githubproject",
             "description": "Security scanner for malware, adware, and web threats.",
@@ -80442,6 +80520,12 @@
             "name": "Lantern",
             "url": "https://getlantern.org",
             "description": "Free application that delivers fast, reliable and secure access to the open internet.",
+            "tags": []
+          },
+          {
+            "name": "LockPlus",
+            "url": "https://github.com/steiale/lockplus",
+            "description": "WireGuard and OpenVPN client with a kill switch that macOS itself enforces.",
             "tags": []
           },
           {
@@ -81120,6 +81204,12 @@
             "tags": []
           },
           {
+            "name": "Menew",
+            "url": "https://menew.web.app",
+            "description": "All-in-one menu bar app with a command palette, clipboard history, window snapping, screenshots, a system monitor, meeting minutes and Claude Code/Codex usage limits, using on-device AI.",
+            "tags": []
+          },
+          {
             "name": "Menu Bar Calendar",
             "url": "https://sindresorhus.com/menu-bar-calendar",
             "description": "A monthly calendar right in your menu bar.",
@@ -81354,6 +81444,12 @@
             "tags": []
           },
           {
+            "name": "TocaPad",
+            "url": "https://github.com/getguruhat/tocapad-macos",
+            "description": "Slide your trackpad's edges to change volume and brightness, and double-tap a corner to run a shortcut.",
+            "tags": []
+          },
+          {
             "name": "Today",
             "url": "https://sindresorhus.com/today",
             "description": "View today\u2019s schedule and calendar events from the menu bar.",
@@ -81369,6 +81465,12 @@
             "name": "TomatoBar",
             "url": "https://github.com/ivoronin/TomatoBar",
             "description": "World's neatest Pomodoro timer for macOS menu bar.",
+            "tags": []
+          },
+          {
+            "name": "twistel",
+            "url": "https://github.com/jonasnlt/twistel",
+            "description": "Menu bar file converter: drag files, hold a key and drop them on a ring menu to convert images, audio, video and documents, compress, OCR, redact or sign PDFs, fully offline.",
             "tags": []
           },
           {
@@ -81458,6 +81560,12 @@
             "name": "Burrow",
             "url": "https://github.com/khan-umirzakoff/Mole-GUI",
             "description": "Free, open-source native app for the Mole cleaner: clean caches, uninstall apps and the leftovers of deleted ones, map the disk and watch system health, all through Mole's safety checks.",
+            "tags": []
+          },
+          {
+            "name": "Cleaner",
+            "url": "https://ciromaciel.click/tools/cleaner",
+            "description": "Open-source cleaner that shows every item before removal, keeps its rules in one public file, and holds what you remove in a 7-day quarantine you can restore from.",
             "tags": []
           },
           {
@@ -82168,6 +82276,12 @@
             "name": "Brink",
             "url": "https://brinknotch.site",
             "description": "A notch on your screen edge that keeps your Notion pages and tasks one hover away.",
+            "tags": []
+          },
+          {
+            "name": "Browserdoor",
+            "url": "https://github.com/schowave/browserdoor",
+            "description": "Open-source link picker that asks which browser, browser profile, or Zen space should open each link.",
             "tags": []
           },
           {
@@ -83414,6 +83528,12 @@
             "tags": []
           },
           {
+            "name": "Kombucha",
+            "url": "https://github.com/askuksov/kombucha",
+            "description": "Menu bar battery charge limiter that stops charging at a chosen level to extend battery lifespan.",
+            "tags": []
+          },
+          {
             "name": "Mac Monitor",
             "url": "https://github.com/Ahmadjondev/MacMonitor",
             "description": "Lightweight menu bar monitor for RAM, CPU, network and disk, focused on memory pressure.",
@@ -83650,6 +83770,12 @@
             "name": "Ryubing",
             "url": "https://github.com/Ryubing",
             "description": "A fork of the discontinued Switch emulator, Ryujinx.",
+            "tags": []
+          },
+          {
+            "name": "Soju",
+            "url": "https://didimlabs.com",
+            "description": "Installs the official Windows Battle.net, Steam, Epic, GOG, EA app, Rockstar and Ubisoft Connect clients on Apple Silicon through Wine and Apple's GPTK, with a native library of all your games.",
             "tags": []
           },
           {
