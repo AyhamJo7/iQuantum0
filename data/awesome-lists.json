@@ -16523,6 +16523,12 @@
             "tags": []
           },
           {
+            "name": "dalgo",
+            "url": "https://github.com/dal-go/dalgo",
+            "description": "Database abstraction layer with one API for records, queries and transactions across SQL and NoSQL backends, including Firestore, SQLite, filesystem and in-memory adapters.",
+            "tags": []
+          },
+          {
             "name": "dsc",
             "url": "https://github.com/viant/dsc",
             "description": "Datastore connectivity for SQL, NoSQL, structured files.",
@@ -30223,6 +30229,12 @@
             "tags": []
           },
           {
+            "name": "pattyGraph",
+            "url": "https://github.com/jwminton/pattyGraph",
+            "description": "Real-time NGINX log analyzer with an interactive TUI and JSONL output.",
+            "tags": []
+          },
+          {
             "name": "Pewpew",
             "url": "https://github.com/bengadbois/pewpew",
             "description": "Flexible HTTP command line stress tester.",
@@ -38665,6 +38677,12 @@
             "tags": []
           },
           {
+            "name": "alexsergivan/kwant",
+            "url": "https://github.com/alexsergivan/kwant",
+            "description": "Self-hosted team of AI bots in one binary, with spaces, handoffs, approvals and routines",
+            "tags": []
+          },
+          {
             "name": "Andromeda",
             "url": "https://github.com/tryandromeda/andromeda",
             "description": "JavaScript & TypeScript runtime built from the ground up in Rust \ud83e\udd80 and powered by The Nova Engine.",
@@ -41859,6 +41877,12 @@
             "tags": []
           },
           {
+            "name": "DuskXi/SpaceKnife",
+            "url": "https://github.com/DuskXi/SpaceKnife",
+            "description": "Cross-platform disk usage analyzer with live treemap and flame graph views, NTFS MFT quick scan, scan load limits and snapshot comparison, built with Tauri",
+            "tags": []
+          },
+          {
             "name": "dust",
             "url": "https://github.com/bootandy/dust",
             "description": "A more intuitive version of du",
@@ -42189,6 +42213,12 @@
             "tags": []
           },
           {
+            "name": "Ray-lea/Argus",
+            "url": "https://github.com/Ray-lea/Argus",
+            "description": "A native Windows task manager built with GPUI Kit, with real-time CPU, memory, disk, network and GPU monitoring, process and service management, file-lock inspection, and resource usage history.",
+            "tags": []
+          },
+          {
             "name": "redox-os/ion",
             "url": "https://github.com/redox-os/ion",
             "description": "Next-generation system shell",
@@ -42454,6 +42484,12 @@
             "name": "sventmueller/splat",
             "url": "https://github.com/sventmueller/splat",
             "description": "An ultrafast native Markdown editor for macOS on AppKit, no Electron. Edits in the preview leave untouched lines byte-for-byte identical, so Git diffs stay clean. LaTeX and Mermaid offline, 35 languages.",
+            "tags": []
+          },
+          {
+            "name": "thejacedev/Noteriv",
+            "url": "https://github.com/thejacedev/Noteriv",
+            "description": "A Markdown note-taking app with wiki-links, a graph view, plugins and Git sync, built with Tauri 2.",
             "tags": []
           },
           {
@@ -43051,6 +43087,12 @@
             "name": "xiph/rav1e",
             "url": "https://github.com/xiph/rav1e",
             "description": "The fastest and safest AV1 encoder.",
+            "tags": []
+          },
+          {
+            "name": "yuxino/mimi",
+            "url": "https://github.com/yuxino/mimi",
+            "description": "Live bilingual subtitle overlay for videos and streams, built with Rust and Tauri.",
             "tags": []
           }
         ]
@@ -77573,6 +77615,12 @@
             "tags": []
           },
           {
+            "name": "WellSnap",
+            "url": "https://wellsnap.net/",
+            "description": "Open-source screenshot tool for macOS and Windows with arrows, numbered callouts, and a blur that never uses the hidden pixels.",
+            "tags": []
+          },
+          {
             "name": "Xnip",
             "url": "https://xnipapp.com/",
             "description": "Handy Screenshot App.",
@@ -78248,6 +78296,12 @@
             "tags": []
           },
           {
+            "name": "o8",
+            "url": "https://o8.run",
+            "description": "Open-source desktop app that reviews coding agents' work, sends it back until it passes, and merges it.",
+            "tags": []
+          },
+          {
             "name": "RecurseChat",
             "url": "https://recurse.chat",
             "description": "Local-first AI chat app with customizable workflows.",
@@ -78413,6 +78467,12 @@
             "name": "Quail",
             "url": "https://quail-ai.app",
             "description": "Local model server for GGUF and MLX models on Apple silicon, with OpenAI- and Anthropic-compatible APIs for tools like Claude Code and Codex.",
+            "tags": []
+          },
+          {
+            "name": "Quarters",
+            "url": "https://quarters.amithgc.com",
+            "description": "Open-source workspace for running terminal coding agents such as Claude Code, Codex, Gemini CLI and Aider across many projects at once, with one-click project switching, dev-server launching and remote access from your phone.",
             "tags": []
           },
           {
@@ -79017,6 +79077,12 @@
             "tags": []
           },
           {
+            "name": "LazyTune",
+            "url": "https://github.com/Vic3z/LazyTune",
+            "description": "Lightweight menu bar per-app audio mixer and universal media key controller for web browsers and desktop players.",
+            "tags": []
+          },
+          {
             "name": "LMMS",
             "url": "https://lmms.io",
             "description": "Open-source digital audio workstation for music production.",
@@ -79493,6 +79559,12 @@
             "name": "Vauta",
             "url": "https://vauta.vercel.app/",
             "description": "Open-source meeting notes app that transcribes any call on device, tells speakers apart and writes cited minutes with Apple Intelligence or your own local model server.",
+            "tags": []
+          },
+          {
+            "name": "VoiceStudio",
+            "url": "https://saadmsft.github.io/VoiceStudio/",
+            "description": "Real-time broadcast voice rack in Swift and CoreAudio with subtle pitch depth, sub-harmonic warmth, 6-band EQ, de-esser, and compressor for Discord, Zoom, Teams, and OBS.",
             "tags": []
           },
           {
@@ -81605,6 +81677,12 @@
             "tags": []
           },
           {
+            "name": "DiskPilot",
+            "url": "https://diskpilot.live",
+            "description": "Free, open-source storage analyzer for developers that explains each folder (Docker, node_modules, Xcode DerivedData, AI tool caches), marks what is safe to delete and moves everything to the Trash first.",
+            "tags": []
+          },
+          {
             "name": "DiskWise",
             "url": "https://github.com/DreamOfXM/diskwise",
             "description": "Open-source SwiftUI disk cleaner whose only deletion path is the Trash, with per-session undo and a knowledge base that explains each cache entry.",
@@ -82107,6 +82185,12 @@
             "tags": []
           },
           {
+            "name": "Yado",
+            "url": "https://yado.house/",
+            "description": "Native Mac app for managing an iPhone: clear duplicate photos, large videos and unused apps, arrange the Home Screen, move files and keep backups on the Mac.",
+            "tags": []
+          },
+          {
             "name": "CapsLockNoDelay",
             "url": "https://github.com/gkpln3/CapsLockNoDelay",
             "description": "Removes caps-lock key activation delay for fast typers.",
@@ -82450,6 +82534,12 @@
             "name": "Linear Mouse",
             "url": "https://linearmouse.app/",
             "description": "Full control of mouse. Change the speed, scrolling direction, pointer type and much more.",
+            "tags": []
+          },
+          {
+            "name": "LinkUnbound",
+            "url": "https://www.linkunbound.app/",
+            "description": "Open-source browser picker that asks which browser or browser profile should open each link, with rules by site or by the app the link came from.",
             "tags": []
           },
           {
@@ -83197,6 +83287,12 @@
             "name": "Path Finder",
             "url": "https://www.cocoatech.com/",
             "description": "File management app.",
+            "tags": []
+          },
+          {
+            "name": "PC Mode",
+            "url": "https://github.com/getguruhat/PCMode",
+            "description": "Free app that brings Windows habits to your Mac: delete from Finder with the Delete key, cut and move files with \u2318X and \u2318V, and switch individual windows with \u2318Tab.",
             "tags": []
           },
           {
