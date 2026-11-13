@@ -78326,6 +78326,12 @@
             "tags": []
           },
           {
+            "name": "SummonOS",
+            "url": "https://sumonos.rohi-lab.org/",
+            "description": "Menu bar app and CLI that gives coding agents live Mac context over MCP and snapshots supported settings changes so they can be undone.",
+            "tags": []
+          },
+          {
             "name": "ThinkWatch Lite",
             "url": "https://thinkwat.ch/lite/",
             "description": "Local gateway for Claude Code, Codex, and other AI coding clients that switches upstreams without client changes, records the cost of each request, and redacts API keys before requests leave.",
