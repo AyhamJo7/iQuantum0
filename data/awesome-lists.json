@@ -74486,7 +74486,7 @@
         "resources": [
           {
             "name": "Keynote",
-            "url": "https://apps.apple.com/app/keynote/id409183694?platform=mac",
+            "url": "https://apps.apple.com/app/keynote/id361285480?platform=mac",
             "description": "Build stunning presentations.",
             "tags": []
           },
@@ -74504,7 +74504,7 @@
           },
           {
             "name": "Numbers",
-            "url": "https://apps.apple.com/app/numbers/id409203825?platform=mac",
+            "url": "https://apps.apple.com/app/numbers/id361304891?platform=mac",
             "description": "Create impressive spreadsheets.",
             "tags": []
           },
@@ -74516,7 +74516,7 @@
           },
           {
             "name": "Pages",
-            "url": "https://apps.apple.com/app/pages/id409201541?platform=mac",
+            "url": "https://apps.apple.com/app/pages/id361309726?platform=mac",
             "description": "Documents that stand apart.",
             "tags": []
           },
@@ -78039,12 +78039,6 @@
             "tags": []
           },
           {
-            "name": "svgus",
-            "url": "https://www.svgs.us/",
-            "description": "Organize, clean and transform your SVGs.",
-            "tags": []
-          },
-          {
             "name": "Swapjutsu",
             "url": "https://jutsustudio.com/swapjutsu/",
             "description": "Open-source character swap tool for videos with Seedance 2.5 or Wan 2.2 Animate, with on-device preparation on Apple silicon.",
@@ -78111,7 +78105,7 @@
           },
           {
             "name": "AppleAi",
-            "url": "https://www.macbunny.co/appleai",
+            "url": "https://github.com/bunnysayzz/AppleAI",
             "description": "Access multiple AI assistants from your menu bar with one shortcut.",
             "tags": []
           },
@@ -78143,6 +78137,12 @@
             "name": "Atticus",
             "url": "https://saarthurr.github.io/atticus-mac/",
             "description": "Open-source voice assistant that runs on your Claude plan, learns new tasks after doing them once, and handles dictation, screen help, and background agents.",
+            "tags": []
+          },
+          {
+            "name": "BaseHalf",
+            "url": "https://basehalf.com",
+            "description": "Open-source desktop app that opens a folder as a canvas of notes, PDFs and media, with AI agents like Claude Code or Codex working on the same files beside it.",
             "tags": []
           },
           {
@@ -78405,7 +78405,7 @@
           },
           {
             "name": "JoeBro",
-            "url": "https://joexk1.github.io/joebro/",
+            "url": "https://github.com/joexk1/JoeBro",
             "description": "Native SwiftUI workspace for chat and document editing with local models via Ollama or any API, plus memory, MCP tools, and deep research.",
             "tags": []
           },
@@ -78685,12 +78685,6 @@
             "tags": []
           },
           {
-            "name": "Stack",
-            "url": "https://getstack.app/",
-            "description": "Workspace browser for organizing multiple web apps on one screen.",
-            "tags": []
-          },
-          {
             "name": "Teams",
             "url": "https://teams.live.com/",
             "description": "Free online meetings and video calls",
@@ -78710,7 +78704,7 @@
           },
           {
             "name": "Textual",
-            "url": "https://apps.apple.com/us/app/textual-7/id1262957439?platform=mac",
+            "url": "https://github.com/Codeux-Software/Textual",
             "description": "Internet Relay Chat (IRC) client.",
             "tags": []
           },
@@ -78740,7 +78734,7 @@
           },
           {
             "name": "WhatsApp Desktop",
-            "url": "https://apps.apple.com/us/app/whatsapp-desktop/id1147396723?platform=mac",
+            "url": "https://apps.apple.com/us/app/whatsapp/id310633997?platform=mac",
             "description": "Available in the Mac App Store, Whatsapp for Desktop.",
             "tags": []
           },
@@ -78954,12 +78948,6 @@
             "name": "Aegisub",
             "url": "https://github.com/Aegisub/Aegisub",
             "description": "Open-source subtitle editor with timing and styling tools.",
-            "tags": []
-          },
-          {
-            "name": "Audio Profile Manager",
-            "url": "https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&platform=mac",
-            "description": "Audio device manager for saving input and output setups.",
             "tags": []
           },
           {
@@ -79329,6 +79317,12 @@
             "tags": []
           },
           {
+            "name": "Roughcut",
+            "url": "https://github.com/Bouliw/fcpxml-roughcut",
+            "description": "Turns a folder of talking-head footage into a rough cut in Final Cut Pro, with on-device Whisper transcription and cuts chosen by a local or cloud AI model.",
+            "tags": []
+          },
+          {
             "name": "Sangeet",
             "url": "https://github.com/YashvardhanATRgithub/Sangeet",
             "description": "A beautiful audiophile music player with 10-band EQ, karaoke mode, and time-synced lyrics.",
@@ -79468,7 +79462,7 @@
           },
           {
             "name": "YouTube Music",
-            "url": "https://th-ch.github.io/youtube-music/",
+            "url": "https://github.com/th-ch/youtube-music",
             "description": "Desktop player for YouTube Music with plugin support.",
             "tags": []
           },
@@ -80122,7 +80116,7 @@
           },
           {
             "name": "Ora",
-            "url": "https://www.orabrowser.com/",
+            "url": "https://github.com/the-ora/browser",
             "description": "Open-source browser with spaces, tab management, and a vertical sidebar.",
             "tags": []
           },
@@ -80365,7 +80359,7 @@
           },
           {
             "name": "MRRDock",
-            "url": "https://mrrdock.simoneruggiero.com",
+            "url": "https://github.com/simonsruggi/MRRDock",
             "description": "Menu bar app that adds up your MRR from Stripe, RevenueCat, Paddle, Lemon Squeezy, Polar, Dodo Payments and Gumroad into one total. Multi-currency, keys stay in the Keychain, no account.",
             "tags": []
           },
@@ -80483,7 +80477,7 @@
           },
           {
             "name": "Mana Security",
-            "url": "https://www.manasecurity.com/",
+            "url": "https://github.com/manasecurity/mana-security-app",
             "description": "vulnerability management app for individuals.",
             "tags": []
           },
@@ -80491,12 +80485,6 @@
             "name": "Vulert",
             "url": "https://vulert.com",
             "description": "Dependency vulnerability monitoring service for open-source packages.",
-            "tags": []
-          },
-          {
-            "name": "NoxKey",
-            "url": "https://github.com/No-Box-Dev/Noxkey",
-            "description": "Keychain-based secret manager for API keys and tokens with Touch ID.",
             "tags": []
           },
           {
@@ -80976,12 +80964,6 @@
         "name": "Menu Bar Tools",
         "resources": [
           {
-            "name": "Agent Island",
-            "url": "https://github.com/tristan666666/agent-island",
-            "description": "MacBook notch companion for Claude Code and Codex sessions, showing live status and auto-resuming selected long-running tasks.",
-            "tags": []
-          },
-          {
             "name": "AI Footprint",
             "url": "https://stanczykwyatt.github.io/ai-footprint/",
             "description": "Read-only menu bar app that shows the disk space, background processes, MCP servers and login items AI coding tools leave on your Mac, with a receipt for every update.",
@@ -81307,7 +81289,7 @@
           },
           {
             "name": "Mask This",
-            "url": "https://apps.apple.com/us/app/mask-this/id6759096128",
+            "url": "https://github.com/tseylerd/MaskThis",
             "description": "Menu bar app that masks sensitive information in the clipboard.",
             "tags": []
           },
@@ -81780,7 +81762,7 @@
           },
           {
             "name": "MacClean",
-            "url": "https://thulem.com/en/",
+            "url": "https://github.com/jinglings/MacClean",
             "description": "Free local Mac disk cleaner that lets you review WeChat media, System Data, and Xcode or AI caches before deleting.",
             "tags": []
           },
@@ -81800,6 +81782,12 @@
             "name": "MacSift",
             "url": "https://lcharvol.github.io/MacSift/",
             "description": "Open-source disk cleaner that groups files by app and moves them to the Trash.",
+            "tags": []
+          },
+          {
+            "name": "MacSweep",
+            "url": "https://github.com/nihal4/macsweep",
+            "description": "Free, open-source Mac cleaner written in Rust (~7 MB) for junk cleanup, large files, app uninstalling with leftovers and orphaned launch agents, with tests ensuring browser profiles, Mail and app data are never deleted.",
             "tags": []
           },
           {
@@ -81852,7 +81840,7 @@
           },
           {
             "name": "Purge",
-            "url": "https://getpurge.com",
+            "url": "https://github.com/jithin-sabu/purge-app",
             "description": "Open-source cache cleaner that moves files to the Trash instead of deleting them, using a fixed allowlist and no telemetry.",
             "tags": []
           },
@@ -82387,12 +82375,6 @@
             "tags": []
           },
           {
-            "name": "Atomic",
-            "url": "https://indiegoodies.com/atomic",
-            "description": "A habit tracker app to build good habits, break bad ones, and stay on top of your daily routines.",
-            "tags": []
-          },
-          {
             "name": "Better Launchpad",
             "url": "https://github.com/rewhex/better-launchpad",
             "description": "Customizable app launcher with fast search.",
@@ -82694,7 +82676,7 @@
           },
           {
             "name": "Perplexity",
-            "url": "https://apps.apple.com/us/app/perplexity-ask-anything/id6714467650?platform=mac",
+            "url": "https://www.perplexity.ai/",
             "description": "Search and discovery with AI.",
             "tags": []
           },
@@ -82802,7 +82784,7 @@
           },
           {
             "name": "SwiftBiu",
-            "url": "https://swiftbiu.com/",
+            "url": "https://apps.apple.com/cn/app/swiftbiu/id6754772331?platform=mac",
             "description": "Text productivity tool with a customizable action bar and AI extensions.",
             "tags": []
           },
@@ -82810,6 +82792,12 @@
             "name": "Table Habit",
             "url": "https://github.com/FriesI23/mhabit",
             "description": "\u2013 Habit tracker with growth charts and offline-first sync.",
+            "tags": []
+          },
+          {
+            "name": "Takeline",
+            "url": "https://github.com/Bouliw/takeline",
+            "description": "Fork of Textream that follows your voice in French and English entirely on the Mac, with retake detection and voice commands.",
             "tags": []
           },
           {
@@ -83690,6 +83678,12 @@
             "tags": []
           },
           {
+            "name": "LD Manager",
+            "url": "https://codonic.dev/apps/ldmanager",
+            "description": "Open-source launchd manager that shows every LaunchAgent and LaunchDaemon, explains why a job isn't running, and edits plists losslessly with diffs and backups.",
+            "tags": []
+          },
+          {
             "name": "Lockpaw",
             "url": "https://getlockpaw.com",
             "description": "Covers the screen and keeps your Mac awake while AI coding agents run, and glows when one needs you.",
@@ -83938,12 +83932,6 @@
             "name": "Soju",
             "url": "https://didimlabs.com",
             "description": "Installs the official Windows Battle.net, Steam, Epic, GOG, EA app, Rockstar and Ubisoft Connect clients on Apple Silicon through Wine and Apple's GPTK, with a native library of all your games.",
-            "tags": []
-          },
-          {
-            "name": "Suyu",
-            "url": "https://suyu.dev/",
-            "description": "A familiar, open source, and powerful Nintendo Switch emulator.",
             "tags": []
           },
           {
