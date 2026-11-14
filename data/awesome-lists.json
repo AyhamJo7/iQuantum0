@@ -19515,6 +19515,12 @@
             "tags": []
           },
           {
+            "name": "ctm",
+            "url": "https://github.com/chicks-net/ctm",
+            "description": "Control Time Machines Corp. PoE network clocks from the command line: status, timers, colors, and brightness over UDP.",
+            "tags": []
+          },
+          {
             "name": "emgo",
             "url": "https://github.com/ziutek/emgo",
             "description": "Go-like language for programming embedded systems (e.g. STM32 MCU).",
@@ -21607,6 +21613,12 @@
             "name": "parsley",
             "url": "https://github.com/matzefriedrich/parsley",
             "description": "A flexible and modular reflection-based DI library with advanced features like scoped contexts and proxy generation, designed for large-scale Go applications.",
+            "tags": []
+          },
+          {
+            "name": "vessel",
+            "url": "https://github.com/xraph/vessel",
+            "description": "Generics-based dependency injection container with constructor injection, value groups, scopes and service lifecycle management.",
             "tags": []
           },
           {
@@ -26711,6 +26723,12 @@
             "name": "smite",
             "url": "https://github.com/sergiotapia/smitego",
             "description": "Go package to wraps access to the Smite game API.",
+            "tags": []
+          },
+          {
+            "name": "snaprender-go",
+            "url": "https://github.com/User0856/snaprender-go",
+            "description": "Go client for the SnapRender screenshot API.",
             "tags": []
           },
           {
@@ -75946,6 +75964,12 @@
             "tags": []
           },
           {
+            "name": "ServerHat",
+            "url": "https://github.com/getguruhat/serverhat-macos",
+            "description": "Free menu-bar app that runs your local dev servers. Claude Code and Codex can start, stop and read logs through its MCP server and local API, with your approval.",
+            "tags": []
+          },
+          {
             "name": "SpawnSweep",
             "url": "https://github.com/samirmaikap/spawnsweep",
             "description": "Menu bar app that shows the dev servers, simulators and build data AI coding agents leave running, and cleans up with a preview first.",
@@ -78368,6 +78392,12 @@
             "tags": []
           },
           {
+            "name": "Usagebar",
+            "url": "https://bullfighterstudio.com/usagebar",
+            "description": "Free native macOS menu bar app that shows Claude Code, Codex, Cursor, Kimi Code, z.ai and DeepSeek usage limits, plus when they reset.",
+            "tags": []
+          },
+          {
             "name": "Jan",
             "url": "https://jan.ai/",
             "description": "An open-source alternative to ChatGPT that runs entirely offline on your computer.",
@@ -80434,12 +80464,6 @@
             "tags": []
           },
           {
-            "name": "Lockpaw",
-            "url": "https://getlockpaw.com",
-            "description": "Menu bar screen guard for macOS \u2014 lock and unlock your screen with a hotkey.",
-            "tags": []
-          },
-          {
             "name": "MakLock",
             "url": "https://github.com/dutkiewiczmaciej/MakLock",
             "description": "Lock any macOS app with Touch ID, Apple Watch proximity, or password. Full-screen blur overlay on all monitors.",
@@ -80539,6 +80563,12 @@
             "name": "TouchBridge",
             "url": "https://github.com/HMAKT99/UnTouchID",
             "description": "Authenticate with your phone's fingerprint as a free Touch ID keyboard alternative.",
+            "tags": []
+          },
+          {
+            "name": "Vigie",
+            "url": "https://github.com/Bouliw/vigie",
+            "description": "Open-source blue team tool that runs Sigma detection rules on the macOS unified log, Windows event logs and Linux auth.log, live or on collected files, and writes a report mapped to MITRE ATT&CK.",
             "tags": []
           },
           {
@@ -81048,6 +81078,12 @@
             "tags": []
           },
           {
+            "name": "Lafz Prompter",
+            "url": "https://lafz.waqasrana.space/",
+            "description": "Teleprompter that sits under the MacBook notch, can hide from screen sharing, scrolls as you speak, and shows Urdu in Nastaliq.",
+            "tags": []
+          },
+          {
             "name": "MacResourceMonitor",
             "url": "https://github.com/x0c/MacResourceMonitor",
             "description": "Menu bar CPU monitor to see which process is eating CPU and terminate it directly.",
@@ -81099,6 +81135,12 @@
             "name": "Bye AppQuit",
             "url": "https://github.com/designsbymuzeer/Bye-Mac-App",
             "description": "A minimal menu bar app to quickly view and kill running processes.",
+            "tags": []
+          },
+          {
+            "name": "Daily Wallpaper",
+            "url": "https://itsnajam.github.io/daily-wallpaper/",
+            "description": "Menu bar app that sets the Bing photo of the day as your desktop and lock screen wallpaper.",
             "tags": []
           },
           {
@@ -81561,6 +81603,12 @@
             "name": "UTC Time",
             "url": "https://sindresorhus.com/utc-time",
             "description": "Show the time in UTC in the menu bar or a widget.",
+            "tags": []
+          },
+          {
+            "name": "Usagebar",
+            "url": "https://bullfighterstudio.com/usagebar",
+            "description": "Free native macOS menu bar app that shows Claude Code, Codex, Cursor, Kimi Code, z.ai and DeepSeek usage limits, plus when they reset.",
             "tags": []
           },
           {
@@ -82594,6 +82642,12 @@
             "name": "Magic Switch",
             "url": "https://magic-switch.com/",
             "description": "Switch Magic Keyboard, Mouse, and Trackpad between multiple Macs.",
+            "tags": []
+          },
+          {
+            "name": "MagicInput",
+            "url": "https://bullfighterstudio.com/magicinput",
+            "description": "Share one keyboard and mouse between a Mac and a Windows PC by moving the pointer past the screen edge, with clipboard sync and file transfer.",
             "tags": []
           },
           {
@@ -83633,6 +83687,12 @@
             "name": "Kombucha",
             "url": "https://github.com/askuksov/kombucha",
             "description": "Menu bar battery charge limiter that stops charging at a chosen level to extend battery lifespan.",
+            "tags": []
+          },
+          {
+            "name": "Lockpaw",
+            "url": "https://getlockpaw.com",
+            "description": "Covers the screen and keeps your Mac awake while AI coding agents run, and glows when one needs you.",
             "tags": []
           },
           {
