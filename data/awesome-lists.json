@@ -22454,6 +22454,12 @@
             "tags": []
           },
           {
+            "name": "go-translator",
+            "url": "https://github.com/donseba/go-translator",
+            "description": "Gettext PO catalogues with plural forms, contexts and html/template helpers.",
+            "tags": []
+          },
+          {
             "name": "go-words",
             "url": "https://github.com/saleh-rahimzadeh/go-words",
             "description": "A words table and text resource library for Golang projects.",
@@ -24212,6 +24218,12 @@
             "tags": []
           },
           {
+            "name": "ITB",
+            "url": "https://github.com/everanium/itb",
+            "description": "Experimental symmetric cipher construction with Lean 4 formal proofs of its design.",
+            "tags": []
+          },
+          {
             "name": "leakhound",
             "url": "https://github.com/nilpoona/leakhound",
             "description": "Static analysis tool to detect accidental logging of sensitive struct fields, preventing data leaks in logs.",
@@ -24865,6 +24877,12 @@
             "name": "fasttemplate",
             "url": "https://github.com/valyala/fasttemplate",
             "description": "Simple and fast template engine. Substitutes template placeholders up to 10x faster than text/template .",
+            "tags": []
+          },
+          {
+            "name": "go-partial",
+            "url": "https://github.com/donseba/go-partial",
+            "description": "Render full pages or targeted partials from one html/template tree, for htmx, Turbo and Unpoly.",
             "tags": []
           },
           {
@@ -27205,6 +27223,12 @@
             "tags": []
           },
           {
+            "name": "go-importmap",
+            "url": "https://github.com/donseba/go-importmap",
+            "description": "Generate import maps and stylesheet tags for Go templates from CDN packages, with optional vendoring.",
+            "tags": []
+          },
+          {
             "name": "go-lambda-cleanup",
             "url": "https://github.com/karl-cardenas-coding/go-lambda-cleanup",
             "description": "A CLI for removing unused or previous versions of AWS Lambdas.",
@@ -27928,6 +27952,12 @@
             "name": "toolbox",
             "url": "https://github.com/viant/toolbox",
             "description": "Slice, map, multimap, struct, function, data conversion utilities. Service router, macro evaluator, tokenizer.",
+            "tags": []
+          },
+          {
+            "name": "topic",
+            "url": "https://github.com/yurirocha15/topic",
+            "description": "Top-like terminal monitor for containers that shows CPU, memory, GPU and process usage against the container's cgroup limits.",
             "tags": []
           },
           {
@@ -38905,12 +38935,6 @@
             "tags": []
           },
           {
-            "name": "MaidSafe",
-            "url": "https://github.com/maidsafe",
-            "description": "A decentralized platform.",
-            "tags": []
-          },
-          {
             "name": "mayocream/koharu",
             "url": "https://github.com/mayocream/koharu",
             "description": "An ML-powered manga translator with automatic speech bubble detection, OCR, inpainting, and LLM translation, built with Candle and Tauri",
@@ -41095,6 +41119,12 @@
             "tags": []
           },
           {
+            "name": "ChrisVip001/joyczl-agent",
+            "url": "https://github.com/ChrisVip001/joyczl-agent",
+            "description": "Local-first personal agent: Rust owns the agent loop, memory and tools, and stores one append-only ledger row per turn, so every memory is inspectable and the FTS5 index can be rebuilt from the ledger. TypeScript dashboard, Python SDK.",
+            "tags": []
+          },
+          {
             "name": "CookCLI",
             "url": "https://github.com/cooklang/CookCLI",
             "description": "Command-line recipe manager with web server, shopping lists, and meal planning capabilities.",
@@ -41230,6 +41260,12 @@
             "name": "lockbook/lockbook",
             "url": "https://github.com/lockbook/lockbook",
             "description": "[ lb-rs ] - Collaborative end-to-end encrypted notes, documents, and drawings, with native cross-platform clients built on a shared Rust core and a self-hostable server.",
+            "tags": []
+          },
+          {
+            "name": "madebyzan/knovum",
+            "url": "https://github.com/madebyzan/knovum",
+            "description": "Local-first desktop 2D spatial AI knowledge workspace built with Tauri 2, Rust, and Vue 3, featuring infinite canvas, embedded LanceDB vector search, and on-device Whisper transcription.",
             "tags": []
           },
           {
@@ -41633,9 +41669,21 @@
             "tags": []
           },
           {
+            "name": "nestho/impacket-rs",
+            "url": "https://github.com/nestho/impacket-rs",
+            "description": "Memory-safe pure-Rust implementation of enterprise network protocols (SMB, MSRPC, Kerberos, LDAP, NTLM) and Active Directory auditing tools.",
+            "tags": []
+          },
+          {
             "name": "observer_ward",
             "url": "https://github.com/emo-crab/observer_ward",
             "description": "Web application and service fingerprint identification tool",
+            "tags": []
+          },
+          {
+            "name": "offseq/threat-finder",
+            "url": "https://github.com/offseq/threat-finder",
+            "description": "[ threat-finder ] - Runtime vulnerability scanner that finds CVEs in the services actually running on a host and ranks them by network exposure",
             "tags": []
           },
           {
@@ -43404,6 +43452,12 @@
             "tags": []
           },
           {
+            "name": "julianosig/easi.run",
+            "url": "https://github.com/julianosig/easi.run",
+            "description": "Self-hosted Chrome for AI agents via MCP/REST, with live viewing and human takeover. AGPL-3.0-only.",
+            "tags": []
+          },
+          {
             "name": "SouravRoy-ETL/duckle",
             "url": "https://github.com/SouravRoy-ETL/duckle",
             "description": "Visual-first, open-source data studio (ETL/ELT) that runs entirely on DuckDB. Drag sources, transforms and sinks onto a canvas and it compiles to plain DuckDB SQL; 300+ connectors and a built-in MCP server.",
@@ -44194,6 +44248,12 @@
             "name": "oreboot/oreboot",
             "url": "https://github.com/oreboot/oreboot",
             "description": "oreboot is a fork of coreboot, with C removed, written in Rust",
+            "tags": []
+          },
+          {
+            "name": "AlixANNERAUD/embedded_i18n",
+            "url": "https://github.com/AlixANNERAUD/embedded_i18n",
+            "description": "[ embedded-i18n ] - Compile-time i18n for no_std firmware: translations from JSON, YAML, TOML, gettext PO/MO or Fluent files compiled into &'static str literals in flash, with plurals, fallbacks and no allocator.",
             "tags": []
           },
           {
@@ -46518,6 +46578,12 @@
             "tags": []
           },
           {
+            "name": "sshaplygin/ytsaurus-rs",
+            "url": "https://github.com/sshaplygin/ytsaurus-rs",
+            "description": "[ ytsaurus-yson ] - Rust clients for YTsaurus: HTTP API v4 and RPC proxy (dynamic tables through one interface), YSON and Skiff codecs, and a runtime for MapReduce workers",
+            "tags": []
+          },
+          {
             "name": "weld-project/weld",
             "url": "https://github.com/weld-project/weld",
             "description": "High-performance runtime for data analytics applications",
@@ -48555,6 +48621,12 @@
             "name": "0xlane/pe-sign",
             "url": "https://github.com/0xlane/pe-sign",
             "description": "[pe-sign] - A cross-platform rust no-std library for verifying and extracting signature information from PE files.",
+            "tags": []
+          },
+          {
+            "name": "AlixANNERAUD/nanoexpr",
+            "url": "https://github.com/AlixANNERAUD/nanoexpr",
+            "description": "[ nanoexpr ] - Fast no_std math expression parser and evaluator with zero heap allocation: variables, functions, f32/f64/integers or exact decimals, for microcontrollers, WebAssembly and C.",
             "tags": []
           },
           {
@@ -65188,6 +65260,66 @@
             "url": "https://github.com/piskvorky/smart_open",
             "description": "Stream files from S3, GCS, Azure, HDFS, and HTTP as a drop-in replacement for open().",
             "tags": []
+          },
+          {
+            "name": "compression.zstd",
+            "url": "https://docs.python.org/3/library/compression.zstd.html",
+            "description": "(Python standard library) Compress and decompress data in the Zstandard format.",
+            "tags": []
+          },
+          {
+            "name": "gzip",
+            "url": "https://docs.python.org/3/library/gzip.html",
+            "description": "(Python standard library) Read and write gzip-compressed files and data.",
+            "tags": []
+          },
+          {
+            "name": "zstandard",
+            "url": "https://github.com/indygreg/python-zstandard",
+            "description": "Python bindings to the Zstandard (zstd) compression library.",
+            "tags": []
+          },
+          {
+            "name": "brotli",
+            "url": "https://github.com/google/brotli",
+            "description": "Python bindings for Google's Brotli compression library.",
+            "tags": []
+          },
+          {
+            "name": "lz4",
+            "url": "https://github.com/python-lz4/python-lz4",
+            "description": "Python bindings for the LZ4 fast compression library.",
+            "tags": []
+          },
+          {
+            "name": "tarfile",
+            "url": "https://docs.python.org/3/library/tarfile.html",
+            "description": "(Python standard library) Read and write tar archives, including gzip, bz2, lzma, and zstd compressed ones.",
+            "tags": []
+          },
+          {
+            "name": "zipfile",
+            "url": "https://docs.python.org/3/library/zipfile.html",
+            "description": "(Python standard library) Read and write ZIP archives.",
+            "tags": []
+          },
+          {
+            "name": "py7zr",
+            "url": "https://github.com/miurahr/py7zr",
+            "description": "A pure-Python library for reading and writing 7-Zip archives.",
+            "tags": []
+          },
+          {
+            "name": "pyzipper",
+            "url": "https://github.com/danifus/pyzipper",
+            "description": "Read and write AES-encrypted ZIP files ( zipfile fork).",
+            "tags": []
+          },
+          {
+            "name": "rarfile",
+            "url": "https://github.com/markokr/rarfile",
+            "description": "A RAR archive reader with a zipfile-like API.",
+            "tags": []
           }
         ]
       },
@@ -74544,6 +74676,12 @@
             "tags": []
           },
           {
+            "name": "Downright",
+            "url": "https://downright.cc/",
+            "description": "Native, open-source Markdown reader and editor for ordinary files, with Quick Look previews, Finder thumbnails, and live reload when another app or agent changes the file.",
+            "tags": []
+          },
+          {
             "name": "Edmund",
             "url": "https://github.com/I7T5/Edmund",
             "description": "Minimal, native macOS Markdown editor with live preview; works with your existing files, no vault.",
@@ -75003,6 +75141,12 @@
             "tags": []
           },
           {
+            "name": "Rewrite",
+            "url": "https://samratduttaofficial.github.io/Rewrite/",
+            "description": "Rewrite text, fix grammar, and edit Word, LaTeX and PDF files.",
+            "tags": []
+          },
+          {
             "name": "novelWriter",
             "url": "https://github.com/vkbo/novelWriter",
             "description": "Open-source plain text editor for writing novels with minimal markdown-like syntax.",
@@ -75225,6 +75369,12 @@
             "name": "Highlights",
             "url": "https://highlightsapp.net",
             "description": "The PDF Reader for Research on Mac, iPad & iPhone.",
+            "tags": []
+          },
+          {
+            "name": "HistCite Mac",
+            "url": "https://github.com/yangnim21029/histcite-mac",
+            "description": "Open-source bibliometric analysis and citation network visualization for Web of Science exports.",
             "tags": []
           },
           {
@@ -75573,6 +75723,12 @@
       {
         "name": "Developer Utilities",
         "resources": [
+          {
+            "name": "arowser",
+            "url": "https://github.com/HankMonster/arowser",
+            "description": "Agent-programmable borderless web windows for macOS, driven by a CLI designed for coding agents.",
+            "tags": []
+          },
           {
             "name": "AXe",
             "url": "https://github.com/cameroncooke/AXe",
@@ -76368,6 +76524,12 @@
             "tags": []
           },
           {
+            "name": "MyPack",
+            "url": "https://mypack.pages.dev",
+            "description": "Turn websites into desktop apps for macOS, Windows, and Linux.",
+            "tags": []
+          },
+          {
             "name": "nw.js",
             "url": "https://nwjs.io",
             "description": "Build desktop apps with HTML and JavaScript.",
@@ -76979,6 +77141,12 @@
             "name": "Cue",
             "url": "https://cue.8starlabs.com",
             "description": "IDE-style autocomplete for commands, options, Git branches, and files in zsh on Apple Terminal and VS Code\u2019s integrated terminal.",
+            "tags": []
+          },
+          {
+            "name": "Cyberdog",
+            "url": "https://pickywawa.github.io/cyberdog/",
+            "description": "SSH and SFTP client with a built-in terminal, a server health dashboard and FTP, S3 and WebDAV support.",
             "tags": []
           },
           {
@@ -77970,6 +78138,12 @@
             "name": "Jutsu Studio",
             "url": "https://jutsustudio.com/",
             "description": "Open-source, unofficial Higgsfield client for creating AI videos and images with Seedance, Kling and Genjutsu, with every result kept on your disk.",
+            "tags": []
+          },
+          {
+            "name": "Louppe",
+            "url": "https://louppe.eu/",
+            "description": "Photo and video viewer and sorter for browsing JPEG, RAW, and video folders, choosing keepers with the keyboard, and copying them without a library import.",
             "tags": []
           },
           {
@@ -79882,6 +80056,12 @@
             "tags": []
           },
           {
+            "name": "Earshot",
+            "url": "https://github.com/Bouliw/earshot",
+            "description": "Menu bar app that transcribes the audio of any app you pick, fully on-device, with speaker names in Microsoft Teams.",
+            "tags": []
+          },
+          {
             "name": "EnviousWispr",
             "url": "https://enviouswispr.com",
             "description": "Sub-second dictation running Whisper/Parakeet locally with privacy-first AI text polish.",
@@ -80697,6 +80877,12 @@
             "tags": []
           },
           {
+            "name": "Vafa",
+            "url": "https://github.com/k33ssa/vafa",
+            "description": "Open-source VPN kill switch that freezes chosen apps and blocks their network until a VPN with an allowed exit country is up.",
+            "tags": []
+          },
+          {
             "name": "VPN Bypass",
             "url": "https://github.com/GeiserX/VPN-Bypass",
             "description": "Menu bar app to route specific domains and services around your VPN.",
@@ -81477,6 +81663,12 @@
             "name": "Second Clock",
             "url": "https://sindresorhus.com/second-clock",
             "description": "Show a second clock for a different time zone in your menu bar.",
+            "tags": []
+          },
+          {
+            "name": "Sheer",
+            "url": "https://github.com/AzurLiu/sheer",
+            "description": "Brings the macOS 26-style transparent menu bar to macOS 15, letting the wallpaper show through with a faint legibility gradient.",
             "tags": []
           },
           {
@@ -82549,6 +82741,12 @@
             "tags": []
           },
           {
+            "name": "Keylane",
+            "url": "https://github.com/Acckion/Keylane",
+            "description": "Source-available keyboard launcher for macOS 26+ with app and file search, clipboard history, and system actions.",
+            "tags": []
+          },
+          {
             "name": "Keytty",
             "url": "https://keytty.com",
             "description": "App to keep your hands on the keyboard. Move, click, scroll, drag and more with a few strokes.",
@@ -82828,6 +83026,12 @@
             "name": "Trace",
             "url": "https://trace.techulus.xyz",
             "description": "Open-source spotlight alternative and shortcut toolkit.",
+            "tags": []
+          },
+          {
+            "name": "Trace",
+            "url": "https://github.com/lxyeternal/Trace",
+            "description": "Automatic time tracker that records apps, windows, files, and web pages, with all data kept on your Mac.",
             "tags": []
           },
           {
