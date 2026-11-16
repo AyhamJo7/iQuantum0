@@ -80152,6 +80152,12 @@
             "tags": []
           },
           {
+            "name": "Purr",
+            "url": "https://purr.arunbrahma.com",
+            "description": "Open-source on-device dictation that types into any app with Parakeet or Whisper, plus meeting notes with speaker labels and summaries.",
+            "tags": []
+          },
+          {
             "name": "Spokenly",
             "url": "https://spokenly.app/",
             "description": "Voice-to-text with 100+ languages, offline mode, and AI-powered formatting.",
