@@ -39175,6 +39175,12 @@
             "tags": []
           },
           {
+            "name": "vey-proxy",
+            "url": "https://github.com/VEY-OSS/vey",
+            "description": "Modular async Rust proxy daemon unifying HTTP/SOCKS forward proxying, HTTP/TLS reverse proxying, TPROXY/SNI transparent proxying, TCP/UDP/TLS stream proxying, dynamic egress routing, TLS/ICAP inspection, and hot reloads.",
+            "tags": []
+          },
+          {
             "name": "vortix",
             "url": "https://github.com/Harry-kp/vortix",
             "description": "Terminal UI for WireGuard and OpenVPN with real-time telemetry, leak detection, and kill switch",
@@ -43342,12 +43348,6 @@
             "name": "ferronweb/ferron",
             "url": "https://github.com/ferronweb/ferron",
             "description": "A fast, modern web server built for production debugging.",
-            "tags": []
-          },
-          {
-            "name": "g3proxy",
-            "url": "https://github.com/bytedance/g3",
-            "description": "Forward proxy server, support Proxy Chaining, Protocol Inspection, MITM Interception, ICAP Adaptation, Transparent Proxy",
             "tags": []
           },
           {
@@ -77675,6 +77675,12 @@
         "name": "Screenshot Tools",
         "resources": [
           {
+            "name": "AInnotator",
+            "url": "https://github.com/porco-rs/ainnotator",
+            "description": "Screenshot annotation tool that turns numbered marks, notes, and redactions into one self-explaining image to paste into Claude Code, Codex, or ChatGPT, including over SSH.",
+            "tags": []
+          },
+          {
             "name": "capcap",
             "url": "https://capcap.skyrin.fun",
             "description": "Native menu bar screenshot tool with double-tap Command capture, annotation, scrolling capture, beautify, pinning, and image-host upload.",
@@ -78530,6 +78536,12 @@
             "tags": []
           },
           {
+            "name": "Tendbar",
+            "url": "https://github.com/DabuSoft-pl/tendbar",
+            "description": "Native menu bar app that shows which Claude Code sessions are done, waiting for you or failed, jumps back to the right terminal tab, and tracks usage limits for every account.",
+            "tags": []
+          },
+          {
             "name": "ThinkWatch Lite",
             "url": "https://thinkwat.ch/lite/",
             "description": "Local gateway for Claude Code, Codex, and other AI coding clients that switches upstreams without client changes, records the cost of each request, and redacts API keys before requests leave.",
@@ -78579,8 +78591,14 @@
           },
           {
             "name": "JoeBro",
-            "url": "https://github.com/joexk1/JoeBro",
+            "url": "https://joexk1.github.io/joebro/",
             "description": "Native SwiftUI workspace for chat and document editing with local models via Ollama or any API, plus memory, MCP tools, and deep research.",
+            "tags": []
+          },
+          {
+            "name": "kwant",
+            "url": "https://kwant.si",
+            "description": "Self-hosted team of AI bots in one Rust binary, with spaces, local models, handoffs and approvals.",
             "tags": []
           },
           {
@@ -81690,6 +81708,12 @@
             "tags": []
           },
           {
+            "name": "SoundLadder",
+            "url": "https://github.com/dirkkredinger/SoundLadder",
+            "description": "Menu bar app that picks the audio output from a ranked list and falls back to the next connected device automatically.",
+            "tags": []
+          },
+          {
             "name": "Spaced",
             "url": "https://sindresorhus.com/spaced",
             "description": "Organize your menu bar items into groups.",
@@ -82135,6 +82159,12 @@
             "name": "Modal File Manager",
             "url": "https://github.com/raguay/ModalFileManager/",
             "description": "Dual-pane file manager with Vim-style hotkeys and customizable extensions.",
+            "tags": []
+          },
+          {
+            "name": "neatly",
+            "url": "https://alpozaydin.github.io/neatly/",
+            "description": "AI file renamer that names downloads, screenshots and photos by their content, on-device with Apple Intelligence.",
             "tags": []
           },
           {
