@@ -13478,6 +13478,12 @@
             "tags": []
           },
           {
+            "name": "seed-poet",
+            "url": "https://github.com/abkvme/seed-poet",
+            "description": "BIP39 mnemonic generator that arranges 12 or 24-word seed phrases as rhyming couplets, with a JavaScript port that produces identical output.",
+            "tags": []
+          },
+          {
             "name": "solana-go",
             "url": "https://github.com/gagliardetto/solana-go",
             "description": "Go library to interface with Solana JSON RPC and WebSocket interfaces.",
@@ -16054,7 +16060,7 @@
           {
             "name": "go-pg-migrate",
             "url": "https://github.com/lawzava/go-pg-migrate",
-            "description": "CLI-friendly package for go-pg migrations management.",
+            "description": "PostgreSQL schema migrations for Go, with no dependencies outside the standard library.",
             "tags": []
           },
           {
@@ -18198,6 +18204,12 @@
             "tags": []
           },
           {
+            "name": "canary",
+            "url": "https://github.com/osauer/canary",
+            "description": "Clean-room client for the Interactive Brokers TWS socket protocol, in pkg/ibkr.",
+            "tags": []
+          },
+          {
             "name": "cnn-fear-and-greed-parse",
             "url": "https://github.com/wildsurfer/cnn-fear-and-greed-parse",
             "description": "Client for CNN's Fear & Greed Index with the seven component indicators and about a year of daily history.",
@@ -18440,6 +18452,12 @@
             "name": "gbind",
             "url": "https://github.com/bdjimmy/gbind",
             "description": "Bind data to any Go value. Can use built-in and custom expression binding capabilities; supports data validation",
+            "tags": []
+          },
+          {
+            "name": "go-form",
+            "url": "https://github.com/donseba/go-form",
+            "description": "Render HTML forms from Go structs with struct tags, bind and validate submissions.",
             "tags": []
           },
           {
@@ -24332,6 +24350,12 @@
             "tags": []
           },
           {
+            "name": "Quantum-Go",
+            "url": "https://github.com/sara-star-quant/Quantum-Go",
+            "description": "Post-quantum encrypted tunnels over TCP and UDP using a hybrid ML-KEM-1024 and X25519 handshake.",
+            "tags": []
+          },
+          {
             "name": "Razify",
             "url": "https://github.com/Hossiy21/razify",
             "description": "CLI to scan, validate and audit .env files for leaked secrets and environment drift.",
@@ -28270,12 +28294,6 @@
             "tags": []
           },
           {
-            "name": "gitty",
-            "url": "https://github.com/Omibranch/gitty",
-            "description": "Single-binary Git/GitHub CLI that replaces add\u2192commit\u2192push with one command; human-readable syntax, no external dependencies.",
-            "tags": []
-          },
-          {
             "name": "go-git",
             "url": "https://github.com/go-git/go-git",
             "description": "highly extensible Git implementation in pure Go.",
@@ -28439,6 +28457,12 @@
             "name": "Beego",
             "url": "https://github.com/beego/beego",
             "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+            "tags": []
+          },
+          {
+            "name": "BunGo",
+            "url": "https://github.com/piotr-nierobisz/BunGo",
+            "description": "Full-stack framework pairing Go handlers with React (JSX/TSX) views compiled by an embedded esbuild, with no Node.js toolchain required.",
             "tags": []
           },
           {
@@ -28884,6 +28908,12 @@
             "tags": []
           },
           {
+            "name": "go-router",
+            "url": "https://github.com/donseba/go-router",
+            "description": "Router on top of net/http's ServeMux with named routes, groups, mounts, host routing and middleware.",
+            "tags": []
+          },
+          {
             "name": "goblin",
             "url": "https://github.com/bmf-san/goblin",
             "description": "A golang http router based on trie tree.",
@@ -29127,8 +29157,8 @@
           },
           {
             "name": "Dagu",
-            "url": "https://github.com/dagu-go/dagu",
-            "description": "No-code workflow executor. it executes DAGs defined in a simple YAML format.",
+            "url": "https://github.com/dagucloud/dagu",
+            "description": "Workflow engine that runs DAGs of commands, containers, and HTTP calls defined in YAML.",
             "tags": []
           },
           {
@@ -30262,6 +30292,12 @@
             "name": "mq-studio",
             "url": "https://github.com/amigoer/mq-studio",
             "description": "Cross-platform desktop client for managing and monitoring RocketMQ, RabbitMQ, Kafka, Pulsar, Redis Stream, MQTT, NATS, and ActiveMQ clusters.",
+            "tags": []
+          },
+          {
+            "name": "nightingale",
+            "url": "https://github.com/ccfos/nightingale",
+            "description": "Self-hosted monitoring and alerting platform for metrics, logs, and databases.",
             "tags": []
           },
           {
@@ -32099,12 +32135,6 @@
             "name": "gocryforhelp",
             "url": "https://github.com/ninedraft/gocryforhelp",
             "description": "Collection of Go projects that needs help. Good place to start your open-source way in Go.",
-            "tags": []
-          },
-          {
-            "name": "Golang Developer Jobs",
-            "url": "https://golangjob.xyz",
-            "description": "Developer Jobs exclusively for Golang related Roles.",
             "tags": []
           },
           {
@@ -40142,6 +40172,12 @@
             "tags": []
           },
           {
+            "name": "dquigles/terminal_gameboy",
+            "url": "https://github.com/dquigles/terminal_gameboy",
+            "description": "[ terminal_gameboy ] - Game Boy and Game Boy Color emulator that runs in the terminal, with ASCII and Unicode block rendering and sound",
+            "tags": []
+          },
+          {
             "name": "Gekkio/mooneye-gb",
             "url": "https://github.com/Gekkio/mooneye-gb",
             "description": "A Game Boy research project and emulator",
@@ -40764,12 +40800,6 @@
       {
         "name": "Message Queue",
         "resources": [
-          {
-            "name": "lonewolf-io/Narwhal",
-            "url": "https://github.com/lonewolf-io/narwhal",
-            "description": "An extensible pub/sub messaging server for edge applications.",
-            "tags": []
-          },
           {
             "name": "Rmqtt",
             "url": "https://github.com/rmqtt/rmqtt",
@@ -43727,6 +43757,12 @@
             "tags": []
           },
           {
+            "name": "mokevnin/heavy",
+            "url": "https://github.com/mokevnin/heavy",
+            "description": "[ heavy ] - A machine-wide counting semaphore for heavy commands: tests, type checks and builds started by parallel coding agents and checkouts take turns instead of starving the machine",
+            "tags": []
+          },
+          {
             "name": "Muvon/octocode",
             "url": "https://github.com/Muvon/octocode",
             "description": "[ octocode ] - Semantic code indexer with GraphRAG knowledge graph and MCP server. Tree-sitter AST parsing, ast-grep structural search, LanceDB vector storage, code signatures view. CLI + MCP server modes for AI assistants like Claude/Cursor/Windsurf.",
@@ -44722,6 +44758,12 @@
             "name": "MIRAI",
             "url": "https://github.com/endorlabs/mirai",
             "description": "an abstract interpreter operating on Rust's mid-level intermediate representation (MIR)",
+            "tags": []
+          },
+          {
+            "name": "mokevnin/easement",
+            "url": "https://github.com/mokevnin/easement",
+            "description": "[ easement ] - Architecture quality gate for polyglot codebases: declare components and their allowed dependencies, and fail the build when Go, TypeScript, Python, Rust, Java or other code drifts from them",
             "tags": []
           },
           {
@@ -65025,6 +65067,12 @@
             "tags": []
           },
           {
+            "name": "sqlglot",
+            "url": "https://github.com/tobymao/sqlglot",
+            "description": "A no-dependency SQL parser, transpiler, optimizer, and engine.",
+            "tags": []
+          },
+          {
             "name": "phonenumbers",
             "url": "https://github.com/daviddrysdale/python-phonenumbers",
             "description": "Parsing, formatting, storing and validating international phone numbers.",
@@ -69164,6 +69212,12 @@
             "tags": []
           },
           {
+            "name": "CheezyPizza",
+            "url": "https://www.cheezypizza.in",
+            "description": "Send files directly between browsers using WebRTC. No uploads, no cloud storage, and no middleman. Fast, secure, peer-to-peer file sharing. Forked from file.pizza. ( Demo , Source Code ) BSD-3-Clause Docker",
+            "tags": []
+          },
+          {
             "name": "DashBeam",
             "url": "https://dashbeam.net",
             "description": "File transfer tool with peer-to-peer networking, letting you transfer any file with any size. ( Demo , Source Code ) AGPL-3.0 deb/Docker",
@@ -70904,6 +70958,12 @@
             "tags": []
           },
           {
+            "name": "RelayTV",
+            "url": "https://relaytv.app",
+            "description": "Turns a Linux box connected to a television into a local playback endpoint. Send links from a phone, browse Jellyfin or Emby libraries, play IPTV channels, and drive playback from Home Assistant or HTTP (alternative to Chromecast). ( Source Code , Clients ) GPL-3.0 Docker",
+            "tags": []
+          },
+          {
             "name": "Rygel",
             "url": "https://gnome.pages.gitlab.gnome.org/rygel/",
             "description": "UPnP AV MediaServer that allows you to easily share audio, video, and pictures. Media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. ( Source Code ) LGPL-2.1 C",
@@ -72168,7 +72228,7 @@
           },
           {
             "name": "Homer",
-            "url": "https://github.com/bastienwirtz/homer",
+            "url": "https://github.com/homer-dashboard/homer",
             "description": "Dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. ( Demo ) Apache-2.0 Docker/K8S/Nodejs",
             "tags": []
           },
@@ -75444,6 +75504,12 @@
             "tags": []
           },
           {
+            "name": "SoloPDF",
+            "url": "https://solopdf.doaipm.com",
+            "description": "Local-first PDF reader and 20-tool offline document suite where highlights become plain Markdown notes, with on-device OCR, visual blink diff, and a 56-tool MCP server.",
+            "tags": []
+          },
+          {
             "name": "Spillo",
             "url": "https://bananafishsoftware.com/products/spillo/",
             "description": "Powerful, beautiful and amazingly fast Pinboard client for OS X.",
@@ -75723,6 +75789,12 @@
       {
         "name": "Developer Utilities",
         "resources": [
+          {
+            "name": "AGASTHY",
+            "url": "https://github.com/HMAKT99/Agasthy",
+            "description": "Open-source app that maps your repos, runtimes, packages and AI coding agents into one knowledge graph, with token usage, impact analysis and safe disk cleanup.",
+            "tags": []
+          },
           {
             "name": "arowser",
             "url": "https://github.com/HankMonster/arowser",
@@ -77262,6 +77334,12 @@
             "url": "https://wezfurlong.org/wezterm/",
             "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer implemented in Rust.",
             "tags": []
+          },
+          {
+            "name": "zest",
+            "url": "https://github.com/rostik32/zest",
+            "description": "Autocomplete popup for zsh with descriptions for 1,500 commands, in Terminal.app, iTerm2, Ghostty, VS Code and Cursor.",
+            "tags": []
           }
         ]
       },
@@ -78144,6 +78222,12 @@
             "name": "Jutsu Studio",
             "url": "https://jutsustudio.com/",
             "description": "Open-source, unofficial Higgsfield client for creating AI videos and images with Seedance, Kling and Genjutsu, with every result kept on your disk.",
+            "tags": []
+          },
+          {
+            "name": "Linger",
+            "url": "https://withlinger.com/",
+            "description": "Local-first visual reference library for saving images, source links, and notes, with keyword search and collections.",
             "tags": []
           },
           {
@@ -79736,6 +79820,12 @@
             "tags": []
           },
           {
+            "name": "Memozia",
+            "url": "https://github.com/oceanix-pr/Memozia",
+            "description": "Open-source meeting recorder with on-device transcription, speaker labels, summaries, and editable action items.",
+            "tags": []
+          },
+          {
             "name": "PitchTap",
             "url": "https://github.com/gkudva96/pitchtap",
             "description": "Open-source menu bar app that changes the key of any app's audio live without changing the tempo.",
@@ -79858,6 +79948,12 @@
             "name": "Motrix",
             "url": "https://motrix.app/",
             "description": "Download manager for HTTP, FTP, BitTorrent, magnet links, and more.",
+            "tags": []
+          },
+          {
+            "name": "Multron Download Manager",
+            "url": "https://github.com/Multron-Community/Multron-Download-Manager",
+            "description": "Multi-connection download manager with yt-dlp and BitTorrent support.",
             "tags": []
           },
           {
@@ -81037,6 +81133,12 @@
             "tags": []
           },
           {
+            "name": "Copia",
+            "url": "https://geragaraza.com/apps/copia/",
+            "description": "Open-source clipboard history that keeps everything copied (text, rich text, links, colors, images, video, audio, files) and pastes several picked items at once in the order picked; a paste queue pastes copies one by one with \u2318V.",
+            "tags": []
+          },
+          {
             "name": "CopyQ",
             "url": "https://hluk.github.io/CopyQ",
             "description": "Clipboard Manager with Advanced Features.",
@@ -81249,6 +81351,12 @@
             "name": "CodexIsland",
             "url": "https://github.com/ericjypark/codex-island",
             "description": "Turns the MacBook notch into a Dynamic Island-style live activity for Claude Code and Codex CLI rate limits and spend, computed locally with no telemetry.",
+            "tags": []
+          },
+          {
+            "name": "Convrt",
+            "url": "https://github.com/atuuuuuuu/Convrt",
+            "description": "Offline menu bar file converter: hold Shift while dragging files and drop them on a wheel that only shows the formats and tools that fit them, with a command-line version.",
             "tags": []
           },
           {
@@ -82987,6 +83095,12 @@
             "tags": []
           },
           {
+            "name": "Scrollr",
+            "url": "https://github.com/atuuuuuuu/Scrollr",
+            "description": "Open-source menu bar tool that reverses scroll direction for external mice only, so the trackpad keeps natural scrolling, with an on/off switch per mouse.",
+            "tags": []
+          },
+          {
             "name": "Selectric",
             "url": "https://selectric.io/",
             "description": "Private search across email, documents, and chat apps.",
@@ -83524,6 +83638,12 @@
             "tags": []
           },
           {
+            "name": "FileMint",
+            "url": "https://github.com/FileMintApp/FileMint",
+            "description": "Native Finder extension for creating files from the right-click menu with templates; free for personal and non-commercial use.",
+            "tags": []
+          },
+          {
             "name": "FileMinutes",
             "url": "https://www.fileminutes.com/",
             "description": "Find files and take actions, all in one.",
@@ -83700,6 +83820,12 @@
             "name": "Lunar",
             "url": "https://lunar.fyi/",
             "description": "Help you adujst brightness, contrast and volumn of your external display.",
+            "tags": []
+          },
+          {
+            "name": "NotificationNanny",
+            "url": "https://chessper53.github.io/NotificationNanny/",
+            "description": "Moves and restyles notification banners and can replace the Notification Center panel with a customizable one.",
             "tags": []
           },
           {
