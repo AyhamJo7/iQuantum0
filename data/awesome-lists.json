@@ -80654,6 +80654,12 @@
             "tags": []
           },
           {
+            "name": "Meridian",
+            "url": "https://undermove.github.io/meridian-browser/",
+            "description": "Open-source Arc-style browser on Chromium with spaces, pinned tabs, a command bar, one-click Arc and Chrome import, and a built-in MCP server for AI agents.",
+            "tags": []
+          },
+          {
             "name": "Microsoft Edge",
             "url": "https://www.microsoft.com/edge",
             "description": "Microsoft Edge, based on Chromium, but built by MS",
@@ -81398,7 +81404,7 @@
           {
             "name": "Copia",
             "url": "https://geragaraza.com/apps/copia/",
-            "description": "Open-source clipboard history that keeps everything copied (text, rich text, links, colors, images, video, audio, files) and pastes several picked items at once in the order picked; a paste queue pastes copies one by one with \u2318V.",
+            "description": "Clipboard manager that keeps every copy and pastes several at once or one by one.",
             "tags": []
           },
           {
@@ -81722,6 +81728,12 @@
             "name": "Dato",
             "url": "https://sindresorhus.com/dato",
             "description": "A better menu bar clock with calendar, events, and time zones.",
+            "tags": []
+          },
+          {
+            "name": "Deskbridge",
+            "url": "https://getdeskbridge.com",
+            "description": "Menu bar app that opens a Samsung Galaxy phone's DeX desktop in a Mac window over USB or Wi-Fi, with phone apps in their own windows, call banners and notifications.",
             "tags": []
           },
           {
@@ -82685,6 +82697,12 @@
             "name": "Deskmark",
             "url": "https://apps.apple.com/app/Deskmark/6755948110?platform=mac",
             "description": "Add watermarks to the desktop, ideal for recording videos.",
+            "tags": []
+          },
+          {
+            "name": "Driftwall",
+            "url": "https://driftwall.kamaldhital.com",
+            "description": "Play any video file as a looping live wallpaper behind your desktop icons, on every display.",
             "tags": []
           },
           {
