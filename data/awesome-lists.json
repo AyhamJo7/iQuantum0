@@ -13179,6 +13179,12 @@
             "tags": []
           },
           {
+            "name": "authula",
+            "url": "https://github.com/Authula/authula",
+            "description": "Authentication library and standalone auth server that can be embedded in a Go app or run as a service.",
+            "tags": []
+          },
+          {
             "name": "branca",
             "url": "https://github.com/essentialkaos/branca",
             "description": "branca token specification implementation for Golang 1.15+.",
@@ -16931,6 +16937,12 @@
             "name": "goes",
             "url": "https://github.com/OwnLocal/goes",
             "description": "Library to interact with Elasticsearch.",
+            "tags": []
+          },
+          {
+            "name": "riot",
+            "url": "https://github.com/vcaesar/riot",
+            "description": "Simple and fast text and vector index engine.",
             "tags": []
           },
           {
@@ -21236,6 +21248,12 @@
             "tags": []
           },
           {
+            "name": "goncordia",
+            "url": "https://github.com/kirimatt/goncordia",
+            "description": "Background job queue on the database you already use (Postgres, MySQL, SQLite, MongoDB, Redis and more), with transactional enqueue and typed futures.",
+            "tags": []
+          },
+          {
             "name": "gopush-cluster",
             "url": "https://github.com/Terry-Mao/gopush-cluster",
             "description": "gopush-cluster is a go push server cluster.",
@@ -23769,6 +23787,12 @@
             "tags": []
           },
           {
+            "name": "capigraph",
+            "url": "https://github.com/capillariesio/capigraph",
+            "description": "Go library for visualizing DAGs using Sugiyama-style (layered, hierarchical) technique.",
+            "tags": []
+          },
+          {
             "name": "chart",
             "url": "https://github.com/vdobler/chart",
             "description": "Simple Chart Plotting library for Go. Supports many graphs types.",
@@ -24149,6 +24173,12 @@
             "name": "dotlock",
             "url": "https://github.com/ahmadraza100/dotlock",
             "description": "Encrypted .env vault manager with interactive TUI for managing secrets across multiple environments and profiles.",
+            "tags": []
+          },
+          {
+            "name": "embargo",
+            "url": "https://github.com/nao1215/embargo",
+            "description": "Detect and mask personal data, payment data and secrets in Go logs, errors and traces.",
             "tags": []
           },
           {
@@ -41431,6 +41461,12 @@
             "tags": []
           },
           {
+            "name": "stevyhacker/LokalBot",
+            "url": "https://github.com/stevyhacker/LokalBot",
+            "description": "Private local-first meeting notes (no bot), dictation, inline autocomplete, screen recall, and read-only MCP server with a native Rust + GPUI desktop app for Linux and Windows.",
+            "tags": []
+          },
+          {
             "name": "sunerpy/voltip",
             "url": "https://github.com/sunerpy/voltip",
             "description": "Push-to-talk dictation for Windows, macOS, Linux and Android with on-device speech recognition (Qwen3-ASR, SenseVoice) or cloud providers, built with Tauri",
@@ -43775,6 +43811,12 @@
             "tags": []
           },
           {
+            "name": "HyunSeob/iphone-cli",
+            "url": "https://github.com/HyunSeob/iphone-cli",
+            "description": "[ iphone-cli ] - Single-binary CLI and MCP server letting AI agents read and operate apps on a real iPhone (iOS 27+) via the accessibility tree without Xcode or WebDriverAgent.",
+            "tags": []
+          },
+          {
             "name": "intelli-shell",
             "url": "https://github.com/lasantosr/intelli-shell",
             "description": "Bookmark commands with placeholders and search or autocomplete at any time",
@@ -44889,6 +44931,12 @@
             "name": "BayesWitnesses/m2cgen",
             "url": "https://github.com/BayesWitnesses/m2cgen",
             "description": "A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies.",
+            "tags": []
+          },
+          {
+            "name": "erkamyaman/rust-anything",
+            "url": "https://github.com/erkamyaman/rust-anything",
+            "description": "[ rust-anything ] - Ports TypeScript, Python, C, Go, Ruby and Java apps to Rust piece by piece, checking each piece against the recorded behavior of the original.",
             "tags": []
           },
           {
@@ -46343,6 +46391,12 @@
             "name": "andoriyu/uclicious",
             "url": "https://github.com/andoriyu/uclicious",
             "description": "[ uclicious ] - libUCL based feature-rich configuration library.",
+            "tags": []
+          },
+          {
+            "name": "hyperi-io/scalo-rs",
+            "url": "https://github.com/hyperi-io/scalo-rs",
+            "description": "[ scalo ] - Runtime for Rust services. It has layered config, redacted structured logs and health probes. It supports Prometheus and OpenTelemetry metrics. Its transports are Kafka, gRPC and HTTP.",
             "tags": []
           },
           {
@@ -76935,6 +76989,12 @@
             "tags": []
           },
           {
+            "name": "Inquiline",
+            "url": "https://github.com/inquiline-app/inquiline",
+            "description": "Runs real Android 15 on Apple Silicon and turns each Android app into its own Mac app, with Gemini over any app, Android widgets on the desktop and per-app ad blocking.",
+            "tags": []
+          },
+          {
             "name": "Mac Android Subsystem",
             "url": "https://harkhowalia-1.github.io/MacSubsystemForAndroid/",
             "description": "Run Android apps on Apple Silicon, each in its own Mac window with its own Dock icon.",
@@ -82473,6 +82533,12 @@
             "tags": []
           },
           {
+            "name": "DropKeeper",
+            "url": "https://direcat.net/dropkeeper/",
+            "description": "Open-source app that gives every new download an expiry and moves expired files to the Trash, with Undo.",
+            "tags": []
+          },
+          {
             "name": "eZip",
             "url": "https://ezip.awehunt.com",
             "description": "Lightweight archive tool for ZIP, RAR, 7Z, and other common formats.",
@@ -82554,6 +82620,12 @@
             "name": "Unarchive One",
             "url": "https://cleanerone.trendmicro.com/unarchiver-one/?utm_source=github&utm_medium=referral&utm_campaign=githubproject",
             "description": "Archive utility for extracting and compressing many common formats.",
+            "tags": []
+          },
+          {
+            "name": "WhimsyDesk",
+            "url": "https://whimsydesk.art",
+            "description": "Real-feeling desktop objects (a fridge, a drawer, a post box, a vending machine) that hold your files and put them back where they were.",
             "tags": []
           },
           {
@@ -91049,6 +91121,12 @@
             "tags": []
           },
           {
+            "name": "RapidProto",
+            "url": "https://github.com/VeaaC/rapidproto",
+            "description": "A fast Protocol Buffers decoder generator for C++ and Rust. [Apache-2.0]",
+            "tags": []
+          },
+          {
             "name": "SimpleBinaryEncoding",
             "url": "https://github.com/real-logic/simple-binary-encoding",
             "description": "encoding and decoding application messages in binary format for low-latency applications. [Apache2]",
@@ -92855,6 +92933,29 @@
             "name": "Uncrustify",
             "url": "https://github.com/uncrustify/uncrustify",
             "description": "Code beautifier.",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Formal Verification",
+        "resources": [
+          {
+            "name": "CppVerify",
+            "url": "https://swayaminsync.github.io/cpp-verify/",
+            "description": "Extending C++ to support Program Verification using SMT solvers. [Apache2]",
+            "tags": []
+          },
+          {
+            "name": "Frama-Clang",
+            "url": "https://frama-c.com/fc-plugins/frama-clang.html",
+            "description": "C++ front-end to Frama-C , based on the clang compiler. [LGPL]",
+            "tags": []
+          },
+          {
+            "name": "ESBMC",
+            "url": "https://esbmc.github.io/",
+            "description": "The efficient SMT-based context-bounded model checker (ESBMC). [Apache2/BSD-4-Clause]",
             "tags": []
           }
         ]
