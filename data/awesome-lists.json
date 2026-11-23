@@ -222,6 +222,12 @@
             "tags": []
           },
           {
+            "name": "localixai/localix-cli",
+            "url": "https://github.com/localixai/localix-cli",
+            "description": "A terminal coding agent and agent runtime for CI and scripts, on any hosted or local model; one binary, command llx",
+            "tags": []
+          },
+          {
             "name": "lthoangg/openagentd",
             "url": "https://github.com/lthoangg/openagentd",
             "description": "A local coding agent as a desktop app (Tauri) and CLI with a native Rust backend; shows every tool call, diff and shell command, and works with your own model keys or local models",
@@ -2550,12 +2556,6 @@
             "tags": []
           },
           {
-            "name": "ipavlin98/traydex",
-            "url": "https://github.com/ipavlin98/traydex",
-            "description": "Native drag-and-drop shelf for Windows built with GPUI: keep files, images, text and links at hand, or drop them on tiles to zip, convert, OCR and upload",
-            "tags": []
-          },
-          {
             "name": "iwe-org/iwe",
             "url": "https://github.com/iwe-org/iwe",
             "description": "[ iwe ] - A markdown-based knowledge management tool with LSP server and CLI",
@@ -3049,12 +3049,6 @@
             "name": "rustscan",
             "url": "https://github.com/bee-san/RustScan",
             "description": "Make Nmap faster with this port scanning tool",
-            "tags": []
-          },
-          {
-            "name": "santhreal/keyhog",
-            "url": "https://github.com/santhreal/keyhog",
-            "description": "[ keyhog ] - Detects leaked credentials and API keys across source trees, git history, archives, and remote sources, with live verification of found secrets",
             "tags": []
           },
           {
@@ -3801,6 +3795,12 @@
             "name": "Ferrite",
             "url": "https://github.com/OlaProeis/Ferrite",
             "description": "A cross-platform markdown editor built with egui, featuring live preview, syntax highlighting, and mermaid diagrams.",
+            "tags": []
+          },
+          {
+            "name": "FluxCode",
+            "url": "https://github.com/MuaraAI/FluxCode",
+            "description": "A lightweight native code editor for Windows, macOS and Linux built on GPUI (~50 ms startup, 1.4 MB idle RAM) with an integrated AI agent workspace (ACP), Git, and Python terminal.",
             "tags": []
           },
           {
@@ -4805,6 +4805,12 @@
             "tags": []
           },
           {
+            "name": "holon-run/holon",
+            "url": "https://github.com/holon-run/holon",
+            "description": "[ holon ] - Local-first Rust workbench for always-on AI agents with explicit work items, event-driven wait/wake, and isolated git worktrees.",
+            "tags": []
+          },
+          {
             "name": "julianosig/easi.run",
             "url": "https://github.com/julianosig/easi.run",
             "description": "Self-hosted Chrome for AI agents via MCP/REST, with live viewing and human takeover. AGPL-3.0-only.",
@@ -4993,6 +4999,12 @@
             "name": "fzf-make",
             "url": "https://github.com/kyu08/fzf-make",
             "description": "[ fzf-make ] - A command line tool that executes make target using fuzzy finder with preview window.",
+            "tags": []
+          },
+          {
+            "name": "gbenm/fire",
+            "url": "https://github.com/gbenm/fire",
+            "description": "[ fire-cli ] - Config-first task runner: YAML commands with dynamic shell completion, detachable pty sessions, and an MCP server so AI agents run your project's commands",
             "tags": []
           },
           {
@@ -6728,6 +6740,18 @@
             "name": "pdeljanov/Symphonia",
             "url": "https://github.com/pdeljanov/Symphonia",
             "description": "Audio decoding and media demuxing library supporting AAC, FLAC, MP3, MP4, OGG, Vorbis, and WAV.",
+            "tags": []
+          },
+          {
+            "name": "Remade-With-Rust/rusty-opus",
+            "url": "https://github.com/Remade-With-Rust/rusty-opus",
+            "description": "[ rusty-opus ] - Pure-Rust Opus audio codec (RFC 6716): encoder and decoder.",
+            "tags": []
+          },
+          {
+            "name": "Remade-With-Rust/rusty_flac",
+            "url": "https://github.com/Remade-With-Rust/rusty_flac",
+            "description": "[ rusty_flac ] - Pure-Rust FLAC encoder and decoder.",
             "tags": []
           },
           {
@@ -9582,6 +9606,18 @@
             "tags": []
           },
           {
+            "name": "Remade-With-Rust/rusty_dds",
+            "url": "https://github.com/Remade-With-Rust/rusty_dds",
+            "description": "[ rusty_dds ] - Pure-Rust DDS texture toolkit: container parse, decode, encode, and GPU upload plans.",
+            "tags": []
+          },
+          {
+            "name": "Remade-With-Rust/rusty_jpeg",
+            "url": "https://github.com/Remade-With-Rust/rusty_jpeg",
+            "description": "[ rusty_jpeg ] - Pure-Rust JPEG/MJPEG decoder and encoder.",
+            "tags": []
+          },
+          {
             "name": "rust-cv/cv",
             "url": "https://github.com/rust-cv/cv",
             "description": "Implement computer vision algorithms, abstractions, and systems. #[no_std] is supported where possible.",
@@ -9718,6 +9754,17 @@
             "name": "insomnimus/tidier",
             "url": "https://github.com/insomnimus/tidier",
             "description": "[ tidier ] - A library to format HTML, XHTML and XML documents.",
+            "tags": []
+          }
+        ]
+      },
+      {
+        "name": "Memory management",
+        "resources": [
+          {
+            "name": "Remade-With-Rust/rusty_alloc",
+            "url": "https://github.com/Remade-With-Rust/rusty_alloc",
+            "description": "[ rusty_alloc ] - Pure-Rust allocator (a remake of mimalloc) with a no_std core.",
             "tags": []
           }
         ]
@@ -9953,12 +10000,6 @@
             "tags": []
           },
           {
-            "name": "b23r0/rust-raknet",
-            "url": "https://github.com/b23r0/rust-raknet",
-            "description": "RakNet Protocol implementation",
-            "tags": []
-          },
-          {
             "name": "remoc-rs/remoc",
             "url": "https://github.com/remoc-rs/remoc",
             "description": "[ remoc ] - Remoc provides channels (broadcast, mpsc, oneshot, watch) similar to Tokio's and trait calling over any remote transport.",
@@ -10111,6 +10152,12 @@
             "name": "Marwes/combine",
             "url": "https://github.com/Marwes/combine",
             "description": "parser combinator library",
+            "tags": []
+          },
+          {
+            "name": "Mattbusel/remoteid",
+            "url": "https://github.com/Mattbusel/remoteid",
+            "description": "[ remoteid ] - no_std decoder for ASTM F3411 / ASD-STAN drone Remote ID broadcast frames (Bluetooth and Wi-Fi), with DRIP authentication (RFC 9575) checks.",
             "tags": []
           },
           {
@@ -10782,6 +10829,24 @@
             "name": "ffmpeg-sidecar",
             "url": "https://github.com/nathanbabcock/ffmpeg-sidecar",
             "description": "Wrap a standalone FFmpeg binary in an intuitive Iterator interface.",
+            "tags": []
+          },
+          {
+            "name": "Remade-With-Rust/remade_ffmpeg_rs",
+            "url": "https://github.com/Remade-With-Rust/remade_ffmpeg_rs",
+            "description": "[ rff-core ] - Ground-up Rust remake of FFmpeg for decode, encode, transcode, mux, and probe.",
+            "tags": []
+          },
+          {
+            "name": "Remade-With-Rust/rusty_h264",
+            "url": "https://github.com/Remade-With-Rust/rusty_h264",
+            "description": "[ rusty_h264 ] - Pure-Rust H.264 encoder and decoder.",
+            "tags": []
+          },
+          {
+            "name": "Remade-With-Rust/rusty_h265",
+            "url": "https://github.com/Remade-With-Rust/rusty_h265",
+            "description": "[ rusty_h265 ] - Pure-Rust HEVC / H.265 video decoder.",
             "tags": []
           },
           {
@@ -12664,6 +12729,12 @@
             "tags": []
           },
           {
+            "name": "codex-sdk-go",
+            "url": "https://github.com/pmenglund/codex-sdk-go",
+            "description": "Go SDK for the OpenAI Codex app-server with streaming, approval callbacks, and structured output.",
+            "tags": []
+          },
+          {
             "name": "crewai-go",
             "url": "https://github.com/rhgs/crewai-go",
             "description": "Idiomatic Go port of CrewAI (multi-agent orchestration). Zero dependencies, stdlib only.",
@@ -12721,6 +12792,12 @@
             "name": "jargo",
             "url": "https://github.com/gojargo/jargo",
             "description": "Framework for building real-time voice AI agents over WebRTC, wiring speech-to-text, LLMs, and text-to-speech into a streaming pipeline.",
+            "tags": []
+          },
+          {
+            "name": "KafClaw",
+            "url": "https://github.com/KafClaw/KafClaw",
+            "description": "Agent runtime that connects AI agents through Kafka topics, with groups, an orchestrator, shared memory and skill routing.",
             "tags": []
           },
           {
@@ -13487,15 +13564,15 @@
             "tags": []
           },
           {
-            "name": "mage",
-            "url": "https://github.com/magefile/mage",
-            "description": "Mage is a make/rake-like build tool using Go.",
+            "name": "grog",
+            "url": "https://github.com/chrismatix/grog",
+            "description": "Language-agnostic monorepo build tool with caching and parallel execution.",
             "tags": []
           },
           {
-            "name": "mmake",
-            "url": "https://github.com/tj/mmake",
-            "description": "Modern Make.",
+            "name": "mage",
+            "url": "https://github.com/magefile/mage",
+            "description": "Mage is a make/rake-like build tool using Go.",
             "tags": []
           },
           {
@@ -18843,6 +18920,12 @@
       {
         "name": "Goroutines",
         "resources": [
+          {
+            "name": "agilePool",
+            "url": "https://github.com/Yiming1997/agilePool",
+            "description": "Goroutine pool with adaptive worker scaling, bounded concurrency, and overflow task buffering.",
+            "tags": []
+          },
           {
             "name": "anchor",
             "url": "https://github.com/kyuff/anchor",
@@ -28724,6 +28807,12 @@
             "name": "alien",
             "url": "https://github.com/gernest/alien",
             "description": "Lightweight and fast http router from outer space.",
+            "tags": []
+          },
+          {
+            "name": "apex",
+            "url": "https://github.com/vroomy/apex",
+            "description": "High-performance, zero-allocation HTTP router with trie-based routing and SIMD-accelerated path matching.",
             "tags": []
           },
           {
@@ -47894,6 +47983,12 @@
             "tags": []
           },
           {
+            "name": "Traycer",
+            "url": "https://traycer.ai",
+            "description": "Open-source desktop app that runs 22 coding agents and model providers in parallel from one shared plan.",
+            "tags": []
+          },
+          {
             "name": "Visual Studio Code",
             "url": "https://code.visualstudio.com/",
             "description": "Microsoft's free & open-source editor, TypeScript friendly, VSCode Plugins .",
@@ -49457,6 +49552,12 @@
             "tags": []
           },
           {
+            "name": "Localix Terminal",
+            "url": "https://terminal.localix.ai",
+            "description": "Native terminal for you and your coding agents, with project sessions that come back as you left them and a browser and board beside them.",
+            "tags": []
+          },
+          {
             "name": "SSHFire",
             "url": "https://github.com/aralozaltin/sshfire",
             "description": "Cross-platform SSH client with a terminal, a session manager and an SFTP browser that follows the current directory.",
@@ -50009,6 +50110,12 @@
             "name": "Photon",
             "url": "https://www.piedol.top/photon/",
             "description": "Open-source screenshot, markup and screen recording tool for macOS and Windows, with no network code.",
+            "tags": []
+          },
+          {
+            "name": "Pinstill",
+            "url": "https://pinstill.echovic.com/en/",
+            "description": "Open-source screenshot tool that marks up the selection in place, then copies, saves or pins the shot to your desktop.",
             "tags": []
           },
           {
@@ -50801,6 +50908,12 @@
             "tags": []
           },
           {
+            "name": "Hush",
+            "url": "https://github.com/OgnjenAdzic28/hush",
+            "description": "Open-source CLI and MCP server that lets AI agents drive any Mac app in the background at about 178 ms per action, without taking focus or moving your pointer.",
+            "tags": []
+          },
+          {
             "name": "o8",
             "url": "https://o8.run",
             "description": "Open-source desktop app that reviews coding agents' work, sends it back until it passes, and merges it.",
@@ -50898,8 +51011,8 @@
           },
           {
             "name": "JoeBro",
-            "url": "https://joexk1.github.io/joebro/",
-            "description": "Native SwiftUI workspace for chat and document editing with local models via Ollama or any API, plus memory, MCP tools, and deep research.",
+            "url": "https://joebro.pages.dev",
+            "description": "Native SwiftUI workspace for coding agents (Claude Code, Codex, OpenCode) with your files open beside them, shared memory over MCP, overnight tasks, and local or API models.",
             "tags": []
           },
           {
@@ -52734,6 +52847,12 @@
             "tags": []
           },
           {
+            "name": "Pilion",
+            "url": "https://pilion.echovic.com/en/",
+            "description": "Open-source browser that lets Claude Code, Codex and other ACP agents drive your signed-in tabs over MCP, with approvals and one-click takeover.",
+            "tags": []
+          },
+          {
             "name": "qutebrowser",
             "url": "https://www.qutebrowser.org/",
             "description": "A keyboard-driven, vim-like browser based on Python and Qt.",
@@ -53416,6 +53535,12 @@
             "tags": []
           },
           {
+            "name": "ClipHat",
+            "url": "https://github.com/getguruhat/cliphat-macos",
+            "description": "Free clipboard history manager with search, pins and \u2318\u21e7V restore for text, links, images and files, stored locally.",
+            "tags": []
+          },
+          {
             "name": "ClipHistory",
             "url": "https://github.com/weiykong/ClipHistory",
             "description": "Lightweight native clipboard manager with instant hotkey popup, search, pinning, and text/image history.",
@@ -53600,6 +53725,12 @@
       {
         "name": "Menu Bar Tools",
         "resources": [
+          {
+            "name": "Iris",
+            "url": "https://harshwardhangalande.github.io/Iris/",
+            "description": "Native 20-20-20 rule eye-care & break reminder with liquid glass UI, planned routines and Force Touch trackpad haptics.",
+            "tags": []
+          },
           {
             "name": "AgentBar",
             "url": "https://github.com/michalstrnadel/AgentBar",
@@ -53892,6 +54023,12 @@
             "name": "ILoveNotch",
             "url": "https://github.com/niyamvora/ILoveNotch",
             "description": "Turns the MacBook notch into a tray for media, files, calendar, reminders, notes, and timers.",
+            "tags": []
+          },
+          {
+            "name": "InputBattery",
+            "url": "https://github.com/dirkkredinger/InputBattery",
+            "description": "Battery levels of Bluetooth keyboards, mice, headsets and AirPods in the menu bar and a desktop widget, with a warning before they run empty.",
             "tags": []
           },
           {
@@ -54413,6 +54550,12 @@
             "name": "Cleaner for Xcode",
             "url": "https://github.com/waylybaye/XcodeCleaner-SwiftUI",
             "description": "Remove unwanted Xcode files.",
+            "tags": []
+          },
+          {
+            "name": "Cleanzo",
+            "url": "https://cleanzo.echovic.com/en/",
+            "description": "Open-source cleaner for macOS and Windows that shows system and disk usage, then clears caches, large files and idle build output after review.",
             "tags": []
           },
           {
@@ -54942,6 +55085,12 @@
             "tags": []
           },
           {
+            "name": "Terento",
+            "url": "https://terento.app",
+            "description": "Install free maps on Garmin watches and Edge bike computers.",
+            "tags": []
+          },
+          {
             "name": "Ultra TabSaver",
             "url": "https://github.com/Swift-open-source/UltraTabSaver",
             "description": "The Open Source Tab Manager for Safari",
@@ -55414,6 +55563,12 @@
             "tags": []
           },
           {
+            "name": "OpenGestures",
+            "url": "https://github.com/01wil/OpenGestures",
+            "description": "Open-source trackpad gestures mapped to window, app, shortcut, and script actions.",
+            "tags": []
+          },
+          {
             "name": "OpenIn",
             "url": "https://loshadki.app/openin4/",
             "description": "Take control of installed apps on your Mac",
@@ -55609,6 +55764,12 @@
             "name": "Trello",
             "url": "https://trello.com",
             "description": "A collaboration tool that organizes your projects into Kanban boards.",
+            "tags": []
+          },
+          {
+            "name": "TripleClick",
+            "url": "https://github.com/wilu222/tripleclick",
+            "description": "Open-source menu bar tool that turns a three-finger trackpad click into a middle click, with optional middle-drag.",
             "tags": []
           },
           {
@@ -56265,6 +56426,12 @@
             "name": "NotificationNanny",
             "url": "https://chessper53.github.io/NotificationNanny/",
             "description": "Moves and restyles notification banners and can replace the Notification Center panel with a customizable one.",
+            "tags": []
+          },
+          {
+            "name": "Pokelet",
+            "url": "https://smcnab1.github.io/pokelet/",
+            "description": "A playful, lightweight macOS app that brings your cursor to life with animated characters, click effects and sounds.",
             "tags": []
           },
           {
@@ -59687,12 +59854,6 @@
             "name": "Aptabase",
             "url": "https://aptabase.com/",
             "description": "Privacy first and simple analytics for mobile and desktop apps. ( Source Code ) AGPL-3.0 Docker",
-            "tags": []
-          },
-          {
-            "name": "AWStats",
-            "url": "http://www.awstats.org/",
-            "description": "Generate statistics from web, streaming, ftp or mail server logfiles. ( Demo , Source Code ) GPL-3.0 Perl",
             "tags": []
           },
           {
