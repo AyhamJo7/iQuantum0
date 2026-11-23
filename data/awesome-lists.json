@@ -48126,6 +48126,12 @@
             "tags": []
           },
           {
+            "name": "ContextRing",
+            "url": "https://github.com/vladsboev-web/ContextRing",
+            "description": "Native macOS floating context ring and menu bar token monitor for Google Antigravity 2.0, with local context breakdown and 24h/7d stats.",
+            "tags": []
+          },
+          {
             "name": "CubicBezier",
             "url": "https://github.com/isaced/CubicBezier",
             "description": "CubicBezier Generator for macOS.",
@@ -52028,6 +52034,12 @@
             "name": "SoundCloud for macOS",
             "url": "https://github.com/jettsba/SoundCloud-for-macOS",
             "description": "Unofficial lightweight SoundCloud app for macOS.",
+            "tags": []
+          },
+          {
+            "name": "SpatialAudio",
+            "url": "https://github.com/vladsboev-web/SpatialAudio",
+            "description": "System-wide Apple HRTFHQ spatial soundstage and speaker virtualization for any headphones in the menu bar.",
             "tags": []
           },
           {
@@ -56818,6 +56830,12 @@
             "tags": []
           },
           {
+            "name": "TurboControl",
+            "url": "https://github.com/vladsboev-web/TurboControl",
+            "description": "Lightweight menu bar utility for Intel Macs: 1-click Intel Turbo Boost toggle, fan speed control, and live CPU/GPU thermal monitoring.",
+            "tags": []
+          },
+          {
             "name": "TimeMachineEjector",
             "url": "https://github.com/wata/TimeMachineEjector",
             "description": "Menu bar app that ejects your Time Machine backup disk when a backup finishes and mounts it again when a scheduled backup is due.",
@@ -56957,6 +56975,12 @@
             "name": "Glass",
             "url": "https://glassdesk.dev",
             "description": "Low-latency remote desktop for Mac and Linux that you view from any browser, with nothing to install on the viewing device.",
+            "tags": []
+          },
+          {
+            "name": "Hop",
+            "url": "https://sercanatalik.github.io/hop-remote-launcher/",
+            "description": "Tiny menu-bar launcher for remote Macs, Tailscale discovery, Screen Sharing, and SSH.",
             "tags": []
           },
           {
