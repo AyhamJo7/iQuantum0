@@ -47869,6 +47869,12 @@
         "name": "IDEs",
         "resources": [
           {
+            "name": "Alook",
+            "url": "https://alook.ai/",
+            "description": "Open-source, local-first group chat where people and coding agents such as Claude Code and Codex work together in shared rooms.",
+            "tags": []
+          },
+          {
             "name": "Android Studio",
             "url": "https://developer.android.com/studio/index.html",
             "description": "The official IDE for Android, based on Intellij IDEA.",
