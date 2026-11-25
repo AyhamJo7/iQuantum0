@@ -9165,15 +9165,15 @@
         "name": "Graphics",
         "resources": [
           {
-            "name": "redox-os/rusttype",
-            "url": "https://github.com/redox-os/rusttype",
-            "description": "Alternative to libraries like FreeType",
+            "name": "harfbuzz/harfrust",
+            "url": "https://github.com/harfbuzz/harfrust",
+            "description": "[ harfrust ] - A port of HarfBuzz's text shaping engine to Rust",
             "tags": []
           },
           {
-            "name": "rustybuzz",
-            "url": "https://github.com/harfbuzz/rustybuzz",
-            "description": "An incremental harfbuzz port",
+            "name": "redox-os/rusttype",
+            "url": "https://github.com/redox-os/rusttype",
+            "description": "Alternative to libraries like FreeType",
             "tags": []
           },
           {
@@ -13523,12 +13523,6 @@
             "tags": []
           },
           {
-            "name": "TG",
-            "url": "https://github.com/enetx/tg",
-            "description": "Telegram Bot Framework for Go.",
-            "tags": []
-          },
-          {
             "name": "wayback",
             "url": "https://github.com/wabarc/wayback",
             "description": "A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.",
@@ -15078,12 +15072,6 @@
             "name": "count-min-log",
             "url": "https://github.com/seiflotfy/count-min-log",
             "description": "Go implementation Count-Min-Log sketch: Approximately counting with approximate counters (Like Count-Min sketch but using less memory).",
-            "tags": []
-          },
-          {
-            "name": "FSM",
-            "url": "https://github.com/enetx/fsm",
-            "description": "FSM for Go.",
             "tags": []
           },
           {
@@ -18292,6 +18280,12 @@
             "tags": []
           },
           {
+            "name": "openbymadata",
+            "url": "https://github.com/carvalab/openbymadata",
+            "description": "Client for the BYMA (Buenos Aires stock exchange) Open Data API with stocks, CEDEARs, bonds, options, quotes and historical OHLCV.",
+            "tags": []
+          },
+          {
             "name": "orderbook",
             "url": "https://github.com/i25959341/orderbook",
             "description": "Matching Engine for Limit Order Book in Golang.",
@@ -18467,12 +18461,6 @@
             "name": "FuncFrog",
             "url": "https://github.com/koss-null/FuncFrog",
             "description": "Functional helpers library providing Map, Filter, Reduce and other stream operations on generic slices Go1.18+ with lazy evaluation and error handling mechanisms.",
-            "tags": []
-          },
-          {
-            "name": "g",
-            "url": "https://github.com/enetx/g",
-            "description": "Functional programming framework for Go.",
             "tags": []
           },
           {
@@ -21234,6 +21222,12 @@
             "tags": []
           },
           {
+            "name": "KafScale",
+            "url": "https://github.com/KafScale/platform",
+            "description": "Kafka-compatible streaming platform with stateless brokers that store data in S3.",
+            "tags": []
+          },
+          {
             "name": "kiln",
             "url": "https://github.com/rafaelaugustos/kiln",
             "description": "Persistent background jobs in PostgreSQL, MySQL or SQLite, with retries, workflows, recurring jobs and a dashboard.",
@@ -21652,6 +21646,12 @@
             "name": "go-rest-api-boilerplate",
             "url": "https://github.com/vahiiiid/go-rest-api-boilerplate",
             "description": "AI-friendly, production-ready Go REST API boilerplate with clean architecture, JWT authentication, RBAC, PostgreSQL, Docker hot-reload, and Swagger documentation.",
+            "tags": []
+          },
+          {
+            "name": "go-rest-template",
+            "url": "https://github.com/antoniopaya22/go-rest-template",
+            "description": "REST API template with chi, an OpenAPI 3.1 contract, JWT authentication, PostgreSQL or SQLite, and an init tool that removes the features you do not need.",
             "tags": []
           },
           {
@@ -23196,12 +23196,6 @@
             "name": "sling",
             "url": "https://github.com/dghubble/sling",
             "description": "Sling is a Go HTTP client library for creating and sending API requests.",
-            "tags": []
-          },
-          {
-            "name": "surf",
-            "url": "https://github.com/enetx/surf",
-            "description": "Advanced HTTP client with HTTP/1.1, HTTP/2, HTTP/3 (QUIC), SOCKS5 proxy support and browser-grade TLS fingerprinting.",
             "tags": []
           },
           {
@@ -28191,6 +28185,12 @@
             "tags": []
           },
           {
+            "name": "shak",
+            "url": "https://github.com/yashx/shak",
+            "description": "Type-safe validation built from generic, composable rule functions, without reflection or struct tags.",
+            "tags": []
+          },
+          {
             "name": "validate",
             "url": "https://github.com/gookit/validate",
             "description": "Go package for data validation and filtering. support validate Map, Struct, Request(Form, JSON, url.Values, Uploaded Files) data and more features.",
@@ -30661,6 +30661,12 @@
             "name": "go-peerflix",
             "url": "https://github.com/Sioro-Neoku/go-peerflix",
             "description": "Video streaming torrent client.",
+            "tags": []
+          },
+          {
+            "name": "go-smart-proxy",
+            "url": "https://github.com/apeironlab/go-smart-proxy",
+            "description": "Local HTTP and SOCKS5 proxy that routes by network, destination rules and proxy chains, built for working behind NTLM proxies.",
             "tags": []
           },
           {
@@ -47477,6 +47483,12 @@
             "tags": []
           },
           {
+            "name": "Meboki",
+            "url": "https://meboki.com",
+            "description": "Open-source grammar checker that runs a local model on your Mac and fixes text in any app.",
+            "tags": []
+          },
+          {
             "name": "Retrotype",
             "url": "https://retrotype.ink/",
             "description": "A fun and minimalist writing app that feels like a real typewriter.",
@@ -51755,6 +51767,12 @@
             "tags": []
           },
           {
+            "name": "CutVoke",
+            "url": "https://github.com/frankShan001/CutVoke",
+            "description": "Open-source, local-first video editor with a built-in MCP server, so AI agents and you edit the same multi-track timeline.",
+            "tags": []
+          },
+          {
             "name": "DaVinci Resolve",
             "url": "https://www.blackmagicdesign.com/products/davinciresolve/",
             "description": "Free, cross-platform video editing, color grading, video effects and audio editing software.",
@@ -52671,6 +52689,12 @@
             "name": "buzz",
             "url": "https://github.com/chidiwilliams/buzz",
             "description": "Transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+            "tags": []
+          },
+          {
+            "name": "Cue",
+            "url": "https://heycue.io",
+            "description": "Desktop AI assistant for voice typing, meeting transcription, and supported agent tasks using context you provide.",
             "tags": []
           },
           {
@@ -54023,6 +54047,12 @@
             "name": "Bye AppQuit",
             "url": "https://github.com/designsbymuzeer/Bye-Mac-App",
             "description": "A minimal menu bar app to quickly view and kill running processes.",
+            "tags": []
+          },
+          {
+            "name": "CablePeek",
+            "url": "https://cablepeek.pages.dev",
+            "description": "Shows the USB-C link speed at the screen edge next to the port when you plug in, with eject on hover.",
             "tags": []
           },
           {
@@ -55935,6 +55965,12 @@
             "tags": []
           },
           {
+            "name": "VYSHYVKA BAR",
+            "url": "https://sapio-sat.github.io/vyshyvka-bar/",
+            "description": "Open-source Touch Bar replacement with animated Ukrainian embroidery, weather forecast, and system controls.",
+            "tags": []
+          },
+          {
             "name": "Wox",
             "url": "https://wox-launcher.github.io/Wox/",
             "description": "Open-source cross-platform launcher with fast local search and plugin extensibility.",
@@ -55979,6 +56015,12 @@
             "name": "Assignee",
             "url": "https://assignee.app",
             "description": "Simple, instant app switcher.",
+            "tags": []
+          },
+          {
+            "name": "AutoWindow",
+            "url": "https://zein.nl/autowindow/",
+            "description": "Open-source menu bar app that restores window layouts per monitor setup and per Mission Control desktop.",
             "tags": []
           },
           {
