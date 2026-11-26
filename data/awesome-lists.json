@@ -47935,6 +47935,12 @@
             "tags": []
           },
           {
+            "name": "Friday",
+            "url": "https://www.tryfridaywork.com",
+            "description": "Free, open-source app that runs Claude Code, Codex, Cursor and other coding agents as one team, with a shared task board, a git worktree per agent, diff review with line notes, and a hand-off when one hits its usage limit.",
+            "tags": []
+          },
+          {
             "name": "BeagleEditor",
             "url": "https://github.com/beaglesoftware/editor",
             "description": "A \"beagleful\" editor with features like syntax highlighting, plugins and... - A bit ugly, but it works",
@@ -50845,6 +50851,12 @@
             "name": "BoltAI",
             "url": "https://boltai.com",
             "description": "A beautiful & powerful ChatGPT app for Mac. Stay ahead by integrating AI into your workflow today.",
+            "tags": []
+          },
+          {
+            "name": "BotArk",
+            "url": "https://qybaihe.github.io/botark/",
+            "description": "Open-source (MIT) native desktop workspace unifying Grok Bot, Google Antigravity, ChatGPT Dot, Meta Muse, Hark, Cue, and Hermes with multi-agent collaboration rooms, per-account proxy isolation, and approval-gated local MCP.",
             "tags": []
           },
           {
