@@ -23067,6 +23067,12 @@
             "tags": []
           },
           {
+            "name": "failnext",
+            "url": "https://github.com/yermakovsa/failnext",
+            "description": "HTTP transport for client-side failover across priority-ordered endpoints.",
+            "tags": []
+          },
+          {
             "name": "fast-shot",
             "url": "https://github.com/opus-domini/fast-shot",
             "description": "Hit your API targets with rapid-fire precision using Go's fastest and simple HTTP Client.",
@@ -24141,6 +24147,12 @@
             "name": "fort",
             "url": "https://github.com/djadmin/fort",
             "description": "Audits macOS security settings across 16 checks, reports a score, and fixes issues where it safely can. Single binary, installable via Homebrew.",
+            "tags": []
+          },
+          {
+            "name": "gmrtd",
+            "url": "https://github.com/gmrtd/gmrtd",
+            "description": "Library for reading and verifying ePassports and ID cards (ICAO Doc 9303) over NFC, including PACE/BAC access control and passive, active and chip authentication.",
             "tags": []
           },
           {
@@ -50758,6 +50770,12 @@
             "tags": []
           },
           {
+            "name": "AI Hub Bar",
+            "url": "https://olehdemishev.github.io/AIHubBar/",
+            "description": "Open-source menu bar app that shows the usage limits of Claude, Codex, Copilot, Gemini CLI and Cursor, lists every running agent session, and answers their permission requests from a notification.",
+            "tags": []
+          },
+          {
             "name": "Airbag",
             "url": "https://github.com/a1murt/airbag",
             "description": "Open-source menu bar app that snapshots a project before each shell command an AI coding agent runs that can change files, so deleted files and a wiped .env can be restored in one click.",
@@ -50773,6 +50791,12 @@
             "name": "Apple On-Device OpenAI",
             "url": "https://github.com/gety-ai/apple-on-device-openai",
             "description": "Runs Apple on-device models behind an OpenAI-compatible API.",
+            "tags": []
+          },
+          {
+            "name": "AppuBot",
+            "url": "https://appubot.com",
+            "description": "Open-source (Apache 2.0) team of AI bots, each with its own job, that hand tasks to each other and work in your real apps and files, on the Claude, ChatGPT, Cursor, Grok or Copilot plan you already have.",
             "tags": []
           },
           {
@@ -54014,6 +54038,12 @@
             "tags": []
           },
           {
+            "name": "Relaycat",
+            "url": "https://github.com/krutikJain/relaycat",
+            "description": "Runs several Claude desktop accounts, switches between them in one click, brings chats along and shows each account's session and weekly limits.",
+            "tags": []
+          },
+          {
             "name": "Roomie",
             "url": "https://lesheess.github.io/small-living-things/",
             "description": "A pair of cartoon eyes that lives in the menu bar, reacts to what you do, and pops out of the notch to remind you to rest your eyes, take a walk and go to bed.",
@@ -55014,9 +55044,21 @@
             "tags": []
           },
           {
+            "name": "Squeeze7z",
+            "url": "https://github.com/Camponotus-vagus/Squeeze7z",
+            "description": "Open-source tool that repacks folders and archives into smaller 7z files, choosing the method for each file type and verifying every file before keeping the result.",
+            "tags": []
+          },
+          {
             "name": "The Unarchiver",
             "url": "https://theunarchiver.com/",
             "description": "Unarchive many different kinds of archive files.",
+            "tags": []
+          },
+          {
+            "name": "Tidywise",
+            "url": "https://github.com/floorianmb/tidywise",
+            "description": "Local-first menu bar app that sorts loose Mac files into Markdown-indexed topic folders with Ollama, with full undo and a read-only MCP server for AI assistants.",
             "tags": []
           },
           {
@@ -66684,12 +66726,6 @@
             "tags": []
           },
           {
-            "name": "Hister",
-            "url": "https://nogon.eu/",
-            "description": "Personal web search engine with automatic indexing of visited websites. Supports offline local result previews, local files, multi-user handling and optional semantic search. ( Demo , Source Code ) AGPL-3.0 Go/Docker",
-            "tags": []
-          },
-          {
             "name": "Manticore Search",
             "url": "https://github.com/manticoresoftware/manticoresearch/",
             "description": "Full-text search and data analytics, with fast response time for small, medium and big data (alternative to Elasticsearch). GPL-3.0 Docker/deb/C++/K8S",
@@ -66705,6 +66741,12 @@
             "name": "Meme Search",
             "url": "https://github.com/neonwatty/meme-search",
             "description": "AI-powered meme search engine. Automatically extracts descriptions from images using vision-language models, then indexes with vector embeddings for semantic and keyword search. ( Source Code ) Apache-2.0 Docker",
+            "tags": []
+          },
+          {
+            "name": "Nogon",
+            "url": "https://nogon.eu/",
+            "description": "Personal web search engine with automatic indexing of visited websites. Supports offline local result previews, local files, multi-user handling and optional semantic search. ( Demo , Source Code ) AGPL-3.0 Go/Docker",
             "tags": []
           },
           {
