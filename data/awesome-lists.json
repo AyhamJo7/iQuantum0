@@ -138,6 +138,12 @@
             "tags": []
           },
           {
+            "name": "geek-fun/dockit",
+            "url": "https://github.com/geek-fun/dockit",
+            "description": "Cross-platform Tauri desktop client for Elasticsearch, OpenSearch, DynamoDB, MongoDB, and EasySearch with Monaco editors, visual query tools, and an optional agentic AI assistant.",
+            "tags": []
+          },
+          {
             "name": "giga-grabber",
             "url": "https://github.com/chanderlud/giga-grabber",
             "description": "A very fast and relatively stable Mega downloader",
@@ -210,12 +216,6 @@
             "tags": []
           },
           {
-            "name": "kytan",
-            "url": "https://github.com/changlan/kytan",
-            "description": "High Performance Peer-to-Peer VPN",
-            "tags": []
-          },
-          {
             "name": "linkerd/linkerd2-proxy",
             "url": "https://github.com/linkerd/linkerd2-proxy",
             "description": "Ultralight service mesh for Kubernetes.",
@@ -255,12 +255,6 @@
             "name": "mdBook",
             "url": "https://github.com/rust-lang/mdBook",
             "description": "A command line utility to create books from markdown files",
-            "tags": []
-          },
-          {
-            "name": "Mega",
-            "url": "https://github.com/web3infra-foundation/mega",
-            "description": "A monorepo & monolithic codebase management system that supports Git, also is an unofficial open source implementation of Google Piper.",
             "tags": []
           },
           {
@@ -408,12 +402,6 @@
             "tags": []
           },
           {
-            "name": "shuttle",
-            "url": "https://github.com/shuttle-hq/shuttle",
-            "description": "A serverless platform.",
-            "tags": []
-          },
-          {
             "name": "Sniffnet",
             "url": "https://github.com/GyulyVGC/sniffnet",
             "description": "Cross-platform application to monitor your network traffic with ease",
@@ -528,12 +516,6 @@
             "tags": []
           },
           {
-            "name": "WinterJS",
-            "url": "https://github.com/wasmerio/winterjs",
-            "description": "A secure JavaScript runtime built with SpiderMonkey and Axum",
-            "tags": []
-          },
-          {
             "name": "zellij",
             "url": "https://github.com/zellij-org/zellij",
             "description": "A terminal multiplexer (workspace) with batteries included",
@@ -596,6 +578,12 @@
             "name": "mierak/rmpc",
             "url": "https://github.com/mierak/rmpc",
             "description": "[ rmpc ] - A modern and configurable, terminal based MPD Client with album art support",
+            "tags": []
+          },
+          {
+            "name": "miskibin/synkopa",
+            "url": "https://github.com/miskibin/synkopa",
+            "description": "Open-source DAW with an FL Studio-style workflow (patterns, Channel Rack, piano roll, mixer, vocal tuning) and a CLI for scripting, built with Tauri",
             "tags": []
           },
           {
@@ -754,12 +742,6 @@
             "tags": []
           },
           {
-            "name": "equilibriumco/beerus",
-            "url": "https://github.com/equilibriumco/beerus",
-            "description": "Beerus is a trustless StarkNet Light Client, \u26a1blazing fast \u26a1",
-            "tags": []
-          },
-          {
             "name": "ethabi",
             "url": "https://github.com/rust-ethereum/ethabi",
             "description": "Encode and decode smart contract invocations.",
@@ -829,12 +811,6 @@
             "name": "infincia/bip39-rs",
             "url": "https://github.com/infincia/bip39-rs",
             "description": "[ bip39 ] - Implementation of BIP39.",
-            "tags": []
-          },
-          {
-            "name": "interBTC",
-            "url": "https://github.com/interlay/interbtc",
-            "description": "Trustless and fully decentralized Bitcoin bridge to Polkadot and Kusama.",
             "tags": []
           },
           {
@@ -974,12 +950,6 @@
             "url": "https://github.com/howardwu/wagyu",
             "description": "[ wagyu ] - Library for generating cryptocurrency wallets",
             "tags": []
-          },
-          {
-            "name": "zcash",
-            "url": "https://github.com/zcash/zcash",
-            "description": "Zcash is an implementation of the \"Zerocash\" protocol.",
-            "tags": []
           }
         ]
       },
@@ -1056,6 +1026,12 @@
             "name": "Garage",
             "url": "https://github.com/deuxfleurs-org/garage",
             "description": "[ garage ] - S3-compatible distributed object storage service designed for self-hosting at a small-to-medium scale.",
+            "tags": []
+          },
+          {
+            "name": "geek-fun/sqlkit",
+            "url": "https://github.com/geek-fun/sqlkit",
+            "description": "Agentic cross-platform SQL database GUI for 70+ engines (PostgreSQL, MySQL, Oracle, ClickHouse, JDBC, and more), built with Tauri and a Rust connection and agent backend.",
             "tags": []
           },
           {
@@ -1917,12 +1893,6 @@
             "tags": []
           },
           {
-            "name": "KaminariOS/rustracer",
-            "url": "https://github.com/KaminariOS/rustracer",
-            "description": "A PBR glTF 2.0 renderer based on Vulkan ray-tracing.",
-            "tags": []
-          },
-          {
             "name": "Limeth/euclider",
             "url": "https://github.com/Limeth/euclider",
             "description": "A real-time 4D CPU ray tracer",
@@ -2150,12 +2120,6 @@
             "name": "respanai/respan-gateway",
             "url": "https://github.com/respanai/respan-gateway",
             "description": "[ respan-gateway ] - LLM gateway that lets OpenAI, Anthropic and Gemini SDKs call any model by translating between their APIs (chat, tools, media, realtime voice), with routing, fallback, an MCP tool loop and aggregator, and a web UI.",
-            "tags": []
-          },
-          {
-            "name": "TensorZero",
-            "url": "https://github.com/tensorzero/tensorzero",
-            "description": "data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation",
             "tags": []
           },
           {
@@ -3506,12 +3470,6 @@
             "tags": []
           },
           {
-            "name": "mmstick/concurr",
-            "url": "https://github.com/mmstick/concurr",
-            "description": "Alternative to GNU Parallel w/ a client-server architecture",
-            "tags": []
-          },
-          {
             "name": "mmstick/fontfinder",
             "url": "https://github.com/mmstick/fontfinder",
             "description": "GTK3 application for previewing and installing Google's fonts",
@@ -4031,12 +3989,6 @@
             "tags": []
           },
           {
-            "name": "ruplacer",
-            "url": "https://github.com/your-tools/ruplacer",
-            "description": "Find and replace text in source files",
-            "tags": []
-          },
-          {
             "name": "scooter",
             "url": "https://github.com/thomasschafer/scooter",
             "description": "Interactive find and replace in the terminal.",
@@ -4414,12 +4366,6 @@
             "tags": []
           },
           {
-            "name": "Water-Run/treepp",
-            "url": "https://github.com/Water-Run/treepp",
-            "description": "A Rust-based native Windows tree replacement with diff-level input/output compatibility on successful runs, many more features including essential exclusions and .gitignore support, and several-times faster performance.",
-            "tags": []
-          },
-          {
             "name": "wrestic",
             "url": "https://github.com/alvaro17f/wrestic",
             "description": "A wrapper around restic.",
@@ -4654,6 +4600,12 @@
             "name": "Redlib",
             "url": "https://github.com/redlib-org/redlib",
             "description": "An alternative private front-end to Reddit, with its origins in Libreddit",
+            "tags": []
+          },
+          {
+            "name": "SandeepAi369/SearchWala",
+            "url": "https://github.com/SandeepAi369/SearchWala",
+            "description": "[ searchwala ] - Private self-hosted meta-search engine, web scraper, and zero-dependency MCP server across 19 web, news, and scholarly engines with cross-engine consensus ranking, domain controls, and optional BYOK LLM synthesis.",
             "tags": []
           },
           {
@@ -5681,12 +5633,6 @@
             "tags": []
           },
           {
-            "name": "Sean1708/rusty-cheddar",
-            "url": "https://github.com/Sean1708/rusty-cheddar",
-            "description": "generates C header files from Rust source files",
-            "tags": []
-          },
-          {
             "name": "trevyn/librclone",
             "url": "https://github.com/trevyn/librclone",
             "description": "[ librclone ] - Rust bindings for the librclone C library.",
@@ -6260,12 +6206,6 @@
             "tags": []
           },
           {
-            "name": "m-decoster/RsGenetic",
-            "url": "https://github.com/m-decoster/RsGenetic",
-            "description": "Genetic Algorithm library. In maintenance mode.",
-            "tags": []
-          },
-          {
             "name": "Martin1887/oxigen",
             "url": "https://github.com/Martin1887/oxigen",
             "description": "Fast, parallel, extensible and adaptable genetic algorithm library. A example using this library solves the N Queens problem for N = 255 in only few seconds and using less than 1 MB of RAM.",
@@ -6470,12 +6410,6 @@
             "tags": []
           },
           {
-            "name": "tensorflow/rust",
-            "url": "https://github.com/tensorflow/rust",
-            "description": "Bindings for TensorFlow.",
-            "tags": []
-          },
-          {
             "name": "0xplaygrounds/rig",
             "url": "https://github.com/0xplaygrounds/rig",
             "description": "Library for creating agents and modular, scalable LLM-powered applications",
@@ -6627,12 +6561,6 @@
             "name": "async-std",
             "url": "https://async.rs/",
             "description": "[ async-std ] - Async version of the Rust standard library",
-            "tags": []
-          },
-          {
-            "name": "dagrs",
-            "url": "https://github.com/dagrs-dev/dagrs",
-            "description": "A high-performance asynchronous task programming framework, which follows the concept of Flow based Programming.",
             "tags": []
           },
           {
@@ -7375,6 +7303,12 @@
             "name": "hasenbanck/sevenz-rust2",
             "url": "https://github.com/hasenbanck/sevenz-rust2",
             "description": "[ sevenz-rust2 ] - A 7z decompressor/compressor written in pure Rust",
+            "tags": []
+          },
+          {
+            "name": "aperiodic-io/tparquet",
+            "url": "https://github.com/aperiodic-io/tparquet",
+            "description": "[ tparquet ] - Parquet with a pcodec codec for numeric columns: trade and tick files at about half their ZSTD size, lossless and still readable as Parquet",
             "tags": []
           },
           {
@@ -8681,12 +8615,6 @@
             "name": "lettre/lettre",
             "url": "https://github.com/lettre/lettre",
             "description": "an SMTP-library",
-            "tags": []
-          },
-          {
-            "name": "mailtutan/mailtutan",
-            "url": "https://github.com/mailtutan/mailtutan",
-            "description": "An SMTP server for test and development environment.",
             "tags": []
           },
           {
@@ -10039,6 +9967,12 @@
             "name": "smallnest/rpcx-rs",
             "url": "https://github.com/smallnest/rpcx-rs",
             "description": "A RPC library for developing microservices in easy and simple way.",
+            "tags": []
+          },
+          {
+            "name": "eisenzopf/rvoip",
+            "url": "https://github.com/eisenzopf/rvoip",
+            "description": "[ rvoip ] - SIP/VoIP stack with RTP/SRTP, WebRTC and AI voice-agent support",
             "tags": []
           },
           {
@@ -12813,6 +12747,12 @@
             "tags": []
           },
           {
+            "name": "graymatter",
+            "url": "https://github.com/angelnicolasc/graymatter",
+            "description": "Local persistent memory layer and MCP server for AI agents with hybrid search, knowledge graph, and TUI.",
+            "tags": []
+          },
+          {
             "name": "hotplex",
             "url": "https://github.com/hrygo/hotplex",
             "description": "AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox.",
@@ -13084,12 +13024,6 @@
             "name": "authboss",
             "url": "https://github.com/volatiletech/authboss",
             "description": "Modular authentication system for the web. It tries to remove as much boilerplate and \"hard things\" as possible so that each time you start a new web project in Go, you can plug it in, configure it, and start building your app without having to build an authentication system each time.",
-            "tags": []
-          },
-          {
-            "name": "authgate",
-            "url": "https://github.com/go-authgate/authgate",
-            "description": "A lightweight OAuth 2.0 Authorization Server supporting Device Authorization Grant ( RFC 8628 ), Authorization Code Flow with PKCE ( RFC 6749 + RFC 7636 ), and Client Credentials Grant for machine-to-machine authentication.",
             "tags": []
           },
           {
@@ -16866,6 +16800,12 @@
             "tags": []
           },
           {
+            "name": "zedsearch",
+            "url": "https://github.com/vcaesar/zedsearch",
+            "description": "Faster lightweight hybrid search engine with Elasticsearch-compatible ingestion APIs and an embedded web UI.",
+            "tags": []
+          },
+          {
             "name": "zoekt",
             "url": "https://github.com/sourcegraph/zoekt",
             "description": "Fast trigram based code search.",
@@ -17158,6 +17098,12 @@
             "tags": []
           },
           {
+            "name": "ghoti",
+            "url": "https://github.com/dankomiocevic/ghoti",
+            "description": "Centralized server for shared state across distributed instances: rate limiters, leases, atomic counters and broadcast signals.",
+            "tags": []
+          },
+          {
             "name": "gleam",
             "url": "https://github.com/chrislusf/gleam",
             "description": "Fast and scalable distributed map/reduce system written in pure Go and Luajit, combining Go's high concurrency with Luajit's high performance, runs standalone or distributed.",
@@ -17438,6 +17384,12 @@
             "url": "https://github.com/trpc-group/trpc-go",
             "description": "The Go language implementation of tRPC, which is a pluggable, high-performance RPC framework.",
             "tags": []
+          },
+          {
+            "name": "ygo",
+            "url": "https://github.com/Deln0r/ygo",
+            "description": "Pure Go port of the Yjs CRDT, wire-compatible with JavaScript yjs clients.",
+            "tags": []
           }
         ]
       },
@@ -17656,6 +17608,12 @@
             "name": "ecal",
             "url": "https://github.com/krotik/ecal",
             "description": "A simple embeddable scripting language which supports concurrent event processing.",
+            "tags": []
+          },
+          {
+            "name": "evie",
+            "url": "https://github.com/hxkhan/evie",
+            "description": "Embeddable scripting language with classes, fibers and per-engine sandboxing.",
             "tags": []
           },
           {
@@ -21917,6 +21875,12 @@
             "tags": []
           },
           {
+            "name": "fejkdata",
+            "url": "https://github.com/larvit/fejkdata",
+            "description": "CLI and library that render fake test data from JSON templates, with related values that match.",
+            "tags": []
+          },
+          {
             "name": "ffmt",
             "url": "https://github.com/go-ffmt/ffmt",
             "description": "Beautify data display for Humans.",
@@ -24685,6 +24649,12 @@
             "name": "goshs",
             "url": "https://github.com/patrickhener/goshs",
             "description": "SimpleHTTPServer replacement with file upload/download, WebDAV, SFTP, SMB, TLS, authentication, and share links.",
+            "tags": []
+          },
+          {
+            "name": "Hugo Admin",
+            "url": "https://github.com/sun-praise/hugo-admin",
+            "description": "Self-hosted web admin interface for Hugo static sites with a Markdown editor, dev-server control, full-text search, theme management and gRPC-based plugins.",
             "tags": []
           },
           {
@@ -49272,6 +49242,12 @@
             "tags": []
           },
           {
+            "name": "VirtualBuddy",
+            "url": "https://github.com/insidegui/VirtualBuddy",
+            "description": "Run macOS and ARM Linux virtual machines on Apple silicon Macs.",
+            "tags": []
+          },
+          {
             "name": "VMware Fusion",
             "url": "https://www.vmware.com/",
             "description": "Powerful, commercial VM developed by VMware.",
@@ -50200,6 +50176,12 @@
             "name": "macshot",
             "url": "https://github.com/sw33tlie/macshot",
             "description": "Screenshot and annotation tool with screen recording, scrolling capture, and OCR.",
+            "tags": []
+          },
+          {
+            "name": "OhMyShot",
+            "url": "https://www.ohmyshot.org/",
+            "description": "Native menu bar tool for screenshots, scrolling capture, annotation, pinning, screen recording with Studio auto-zoom, and on-device OCR.",
             "tags": []
           },
           {
@@ -52348,6 +52330,12 @@
             "tags": []
           },
           {
+            "name": "Earpiece",
+            "url": "https://github.com/AllanLotta/earpiece",
+            "description": "Menu bar call copilot that transcribes on-device, spots questions aimed at you and shows a suggested answer in the notch while the call is live, using your Claude subscription.",
+            "tags": []
+          },
+          {
             "name": "GarageBand",
             "url": "https://www.apple.com/mac/garageband/",
             "description": "Digital audio workstation for recording and music production.",
@@ -54032,6 +54020,12 @@
             "tags": []
           },
           {
+            "name": "Nook",
+            "url": "https://github.com/siliconile/Nook",
+            "description": "Open-source notch app with Now Playing for any player including browsers, a volume and brightness HUD, a focus timer, Reminders, tasks, Markdown notes and a file shelf.",
+            "tags": []
+          },
+          {
             "name": "Out to Sea",
             "url": "https://sea.cwdx.md",
             "description": "Menu bar break reminders: a live-rendered sea fills the screen when it is time to look into the distance, then guides a minute of slow breathing.",
@@ -54164,6 +54158,12 @@
             "tags": []
           },
           {
+            "name": "FestiveLights",
+            "url": "https://www.blackbox.ms/festive/en/",
+            "description": "Christmas lights under the menu bar and on the Dock, with snow that settles on your windows.",
+            "tags": []
+          },
+          {
             "name": "Fishing Funds",
             "url": "https://ff.1zilc.top",
             "description": "Display real-time trends of Chinese funds in the menubar.",
@@ -54203,6 +54203,12 @@
             "name": "HideNotch",
             "url": "https://hidenotch.app",
             "description": "Paints the menu bar black on notched MacBooks so the notch blends in, with optional rounded screen corners.",
+            "tags": []
+          },
+          {
+            "name": "holzBar",
+            "url": "https://holzcloud.ch/holzbar",
+            "description": "Open-source menu bar manager, a fork of Ice, that hides menu bar icons and adds profiles, widgets, system readouts and a notch hub.",
             "tags": []
           },
           {
