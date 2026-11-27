@@ -53322,6 +53322,12 @@
             "tags": []
           },
           {
+            "name": "IPA-Decrypt",
+            "url": "https://github.com/Re13orn/IPA-Decrypt",
+            "description": "Graphical App Store and TestFlight IPA downloader and FairPlay decryptor for macOS and iOS, with credential management.",
+            "tags": []
+          },
+          {
             "name": "KextViewer",
             "url": "https://objective-see.com/products/kextviewr.html",
             "description": "View all modules on that are loaded in the OS kernel.",
