@@ -3338,6 +3338,12 @@
             "tags": []
           },
           {
+            "name": "huangy7/lokii",
+            "url": "https://github.com/huangy7/lokii",
+            "description": "Sub-millisecond instant file search tool for macOS powered by a Rust memory index engine and Swift AppKit UI",
+            "tags": []
+          },
+          {
             "name": "hyperb1iss/unifly",
             "url": "https://github.com/hyperb1iss/unifly",
             "description": "[ unifly ] - CLI and TUI for managing Ubiquiti UniFi network controllers with dual-API coverage and a 10-screen Ratatui dashboard",
@@ -50302,6 +50308,12 @@
             "name": "Xnip",
             "url": "https://xnipapp.com/",
             "description": "Handy Screenshot App.",
+            "tags": []
+          },
+          {
+            "name": "Shotbox",
+            "url": "https://box.gatheon.com",
+            "description": "Menu bar screenshot tool that reads the text in every capture on-device, titles it automatically and lets you find it later by any word in the image; includes scrolling capture.",
             "tags": []
           }
         ]
@@ -97370,7 +97382,7 @@
           {
             "name": "statsforecast",
             "url": "https://github.com/Nixtla/statsforecast",
-            "description": "Fast statistical forecasting models such as ARIMA, ETS, and Theta, compiled with numba.",
+            "description": "Fast statistical forecasting models such as ARIMA, ETS, and Theta.",
             "tags": []
           },
           {
@@ -98155,7 +98167,7 @@
           {
             "name": "mssql-python",
             "url": "https://github.com/microsoft/mssql-python",
-            "description": "Official Microsoft driver for SQL Server and Azure SQL, built on ODBC for high performance.",
+            "description": "Official Microsoft driver for SQL Server and Azure SQL.",
             "tags": []
           },
           {
@@ -98196,7 +98208,7 @@
           {
             "name": "lancedb",
             "url": "https://github.com/lancedb/lancedb",
-            "description": "A developer-friendly embedded retrieval database for multimodal AI.",
+            "description": "A developer-friendly embedded retrieval library for multimodal AI.",
             "tags": []
           },
           {
@@ -98418,7 +98430,7 @@
           {
             "name": "great-expectations",
             "url": "https://github.com/fivetran/great_expectations",
-            "description": "A data quality framework for validating, documenting, and profiling data with declarative expectations.",
+            "description": "A data quality framework for validating and documenting data with declarative expectations.",
             "tags": []
           },
           {
@@ -98654,7 +98666,7 @@
           {
             "name": "qutip",
             "url": "https://github.com/qutip/qutip",
-            "description": "Quantum Toolbox in Python.",
+            "description": "Simulates the dynamics of closed and open quantum systems.",
             "tags": []
           },
           {
@@ -98746,7 +98758,7 @@
         "resources": [
           {
             "name": "import-linter",
-            "url": "https://github.com/seddonym/import-linter",
+            "url": "https://github.com/import-linter/import-linter",
             "description": "A linter that enforces architectural constraints on imports between Python modules.",
             "tags": []
           },
@@ -98854,7 +98866,7 @@
           },
           {
             "name": "pyrefly",
-            "url": "https://github.com/meta/pyrefly",
+            "url": "https://github.com/pyrefly-org/pyrefly",
             "description": "A fast type checker and language server for Python.",
             "tags": []
           }
@@ -98884,7 +98896,7 @@
           {
             "name": "tox",
             "url": "https://github.com/tox-dev/tox",
-            "description": "Automatically builds and tests distributions in multiple Python versions.",
+            "description": "A generic virtual environment management and test command-line tool.",
             "tags": []
           },
           {
@@ -98926,7 +98938,7 @@
           {
             "name": "schemathesis",
             "url": "https://github.com/schemathesis/schemathesis",
-            "description": "Automatic property-based testing of web APIs from OpenAPI or GraphQL schemas.",
+            "description": "Automatic property-based testing of web APIs from OpenAPI, GraphQL, or gRPC specs.",
             "tags": []
           },
           {
@@ -98997,7 +99009,7 @@
           {
             "name": "debugpy",
             "url": "https://github.com/microsoft/debugpy",
-            "description": "A Debug Adapter Protocol debugger for Python, used by VS Code for remote debugging.",
+            "description": "A Debug Adapter Protocol debugger for Python, used by VS Code's Python Debugger extension.",
             "tags": []
           },
           {
@@ -99086,7 +99098,7 @@
           {
             "name": "scons",
             "url": "https://github.com/SCons/scons",
-            "description": "A software construction tool.",
+            "description": "A cross-platform substitute for Make, with build files written in Python.",
             "tags": []
           },
           {
@@ -100382,7 +100394,7 @@
           {
             "name": "mise",
             "url": "https://github.com/jdx/mise",
-            "description": "A polyglot tool version manager that installs Python versions and reads .python-version files.",
+            "description": "A polyglot tool version manager that installs Python versions and can read .python-version files.",
             "tags": []
           }
         ]
