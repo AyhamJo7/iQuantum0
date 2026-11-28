@@ -2538,6 +2538,12 @@
             "tags": []
           },
           {
+            "name": "koruworks/mono",
+            "url": "https://github.com/koruworks/mono",
+            "description": "Koru, a free, open source workspace for notes, documents and AI. Native desktop app for Windows, macOS and Linux, built on Loro CRDTs and iroh, with free end-to-end encrypted peer-to-peer sync",
+            "tags": []
+          },
+          {
             "name": "kruseio/hygg",
             "url": "https://github.com/kruseio/hygg",
             "description": "[ hygg ] - \ud83d\udcda Simplifying the way you read. Minimalistic Vim-like TUI document reader.",
@@ -20184,6 +20190,12 @@
             "name": "kazaam",
             "url": "https://github.com/Qntfy/kazaam",
             "description": "API for arbitrary transformation of JSON documents.",
+            "tags": []
+          },
+          {
+            "name": "llmjsonrepair",
+            "url": "https://github.com/qdxiao/llmjsonrepair",
+            "description": "Repairs malformed or truncated JSON from large language models.",
             "tags": []
           },
           {
@@ -46894,6 +46906,12 @@
             "tags": []
           },
           {
+            "name": "Umbra",
+            "url": "https://umbraeditor.com/",
+            "description": "Native macOS code editor with a built-in coding agent and integrated debugging.",
+            "tags": []
+          },
+          {
             "name": "Vim",
             "url": "https://www.vim.org/",
             "description": "An old terminal-based editor. For common plugins, check Vim Common Plugins .",
@@ -47453,8 +47471,8 @@
         "name": "Writing",
         "resources": [
           {
-            "name": "AI Novel Writer",
-            "url": "https://github.com/EthanYoQ/AI-Novel-Writer",
+            "name": "Pagekin (AI Novel Writer)",
+            "url": "https://github.com/EthanYoQ/Pagekin",
             "description": "Open-source AI writing workspace for organizing characters, worldbuilding, outlines, chapters, review, and revision in one novel project.",
             "tags": []
           },
@@ -51022,6 +51040,12 @@
             "tags": []
           },
           {
+            "name": "Rakazo",
+            "url": "https://rakazo.com",
+            "description": "Open-source app for running self-hosted AI agents with their own computers, memory, and scheduled tasks.",
+            "tags": []
+          },
+          {
             "name": "RecurseChat",
             "url": "https://recurse.chat",
             "description": "Local-first AI chat app with customizable workflows.",
@@ -53745,6 +53769,12 @@
             "tags": []
           },
           {
+            "name": "CoPanda",
+            "url": "https://www.copanda.app/",
+            "description": "Open-source clipboard manager with a searchable local history, no account and no telemetry.",
+            "tags": []
+          },
+          {
             "name": "Copia",
             "url": "https://geragaraza.com/apps/copia/",
             "description": "Clipboard manager that keeps every copy and pastes several at once or one by one.",
@@ -55163,6 +55193,12 @@
             "tags": []
           },
           {
+            "name": "Earth Now",
+            "url": "https://hensobo.github.io/earth-now/",
+            "description": "Live 3D Earth as your desktop wallpaper, with the real sun position, city lights and satellite clouds.",
+            "tags": []
+          },
+          {
             "name": "Etcher",
             "url": "https://www.balena.io/etcher/",
             "description": "Flash OS images to SD cards & USB drives, safely and easily.",
@@ -55917,6 +55953,12 @@
             "tags": []
           },
           {
+            "name": "Seawall",
+            "url": "https://seawall.work/?utm_source=awesome-mac&utm_medium=listing",
+            "description": "Menu bar app that locks distracting sites and apps until a set time, with a wait if you leave early.",
+            "tags": []
+          },
+          {
             "name": "Selectric",
             "url": "https://selectric.io/",
             "description": "Private search across email, documents, and chat apps.",
@@ -56258,6 +56300,12 @@
             "tags": []
           },
           {
+            "name": "ordino",
+            "url": "https://ordino-app.github.io/ordino/",
+            "description": "Menu bar app that arranges every window on the display with one keystroke, with layouts that adapt to the window count and screen shape.",
+            "tags": []
+          },
+          {
             "name": "Plonk",
             "url": "https://github.com/ostapondo/plonk",
             "description": "Menu bar window manager with snap zones, hotkeys, and saved workspaces that relaunch your apps and put every window back on its monitor; an AI agent can drive it over MCP.",
@@ -56369,6 +56417,18 @@
             "name": "Tungsten Edge",
             "url": "https://tungstenedge.app",
             "description": "Per-window taskbar and Dock replacement: every open window gets its own labeled card, while single-window apps stay compact icons.",
+            "tags": []
+          },
+          {
+            "name": "WindowShade",
+            "url": "https://windowshade.aaronlau.me/en/",
+            "description": "Double-click a title bar and the window rolls up into a thin bar where it was; also pinned previews and Picture in Picture.",
+            "tags": []
+          },
+          {
+            "name": "WinPlug",
+            "url": "https://winplug.app/",
+            "description": "Windows-style taskbar with window previews, Alt-Tab between windows, snipping tool and Ctrl shortcuts in one app for people switching from Windows.",
             "tags": []
           },
           {
@@ -57144,6 +57204,18 @@
             "name": "Classic Game Box",
             "url": "https://github.com/lazyfury/classic-game-box",
             "description": "Open-source retro-console emulator frontend built on libretro cores.",
+            "tags": []
+          },
+          {
+            "name": "Coinsole",
+            "url": "https://github.com/anvibe/coinsole",
+            "description": "Turns your Mac into a game console: add your own web games or Mac apps and play with an Xbox or PlayStation controller.",
+            "tags": []
+          },
+          {
+            "name": "DropExe",
+            "url": "https://hollowbit.dev/dropexe/",
+            "description": "Run Windows games and apps on Apple Silicon through Wine, with one-click Steam and Epic installs, drag-and-drop for any .exe, and a Make it run button that tries graphics settings (DXMT, DXVK, D3DMetal) until a game starts.",
             "tags": []
           },
           {
